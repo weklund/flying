@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" role="img" aria-labelledby="t3 d3">
+  <title id="t3">Moist air is less dense because water vapor is lighter than dry air</title>
+  <desc id="d3">Two equal volumes: dry air with heavy molecules vs moist air with some lighter water vapor molecules and lower total mass.</desc>
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="280" rx="12" fill="url(#bg3)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">WHY HUMIDITY THINS THE AIR</text>
+  <text x="24" y="50" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">Same volume &amp; pressure · water vapor (~18 g/mol) vs dry air (~29 g/mol)</text>
+
+  <!-- Dry box -->
+  <rect x="60" y="80" width="240" height="150" rx="10" fill="#182338" stroke="rgba(255,255,255,0.1)"/>
+  <text x="180" y="105" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Drier air</text>
+  <!-- heavy dots grid -->
+  <g fill="#6b8cae">
+    <circle cx="100" cy="130" r="7"/><circle cx="140" cy="130" r="7"/><circle cx="180" cy="130" r="7"/><circle cx="220" cy="130" r="7"/>
+    <circle cx="100" cy="165" r="7"/><circle cx="140" cy="165" r="7"/><circle cx="180" cy="165" r="7"/><circle cx="220" cy="165" r="7"/>
+    <circle cx="100" cy="200" r="7"/><circle cx="140" cy="200" r="7"/><circle cx="180" cy="200" r="7"/><circle cx="220" cy="200" r="7"/>
+  </g>
+  <text x="180" y="245" text-anchor="middle" fill="#f0c14b" font-family="system-ui,sans-serif" font-size="12">Higher mass · denser</text>
+
+  <!-- Moist box -->
+  <rect x="420" y="80" width="240" height="150" rx="10" fill="#182338" stroke="rgba(126,203,255,0.25)"/>
+  <text x="540" y="105" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Moist air</text>
+  <g fill="#6b8cae">
+    <circle cx="460" cy="130" r="7"/><circle cx="500" cy="130" r="7"/><circle cx="580" cy="130" r="7"/>
+    <circle cx="460" cy="165" r="7"/><circle cx="540" cy="165" r="7"/><circle cx="580" cy="165" r="7"/>
+    <circle cx="500" cy="200" r="7"/><circle cx="540" cy="200" r="7"/><circle cx="580" cy="200" r="7"/>
+  </g>
+  <g fill="#7ecbff">
+    <circle cx="540" cy="130" r="5.5"/><circle cx="500" cy="165" r="5.5"/>
+    <circle cx="460" cy="200" r="5.5"/><circle cx="620" cy="180" r="5.5"/>
+  </g>
+  <!-- one fewer heavy - show legend -->
+  <text x="540" y="245" text-anchor="middle" fill="#7ecbff" font-family="system-ui,sans-serif" font-size="12">Lower mass · less dense → higher DA</text>
+
+  <text x="360" y="160" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="22">→</text>
+
+  <!-- legend -->
+  <circle cx="80" cy="265" r="5" fill="#6b8cae"/>
+  <text x="92" y="269" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">N₂ / O₂ (heavier)</text>
+  <circle cx="220" cy="265" r="4.5" fill="#7ecbff"/>
+  <text x="232" y="269" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">H₂O vapor (lighter) — only a few % of molecules even when “humid”</text>
+</svg>

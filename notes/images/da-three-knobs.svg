@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-labelledby="t2 d2">
+  <title id="t2">Three factors that raise density altitude</title>
+  <desc id="d2">Three panels: high elevation or low pressure, high temperature, high humidity with relative magnitude bars.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="340" rx="12" fill="url(#bg2)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">THREE KNOBS THAT THIN THE AIR</text>
+  <text x="24" y="50" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">All raise density altitude · magnitude is not equal</text>
+
+  <!-- Card 1 Pressure -->
+  <rect x="24" y="70" width="210" height="200" rx="12" fill="#182338" stroke="rgba(255,255,255,0.08)"/>
+  <text x="129" y="98" text-anchor="middle" fill="#5b9dff" font-family="system-ui,sans-serif" font-size="14" font-weight="700">1 · Pressure</text>
+  <text x="129" y="118" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">High elev / low altimeter</text>
+  <!-- column of air sparse -->
+  <rect x="84" y="140" width="90" height="70" rx="6" fill="rgba(91,157,255,0.12)" stroke="rgba(91,157,255,0.4)"/>
+  <circle cx="105" cy="155" r="4" fill="#6b8cae"/>
+  <circle cx="130" cy="165" r="4" fill="#6b8cae"/>
+  <circle cx="150" cy="150" r="4" fill="#6b8cae"/>
+  <circle cx="120" cy="185" r="4" fill="#6b8cae"/>
+  <circle cx="145" cy="190" r="4" fill="#6b8cae"/>
+  <text x="129" y="235" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">Fewer molecules</text>
+  <text x="129" y="252" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">in the column</text>
+
+  <!-- Card 2 Temp -->
+  <rect x="255" y="70" width="210" height="200" rx="12" fill="#182338" stroke="rgba(255,255,255,0.08)"/>
+  <text x="360" y="98" text-anchor="middle" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="14" font-weight="700">2 · Temperature</text>
+  <text x="360" y="118" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Hotter than standard</text>
+  <rect x="315" y="140" width="90" height="70" rx="6" fill="rgba(255,159,107,0.1)" stroke="rgba(255,159,107,0.4)"/>
+  <circle cx="335" cy="155" r="3.5" fill="#ff9f6b"/>
+  <circle cx="360" cy="175" r="3.5" fill="#ff9f6b"/>
+  <circle cx="380" cy="150" r="3.5" fill="#ff9f6b"/>
+  <circle cx="345" cy="195" r="3.5" fill="#ff9f6b"/>
+  <circle cx="375" cy="188" r="3.5" fill="#ff9f6b"/>
+  <circle cx="355" cy="160" r="3.5" fill="#ff9f6b"/>
+  <text x="360" y="235" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">Same pressure,</text>
+  <text x="360" y="252" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">molecules spread out</text>
+
+  <!-- Card 3 Humidity -->
+  <rect x="486" y="70" width="210" height="200" rx="12" fill="#182338" stroke="rgba(255,255,255,0.08)"/>
+  <text x="591" y="98" text-anchor="middle" fill="#7ecbff" font-family="system-ui,sans-serif" font-size="14" font-weight="700">3 · Humidity</text>
+  <text x="591" y="118" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Water vapor in the mix</text>
+  <rect x="546" y="140" width="90" height="70" rx="6" fill="rgba(126,203,255,0.1)" stroke="rgba(126,203,255,0.4)"/>
+  <circle cx="565" cy="160" r="5" fill="#6b8cae"/>
+  <circle cx="590" cy="175" r="5" fill="#6b8cae"/>
+  <circle cx="610" cy="155" r="5" fill="#6b8cae"/>
+  <circle cx="580" cy="195" r="4" fill="#7ecbff"/>
+  <circle cx="605" cy="185" r="4" fill="#7ecbff"/>
+  <text x="591" y="235" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">H₂O lighter than</text>
+  <text x="591" y="252" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">N₂ / O₂ it replaces</text>
+
+  <!-- Magnitude bars -->
+  <text x="24" y="295" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">Typical DA impact scale (order of magnitude):</text>
+  <text x="24" y="318" fill="#5b9dff" font-family="system-ui,sans-serif" font-size="11">Pressure/elev</text>
+  <rect x="110" y="308" width="200" height="10" rx="3" fill="#5b9dff"/>
+  <text x="320" y="318" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="11">Temperature</text>
+  <rect x="400" y="308" width="180" height="10" rx="3" fill="#ff9f6b"/>
+  <text x="590" y="318" fill="#7ecbff" font-family="system-ui,sans-serif" font-size="11">Humidity</text>
+  <rect x="650" y="308" width="45" height="10" rx="3" fill="#7ecbff"/>
+</svg>

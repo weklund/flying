@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 220" role="img" aria-labelledby="t5 d5">
+  <title id="t5">Operational loop from conditions to AFM and margins</title>
+  <desc id="d5">Four-step flow: conditions, compute PA and DA, AFM/POH charts, margins and go/no-go.</desc>
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#5b9dff"/>
+    </marker>
+  </defs>
+  <rect width="720" height="220" rx="12" fill="url(#bg5)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">OPERATIONAL LOOP</text>
+  <text x="24" y="48" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">From weather on the ramp to an honest go / no-go</text>
+
+  <!-- Step boxes -->
+  <rect x="20" y="75" width="145" height="100" rx="10" fill="#182338" stroke="rgba(91,157,255,0.35)"/>
+  <text x="92" y="105" text-anchor="middle" fill="#5b9dff" font-family="system-ui,sans-serif" font-size="12" font-weight="700">1 · Conditions</text>
+  <text x="92" y="130" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Elev · altimeter</text>
+  <text x="92" y="148" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">OAT · dew point</text>
+  <text x="92" y="166" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">weight · wind</text>
+
+  <line x1="170" y1="125" x2="195" y2="125" stroke="#5b9dff" stroke-width="2" marker-end="url(#arr)"/>
+
+  <rect x="200" y="75" width="145" height="100" rx="10" fill="#182338" stroke="rgba(255,159,107,0.4)"/>
+  <text x="272" y="105" text-anchor="middle" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="12" font-weight="700">2 · Compute</text>
+  <text x="272" y="130" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Pressure altitude</text>
+  <text x="272" y="148" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Density altitude</text>
+  <text x="272" y="166" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">(± humidity note)</text>
+
+  <line x1="350" y1="125" x2="375" y2="125" stroke="#5b9dff" stroke-width="2" marker-end="url(#arr)"/>
+
+  <rect x="380" y="75" width="145" height="100" rx="10" fill="#182338" stroke="rgba(61,214,198,0.4)"/>
+  <text x="452" y="105" text-anchor="middle" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="12" font-weight="700">3 · AFM / POH</text>
+  <text x="452" y="130" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Takeoff · climb</text>
+  <text x="452" y="148" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Landing charts</text>
+  <text x="452" y="166" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Your airplane</text>
+
+  <line x1="530" y1="125" x2="555" y2="125" stroke="#5b9dff" stroke-width="2" marker-end="url(#arr)"/>
+
+  <rect x="560" y="75" width="140" height="100" rx="10" fill="#182338" stroke="rgba(240,193,75,0.4)"/>
+  <text x="630" y="105" text-anchor="middle" fill="#f0c14b" font-family="system-ui,sans-serif" font-size="12" font-weight="700">4 · Margins</text>
+  <text x="630" y="130" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Hot/high/humid</text>
+  <text x="630" y="148" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Heavy · soft · short</text>
+  <text x="630" y="166" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Go / no-go</text>
+
+  <text x="360" y="205" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Charts usually omit humidity — still add conservatism when it is hot and moist</text>
+</svg>

@@ -25,6 +25,14 @@
       aerodynamic force from the wing at a given indicated airspeed—so takeoff rolls grow and climb suffers.
     </p>
 
+    <figure class="fig">
+      <img src="images/da-what-it-means.svg" width="720" height="300" alt="Airport at field elevation with density altitude marked higher on a hot day; airplane performs as if at the higher altitude" />
+      <figcaption>
+        <strong>Figure 1.</strong> Density altitude is the altitude in the <em>standard atmosphere</em> with the same air density as today.
+        On a hot/high day you may be sitting at 5,000 ft field elevation but the airplane behaves more like 8,500 ft.
+      </figcaption>
+    </figure>
+
     <h2>Formal definition</h2>
     <p>
       In the Pilot’s Handbook of Aeronautical Knowledge, density altitude is
@@ -38,6 +46,14 @@
     <p><code>(29.92 − altimeter setting) × 1000 + field elevation</code></p>
 
     <h2>What thins the air?</h2>
+    <figure class="fig">
+      <img src="images/da-three-knobs.svg" width="720" height="340" alt="Three panels for pressure, temperature, and humidity with magnitude bars showing humidity is usually smaller" />
+      <figcaption>
+        <strong>Figure 2.</strong> Three atmospheric knobs. Elevation/pressure and temperature often move DA by
+        <em>thousands</em> of feet; humidity usually by <em>hundreds</em>—but still real when margins are tight.
+      </figcaption>
+    </figure>
+
     <table>
       <thead>
         <tr><th>Factor</th><th>Effect</th><th>Typical scale</th></tr>
@@ -65,6 +81,15 @@
     </p>
 
     <h2>Humidity in more detail</h2>
+    <figure class="fig">
+      <img src="images/da-humidity-mass.svg" width="720" height="280" alt="Equal volumes of drier air versus moist air; moist air has some lighter water vapor molecules and lower total mass" />
+      <figcaption>
+        <strong>Figure 3.</strong> Same volume and pressure: replacing some heavy dry-air molecules with lighter H₂O
+        lowers mass → higher density altitude. Even when “very humid,” vapor is only a few percent of the molecules—
+        so the effect is smaller than heat and elevation, but not zero.
+      </figcaption>
+    </figure>
+
     <p>
       PHAK (Ch. 4 and Ch. 11) states that humidity <em>contributes</em> to density altitude and performance,
       but is usually <strong>not</strong> treated as an essential chart input. There is no simple cockpit
@@ -77,6 +102,15 @@
       That is a heuristic, not a substitute for the AFM/POH.
     </p>
 
+    <h2>What high DA does to the airplane</h2>
+    <figure class="fig">
+      <img src="images/da-performance-effects.svg" width="720" height="300" alt="Low density altitude: short takeoff roll and steep climb; high density altitude: long roll and shallow climb with weaker engine prop and lift" />
+      <figcaption>
+        <strong>Figure 4.</strong> As density falls: longer takeoff ground roll, weaker climb, and less capability from
+        engine, propeller, and wing. Landing rolls also grow. Always verify with the AFM/POH for <em>your</em> airplane.
+      </figcaption>
+    </figure>
+
     <h2>Other performance factors (same day, fixed DA)</h2>
     <p>Even with the same density altitude, mission outcome changes with:</p>
     <ul>
@@ -87,6 +121,14 @@
     </ul>
 
     <h2>Operational loop</h2>
+    <figure class="fig">
+      <img src="images/da-operational-loop.svg" width="720" height="220" alt="Four-step flow: conditions, compute PA and DA, AFM POH charts, margins and go or no-go" />
+      <figcaption>
+        <strong>Figure 5.</strong> Practical loop: observe conditions → compute PA/DA → read the AFM/POH →
+        add margins (including humid-day conservatism) and decide.
+      </figcaption>
+    </figure>
+
     <ol>
       <li>Get elevation, altimeter, OAT (and notice dew point on the METAR).</li>
       <li>Find pressure altitude, then density altitude (PA + temperature; optional humidity-aware tool).</li>
@@ -109,9 +151,12 @@
       <li>FAA-P-8740-2 Density Altitude (hot/high/humid safety pamphlet)</li>
       <li>AC 00-6B Aviation Weather (formal DA definition centers on PA + temperature)</li>
     </ul>
+    <p class="muted">
+      Figures on this page are original educational schematics (SVG), not scans of FAA handbook art.
+    </p>
 
     <p class="muted" style="margin-top: 2rem">
-      <a href="./">← All notes</a> · <a href="../">Home</a>
+      <a href="./">← All notes</a> · <a href="bernoulli-differential-pressure.html">Bernoulli</a> · <a href="../">Home</a>
     </p>
   </div>
 </body>

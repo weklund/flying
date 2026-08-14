@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="t4 d4">
+  <title id="t4">High density altitude worsens takeoff and climb</title>
+  <desc id="d4">Side-by-side: dense air short roll and steep climb versus thin air long roll and shallow climb.</desc>
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="300" rx="12" fill="url(#bg4)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">PERFORMANCE WHEN AIR IS THIN</text>
+  <text x="24" y="50" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">Engine, prop, and wing all lose capability as density falls</text>
+
+  <!-- Low DA panel -->
+  <rect x="24" y="70" width="320" height="200" rx="12" fill="#182338" stroke="rgba(62,207,142,0.25)"/>
+  <text x="184" y="95" text-anchor="middle" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Low DA (dense air)</text>
+  <!-- runway -->
+  <rect x="50" y="200" width="260" height="12" rx="2" fill="#555e6e"/>
+  <rect x="50" y="200" width="70" height="12" rx="2" fill="rgba(62,207,142,0.7)"/>
+  <text x="55" y="192" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="11">short roll</text>
+  <!-- climb wedge -->
+  <polygon points="120,200 120,130 200,200" fill="rgba(62,207,142,0.25)" stroke="#3ecf8e" stroke-width="1.5"/>
+  <text x="130" y="160" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="11">steeper climb</text>
+  <!-- meters -->
+  <text x="50" y="230" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="10">Engine · Prop · Lift</text>
+  <rect x="50" y="238" width="90" height="8" rx="2" fill="#3ecf8e"/>
+  <rect x="50" y="250" width="85" height="8" rx="2" fill="#3dd6c6"/>
+  <rect x="50" y="262" width="88" height="8" rx="2" fill="#5b9dff"/>
+
+  <!-- High DA panel -->
+  <rect x="376" y="70" width="320" height="200" rx="12" fill="#182338" stroke="rgba(255,107,122,0.3)"/>
+  <text x="536" y="95" text-anchor="middle" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="14" font-weight="700">High DA (thin air)</text>
+  <rect x="402" y="200" width="260" height="12" rx="2" fill="#555e6e"/>
+  <rect x="402" y="200" width="180" height="12" rx="2" fill="rgba(255,107,122,0.75)"/>
+  <text x="407" y="192" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="11">long roll</text>
+  <polygon points="582,200 582,175 640,200" fill="rgba(255,107,122,0.2)" stroke="#ff6b7a" stroke-width="1.5"/>
+  <text x="500" y="170" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="11">shallow climb</text>
+  <text x="402" y="230" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="10">Engine · Prop · Lift</text>
+  <rect x="402" y="238" width="50" height="8" rx="2" fill="#ff6b7a"/>
+  <rect x="402" y="250" width="48" height="8" rx="2" fill="#ff9f6b"/>
+  <rect x="402" y="262" width="45" height="8" rx="2" fill="#f0c14b"/>
+
+  <text x="360" y="175" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="20">→</text>
+</svg>
