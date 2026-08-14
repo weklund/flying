@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Private Pilot Ground School Quiz</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <div>
+        <p class="eyebrow">MIT 16.687 · FAA PHAK / AFH aligned</p>
+        <h1>Private Pilot Knowledge Quiz</h1>
+      </div>
+      <p class="disclaimer">
+        Practice only — not official FAA test questions.
+        <a href="../">Study home</a> ·
+        <a href="../learn/aircraft-performance/">Performance Lab</a> ·
+        <a href="../notes/">Notes</a> ·
+        <a href="https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak">PHAK (FAA)</a>
+      </p>
+    </header>
+
+    <section class="panel controls" id="setup">
+      <label>
+        Topic filter
+        <select id="topicFilter">
+          <option value="all">All topics</option>
+        </select>
+      </label>
+      <label>
+        Mode
+        <select id="mode">
+          <option value="study">Study (show explain after each)</option>
+          <option value="exam">Exam (score at end)</option>
+        </select>
+      </label>
+      <label>
+        Shuffle
+        <select id="shuffle">
+          <option value="yes">Yes</option>
+          <option value="no">No</option>
+        </select>
+      </label>
+      <button type="button" id="startBtn" class="primary">Start quiz</button>
+    </section>
+
+    <section class="panel hidden" id="quiz">
+      <div class="progress-row">
+        <div class="progress-meta">
+          <span id="progressText">1 / 1</span>
+          <span id="scoreLive" class="muted"></span>
+        </div>
+        <div class="progress-bar"><div id="progressFill"></div></div>
+      </div>
+      <p class="topic-tag" id="topicTag"></p>
+      <h2 id="questionText"></h2>
+      <div id="choices" class="choices"></div>
+      <div id="feedback" class="feedback hidden"></div>
+      <div class="nav-row">
+        <button type="button" id="nextBtn" class="primary" disabled>Next</button>
+        <button type="button" id="quitBtn" class="ghost">Quit</button>
+      </div>
+    </section>
+
+    <section class="panel hidden" id="results">
+      <h2>Results</h2>
+      <p id="resultSummary" class="result-summary"></p>
+      <div id="missedList"></div>
+      <div class="nav-row">
+        <button type="button" id="retryBtn" class="primary">Try again</button>
+        <a class="button-link" href="../STUDY_INDEX.md">Back to study index</a>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p>
+        Sources: MIT OCW 16.687 (CC BY-NC-SA 4.0) · FAA handbooks (public domain U.S. government works).
+        Open this file via a local server if links behave oddly:
+        <code>python3 -m http.server 8080</code> from the repo root, then
+        <code>http://localhost:8080/quiz/</code>
+      </p>
+    </footer>
+  </div>
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

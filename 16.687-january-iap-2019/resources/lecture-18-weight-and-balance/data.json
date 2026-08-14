@@ -1,0 +1,41 @@
+{
+  "content": "<h2 id=\"description\">Description</h2>\n<p>This lecture discussed the topic of weight and balance during aircraft operation.</p>\n<p><strong>Instructor:</strong> Philip Greenspun, Tina Srisvastava</p>\n",
+  "content_type": "resource",
+  "description": "",
+  "draft": false,
+  "end_time": "",
+  "file": null,
+  "file_size": "81093928",
+  "file_type": "",
+  "image_metadata": {
+    "caption": "",
+    "credit": "",
+    "image-alt": ""
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "",
+  "optional_tab_title": "",
+  "optional_text": "",
+  "parent_title": "Class Videos",
+  "parent_type": "CourseSection",
+  "related_resources_text": "",
+  "resource_index_text": "",
+  "resourcetype": "Video",
+  "start_time": "",
+  "title": "Lecture 18: Weight and Balance",
+  "uid": "129e2480-ed6b-cc96-fd52-478abbdeb2cd",
+  "video_files": {
+    "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec18_300k.mp4",
+    "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/cf21a0b959b15237bebda5a9d4ee2743_802a1jvk5Ck.vtt",
+    "video_thumbnail_file": "https://img.youtube.com/vi/802a1jvk5Ck/default.jpg",
+    "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/56efdd3d54614b08ac5102a27462c780_802a1jvk5Ck.pdf"
+  },
+  "video_metadata": {
+    "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, aircraft overloading, center of gravity, cessna p210, chart method, piper warrior, table method",
+    "youtube_id": "802a1jvk5Ck"
+  }
+}

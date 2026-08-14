@@ -1,0 +1,21 @@
+{
+  "content": "",
+  "content_type": "resource",
+  "description": "",
+  "draft": false,
+  "file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/b24215f77158d53e72a9512a763de8f6_MIT16_687IAP19_Lec07.pdf",
+  "file_size": 3151441,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "24cd8438-c1d2-e3d6-7d52-602af43cbf1c",
+  "resourcetype": "Document",
+  "title": "MIT16_687IAP19_Lec07, Navigation",
+  "uid": "b24215f7-7158-d53e-72a9-512a763de8f6"
+}

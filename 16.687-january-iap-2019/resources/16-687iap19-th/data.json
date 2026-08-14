@@ -1,0 +1,21 @@
+{
+  "content": "",
+  "content_type": "resource",
+  "description": "",
+  "draft": false,
+  "file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/cfe7f2bbd1f116744e2a14c3bb66799e_16-687iap19-th.jpg",
+  "file_size": 19454,
+  "file_type": "image/jpeg",
+  "image_metadata": {
+    "caption": "Louis Blériot (1872–1936) became the first to fly across the English Channel with an airplane on July 25, 1909. (Image courtesy of {{% resource_link \"efebc95a-3dcb-4345-a903-b4d16e37cb87\" \"Tom Wigley\" %}} on Flickr. License: CC BY-NC-SA.)",
+    "credit": "",
+    "image-alt": "The image is a painting of a yellow old-time airplane flying across a blue ocean. At the lower left bottom is a portrait of the pilot with a name of Louis Bleriot written around the portrait."
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWImage",
+  "resourcetype": "Image",
+  "title": "16-687iap19-th.jpg",
+  "uid": "cfe7f2bb-d1f1-1674-4e2a-14c3bb66799e"
+}

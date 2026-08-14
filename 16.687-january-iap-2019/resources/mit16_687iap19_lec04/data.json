@@ -1,0 +1,21 @@
+{
+  "content": "",
+  "content_type": "resource",
+  "description": "",
+  "draft": false,
+  "file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/671ca4fb5bb53022ac25b7fa90fa9a32_MIT16_687IAP19_Lec04.pdf",
+  "file_size": 3699053,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "24cd8438-c1d2-e3d6-7d52-602af43cbf1c",
+  "resourcetype": "Document",
+  "title": "MIT16_687IAP19_Lec04, Aircraft Systems",
+  "uid": "671ca4fb-5bb5-3022-ac25-b7fa90fa9a32"
+}

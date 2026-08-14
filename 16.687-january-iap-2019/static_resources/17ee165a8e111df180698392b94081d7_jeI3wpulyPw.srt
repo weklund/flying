@@ -1,0 +1,3357 @@
+1
+00:00:16,040 --> 00:00:20,510
+PROFESSOR 1: About yourselves,
+so raise your hand, I guess,
+
+2
+00:00:20,510 --> 00:00:25,040
+if you're from Wellesley.
+
+3
+00:00:25,040 --> 00:00:26,530
+Nobody at Wellesley
+wants to fly.
+
+4
+00:00:26,530 --> 00:00:27,800
+OK.
+
+5
+00:00:27,800 --> 00:00:29,610
+Harvard?
+
+6
+00:00:29,610 --> 00:00:30,130
+OK.
+
+7
+00:00:30,130 --> 00:00:31,180
+Everybody else can boo.
+
+8
+00:00:34,150 --> 00:00:37,110
+Who has no MIT affiliation?
+
+9
+00:00:37,110 --> 00:00:37,610
+All right.
+
+10
+00:00:37,610 --> 00:00:37,910
+Awesome.
+
+11
+00:00:37,910 --> 00:00:38,493
+Well, welcome.
+
+12
+00:00:42,620 --> 00:00:44,480
+Raise your hand if
+you've never been
+
+13
+00:00:44,480 --> 00:00:47,120
+in a light aircraft, if
+you have no experience
+
+14
+00:00:47,120 --> 00:00:49,930
+in a little airplane.
+
+15
+00:00:49,930 --> 00:00:50,430
+OK.
+
+16
+00:00:50,430 --> 00:00:50,820
+PROFESSOR 2: That's good.
+
+17
+00:00:50,820 --> 00:00:51,695
+That's a good number.
+
+18
+00:00:51,695 --> 00:00:57,250
+For the MIT folks, how
+many of you are undergrads?
+
+19
+00:00:57,250 --> 00:00:57,750
+OK.
+
+20
+00:00:57,750 --> 00:00:58,625
+That's a good number.
+
+21
+00:00:58,625 --> 00:01:01,875
+How many of you are
+graduate students?
+
+22
+00:01:01,875 --> 00:01:06,950
+It's an even larger number, and
+how many of you are neither?
+
+23
+00:01:06,950 --> 00:01:10,860
+You're just like an
+MIT alumni or staff.
+
+24
+00:01:10,860 --> 00:01:11,970
+Just a few, OK, great.
+
+25
+00:01:11,970 --> 00:01:13,438
+Well, welcome, all of you.
+
+26
+00:01:13,438 --> 00:01:15,480
+PROFESSOR 1: And let's
+just go through the goals.
+
+27
+00:01:15,480 --> 00:01:16,647
+Let's see who's in the room.
+
+28
+00:01:16,647 --> 00:01:19,970
+Who wants to eventually
+fly an airplane?
+
+29
+00:01:19,970 --> 00:01:21,330
+Whoa.
+
+30
+00:01:21,330 --> 00:01:23,600
+How about a helicopter?
+
+31
+00:01:23,600 --> 00:01:24,410
+Good.
+
+32
+00:01:24,410 --> 00:01:26,190
+I'm happy to see that.
+
+33
+00:01:26,190 --> 00:01:29,422
+What about drones?
+
+34
+00:01:29,422 --> 00:01:30,380
+PROFESSOR 2: All right.
+
+35
+00:01:30,380 --> 00:01:31,963
+That's a larger
+number than last year.
+
+36
+00:01:31,963 --> 00:01:33,852
+That's great.
+
+37
+00:01:33,852 --> 00:01:34,810
+PROFESSOR 1: All right.
+
+38
+00:01:34,810 --> 00:01:42,600
+So your course objectives are to
+get ready for your official FAA
+
+39
+00:01:42,600 --> 00:01:44,820
+Knowledge Test.
+
+40
+00:01:44,820 --> 00:01:47,880
+This is sometimes called
+the written test as opposed
+
+41
+00:01:47,880 --> 00:01:49,680
+to the practical
+test or the check
+
+42
+00:01:49,680 --> 00:01:53,100
+ride that you do at the end
+of your flight training.
+
+43
+00:01:53,100 --> 00:01:55,500
+It's available in a bunch
+of different versions,
+
+44
+00:01:55,500 --> 00:01:59,220
+including for airplanes
+and helicopters.
+
+45
+00:01:59,220 --> 00:02:02,550
+We're going to concentrate in
+this class on airplane, partly
+
+46
+00:02:02,550 --> 00:02:05,290
+because of the show of hands.
+
+47
+00:02:05,290 --> 00:02:09,710
+You will also be prepared though
+for the FAA's remote pilot
+
+48
+00:02:09,710 --> 00:02:12,770
+test, if you decide to go
+direct entry into the world
+
+49
+00:02:12,770 --> 00:02:14,720
+of commercial drones.
+
+50
+00:02:14,720 --> 00:02:17,930
+We hope that this is
+also going to help you.
+
+51
+00:02:17,930 --> 00:02:19,670
+Any kind of thorough
+study usually
+
+52
+00:02:19,670 --> 00:02:23,840
+helps you make more efficient
+use of your in-aircraft time.
+
+53
+00:02:23,840 --> 00:02:28,460
+And cause we have Tina here,
+with her PhD in aero-astro,
+
+54
+00:02:28,460 --> 00:02:32,930
+you're going to learn something
+about the engineering as well.
+
+55
+00:02:32,930 --> 00:02:37,220
+So what is great about aviation?
+
+56
+00:02:37,220 --> 00:02:40,340
+People were dreaming about
+flying a long time ago going
+
+57
+00:02:40,340 --> 00:02:42,020
+back to the ancient Greeks.
+
+58
+00:02:42,020 --> 00:02:46,580
+Only recently, we've been able
+to do it which is a good thing.
+
+59
+00:02:46,580 --> 00:02:49,190
+One thing I like
+about it is to look
+
+60
+00:02:49,190 --> 00:02:52,820
+at the geology and
+the organization
+
+61
+00:02:52,820 --> 00:02:55,340
+of human settlement
+on the planet.
+
+62
+00:02:55,340 --> 00:02:57,260
+It's a lot of interesting
+structural patterns
+
+63
+00:02:57,260 --> 00:03:02,410
+that one can see from above.
+
+64
+00:03:02,410 --> 00:03:04,930
+Flying, a lot of the greatest
+engineering achievements
+
+65
+00:03:04,930 --> 00:03:10,510
+of the last 100 years or so
+are embodied in the aircraft
+
+66
+00:03:10,510 --> 00:03:15,080
+that you can personally go
+down to the local airport,
+
+67
+00:03:15,080 --> 00:03:18,460
+rent, and fly.
+
+68
+00:03:18,460 --> 00:03:23,230
+Also, everybody at MIT is pretty
+good at doing stuff at a desk
+
+69
+00:03:23,230 --> 00:03:27,580
+and thinking about hard
+problems when sitting at a desk,
+
+70
+00:03:27,580 --> 00:03:34,240
+but there's no emotions to
+manage other than depression.
+
+71
+00:03:34,240 --> 00:03:36,645
+So flying combines everything.
+
+72
+00:03:36,645 --> 00:03:38,020
+You might be a
+little bit afraid.
+
+73
+00:03:38,020 --> 00:03:40,180
+It's not natural to
+be up in the air.
+
+74
+00:03:40,180 --> 00:03:43,960
+So you're working all of your
+human capacities at one time.
+
+75
+00:03:43,960 --> 00:03:46,690
+You're managing your fear,
+you're working your brain
+
+76
+00:03:46,690 --> 00:03:48,700
+to think about
+what's coming next,
+
+77
+00:03:48,700 --> 00:03:53,290
+and you're also
+working your muscles.
+
+78
+00:03:53,290 --> 00:03:57,100
+Finally, you can get
+to the beach quickly,
+
+79
+00:03:57,100 --> 00:04:00,748
+but as I note here, most
+places, unfortunately
+
+80
+00:04:00,748 --> 00:04:03,040
+little airplanes when you
+factor in the weather and all
+
+81
+00:04:03,040 --> 00:04:06,760
+the training that you have
+to do, a lot of times,
+
+82
+00:04:06,760 --> 00:04:09,130
+you could've gotten
+door-to-door faster.
+
+83
+00:04:09,130 --> 00:04:11,110
+PROFESSOR 2: I
+might also just ask
+
+84
+00:04:11,110 --> 00:04:14,170
+a couple of you guys,
+pretty much everyone
+
+85
+00:04:14,170 --> 00:04:16,690
+raised their hand
+about wanting to fly,
+
+86
+00:04:16,690 --> 00:04:19,870
+so maybe we can just
+hear from a couple of you
+
+87
+00:04:19,870 --> 00:04:20,950
+why do you want to fly?
+
+88
+00:04:20,950 --> 00:04:22,810
+What's your interest
+in taking the course?
+
+89
+00:04:29,720 --> 00:04:30,940
+Yes.
+
+90
+00:04:30,940 --> 00:04:33,400
+AUDIENCE: I'm also a PhD
+student in aero-astro,
+
+91
+00:04:33,400 --> 00:04:38,630
+so like you learn all the theory
+for now, like, 5 years already,
+
+92
+00:04:38,630 --> 00:04:44,053
+and I think it's a normal step
+to like want to do it yourself.
+
+93
+00:04:44,053 --> 00:04:46,220
+PROFESSOR 2: That's great
+so just for the folks that
+
+94
+00:04:46,220 --> 00:04:47,780
+couldn't hear--
+
+95
+00:04:47,780 --> 00:04:49,930
+and what's your name?
+
+96
+00:04:49,930 --> 00:04:50,430
+Lawrence.
+
+97
+00:04:50,430 --> 00:04:53,450
+Lawrence was saying, he's
+a PhD student in aerospace
+
+98
+00:04:53,450 --> 00:04:56,010
+engineering and has
+learned all the theory,
+
+99
+00:04:56,010 --> 00:04:58,858
+and so it's a natural step to
+want too go and do it yourself.
+
+100
+00:04:58,858 --> 00:04:59,400
+That's great.
+
+101
+00:05:04,232 --> 00:05:05,190
+PROFESSOR 1: All right.
+
+102
+00:05:05,190 --> 00:05:07,020
+Can you do it?
+
+103
+00:05:07,020 --> 00:05:11,220
+Yes, as in fact appears
+on the slide here,
+
+104
+00:05:11,220 --> 00:05:13,920
+there are a whole bunch of
+little airports near us,
+
+105
+00:05:13,920 --> 00:05:17,040
+and we'll show them
+on a subsequent slide.
+
+106
+00:05:17,040 --> 00:05:19,380
+They all have flight
+schools, and you
+
+107
+00:05:19,380 --> 00:05:23,310
+can rent either airplanes
+or helicopters or both,
+
+108
+00:05:23,310 --> 00:05:26,490
+as well as find an
+instructor to teach you.
+
+109
+00:05:26,490 --> 00:05:30,570
+You can actually learned
+to fly in about 10 hours.
+
+110
+00:05:30,570 --> 00:05:32,310
+To me, it's a little
+bit unfortunate
+
+111
+00:05:32,310 --> 00:05:36,020
+that so much emphasis is
+placed on getting a pilot's
+
+112
+00:05:36,020 --> 00:05:39,360
+certificate, because it is
+an independent achievement
+
+113
+00:05:39,360 --> 00:05:43,020
+to actually be able to take
+off, cruise around, and land
+
+114
+00:05:43,020 --> 00:05:47,220
+without the instructor
+having to touch anything.
+
+115
+00:05:47,220 --> 00:05:48,750
+So that achievement,
+unfortunately,
+
+116
+00:05:48,750 --> 00:05:51,000
+isn't recognized with
+a little certificate,
+
+117
+00:05:51,000 --> 00:05:52,890
+but that's actually
+learning to fly.
+
+118
+00:05:52,890 --> 00:05:58,170
+The rest of the training,
+which takes three times as long
+
+119
+00:05:58,170 --> 00:06:00,720
+as actually learning
+to fly, is directed
+
+120
+00:06:00,720 --> 00:06:04,050
+at flying a broken aircraft
+or a lost aircraft,
+
+121
+00:06:04,050 --> 00:06:06,750
+all this stuff that
+prepares you to be
+
+122
+00:06:06,750 --> 00:06:10,770
+the only pilot in the aircraft,
+which may not even be a goal.
+
+123
+00:06:10,770 --> 00:06:12,210
+For passengers,
+they would rather
+
+124
+00:06:12,210 --> 00:06:15,300
+have two pilots in the
+front not just one pilot,
+
+125
+00:06:15,300 --> 00:06:18,840
+but there's a bizarre focus
+on training one person
+
+126
+00:06:18,840 --> 00:06:21,640
+to do everything, which we'll
+get into a little bit more.
+
+127
+00:06:21,640 --> 00:06:22,140
+OK.
+
+128
+00:06:22,140 --> 00:06:28,080
+So here's our local area, and
+watch this fancy device here.
+
+129
+00:06:28,080 --> 00:06:29,970
+Whoa.
+
+130
+00:06:29,970 --> 00:06:32,400
+So we're somewhere
+between Logan Airport
+
+131
+00:06:32,400 --> 00:06:36,960
+on the bottom right
+and Hanscom Field
+
+132
+00:06:36,960 --> 00:06:39,270
+which is surrounded
+by dashed blue line,
+
+133
+00:06:39,270 --> 00:06:41,160
+telling you it's
+a towered airport.
+
+134
+00:06:41,160 --> 00:06:44,070
+So those are the two
+closest airports, I think.
+
+135
+00:06:44,070 --> 00:06:46,380
+Norwood is just about as close.
+
+136
+00:06:46,380 --> 00:06:50,700
+I'll show that right here on
+the lower left of the figure.
+
+137
+00:06:50,700 --> 00:06:56,640
+These airports that are
+in a magenta color, those
+
+138
+00:06:56,640 --> 00:06:59,070
+don't have control towers.
+
+139
+00:06:59,070 --> 00:07:03,150
+Over here is Beverly,
+and here's Lawrence.
+
+140
+00:07:03,150 --> 00:07:06,480
+I think we've covered the
+airports that MIT folks most
+
+141
+00:07:06,480 --> 00:07:10,930
+normally fly out of, but there's
+also Nashua not too far away.
+
+142
+00:07:10,930 --> 00:07:13,200
+So you're surrounded
+by airports,
+
+143
+00:07:13,200 --> 00:07:16,290
+even if Logan is the one that
+you're most familiar with.
+
+144
+00:07:16,290 --> 00:07:19,200
+Hanscom Field is the most
+substantial of the airports.
+
+145
+00:07:19,200 --> 00:07:21,600
+This is only about a
+third of the ramp space
+
+146
+00:07:21,600 --> 00:07:24,610
+and hangars and structures
+built up around Hanscom.
+
+147
+00:07:24,610 --> 00:07:28,740
+That's a picture that I
+took from a Robinson R44
+
+148
+00:07:28,740 --> 00:07:31,980
+helicopter, which you guys
+could be flying in next week.
+
+149
+00:07:34,880 --> 00:07:37,160
+And Tina's going to
+tell you what she
+
+150
+00:07:37,160 --> 00:07:39,825
+likes to do on a typical trip.
+
+151
+00:07:39,825 --> 00:07:41,700
+PROFESSOR 2: So we heard
+from a couple of you
+
+152
+00:07:41,700 --> 00:07:45,780
+that are observers or
+participants in the MIT flying
+
+153
+00:07:45,780 --> 00:07:46,440
+club.
+
+154
+00:07:46,440 --> 00:07:49,080
+Did anyone participate
+in the fly-out
+
+155
+00:07:49,080 --> 00:07:53,440
+a couple of years ago
+to Maine, to Bar Harbor?
+
+156
+00:07:53,440 --> 00:07:54,740
+All right.
+
+157
+00:07:54,740 --> 00:07:59,180
+So this is a picture from
+that flight to Bar Harbor.
+
+158
+00:07:59,180 --> 00:08:00,450
+Just grab the clicker for me.
+
+159
+00:08:00,450 --> 00:08:00,950
+Thanks.
+
+160
+00:08:03,540 --> 00:08:06,870
+So if you were to
+drive, we took off just,
+
+161
+00:08:06,870 --> 00:08:10,410
+as Phillip was describing,
+one of the nearby airports
+
+162
+00:08:10,410 --> 00:08:12,090
+is at Hanscom.
+
+163
+00:08:12,090 --> 00:08:14,850
+So we took off from Hanscom.
+
+164
+00:08:14,850 --> 00:08:18,810
+If you were to drive, it would
+be a 4 1/2 hour drive to get
+
+165
+00:08:18,810 --> 00:08:20,093
+there and back.
+
+166
+00:08:20,093 --> 00:08:21,510
+So it wouldn't
+really be something
+
+167
+00:08:21,510 --> 00:08:24,210
+that you could easily
+do as a day trip,
+
+168
+00:08:24,210 --> 00:08:26,780
+but since we were flying,
+it was a great day trip.
+
+169
+00:08:26,780 --> 00:08:30,720
+So we flew up along the coast
+all the way to Bar Harbor,
+
+170
+00:08:30,720 --> 00:08:32,370
+and what was really
+great about that
+
+171
+00:08:32,370 --> 00:08:33,750
+is that we could go hiking.
+
+172
+00:08:33,750 --> 00:08:37,530
+So all these folks flew
+in little airplanes
+
+173
+00:08:37,530 --> 00:08:41,010
+from the Boston area
+through the MIT flying club,
+
+174
+00:08:41,010 --> 00:08:43,230
+and we all flew up to
+the Bar Harbor, Maine.
+
+175
+00:08:43,230 --> 00:08:46,485
+And then we went hiking in
+the Acadia woods and forests,
+
+176
+00:08:46,485 --> 00:08:49,110
+and it was really
+beautiful, wonderful day,
+
+177
+00:08:49,110 --> 00:08:53,560
+and then we flew back and landed
+just after sunset back here.
+
+178
+00:08:53,560 --> 00:08:56,880
+So it was a really beautiful
+experience and a lot of fun
+
+179
+00:08:56,880 --> 00:08:59,260
+to fly along the coastline.
+
+180
+00:08:59,260 --> 00:09:00,470
+So I highly recommend it.
+
+181
+00:09:04,560 --> 00:09:06,540
+If you're looking
+for a longer trip.
+
+182
+00:09:06,540 --> 00:09:08,070
+PROFESSOR 1: So I designed this.
+
+183
+00:09:08,070 --> 00:09:09,570
+You can check it
+out on my web blog.
+
+184
+00:09:09,570 --> 00:09:13,800
+It is a trip in a
+little Cirrus that'll
+
+185
+00:09:13,800 --> 00:09:18,390
+take you to all 48
+states in just 18 days
+
+186
+00:09:18,390 --> 00:09:20,700
+and only about 50
+hours of flight time,
+
+187
+00:09:20,700 --> 00:09:23,070
+and that's a pretty
+standard little airplane.
+
+188
+00:09:23,070 --> 00:09:26,610
+But more importantly,
+so people who--
+
+189
+00:09:26,610 --> 00:09:28,950
+I just came back from
+Bentonville, Arkansas,
+
+190
+00:09:28,950 --> 00:09:31,890
+and there's a guy there
+who's the grandson of Sam
+
+191
+00:09:31,890 --> 00:09:33,750
+Walton, the founder of Walmart.
+
+192
+00:09:33,750 --> 00:09:37,200
+So he can pretty much
+do anything he wants,
+
+193
+00:09:37,200 --> 00:09:38,400
+and what does he like to do?
+
+194
+00:09:38,400 --> 00:09:40,860
+He has a couple P51 Mustangs.
+
+195
+00:09:40,860 --> 00:09:42,660
+He was flying alongside
+this little game
+
+196
+00:09:42,660 --> 00:09:45,750
+Verde aerobatic plane
+that we were testing out.
+
+197
+00:09:45,750 --> 00:09:49,330
+He's got a super Corsair.
+
+198
+00:09:49,330 --> 00:09:52,350
+There were only 10 built. He
+started as a little flight
+
+199
+00:09:52,350 --> 00:09:54,030
+school at the local airport.
+
+200
+00:09:54,030 --> 00:09:57,270
+He flies his little
+Phemon 300 business
+
+201
+00:09:57,270 --> 00:09:58,840
+jet all over the world.
+
+202
+00:09:58,840 --> 00:10:03,220
+So I think that's a
+proof that flying is fun,
+
+203
+00:10:03,220 --> 00:10:04,830
+because people who
+could do anything
+
+204
+00:10:04,830 --> 00:10:06,990
+that they want to do also fly.
+
+205
+00:10:06,990 --> 00:10:08,490
+You're going to
+meet people from all
+
+206
+00:10:08,490 --> 00:10:11,010
+around the world of
+all different ages.
+
+207
+00:10:11,010 --> 00:10:15,060
+It's a very diverse group,
+especially if you like older
+
+208
+00:10:15,060 --> 00:10:19,760
+guys, [LAUGHTER] which I do.
+
+209
+00:10:24,260 --> 00:10:25,260
+Is it safe?
+
+210
+00:10:25,260 --> 00:10:25,760
+OK.
+
+211
+00:10:25,760 --> 00:10:28,160
+So we're going to show
+you how to make it safe.
+
+212
+00:10:28,160 --> 00:10:32,750
+It's not safe statistically,
+compared to JetBlue,
+
+213
+00:10:32,750 --> 00:10:36,020
+but that's not because
+little airplanes or feeble.
+
+214
+00:10:36,020 --> 00:10:39,260
+As you'll see in this class, I
+think it's because of the way
+
+215
+00:10:39,260 --> 00:10:41,660
+that people have
+been flying them.
+
+216
+00:10:41,660 --> 00:10:45,170
+So we're going to show you how,
+if you train like the airlines
+
+217
+00:10:45,170 --> 00:10:49,460
+and fly like the airlines, you
+can get much closer to airline
+
+218
+00:10:49,460 --> 00:10:51,800
+level of safety in
+little airplanes,
+
+219
+00:10:51,800 --> 00:10:54,860
+as long as you're a little bit
+conservative with the weather.
+
+220
+00:10:54,860 --> 00:10:58,610
+And if all else fails, if
+you're flying a modern design
+
+221
+00:10:58,610 --> 00:11:01,160
+airplane, reach up and
+pull the parachute.
+
+222
+00:11:01,160 --> 00:11:03,200
+And the whole airplane
+will float down,
+
+223
+00:11:03,200 --> 00:11:06,960
+and you'll get out into a swamp.
+
+224
+00:11:06,960 --> 00:11:07,460
+All right.
+
+225
+00:11:07,460 --> 00:11:08,800
+I'm taking mine back.
+
+226
+00:11:13,090 --> 00:11:18,330
+I thought that she was
+on air, but she's not.
+
+227
+00:11:18,330 --> 00:11:18,910
+OK.
+
+228
+00:11:18,910 --> 00:11:20,190
+So this is me.
+
+229
+00:11:20,190 --> 00:11:21,900
+I was class of 82 at MIT.
+
+230
+00:11:21,900 --> 00:11:24,970
+It was much more challenging
+then than it is for you guys.
+
+231
+00:11:24,970 --> 00:11:27,840
+That's because the Wisconsin ice
+sheet was covering the campus
+
+232
+00:11:27,840 --> 00:11:29,880
+to a depth of about 100 feet.
+
+233
+00:11:29,880 --> 00:11:32,460
+So we had to tunnel our
+way from East Campus
+
+234
+00:11:32,460 --> 00:11:34,410
+into the main buildings.
+
+235
+00:11:34,410 --> 00:11:36,570
+I've been flying since 2002.
+
+236
+00:11:36,570 --> 00:11:42,270
+I'm an instructor at East Coast
+Aero Club at Hanscom Field.
+
+237
+00:11:42,270 --> 00:11:44,460
+I was also a regional jet pilot.
+
+238
+00:11:44,460 --> 00:11:46,860
+I decided to learn to fly
+jets, and there's no better way
+
+239
+00:11:46,860 --> 00:11:49,170
+to do that than at the airlines.
+
+240
+00:11:49,170 --> 00:11:53,670
+So I flew a 50-seat regional
+jet called the CRJ, Canadair
+
+241
+00:11:53,670 --> 00:11:55,180
+Regional Jet, for Delta.
+
+242
+00:11:55,180 --> 00:11:57,180
+I have type ratings, which
+we'll get into later.
+
+243
+00:11:57,180 --> 00:12:00,840
+You need specific licensing for
+each turbo jet powered aircraft
+
+244
+00:12:00,840 --> 00:12:02,220
+that you fly.
+
+245
+00:12:02,220 --> 00:12:04,410
+So I've got two of those.
+
+246
+00:12:04,410 --> 00:12:08,190
+One of them is for the
+smallest Cessna business jet.
+
+247
+00:12:08,190 --> 00:12:12,542
+I usually fly though, these
+days, a four-seat Cirrus,
+
+248
+00:12:12,542 --> 00:12:15,600
+a Robinson R44, a
+four-seat helicopter,
+
+249
+00:12:15,600 --> 00:12:22,260
+and a Pilatus PC-12 which holds
+either 11 people total or 60
+
+250
+00:12:22,260 --> 00:12:25,440
+sea turtles, which we'll
+get into a little bit later.
+
+251
+00:12:28,880 --> 00:12:31,550
+PROFESSOR 2: So this is
+a little bit about me.
+
+252
+00:12:31,550 --> 00:12:34,820
+In the top left
+corner, you'll see me.
+
+253
+00:12:34,820 --> 00:12:39,440
+I'm actually sitting in a
+Cessna 172, here at Hanscom,
+
+254
+00:12:39,440 --> 00:12:41,390
+and I'm doing my engine run-up.
+
+255
+00:12:41,390 --> 00:12:44,330
+And what do you
+see out the window?
+
+256
+00:12:44,330 --> 00:12:47,710
+Does anyone recognize it?
+
+257
+00:12:47,710 --> 00:12:48,630
+AUDIENCE: An F-18.
+
+258
+00:12:48,630 --> 00:12:51,210
+PROFESSOR 2: An F-18,
+so what's really cool
+
+259
+00:12:51,210 --> 00:12:54,150
+is that this airport
+that I fly out of,
+
+260
+00:12:54,150 --> 00:12:58,320
+Hanscom, is also a
+military Air Force Base.
+
+261
+00:12:58,320 --> 00:13:01,150
+Which is really exciting,
+because upon occasion,
+
+262
+00:13:01,150 --> 00:13:03,900
+you'll actually see
+military jets come out.
+
+263
+00:13:03,900 --> 00:13:05,890
+And they, of course,
+did not wait for me,
+
+264
+00:13:05,890 --> 00:13:08,640
+even though I was first in line.
+
+265
+00:13:08,640 --> 00:13:10,480
+They nicely cut in front.
+
+266
+00:13:10,480 --> 00:13:14,460
+They called themselves jet 1
+and jet 2, and they went out.
+
+267
+00:13:14,460 --> 00:13:16,380
+And it really looked
+like they didn't
+
+268
+00:13:16,380 --> 00:13:20,880
+take any space at all, any of
+the runway length to take off.
+
+269
+00:13:20,880 --> 00:13:24,300
+It really looked, from where I
+was sitting, right next to it,
+
+270
+00:13:24,300 --> 00:13:27,150
+like they just turned like
+a rocket ship and took off,
+
+271
+00:13:27,150 --> 00:13:30,820
+and it was really amazing.
+
+272
+00:13:30,820 --> 00:13:32,020
+PROFESSOR 1: Sorry, Tina.
+
+273
+00:13:32,020 --> 00:13:33,020
+PROFESSOR 2: No problem.
+
+274
+00:13:33,020 --> 00:13:36,340
+So this is just a
+picture of me just
+
+275
+00:13:36,340 --> 00:13:39,820
+going on a flight with some
+other MIT folks in the area,
+
+276
+00:13:39,820 --> 00:13:45,090
+and then, of course, if all else
+fails, you can just jump out.
+
+277
+00:13:45,090 --> 00:13:46,600
+So a little bit of background.
+
+278
+00:13:46,600 --> 00:13:50,710
+So I'm also aero-astro,
+just like you, Lawrence,
+
+279
+00:13:50,710 --> 00:13:53,560
+and so I studied Course 16 here.
+
+280
+00:13:53,560 --> 00:13:57,430
+I did my undergrad in 2009,
+and I was really passionate
+
+281
+00:13:57,430 --> 00:13:59,950
+about it and continued on.
+
+282
+00:13:59,950 --> 00:14:02,410
+And I did the MIT System
+Design and Management
+
+283
+00:14:02,410 --> 00:14:06,100
+Program for my master's
+degree and then continued on
+
+284
+00:14:06,100 --> 00:14:10,780
+in an interdepartmental PhD
+across Aero-Astro Engineering
+
+285
+00:14:10,780 --> 00:14:12,340
+Systems and Sloan.
+
+286
+00:14:12,340 --> 00:14:14,380
+It was a really
+great experience.
+
+287
+00:14:14,380 --> 00:14:16,600
+One of the things that got
+me really excited about it
+
+288
+00:14:16,600 --> 00:14:19,960
+is that, when I was an undergrad
+in the Course 16 department,
+
+289
+00:14:19,960 --> 00:14:21,550
+we were developing
+a satellite, and we
+
+290
+00:14:21,550 --> 00:14:22,840
+needed to test that satellite.
+
+291
+00:14:22,840 --> 00:14:25,485
+So we actually got to go
+on a zero gravity flight.
+
+292
+00:14:25,485 --> 00:14:27,610
+So I don't know, has anyone
+heard of a zero gravity
+
+293
+00:14:27,610 --> 00:14:29,690
+flight or the Vomit Comet?
+
+294
+00:14:29,690 --> 00:14:30,190
+All right.
+
+295
+00:14:30,190 --> 00:14:32,210
+So a couple of folks
+didn't raise their hands.
+
+296
+00:14:32,210 --> 00:14:36,970
+So the idea is that
+the plane flies
+
+297
+00:14:36,970 --> 00:14:39,580
+in a parabolic trajectory.
+
+298
+00:14:39,580 --> 00:14:42,910
+And much like a
+roller coaster, when
+
+299
+00:14:42,910 --> 00:14:44,980
+you're at the top
+of the parabola,
+
+300
+00:14:44,980 --> 00:14:46,360
+or the top of the
+roller coaster,
+
+301
+00:14:46,360 --> 00:14:49,103
+you know how your stomach
+feels like it's lifting?
+
+302
+00:14:49,103 --> 00:14:50,770
+All right, we're
+getting some head nods.
+
+303
+00:14:50,770 --> 00:14:54,200
+The rest of you guys really
+need to go on a roller coaster.
+
+304
+00:14:54,200 --> 00:14:56,200
+So when you get that,
+you can actually,
+
+305
+00:14:56,200 --> 00:14:57,700
+when an airplane
+flies like that,
+
+306
+00:14:57,700 --> 00:15:00,910
+you can have everyone
+inside the airplane float up
+
+307
+00:15:00,910 --> 00:15:04,510
+and have that sensation of
+zero gravity, or microgravity.
+
+308
+00:15:04,510 --> 00:15:06,910
+It lasts about 30
+seconds, and that's also
+
+309
+00:15:06,910 --> 00:15:09,910
+how they filmed certain
+movies, like Apollo 13,
+
+310
+00:15:09,910 --> 00:15:11,870
+to show the astronauts
+in weightlessness.
+
+311
+00:15:11,870 --> 00:15:13,810
+So we use that to
+test our satellite.
+
+312
+00:15:13,810 --> 00:15:15,310
+So it was a really
+great experience.
+
+313
+00:15:15,310 --> 00:15:16,893
+It got me really
+excited about things,
+
+314
+00:15:16,893 --> 00:15:18,580
+and then I felt
+very similar to you,
+
+315
+00:15:18,580 --> 00:15:21,290
+that I wanted to see
+the theory in action,
+
+316
+00:15:21,290 --> 00:15:24,670
+and so I became a pilot.
+
+317
+00:15:24,670 --> 00:15:26,680
+In terms of my
+professional career,
+
+318
+00:15:26,680 --> 00:15:28,830
+I developed electronic
+warfare systems.
+
+319
+00:15:28,830 --> 00:15:30,320
+I went on to Raytheon.
+
+320
+00:15:30,320 --> 00:15:32,470
+I was the chief engineer
+of a $40 million
+
+321
+00:15:32,470 --> 00:15:36,370
+advanced radar and
+electronic warfare system.
+
+322
+00:15:36,370 --> 00:15:39,190
+Now, I'm into entrepreneurship
+and have my own company
+
+323
+00:15:39,190 --> 00:15:40,870
+in the security space.
+
+324
+00:15:40,870 --> 00:15:42,790
+And I've been a
+pilot since 2012,
+
+325
+00:15:42,790 --> 00:15:45,370
+and I love flying with
+the MIT Flying Club.
+
+326
+00:15:45,370 --> 00:15:48,640
+And I'm currently
+working on my IFR.
+
+327
+00:15:48,640 --> 00:15:50,930
+Who knows what an
+IFR stands for?
+
+328
+00:15:50,930 --> 00:15:52,202
+Shout it out.
+
+329
+00:15:52,202 --> 00:15:53,273
+[INTERPOSING VOICES]
+
+330
+00:15:53,273 --> 00:15:54,190
+PROFESSOR 2: Good job.
+
+331
+00:15:54,190 --> 00:15:55,328
+Instrument flight ratings.
+
+332
+00:15:55,328 --> 00:15:56,620
+If you don't know, that's fine.
+
+333
+00:15:56,620 --> 00:15:58,160
+We're going to cover that.
+
+334
+00:15:58,160 --> 00:16:00,940
+So we'll explain it
+all, but right now, I
+
+335
+00:16:00,940 --> 00:16:04,180
+fly a, pretty much usually, the
+training aircraft, the Cessna
+
+336
+00:16:04,180 --> 00:16:05,000
+172.
+
+337
+00:16:05,000 --> 00:16:07,450
+It's a very, very safe
+and stable aircraft.
+
+338
+00:16:07,450 --> 00:16:10,152
+So we'll talk about a bunch
+of different aircraft.
+
+339
+00:16:10,152 --> 00:16:11,110
+PROFESSOR 1: All right.
+
+340
+00:16:11,110 --> 00:16:15,310
+So let's hope that you've
+done the pre-reading.
+
+341
+00:16:15,310 --> 00:16:19,750
+If you hadn't, I know everybody
+here in this room, at least
+
+342
+00:16:19,750 --> 00:16:22,630
+the MIT and Harvard folks,
+are good at the book stuff.
+
+343
+00:16:22,630 --> 00:16:25,090
+So please do hit the books.
+
+344
+00:16:25,090 --> 00:16:28,480
+Some of the thornier and
+less interesting topics
+
+345
+00:16:28,480 --> 00:16:31,900
+we're going to rely on you
+to read through the book.
+
+346
+00:16:31,900 --> 00:16:34,310
+So don't worry if you get
+everything in the class.
+
+347
+00:16:34,310 --> 00:16:37,240
+We're giving you the highlights
+that are in the books,
+
+348
+00:16:37,240 --> 00:16:39,820
+and passing is 70 on the test.
+
+349
+00:16:39,820 --> 00:16:40,760
+All right.
+
+350
+00:16:40,760 --> 00:16:44,500
+Optional supplies, just
+for your reference,
+
+351
+00:16:44,500 --> 00:16:48,430
+if you study a typical
+flight student, a lot of them
+
+352
+00:16:48,430 --> 00:16:51,370
+will have a non-FAA textbook.
+
+353
+00:16:51,370 --> 00:16:52,840
+It's not necessary,
+but some people
+
+354
+00:16:52,840 --> 00:16:54,348
+like the different perspective.
+
+355
+00:16:54,348 --> 00:16:56,140
+There's a free online
+one that we reference
+
+356
+00:16:56,140 --> 00:16:59,020
+later that is written
+by a PhD physicist which
+
+357
+00:16:59,020 --> 00:17:01,995
+is kind of interesting.
+
+358
+00:17:01,995 --> 00:17:03,370
+A lot of people
+have in hard copy
+
+359
+00:17:03,370 --> 00:17:06,130
+a big, thick book called
+FAR/AIM with the regulations
+
+360
+00:17:06,130 --> 00:17:12,460
+and the FAA's overall guidance
+on how to use airports
+
+361
+00:17:12,460 --> 00:17:15,369
+and electronic navigation.
+
+362
+00:17:15,369 --> 00:17:19,329
+There are test preparation
+books that you can get
+
+363
+00:17:19,329 --> 00:17:20,890
+and electronic
+versions of this that
+
+364
+00:17:20,890 --> 00:17:22,030
+just give you sample tests.
+
+365
+00:17:22,030 --> 00:17:27,520
+You're going to use one of the
+websites from the King Schools.
+
+366
+00:17:27,520 --> 00:17:29,980
+It's a popular vendor for those.
+
+367
+00:17:29,980 --> 00:17:31,870
+And then before your
+check ride, you'll
+
+368
+00:17:31,870 --> 00:17:34,570
+be reading the Airman
+Certification Standards.
+
+369
+00:17:34,570 --> 00:17:37,280
+FAA still use this
+sexist language.
+
+370
+00:17:37,280 --> 00:17:41,230
+There's airman and
+airmen for all pilots,
+
+371
+00:17:41,230 --> 00:17:45,370
+and this is tells you what you
+need to demonstrate when you're
+
+372
+00:17:45,370 --> 00:17:47,200
+getting your final check.
+
+373
+00:17:47,200 --> 00:17:51,300
+Most people will also buy
+their own personal headset.
+
+374
+00:17:51,300 --> 00:17:54,480
+The noise-canceling ones
+make life a lot better.
+
+375
+00:17:54,480 --> 00:17:57,310
+Lightspeed is probably a
+little more rugged than Bose.
+
+376
+00:17:57,310 --> 00:17:59,950
+Bose is more
+comfortable on the ears.
+
+377
+00:17:59,950 --> 00:18:01,780
+The front desk of a
+typical flight school
+
+378
+00:18:01,780 --> 00:18:04,360
+will have all of
+this stuff for sale.
+
+379
+00:18:04,360 --> 00:18:06,220
+The process, a lot of
+people wonder, well,
+
+380
+00:18:06,220 --> 00:18:09,540
+how do I get my private
+pilot's license.
+
+381
+00:18:09,540 --> 00:18:11,640
+You need the flight training.
+
+382
+00:18:11,640 --> 00:18:15,100
+You apply for student pilot
+certificate on an FAA website.
+
+383
+00:18:15,100 --> 00:18:17,100
+I don't know if that's
+still running completely.
+
+384
+00:18:17,100 --> 00:18:19,392
+I just renewed the
+registration for an aircraft,
+
+385
+00:18:19,392 --> 00:18:20,850
+so that part of
+the FAA is running.
+
+386
+00:18:20,850 --> 00:18:24,480
+I don't know if they're sending
+out Student Pilot Certificates
+
+387
+00:18:24,480 --> 00:18:27,240
+during the shutdown or not.
+
+388
+00:18:27,240 --> 00:18:30,180
+You have to do one
+medical exam in your life
+
+389
+00:18:30,180 --> 00:18:38,370
+at least with an aviation doctor
+who's been blessed by the FAA,
+
+390
+00:18:38,370 --> 00:18:40,980
+and you get your
+third class medical.
+
+391
+00:18:40,980 --> 00:18:42,750
+After, eventually,
+you'll be able just
+
+392
+00:18:42,750 --> 00:18:46,470
+to go to your regular
+doctor, if you want.
+
+393
+00:18:46,470 --> 00:18:48,150
+Then, you take this
+knowledge test,
+
+394
+00:18:48,150 --> 00:18:52,960
+and that's what you're being
+prepped for in this class.
+
+395
+00:18:52,960 --> 00:18:54,840
+And finally, you'll
+do your practical exam
+
+396
+00:18:54,840 --> 00:18:56,795
+with an FAA-designated
+examiner, one of whom
+
+397
+00:18:56,795 --> 00:18:58,170
+should actually
+be here tomorrow.
+
+398
+00:18:58,170 --> 00:19:00,660
+So you can ask him
+how he tortures
+
+399
+00:19:00,660 --> 00:19:03,390
+people on the check ride.
+
+400
+00:19:03,390 --> 00:19:05,790
+Actually, I had
+to take one-- you
+
+401
+00:19:05,790 --> 00:19:08,490
+have to do a lot of these steps
+over again, when you do a type
+
+402
+00:19:08,490 --> 00:19:10,050
+rating for a new aircraft.
+
+403
+00:19:10,050 --> 00:19:12,810
+So when I worked at
+the airline, the oral,
+
+404
+00:19:12,810 --> 00:19:15,140
+there is a guy who
+is famously harsh.
+
+405
+00:19:15,140 --> 00:19:17,760
+And he would keep
+people who were trying
+
+406
+00:19:17,760 --> 00:19:21,570
+to fly the Canadair Regional
+Jet in knots for hours
+
+407
+00:19:21,570 --> 00:19:24,162
+and have them sweating
+during the oral exam.
+
+408
+00:19:24,162 --> 00:19:25,620
+And the first
+question he asked me,
+
+409
+00:19:25,620 --> 00:19:28,980
+the airplane has
+these hydraulic pumps.
+
+410
+00:19:28,980 --> 00:19:32,050
+They're AC motors, and it has
+the engines generating the AC
+
+411
+00:19:32,050 --> 00:19:32,550
+power.
+
+412
+00:19:32,550 --> 00:19:35,160
+But a lot of stuff runs
+on DC, and I'd really
+
+413
+00:19:35,160 --> 00:19:37,780
+wondered about the electrical
+systems of the airplane.
+
+414
+00:19:37,780 --> 00:19:39,113
+So I called up a friend of mine.
+
+415
+00:19:39,113 --> 00:19:41,190
+It's a physics professor
+at UC Berkeley,
+
+416
+00:19:41,190 --> 00:19:44,370
+and we had a one-hour discussion
+about when it made sense
+
+417
+00:19:44,370 --> 00:19:46,650
+to generate AC and
+pipe that around
+
+418
+00:19:46,650 --> 00:19:50,070
+the airplane and high voltage
+versus low voltage and DC.
+
+419
+00:19:50,070 --> 00:19:53,310
+And so I hung up and said
+goodbye to my friend, Joel.
+
+420
+00:19:53,310 --> 00:19:56,280
+And then a few weeks later,
+there was the oral exam,
+
+421
+00:19:56,280 --> 00:19:57,990
+and the first
+question the guy asked
+
+422
+00:19:57,990 --> 00:20:00,860
+me was-- and I'd
+put on my resume
+
+423
+00:20:00,860 --> 00:20:02,360
+that I just had a
+bachelor's degree.
+
+424
+00:20:02,360 --> 00:20:04,520
+I didn't list any
+of my other degrees.
+
+425
+00:20:04,520 --> 00:20:07,020
+I have a PhD in AAS, it happens.
+
+426
+00:20:07,020 --> 00:20:12,360
+So this guy who is the bane of
+all the pilots at this Delta
+
+427
+00:20:12,360 --> 00:20:17,250
+subsidiary, he said, Philip,
+why does the airplane
+
+428
+00:20:17,250 --> 00:20:20,273
+have both an AC and a DC system?
+
+429
+00:20:20,273 --> 00:20:21,690
+So I gave him a
+little five minute
+
+430
+00:20:21,690 --> 00:20:24,810
+spiel based on my conversation
+with my physics professor
+
+431
+00:20:24,810 --> 00:20:25,470
+friend.
+
+432
+00:20:25,470 --> 00:20:28,420
+He said, OK the oral is over.
+
+433
+00:20:28,420 --> 00:20:30,795
+It's time to go
+into the simulator.
+
+434
+00:20:30,795 --> 00:20:33,060
+Didn't ask me a
+single other question.
+
+435
+00:20:33,060 --> 00:20:33,570
+All right.
+
+436
+00:20:33,570 --> 00:20:36,666
+So let's do the part that
+we should have done earlier.
+
+437
+00:20:36,666 --> 00:20:38,840
+Now, at least, I know
+how to put on the mic.
+
+438
+00:20:41,760 --> 00:20:44,790
+So it's conventional
+in religious settings
+
+439
+00:20:44,790 --> 00:20:48,060
+to bring in a reformed
+sinner, and that's
+
+440
+00:20:48,060 --> 00:20:53,370
+what we have here,
+somebody who's found faith
+
+441
+00:20:53,370 --> 00:20:55,595
+and is now living with faith.
+
+442
+00:20:55,595 --> 00:20:57,720
+GUEST SPEAKER: Thank you
+so much, Phillip and Tina,
+
+443
+00:20:57,720 --> 00:20:58,960
+for having me here.
+
+444
+00:20:58,960 --> 00:20:59,910
+I'm Minakshe.
+
+445
+00:20:59,910 --> 00:21:02,520
+I'm a fourth year PhD
+student at Harvard.
+
+446
+00:21:02,520 --> 00:21:05,010
+I do neuroscience,
+and when I'm not
+
+447
+00:21:05,010 --> 00:21:08,430
+trying to understand
+how the brain works,
+
+448
+00:21:08,430 --> 00:21:10,980
+I like to do most
+things adventurous.
+
+449
+00:21:10,980 --> 00:21:13,380
+And I had really awesome
+friends who introduced me
+
+450
+00:21:13,380 --> 00:21:17,370
+to the MIT Flying Club, so that
+was my first general aviation
+
+451
+00:21:17,370 --> 00:21:18,550
+experience.
+
+452
+00:21:18,550 --> 00:21:22,320
+I was a passenger on a fly-out
+to the Republic Airport.
+
+453
+00:21:22,320 --> 00:21:24,330
+It's in Long Island.
+
+454
+00:21:24,330 --> 00:21:28,440
+It's really nice, because
+most of the times, if we get
+
+455
+00:21:28,440 --> 00:21:30,980
+cleared, you get to
+fly over the Hudson,
+
+456
+00:21:30,980 --> 00:21:33,840
+and you get this really nice
+view of the New York skyline.
+
+457
+00:21:37,920 --> 00:21:41,640
+So the other photo is actually
+Phillip and his sitter.
+
+458
+00:21:41,640 --> 00:21:43,570
+So we're super lucky to
+be on another fly-out
+
+459
+00:21:43,570 --> 00:21:48,020
+out as a passenger, and I
+got to fly in his Cirrus.
+
+460
+00:21:48,020 --> 00:21:51,390
+So this is to Chatham, another
+really beautiful airport
+
+461
+00:21:51,390 --> 00:21:53,070
+in the Cape Cod.
+
+462
+00:21:53,070 --> 00:21:55,440
+So all of that inspired
+me to become a pilot,
+
+463
+00:21:55,440 --> 00:21:59,910
+but what really enabled me
+was precisely this course.
+
+464
+00:21:59,910 --> 00:22:02,100
+So I am doing my
+PhD in neuroscience.
+
+465
+00:22:02,100 --> 00:22:04,290
+My aviation knowledge
+was literally
+
+466
+00:22:04,290 --> 00:22:06,012
+like [INAUDIBLE] it
+was like, OK, there
+
+467
+00:22:06,012 --> 00:22:08,220
+are all these little buttons
+and dials, probably just
+
+468
+00:22:08,220 --> 00:22:11,010
+have to check all those things
+and just like magic the planes
+
+469
+00:22:11,010 --> 00:22:11,970
+are flying.
+
+470
+00:22:11,970 --> 00:22:16,200
+So this course was what
+really laid the foundation
+
+471
+00:22:16,200 --> 00:22:19,560
+for the aviation experience
+in the rest of my life.
+
+472
+00:22:19,560 --> 00:22:22,562
+And Tina was one
+of our instructors,
+
+473
+00:22:22,562 --> 00:22:23,520
+when I took the course.
+
+474
+00:22:23,520 --> 00:22:24,978
+It was a slightly
+different format.
+
+475
+00:22:24,978 --> 00:22:27,900
+It was over the entire
+semester, once a week,
+
+476
+00:22:27,900 --> 00:22:30,203
+but I really enjoyed it.
+
+477
+00:22:30,203 --> 00:22:31,620
+So at the end of
+it, I felt really
+
+478
+00:22:31,620 --> 00:22:34,860
+ready to take the
+practical flying lesson.
+
+479
+00:22:34,860 --> 00:22:39,600
+So I was a student pilot at
+East Coast Aero Club, Bedford.
+
+480
+00:22:39,600 --> 00:22:43,200
+So my two years of grad
+school stipend that I saved
+
+481
+00:22:43,200 --> 00:22:48,630
+was like put to really good
+use and the picture on the left
+
+482
+00:22:48,630 --> 00:22:50,460
+is my first solo.
+
+483
+00:22:50,460 --> 00:22:55,050
+So that's me doing the
+traffic pattern at Bedford.
+
+484
+00:22:55,050 --> 00:22:58,740
+So I didn't have any like fancy
+electronic flight back then.
+
+485
+00:22:58,740 --> 00:22:59,870
+It was just all paper maps.
+
+486
+00:22:59,870 --> 00:23:01,890
+So that was just
+the GPS on my phone
+
+487
+00:23:01,890 --> 00:23:05,350
+tracking me doing the traffic
+pattern Bedford, and like you
+
+488
+00:23:05,350 --> 00:23:07,700
+can see how happy I
+was with all my solos,
+
+489
+00:23:07,700 --> 00:23:09,790
+the smileys on my logbook.
+
+490
+00:23:09,790 --> 00:23:15,460
+So then, think end of September,
+got my private pilot's license.
+
+491
+00:23:15,460 --> 00:23:19,120
+So I flew the Warrior, so yeah.
+
+492
+00:23:19,120 --> 00:23:24,940
+So that's me right after passing
+the check ride in the Warrior.
+
+493
+00:23:24,940 --> 00:23:30,100
+So after PPL, I wanted
+to take spin training
+
+494
+00:23:30,100 --> 00:23:33,370
+and did a little bit of
+aerobatics in the decathlon
+
+495
+00:23:33,370 --> 00:23:34,650
+at East Coast.
+
+496
+00:23:34,650 --> 00:23:37,300
+So decathlon is a tail-wheel
+aerobatic aircraft,
+
+497
+00:23:37,300 --> 00:23:40,270
+and when you do
+your PPL, they're
+
+498
+00:23:40,270 --> 00:23:42,535
+always going to tell you
+like you will do stalls,
+
+499
+00:23:42,535 --> 00:23:44,410
+and they're always going
+to tell you like OK,
+
+500
+00:23:44,410 --> 00:23:46,130
+and we don't want to spin.
+
+501
+00:23:46,130 --> 00:23:48,370
+I was like, OK, I want
+it feel heart is going.
+
+502
+00:23:48,370 --> 00:23:48,870
+Yeah?
+
+503
+00:23:48,870 --> 00:23:51,010
+PROFESSOR 2: Maybe share
+what PPL stands for.
+
+504
+00:23:51,010 --> 00:23:51,760
+GUEST SPEAKER: Oh, sorry.
+
+505
+00:23:51,760 --> 00:23:52,260
+Yeah.
+
+506
+00:23:52,260 --> 00:23:55,415
+PPL is Private Pilot's License
+which is what all of us
+
+507
+00:23:55,415 --> 00:23:56,660
+are here for.
+
+508
+00:23:56,660 --> 00:24:03,310
+So yeah, so after a little
+bit of aerobatics and spin
+
+509
+00:24:03,310 --> 00:24:05,470
+training, so my recent
+flying experience
+
+510
+00:24:05,470 --> 00:24:10,180
+is being a lot with the MIT
+flying club now as a pilot.
+
+511
+00:24:10,180 --> 00:24:12,290
+So I did the same--
+
+512
+00:24:12,290 --> 00:24:15,160
+the first time I was ever
+on the light aircraft
+
+513
+00:24:15,160 --> 00:24:17,920
+was this fly-out with
+the MIT Flying Club
+
+514
+00:24:17,920 --> 00:24:19,630
+to Republic Airport.
+
+515
+00:24:19,630 --> 00:24:22,240
+And very recently, I
+did that as a pilot,
+
+516
+00:24:22,240 --> 00:24:25,180
+getting passengers
+with the Flying Club.
+
+517
+00:24:25,180 --> 00:24:26,520
+So that felt really nice.
+
+518
+00:24:26,520 --> 00:24:30,510
+So you can see, like
+I'm over the Hudson,
+
+519
+00:24:30,510 --> 00:24:33,130
+2,00 feels southbound,
+towards the Republic,
+
+520
+00:24:33,130 --> 00:24:37,960
+and you get this really awesome
+view of the New York skyline,
+
+521
+00:24:37,960 --> 00:24:39,220
+and yeah.
+
+522
+00:24:39,220 --> 00:24:40,780
+It's really beautiful.
+
+523
+00:24:40,780 --> 00:24:43,090
+You get to talk to like
+Laguardia, New York,
+
+524
+00:24:43,090 --> 00:24:45,250
+and I spoke to Kennedy tower.
+
+525
+00:24:45,250 --> 00:24:47,890
+That was like literally
+a dream come true for me.
+
+526
+00:24:47,890 --> 00:24:50,770
+So I would relive this moment
+like any number of times.
+
+527
+00:24:50,770 --> 00:24:55,130
+I'm 500 feet above the ground
+level, and like you can see,
+
+528
+00:24:55,130 --> 00:24:59,200
+the tiny shadow of my aircraft
+and like talking to JFK.
+
+529
+00:24:59,200 --> 00:25:03,460
+And in 500 feet, because there
+are all these commercial jets
+
+530
+00:25:03,460 --> 00:25:06,460
+descending to land
+at JFK, so it's
+
+531
+00:25:06,460 --> 00:25:08,530
+a totally beautiful feeling.
+
+532
+00:25:08,530 --> 00:25:10,270
+So I've also been
+flying with my friends,
+
+533
+00:25:10,270 --> 00:25:12,310
+and like this is the
+Winnipesaukee lake
+
+534
+00:25:12,310 --> 00:25:17,230
+near Laconia, New Hampshire, and
+yeah, for the Harvard folks--
+
+535
+00:25:17,230 --> 00:25:18,520
+I think it's just one person--
+
+536
+00:25:18,520 --> 00:25:20,520
+you can probably recognize
+like Sanders Theatre.
+
+537
+00:25:20,520 --> 00:25:22,090
+So this is a city tour.
+
+538
+00:25:22,090 --> 00:25:27,360
+So you get cleared into the
+Boston class Broadway airspace.
+
+539
+00:25:27,360 --> 00:25:27,860
+Yeah.
+
+540
+00:25:27,860 --> 00:25:29,610
+This is one of my
+friends who took a photo
+
+541
+00:25:29,610 --> 00:25:32,323
+of like the Harvard campus.
+
+542
+00:25:32,323 --> 00:25:34,240
+You can see Sanders
+Theatre at Memorial Church
+
+543
+00:25:34,240 --> 00:25:36,040
+and just the fog setting in.
+
+544
+00:25:36,040 --> 00:25:38,160
+So my mom visited me from India.
+
+545
+00:25:38,160 --> 00:25:38,920
+I took her flying.
+
+546
+00:25:38,920 --> 00:25:40,885
+So that was a very
+beautiful feeling
+
+547
+00:25:40,885 --> 00:25:42,510
+like to show her what
+this means to me.
+
+548
+00:25:42,510 --> 00:25:44,635
+Although, she was totally
+terrified the whole time.
+
+549
+00:25:46,760 --> 00:25:47,260
+Yeah.
+
+550
+00:25:47,260 --> 00:25:49,610
+So I guess,
+obviously, I love it.
+
+551
+00:25:49,610 --> 00:25:52,000
+It's really fun the
+beautiful view is experience
+
+552
+00:25:52,000 --> 00:25:54,610
+and like the super
+adrenaline excitement
+
+553
+00:25:54,610 --> 00:25:56,220
+every time I have the plane.
+
+554
+00:25:56,220 --> 00:25:58,510
+And it is challenging,
+and it's really
+
+555
+00:25:58,510 --> 00:26:00,160
+something like new
+rewarding to learn
+
+556
+00:26:00,160 --> 00:26:02,830
+from every single experience,
+every single flight
+
+557
+00:26:02,830 --> 00:26:05,022
+and, of course, the people.
+
+558
+00:26:05,022 --> 00:26:05,660
+So yeah.
+
+559
+00:26:05,660 --> 00:26:09,310
+Thank you, and just
+sharing my experience
+
+560
+00:26:09,310 --> 00:26:12,620
+from like having no aero-astro
+background to being here,
+
+561
+00:26:12,620 --> 00:26:15,520
+I hope it inspires some of you.
+
+562
+00:26:15,520 --> 00:26:16,754
+Thanks.
+
+563
+00:26:16,754 --> 00:26:20,058
+[APPLAUSE]
+
+564
+00:26:23,262 --> 00:26:24,970
+PROFESSOR 2: Thank
+you so much, Minakshe,
+
+565
+00:26:24,970 --> 00:26:27,670
+for coming back and
+sharing your experience.
+
+566
+00:26:27,670 --> 00:26:32,160
+So that could be
+you guys next year.
+
+567
+00:26:32,160 --> 00:26:35,250
+So a little bit about
+the FAA written exam.
+
+568
+00:26:35,250 --> 00:26:37,580
+So as we said, sometimes
+it's called the written.
+
+569
+00:26:37,580 --> 00:26:40,700
+That is the
+knowledge-based exam.
+
+570
+00:26:40,700 --> 00:26:43,010
+So that is what, ideally,
+you'll be prepared
+
+571
+00:26:43,010 --> 00:26:45,500
+to pass with flying colors.
+
+572
+00:26:45,500 --> 00:26:49,130
+So it's a computer-based
+multiple choice exam.
+
+573
+00:26:49,130 --> 00:26:51,380
+They usually give you
+about 2 1/2 hours,
+
+574
+00:26:51,380 --> 00:26:53,960
+and you don't necessarily
+need the whole time.
+
+575
+00:26:53,960 --> 00:26:57,650
+There are 60 questions,
+and they basically
+
+576
+00:26:57,650 --> 00:26:59,430
+shuffle those questions.
+
+577
+00:26:59,430 --> 00:27:02,270
+So we're going to be
+teaching content somewhat
+
+578
+00:27:02,270 --> 00:27:05,957
+that goes beyond this exam,
+because this is an MIT course.
+
+579
+00:27:05,957 --> 00:27:07,790
+So we're actually in
+teach a little bit more
+
+580
+00:27:07,790 --> 00:27:11,450
+about the aerodynamics and
+how really planes fly and go
+
+581
+00:27:11,450 --> 00:27:13,750
+a little bit beyond
+just the course,
+
+582
+00:27:13,750 --> 00:27:15,920
+but we will cover
+all of this material.
+
+583
+00:27:15,920 --> 00:27:21,590
+And then, so as Phillip already
+said, to pass you need as a 70,
+
+584
+00:27:21,590 --> 00:27:25,440
+but we believe that you
+can score higher than that.
+
+585
+00:27:25,440 --> 00:27:30,560
+So we really encourage you
+to take this exam right
+
+586
+00:27:30,560 --> 00:27:33,830
+after the course.
+
+587
+00:27:33,830 --> 00:27:36,290
+Phillip can actually
+endorse your log book,
+
+588
+00:27:36,290 --> 00:27:38,810
+or you can actually
+print out a log book
+
+589
+00:27:38,810 --> 00:27:41,340
+and endorse you to
+take that written exam.
+
+590
+00:27:41,340 --> 00:27:44,420
+So just following the course,
+the final exam of this course,
+
+591
+00:27:44,420 --> 00:27:47,667
+will be a practice a exam,
+and so you can take that.
+
+592
+00:27:47,667 --> 00:27:49,250
+You can actually
+take it as many times
+
+593
+00:27:49,250 --> 00:27:51,250
+as you want in order to
+pass, but hopefully, you
+
+594
+00:27:51,250 --> 00:27:54,060
+don't have to take
+it too many times.
+
+595
+00:27:54,060 --> 00:27:55,580
+And after that,
+we'll endorse you
+
+596
+00:27:55,580 --> 00:27:59,060
+so that you can actually go
+take the actual FAA written exam
+
+597
+00:27:59,060 --> 00:28:00,540
+and get that out of the way.
+
+598
+00:28:00,540 --> 00:28:02,570
+So you can be on your
+way to becoming a pilot.
+
+599
+00:28:04,983 --> 00:28:05,650
+PROFESSOR 1: OK.
+
+600
+00:28:05,650 --> 00:28:08,227
+So most East Coast Aero Club--
+
+601
+00:28:08,227 --> 00:28:10,060
+I'm an instructor there--
+most of the people
+
+602
+00:28:10,060 --> 00:28:12,850
+that I've seen will skim
+through at least the FAA
+
+603
+00:28:12,850 --> 00:28:15,940
+books about three times
+before they take the test.
+
+604
+00:28:15,940 --> 00:28:20,140
+They will use a test prep
+book, and they end up
+
+605
+00:28:20,140 --> 00:28:22,570
+getting a 98 or 100 on the exam.
+
+606
+00:28:22,570 --> 00:28:25,090
+So they do a little bit--
+
+607
+00:28:25,090 --> 00:28:28,090
+they go a little bit overboard
+if the goal is just to pass.
+
+608
+00:28:28,090 --> 00:28:30,670
+Again, if you have
+the physics question,
+
+609
+00:28:30,670 --> 00:28:33,190
+a physics-type question,
+we do recommend
+
+610
+00:28:33,190 --> 00:28:36,730
+this free online textbook
+from this physics PhD.
+
+611
+00:28:36,730 --> 00:28:38,500
+These presentations,
+of course, are all
+
+612
+00:28:38,500 --> 00:28:40,300
+available from the
+course homepage.
+
+613
+00:28:40,300 --> 00:28:43,840
+You can download them
+and follow all the links.
+
+614
+00:28:43,840 --> 00:28:47,470
+As Tina mentioned,
+I can endorse you.
+
+615
+00:28:47,470 --> 00:28:50,260
+Any aero-astro majors who
+complain that it's too hard,
+
+616
+00:28:50,260 --> 00:28:53,005
+remember that everything that
+you're reading from the FAA
+
+617
+00:28:53,005 --> 00:28:55,920
+is designed for somebody
+who's still in high school.
+
+618
+00:28:58,990 --> 00:28:59,710
+Tina.
+
+619
+00:28:59,710 --> 00:29:01,820
+PROFESSOR 2: So this is
+just a sample question.
+
+620
+00:29:01,820 --> 00:29:03,700
+They give you a flavor.
+
+621
+00:29:03,700 --> 00:29:05,770
+Obviously, we haven't
+touched the material yet,
+
+622
+00:29:05,770 --> 00:29:08,187
+but why don't we just take a
+minute to read this, and then
+
+623
+00:29:08,187 --> 00:29:11,915
+see if you guys can have a good
+guesstimate as to the answer?
+
+624
+00:29:11,915 --> 00:29:13,540
+So I thought this
+would be appropriate,
+
+625
+00:29:13,540 --> 00:29:15,220
+given the weather conditions.
+
+626
+00:29:15,220 --> 00:29:18,280
+You guys had to trudge through
+a lot of snow and slush
+
+627
+00:29:18,280 --> 00:29:19,610
+to get here today.
+
+628
+00:29:19,610 --> 00:29:21,640
+So here's a question
+about frost.
+
+629
+00:29:21,640 --> 00:29:25,015
+Why is frost considered
+hazardous to flight?
+
+630
+00:29:41,400 --> 00:29:41,900
+OK.
+
+631
+00:29:41,900 --> 00:29:42,890
+Who thinks it's A?
+
+632
+00:29:46,280 --> 00:29:48,820
+Who thinks it's B?
+
+633
+00:29:48,820 --> 00:29:49,450
+All right.
+
+634
+00:29:49,450 --> 00:29:51,080
+Who thinks it's C.
+
+635
+00:29:51,080 --> 00:29:53,600
+All right, good job, guys.
+
+636
+00:29:53,600 --> 00:29:56,660
+Just generally, icing,
+bad for a plane.
+
+637
+00:29:56,660 --> 00:29:59,900
+So anything that's really
+increasing lift or increasing
+
+638
+00:29:59,900 --> 00:30:01,370
+control effectiveness,
+that's not
+
+639
+00:30:01,370 --> 00:30:03,740
+what you're getting
+when you have frost.
+
+640
+00:30:03,740 --> 00:30:05,060
+It's a bad thing.
+
+641
+00:30:05,060 --> 00:30:07,572
+So we'll discuss
+this in more detail.
+
+642
+00:30:07,572 --> 00:30:08,530
+PROFESSOR 1: All right.
+
+643
+00:30:08,530 --> 00:30:14,170
+Here's the schedule for
+the next couple days.
+
+644
+00:30:14,170 --> 00:30:18,700
+We'll just talk about
+the parts that are fun.
+
+645
+00:30:18,700 --> 00:30:23,710
+This afternoon, we're going to
+be visited by an F-22 pilot.
+
+646
+00:30:23,710 --> 00:30:26,540
+That's a little better
+than a Cessna, Piper,
+
+647
+00:30:26,540 --> 00:30:29,440
+or Cirrus in terms
+of performance,
+
+648
+00:30:29,440 --> 00:30:33,240
+if not in terms of
+cost-effectiveness.
+
+649
+00:30:33,240 --> 00:30:36,220
+Lunchtime, there's
+going to be pizza
+
+650
+00:30:36,220 --> 00:30:39,370
+and a slideshow about
+Oshkosh, the big aviation
+
+651
+00:30:39,370 --> 00:30:43,750
+gathering that happens
+in Wisconsin every year.
+
+652
+00:30:43,750 --> 00:30:47,980
+Tomorrow, you're going to
+hear from a designated pilot
+
+653
+00:30:47,980 --> 00:30:50,710
+examiner, Marc
+Nathanson, who's also
+
+654
+00:30:50,710 --> 00:30:57,880
+an acrobatics instructor and a
+US Air Force F4 fighter pilot
+
+655
+00:30:57,880 --> 00:30:58,870
+veteran.
+
+656
+00:30:58,870 --> 00:31:02,110
+Day three, Michael Holdsworth
+who's going to come in.
+
+657
+00:31:02,110 --> 00:31:07,010
+He's a local drone
+pilot for Hollywood.
+
+658
+00:31:07,010 --> 00:31:10,840
+So he'll tell you about using
+the commercial drone license
+
+659
+00:31:10,840 --> 00:31:14,080
+to do something interesting.
+
+660
+00:31:14,080 --> 00:31:17,680
+At lunch on day three,
+on Thursday, you're
+
+661
+00:31:17,680 --> 00:31:21,132
+going to hear from a veteran.
+
+662
+00:31:21,132 --> 00:31:22,840
+Actually, no, he's an
+active duty officer
+
+663
+00:31:22,840 --> 00:31:25,510
+in the Brazilian Air
+Force who's here at MIT,
+
+664
+00:31:25,510 --> 00:31:30,100
+and he's going to tell you
+about being a test pilot.
+
+665
+00:31:30,100 --> 00:31:33,610
+And then at the
+end of the class,
+
+666
+00:31:33,610 --> 00:31:38,080
+we've tacked on the
+founder of ForeFlight
+
+667
+00:31:38,080 --> 00:31:40,900
+which is one of the most
+successful aviation app
+
+668
+00:31:40,900 --> 00:31:41,440
+companies.
+
+669
+00:31:41,440 --> 00:31:43,300
+They're in a lot
+of airline cockpits
+
+670
+00:31:43,300 --> 00:31:46,063
+now as a replacement
+for paper, and they
+
+671
+00:31:46,063 --> 00:31:47,230
+do a lot of flight planning.
+
+672
+00:31:47,230 --> 00:31:50,320
+And so he's going
+to bring himself
+
+673
+00:31:50,320 --> 00:31:52,990
+to talk about any questions
+you might have about starting
+
+674
+00:31:52,990 --> 00:31:55,847
+a company and being
+successful in business
+
+675
+00:31:55,847 --> 00:31:57,430
+and also one of his
+engineering folks,
+
+676
+00:31:57,430 --> 00:32:00,160
+I think, to talk about the
+engineering behind the app.
+
+677
+00:32:00,160 --> 00:32:02,140
+That's going to be a
+little bit more informal.
+
+678
+00:32:02,140 --> 00:32:06,550
+It's optional, but we
+think it'll be interesting.
+
+679
+00:32:06,550 --> 00:32:07,060
+OK.
+
+680
+00:32:07,060 --> 00:32:11,230
+So welcome again,
+and now you're part
+
+681
+00:32:11,230 --> 00:32:13,450
+of the community of
+aviators, at least as
+
+682
+00:32:13,450 --> 00:32:19,000
+soon as you go on your first
+MIT Flying Club fly-out.
+
+683
+00:32:19,000 --> 00:32:20,710
+It is better to be
+on the ground wishing
+
+684
+00:32:20,710 --> 00:32:24,050
+you were in the air
+than vice versa,
+
+685
+00:32:24,050 --> 00:32:25,630
+but people have
+been wishing to be
+
+686
+00:32:25,630 --> 00:32:28,810
+in the air for tens
+of thousands of years.
+
+687
+00:32:28,810 --> 00:32:32,080
+And we think that--
+
+688
+00:32:32,080 --> 00:32:34,930
+well, we feel lucky
+to be some of the few
+
+689
+00:32:34,930 --> 00:32:38,770
+who are able to control our
+own destiny through the air.
+
+690
+00:32:38,770 --> 00:32:41,590
+So now, it's time for questions.
+
+691
+00:32:41,590 --> 00:32:44,380
+While you're formulating
+your brilliant questions,
+
+692
+00:32:44,380 --> 00:32:49,620
+enjoy these photos which I
+snapped at the Reno air races,
+
+693
+00:32:49,620 --> 00:32:52,470
+where the Blue Angels
+obviously already visited.
+
+694
+00:32:52,470 --> 00:32:58,660
+AUDIENCE: What's the
+[INAUDIBLE] on the airplane?
+
+695
+00:32:58,660 --> 00:33:00,840
+[LAUGHTER]
+
+696
+00:33:00,840 --> 00:33:04,290
+PROFESSOR 1: So what why do
+you have both AC power and DC
+
+697
+00:33:04,290 --> 00:33:07,110
+power on a big jet?
+
+698
+00:33:07,110 --> 00:33:08,610
+Big jets, the
+flight controls are
+
+699
+00:33:08,610 --> 00:33:11,550
+too heavy to be
+operated by a human,
+
+700
+00:33:11,550 --> 00:33:12,920
+so you need hydraulic power.
+
+701
+00:33:12,920 --> 00:33:15,973
+Basically, there may still
+be steel cables going out
+
+702
+00:33:15,973 --> 00:33:17,640
+to the flight controls,
+but they're just
+
+703
+00:33:17,640 --> 00:33:19,770
+modulating hydraulic pressure.
+
+704
+00:33:19,770 --> 00:33:21,780
+How do you generate
+hydraulic pressure?
+
+705
+00:33:21,780 --> 00:33:26,250
+There's a big motor to
+pump the hydraulics,
+
+706
+00:33:26,250 --> 00:33:30,360
+and it's easier to run a
+big motor with AC power
+
+707
+00:33:30,360 --> 00:33:35,130
+compared to DC power, and the
+engines are also spinning.
+
+708
+00:33:35,130 --> 00:33:37,500
+So if you just think
+about Maxwell's equations,
+
+709
+00:33:37,500 --> 00:33:41,820
+it's simpler to run AC for
+that, and also, of course, you
+
+710
+00:33:41,820 --> 00:33:44,410
+can have higher voltage
+and transform it down.
+
+711
+00:33:44,410 --> 00:33:48,340
+And then for the electronics,
+DC power is what they want.
+
+712
+00:33:48,340 --> 00:33:52,850
+So that's why the DC's in there,
+to run radios and so forth.

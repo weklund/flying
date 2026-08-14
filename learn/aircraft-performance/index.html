@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Aircraft Performance Lab · Density Altitude</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <p class="eyebrow">MIT 16.687 · FAA PHAK Ch. 4 &amp; 11 · Learning aid</p>
+      <h1>Aircraft Performance Lab</h1>
+      <p class="disclaimer">
+        Density altitude and the day-of factors that change takeoff and climb.
+        <a href="../../">Study home</a> ·
+        <a href="../../notes/density-altitude.html">Notes</a> ·
+        <a href="../../quiz/">Quiz</a> ·
+        <a href="https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak">PHAK (FAA)</a>
+      </p>
+      <p class="banner">
+        Educational model only — <strong>not for flight planning</strong>.
+        Always use the AFM/POH for the airplane you fly.
+      </p>
+    </header>
+
+    <section class="primer panel" id="primer" aria-labelledby="primer-title">
+      <div class="primer-head">
+        <h2 id="primer-title">Before you play: what this is about</h2>
+        <button type="button" class="ghost primer-toggle" id="primerToggle" aria-expanded="true" aria-controls="primerBody">
+          Collapse
+        </button>
+      </div>
+
+      <div id="primerBody">
+        <p class="primer-lead">
+          Aircraft <strong>performance</strong> is how the airplane behaves <em>today</em>—takeoff distance,
+          climb, cruise, landing—not a single fixed number. A big part of that story is how
+          <strong>dense the air</strong> is. Thin air means less oxygen mass for the engine, less “grip”
+          for the propeller, and less lift from the wing at a given indicated airspeed.
+        </p>
+
+        <div class="primer-grid">
+          <div class="primer-card">
+            <h3>Density altitude (DA)</h3>
+            <p>
+              Pilots summarize “how thin the air feels” as <strong>density altitude</strong>:
+              the altitude in the <em>standard atmosphere</em> that has the same density as the air
+              you are in right now. Formally (PHAK), DA is
+              <strong>pressure altitude corrected for nonstandard temperature</strong>.
+              When conditions match the standard atmosphere, DA equals pressure altitude.
+            </p>
+          </div>
+          <div class="primer-card">
+            <h3>What thins the air?</h3>
+            <ul>
+              <li><strong>High elevation / low pressure</strong> — less air above you</li>
+              <li><strong>High temperature</strong> — molecules spread apart</li>
+              <li><strong>High humidity</strong> — water vapor is lighter than dry air, so moist air has less mass per volume</li>
+            </ul>
+            <p class="primer-note">
+              Heat and elevation often move DA by <em>thousands</em> of feet; humidity usually by
+              <em>hundreds</em>. Still real—especially when margins are already tight.
+            </p>
+          </div>
+          <div class="primer-card">
+            <h3>Beyond the atmosphere</h3>
+            <p>
+              Even at the same density altitude, takeoff and climb change with
+              <strong>weight</strong>, <strong>wind</strong>, <strong>runway surface and slope</strong>,
+              and <strong>configuration</strong> (e.g. flaps). Most POH charts use pressure altitude
+              and temperature (and weight/wind)—not a humidity axis. On hot, humid days, safety
+              guidance often means adding <em>extra margin</em> (e.g. FAASTeam ~+10% takeoff distance).
+            </p>
+          </div>
+        </div>
+
+        <h3 class="primer-how-title">What this tool is for</h3>
+        <p>
+          This lab is a <strong>mental-model sandbox</strong>, not a performance calculator.
+          Use it to feel how the knobs interact and to build intuition before you open real AFM charts.
+        </p>
+        <ol class="primer-steps">
+          <li>
+            <strong>Density</strong> — Change elevation, altimeter, temperature, and dew point.
+            Watch pressure altitude, dry DA, humidity’s add-on, the “air in a box” mass picture,
+            and the altitude tape.
+          </li>
+          <li>
+            <strong>Mission</strong> — Stack weight, wind, surface, slope, and flaps on top of that DA.
+            See a toy ground roll, climb, and engine/prop/wing meters (illustrative only).
+          </li>
+          <li>
+            <strong>Guide</strong> — Walk a short story from standard day → hot/high/humid → heavy/tailwind/soft field,
+            then check yourself with a few questions.
+          </li>
+        </ol>
+        <p class="primer-tip">
+          <strong>Suggested first pass:</strong> read this section → open <em>Density</em> and try the
+          “Standard day” then “High + hot + humid” presets → switch to <em>Mission</em> and raise weight
+          or add a tailwind → finish with <em>Guide</em> if you want the narrative path.
+        </p>
+        <p class="primer-sources">
+          Anchored to FAA PHAK (FAA-H-8083-25C) Chapters 4 &amp; 11 and related density-altitude safety guidance.
+          Numbers in the lab are educational approximations—not substitute for your POH.
+        </p>
+        <p class="primer-jump">
+          <a href="#lab-tabs">Skip to the interactive lab ↓</a>
+        </p>
+      </div>
+    </section>
+
+    <nav class="tabs" id="lab-tabs" role="tablist" aria-label="Lab modes">
+      <button type="button" class="tab active" data-mode="density" role="tab" aria-selected="true">1 · Density</button>
+      <button type="button" class="tab" data-mode="mission" role="tab" aria-selected="false">2 · Mission</button>
+      <button type="button" class="tab" data-mode="guide" role="tab" aria-selected="false">3 · Guide</button>
+    </nav>
+
+    <!-- MODE 1: Density -->
+    <section class="mode active" id="mode-density" role="tabpanel">
+      <div class="presets" id="densityPresets" aria-label="Atmosphere presets"></div>
+
+      <div class="grid-3">
+        <div class="panel">
+          <h2>Atmosphere controls</h2>
+          <p class="sub">Three knobs thin the air: pressure (elevation + altimeter), temperature, and humidity.</p>
+
+          <label class="ctrl">
+            Field elevation <strong id="elevVal">0 ft</strong>
+            <input type="range" id="elev" min="0" max="12000" step="50" value="0" />
+          </label>
+          <label class="ctrl">
+            Altimeter setting <strong id="altVal">29.92 inHg</strong>
+            <input type="range" id="altimeter" min="28.50" max="31.00" step="0.01" value="29.92" />
+          </label>
+          <label class="ctrl">
+            Outside air temp <strong id="oatVal">15 °C</strong>
+            <input type="range" id="oat" min="-20" max="45" step="1" value="15" />
+          </label>
+          <label class="ctrl">
+            Dew point <strong id="dpVal">5 °C</strong>
+            <input type="range" id="dewpoint" min="-20" max="35" step="1" value="5" />
+          </label>
+          <label class="toggle-row">
+            <input type="checkbox" id="includeHumidity" />
+            Include humidity in density altitude
+          </label>
+
+          <div class="stat-row">
+            <div class="stat"><div class="k">Pressure altitude</div><div class="v" id="paOut">0 ft</div></div>
+            <div class="stat"><div class="k">ISA temp at PA</div><div class="v" id="isaOut">15 °C</div></div>
+            <div class="stat"><div class="k">DA (dry / chart-style)</div><div class="v hot" id="daDryOut">0 ft</div></div>
+            <div class="stat"><div class="k">Humidity add</div><div class="v humid" id="humAddOut">+0 ft</div></div>
+            <div class="stat" style="grid-column: 1 / -1">
+              <div class="k">Density altitude (selected)</div>
+              <div class="v" id="daOut">0 ft</div>
+            </div>
+          </div>
+
+          <div class="callout">
+            <strong>PHAK:</strong> Density altitude is pressure altitude corrected for nonstandard temperature.
+            Humidity also reduces density (water vapor is lighter than dry air) but is usually not a chart axis —
+            still expect less performance when it is hot <em>and</em> humid.
+          </div>
+        </div>
+
+        <div class="panel">
+          <h2>Air in a box</h2>
+          <p class="sub">
+            Same volume. <strong>Primary truth is the mass % below</strong> (ideal-gas ρ/ρ₀).
+            Dots are only a schematic decoration — not a molecular census.
+          </p>
+          <div class="mol-wrap">
+            <span class="mol-badge" title="Pedagogic sketch of relative density">Schematic — not to scale</span>
+            <canvas id="molCanvas" width="400" height="220" aria-label="Schematic molecule density visualization, not to scale"></canvas>
+          </div>
+          <div class="mol-legend">
+            <span class="dry">Dry air (N₂ / O₂)</span>
+            <span class="h2o">Water vapor (H₂O) — few % of particles max</span>
+          </div>
+          <div class="stat-row">
+            <div class="stat stat-primary">
+              <div class="k">Air mass vs SL standard (ρ/ρ₀)</div>
+              <div class="v good" id="massOut">100%</div>
+              <div class="stat-hint" id="massHint">Ideal gas · moist air · fixed volume</div>
+            </div>
+            <div class="stat">
+              <div class="k">Vapor mole fraction (e/p)</div>
+              <div class="v humid" id="vaporFracOut">0.0%</div>
+            </div>
+            <div class="stat">
+              <div class="k">Density ρ</div>
+              <div class="v" id="rhoOut">—</div>
+            </div>
+            <div class="stat">
+              <div class="k">Dew-point ROT (compare)</div>
+              <div class="v" id="rotOut">~0 ft</div>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel">
+          <h2>Altitude tape</h2>
+          <p class="sub">Field elev · pressure altitude · density altitude (dry vs humid).</p>
+          <div class="tape" id="tape" aria-hidden="true">
+            <div class="tape-scale"></div>
+            <div class="marker elev" id="mkElev" data-label="Field elev" style="top: 90%"></div>
+            <div class="marker pa" id="mkPa" data-label="Pressure alt" style="top: 80%"></div>
+            <div class="marker da-dry" id="mkDaDry" data-label="DA dry" style="top: 70%"></div>
+            <div class="marker da-hum" id="mkDaHum" data-label="DA + humidity" style="top: 65%"></div>
+          </div>
+          <p class="tape-caption" id="tapeCaption">
+            Your airplane performs roughly as if it were at the density altitude — not just field elevation.
+          </p>
+          <div class="callout">
+            <strong>Scale check:</strong> Heat and elevation often move DA by <em>thousands</em> of feet;
+            humidity usually by <em>hundreds</em>. Try presets, then isolate one slider at a time.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- MODE 2: Mission -->
+    <section class="mode" id="mode-mission" role="tabpanel">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Mission factors</h2>
+          <p class="sub">Density altitude from the atmosphere lab, plus weight, wind, runway, and configuration (PHAK Ch. 11).</p>
+
+          <div class="stat-row" style="margin-bottom: 0.75rem">
+            <div class="stat"><div class="k">Density altitude in use</div><div class="v hot" id="mDaOut">0 ft</div></div>
+            <div class="stat"><div class="k">Humidity in DA</div><div class="v humid" id="mHumState">Off</div></div>
+          </div>
+
+          <label class="ctrl">
+            Weight (vs reference mid) <strong id="wtVal">100%</strong>
+            <input type="range" id="weight" min="0.85" max="1.15" step="0.01" value="1.00" />
+          </label>
+          <label class="ctrl">
+            Headwind (+) / tailwind (−) <strong id="windVal">0 kt</strong>
+            <input type="range" id="wind" min="-15" max="20" step="1" value="0" />
+          </label>
+          <label class="ctrl">
+            Runway surface
+            <select id="surface">
+              <option value="paved">Paved</option>
+              <option value="grass">Dry grass</option>
+              <option value="soft">Soft / wet</option>
+            </select>
+          </label>
+          <label class="ctrl">
+            Runway slope
+            <select id="slope">
+              <option value="level">Level</option>
+              <option value="uphill">Uphill takeoff</option>
+              <option value="downhill">Downhill takeoff</option>
+            </select>
+          </label>
+          <label class="ctrl">
+            Takeoff flaps
+            <select id="flaps">
+              <option value="takeoff">Takeoff setting</option>
+              <option value="up">Up (clean)</option>
+            </select>
+          </label>
+          <label class="ctrl">
+            Available runway <strong id="rwyVal">3500 ft</strong>
+            <input type="range" id="runwayLen" min="1500" max="10000" step="100" value="3500" />
+          </label>
+          <label class="toggle-row">
+            <input type="checkbox" id="humMargin" />
+            Apply FAASTeam-style +10% takeoff margin when humid
+          </label>
+          <label class="toggle-row">
+            <input type="checkbox" id="obstacle" checked />
+            50 ft obstacle in departure path (toy)
+          </label>
+
+          <div class="teach" id="missionTeach">
+            At the same DA, try raising weight ~10% vs only raising dew point — weight often hurts the mission more.
+          </div>
+        </div>
+
+        <div class="panel">
+          <h2>Outcome theater</h2>
+          <p class="sub">Toy trainer model for learning interactions — not AFM distances.</p>
+
+          <div class="runway-scene" id="runwayScene">
+            <div class="sky-label" id="sceneLabel">Ground roll vs available runway</div>
+            <div class="wind-arrow" id="windArrow">Wind calm</div>
+            <div class="climb-wedge" id="climbWedge"></div>
+            <div class="obstacle" id="obstacleMark"></div>
+            <div class="strip"></div>
+            <div class="roll-bar margin hidden" id="rollMargin"></div>
+            <div class="roll-bar" id="rollBar"></div>
+            <div class="plane" id="plane">✈</div>
+          </div>
+
+          <div class="stat-row">
+            <div class="stat"><div class="k">Toy ground roll</div><div class="v" id="rollOut">—</div></div>
+            <div class="stat"><div class="k">Toy climb rate</div><div class="v" id="climbOut">—</div></div>
+            <div class="stat"><div class="k">Climb angle (proxy)</div><div class="v" id="angleOut">—</div></div>
+            <div class="stat"><div class="k">Toy landing roll</div><div class="v" id="landOut">—</div></div>
+          </div>
+
+          <div class="meters">
+            <div class="meter">
+              <label><span>Engine power (density)</span><span id="engPct">—</span></label>
+              <div class="bar"><div class="fill" id="engFill" style="width: 50%"></div></div>
+            </div>
+            <div class="meter">
+              <label><span>Prop thrust (density)</span><span id="propPct">—</span></label>
+              <div class="bar"><div class="fill" id="propFill" style="width: 50%"></div></div>
+            </div>
+            <div class="meter">
+              <label><span>Wing lift capability</span><span id="liftPct">—</span></label>
+              <div class="bar"><div class="fill" id="liftFill" style="width: 50%"></div></div>
+            </div>
+          </div>
+
+          <div class="verdict ok" id="verdict">OK</div>
+          <p class="tape-caption" id="verdictDetail"></p>
+        </div>
+      </div>
+    </section>
+
+    <!-- MODE 3: Guide -->
+    <section class="mode" id="mode-guide" role="tabpanel">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Guided story</h2>
+          <p class="sub">Walk the full stack: atmosphere → humidity → weight → wind → surface.</p>
+          <div class="story-nav">
+            <button type="button" class="primary" id="storyPrev">Previous</button>
+            <button type="button" class="primary" id="storyNext">Next</button>
+            <button type="button" class="ghost" id="storyApply">Apply step to lab</button>
+            <span class="step-ind" id="storyInd">1 / 8</span>
+          </div>
+          <div class="story-card">
+            <h3 id="storyTitle">—</h3>
+            <p id="storyText">—</p>
+          </div>
+          <div class="callout">
+            <strong>Operational loop:</strong> conditions → pressure altitude → density altitude → AFM/POH charts → margins.
+            Humidity often lives in the “margins” step, not on the chart axes.
+          </div>
+        </div>
+
+        <div class="panel">
+          <h2>Check yourself</h2>
+          <p class="sub">Five questions on performance and density altitude (including humidity).</p>
+          <div class="quiz-q" id="quizBox"></div>
+          <div style="margin-top: 1rem; display: flex; gap: 0.5rem;">
+            <button type="button" id="quizPrev">Previous</button>
+            <button type="button" id="quizNext">Next question</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="panel" style="margin-top: 1rem">
+        <h2>About this model</h2>
+        <ul class="about-list">
+          <li><strong>Pressure altitude:</strong> (29.92 − altimeter) × 1000 + field elevation.</li>
+          <li><strong>Dry density altitude:</strong> PA + 120 × (OAT − ISA temp at PA) °C — training approximation; at ISA, DA ≈ PA.</li>
+          <li><strong>Humidity:</strong> simplified vapor-pressure → density reduction → feet of DA. Compare with dew-point ROT (~20 × Td °C). PHAK Ch. 4 example is a qualitative preset, not a certified reproduction of NOAA’s calculator.</li>
+          <li><strong>Mission bars:</strong> illustrative scaling for weight, wind, surface, slope, flaps — <em>not</em> any specific POH.</li>
+          <li><strong>Sources:</strong> FAA PHAK FAA-H-8083-25C Ch. 4 &amp; 11; FAA-P-8740-2 Density Altitude (humid-day +10% takeoff heuristic); AC 00-6B framing of humidity as often negligible in the formal DA definition.</li>
+        </ul>
+      </div>
+    </section>
+
+    <footer class="note">
+      Open via a local server if modules ever need it; this lab is plain script tags and works from
+      <code>file://</code> as well: <code>python3 -m http.server 8080</code> then
+      <code>http://localhost:8080/learn/aircraft-performance/</code>
+    </footer>
+  </div>
+
+  <script src="model.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

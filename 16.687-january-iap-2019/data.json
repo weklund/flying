@@ -1,0 +1,83 @@
+{
+  "course_description": "This is a three-day workshop that took place during the MIT Independent Activities Period (IAP) in January, 2019. This workshop aims to provide information for students to prepare for the FAA Private Pilot Knowledge Test. Topics include airplane aerodynamics, aircraft systems, navigation, meteorology, aircraft ownership and maintenance, aircraft performance, multi-engine and jets.\n",
+  "course_description_html": "This is a three-day workshop that took place during the MIT Independent Activities Period (IAP) in January, 2019. This workshop aims to provide information for students to prepare for the FAA Private Pilot Knowledge Test. Topics include airplane aerodynamics, aircraft systems, navigation, meteorology, aircraft ownership and maintenance, aircraft performance, multi-engine and jets.",
+  "course_image": {
+    "content": "b5571466-c776-ed45-0f6a-9d13f807c04f",
+    "website": "16-687-private-pilot-ground-school-january-iap-2019"
+  },
+  "course_image_metadata": {
+    "content_type": "resource",
+    "description": "",
+    "draft": false,
+    "file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/b5571466c776ed450f6a9d13f807c04f_16-687iap19.jpg",
+    "file_size": 129059,
+    "file_type": "image/jpeg",
+    "image_metadata": {
+      "caption": "Louis Blériot (1872–1936) became the first to fly across the English Channel with an airplane on July 25, 1909. (Image courtesy of {{% resource_link \"efebc95a-3dcb-4345-a903-b4d16e37cb87\" \"Tom Wigley\" %}} on Flickr. License: CC BY-NC-SA.)",
+      "credit": "",
+      "image-alt": "The image is a painting of a yellow old-time airplane flying across a blue ocean. At the lower left bottom is a portrait of the pilot with a name of Louis Bleriot written around the portrait."
+    },
+    "iscjklanguage": false,
+    "learning_resource_types": [],
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "ocw_type": "OCWImage",
+    "resourcetype": "Image",
+    "title": "16-687iap19.jpg",
+    "uid": "b5571466-c776-ed45-0f6a-9d13f807c04f"
+  },
+  "course_image_thumbnail": {
+    "content": "cfe7f2bb-d1f1-1674-4e2a-14c3bb66799e",
+    "website": "16-687-private-pilot-ground-school-january-iap-2019"
+  },
+  "course_title": "Private Pilot Ground School",
+  "department_numbers": [
+    "16"
+  ],
+  "extra_course_numbers": "",
+  "hide_download": false,
+  "image_src": "./static_resources/b5571466c776ed450f6a9d13f807c04f_16-687iap19.jpg",
+  "instructors": [
+    {
+      "first_name": "Philip",
+      "last_name": "Greenspun",
+      "middle_initial": "",
+      "salutation": "Dr.",
+      "title": "Dr. Philip Greenspun",
+      "uid": "85507128-5605-b175-eabb-276245bef3db",
+      "url": "https://ocw.mit.edu/search/?q=Dr.+Philip+Greenspun"
+    },
+    {
+      "first_name": "Tina",
+      "last_name": "Srivastava",
+      "middle_initial": "",
+      "salutation": "Dr.",
+      "title": "Dr. Tina Srivastava",
+      "uid": "5320e67d-b2ba-b716-aae0-fe814c5e10a8",
+      "url": "https://ocw.mit.edu/search/?q=Dr.+Tina+Srivastava"
+    }
+  ],
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Lecture Notes",
+    "Instructor Insights",
+    "Podcasts"
+  ],
+  "legacy_uid": "9cfec570-dbdf-ede6-6bbe-1d7dc7eb7af7",
+  "level": [
+    "Undergraduate"
+  ],
+  "mit_learn_topics": [],
+  "primary_course_number": "16.687",
+  "site_short_id": "16.687-january-iap-2019",
+  "site_uid": "f216d4d0-d56b-4ce2-b569-8aecfc74fc95",
+  "site_url_path": "courses/16-687-private-pilot-ground-school-january-iap-2019",
+  "term": "January IAP",
+  "title": "Course Metadata",
+  "topics": [
+    [
+      "Engineering",
+      "Aerospace Engineering"
+    ]
+  ],
+  "year": "2019"
+}

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Density altitude · Flying study notes</title>
+  <meta name="description" content="Density altitude, humidity, and aircraft performance factors for private pilot study." />
+  <link rel="stylesheet" href="../site.css" />
+</head>
+<body>
+  <div class="wrap note">
+    <nav class="note-nav">
+      <a href="../">← Home</a>
+      <a href="./">Notes</a>
+      <a href="../learn/aircraft-performance/">Performance Lab</a>
+      <a href="../quiz/">Quiz</a>
+    </nav>
+
+    <p class="eyebrow">PHAK Ch. 4 &amp; 11 · study note</p>
+    <h1>Density altitude &amp; performance</h1>
+    <p>
+      <strong>Density altitude</strong> is how pilots talk about “how thin the air is today.”
+      Thin air means less mass for the engine to burn with, less grip for the propeller, and less
+      aerodynamic force from the wing at a given indicated airspeed—so takeoff rolls grow and climb suffers.
+    </p>
+
+    <h2>Formal definition</h2>
+    <p>
+      In the Pilot’s Handbook of Aeronautical Knowledge, density altitude is
+      <strong>pressure altitude corrected for nonstandard temperature</strong>.
+      When the atmosphere matches the standard atmosphere at that level, density altitude equals pressure altitude.
+    </p>
+    <p>
+      <strong>Pressure altitude</strong> is height above the standard datum plane (29.92 inHg).
+      A common field estimate:
+    </p>
+    <p><code>(29.92 − altimeter setting) × 1000 + field elevation</code></p>
+
+    <h2>What thins the air?</h2>
+    <table>
+      <thead>
+        <tr><th>Factor</th><th>Effect</th><th>Typical scale</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>High elevation / low pressure</strong></td>
+          <td>Less air mass in the column</td>
+          <td>Thousands of feet of DA</td>
+        </tr>
+        <tr>
+          <td><strong>High temperature</strong></td>
+          <td>Air expands; lower density at a given pressure</td>
+          <td>Thousands of feet of DA</td>
+        </tr>
+        <tr>
+          <td><strong>High humidity</strong></td>
+          <td>Water vapor is lighter than dry air (H₂O ≈ 18 g/mol vs dry air ≈ 29), so moist air is less dense</td>
+          <td>Usually hundreds of feet</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Mnemonic for the worst combination: <strong>hot, high, and humid</strong>.
+    </p>
+
+    <h2>Humidity in more detail</h2>
+    <p>
+      PHAK (Ch. 4 and Ch. 11) states that humidity <em>contributes</em> to density altitude and performance,
+      but is usually <strong>not</strong> treated as an essential chart input. There is no simple cockpit
+      humidity axis on most light-airplane takeoff charts. Still, expect worse performance when it is
+      both hot and moist.
+    </p>
+    <p>
+      Safety publications (e.g. FAASTeam density-altitude pamphlet) often suggest adding margin on humid days—
+      for example on the order of <strong>+10% takeoff distance</strong>—and anticipating a weaker climb.
+      That is a heuristic, not a substitute for the AFM/POH.
+    </p>
+
+    <h2>Other performance factors (same day, fixed DA)</h2>
+    <p>Even with the same density altitude, mission outcome changes with:</p>
+    <ul>
+      <li><strong>Weight</strong> — often the biggest non-weather lever</li>
+      <li><strong>Wind</strong> — headwind shortens ground roll; tailwind hurts</li>
+      <li><strong>Runway surface &amp; slope</strong> — grass/soft and uphill takeoffs cost distance</li>
+      <li><strong>Configuration</strong> — flaps and other settings per the POH</li>
+    </ul>
+
+    <h2>Operational loop</h2>
+    <ol>
+      <li>Get elevation, altimeter, OAT (and notice dew point on the METAR).</li>
+      <li>Find pressure altitude, then density altitude (PA + temperature; optional humidity-aware tool).</li>
+      <li>Read takeoff, climb, and landing from the <strong>AFM/POH</strong> for that airplane.</li>
+      <li>Add margins when hot, high, humid, heavy, soft, or short—and go or no-go honestly.</li>
+    </ol>
+
+    <h2>Practice it</h2>
+    <p>
+      The interactive lab lets you move the atmosphere knobs (including humidity), then stack weight, wind,
+      and runway factors. Numbers there are educational models—not certified performance.
+    </p>
+    <p>
+      <a class="cta" href="../learn/aircraft-performance/">Open Aircraft Performance Lab →</a>
+    </p>
+
+    <h2>Primary sources</h2>
+    <ul>
+      <li>FAA PHAK FAA-H-8083-25C — Ch. 4 (humidity on density), Ch. 11 (performance)</li>
+      <li>FAA-P-8740-2 Density Altitude (hot/high/humid safety pamphlet)</li>
+      <li>AC 00-6B Aviation Weather (formal DA definition centers on PA + temperature)</li>
+    </ul>
+
+    <p class="muted" style="margin-top: 2rem">
+      <a href="./">← All notes</a> · <a href="../">Home</a>
+    </p>
+  </div>
+</body>
+</html>

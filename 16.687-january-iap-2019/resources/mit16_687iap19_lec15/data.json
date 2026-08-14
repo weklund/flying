@@ -1,0 +1,21 @@
+{
+  "content": "",
+  "content_type": "resource",
+  "description": "",
+  "draft": false,
+  "file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/ba50f903e50a9e7c06cec81d8dc7494e_MIT16_687IAP19_Lec15.pdf",
+  "file_size": 2909729,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "24cd8438-c1d2-e3d6-7d52-602af43cbf1c",
+  "resourcetype": "Document",
+  "title": "MIT16_687IAP19_Lec15, Flight Planning",
+  "uid": "ba50f903-e50a-9e7c-06ce-c81d8dc7494e"
+}

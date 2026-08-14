@@ -1,0 +1,4742 @@
+1
+00:00:15,922 --> 00:00:18,380
+TINA SRIVASTAVA: So we're going
+to dive into human factors.
+
+2
+00:00:18,380 --> 00:00:19,838
+There are kind of
+two halves to it.
+
+3
+00:00:19,838 --> 00:00:21,947
+So about halfway through
+we'll take a break.
+
+4
+00:00:21,947 --> 00:00:23,530
+But let's just do
+the first half of it
+
+5
+00:00:23,530 --> 00:00:27,450
+now, because I don't want to
+run over into Mark's upcoming
+
+6
+00:00:27,450 --> 00:00:30,080
+talk at 4:00.
+
+7
+00:00:30,080 --> 00:00:32,150
+So human factors
+is something that's
+
+8
+00:00:32,150 --> 00:00:33,655
+kind of near and dear to me.
+
+9
+00:00:33,655 --> 00:00:35,360
+I actually really
+like this subject.
+
+10
+00:00:35,360 --> 00:00:38,750
+When I was an undergrad,
+I took the course 16.400.
+
+11
+00:00:38,750 --> 00:00:40,730
+I really strongly recommend it.
+
+12
+00:00:40,730 --> 00:00:43,063
+We can only cover a
+very small amount today.
+
+13
+00:00:43,063 --> 00:00:44,480
+You know, I have
+less than an hour
+
+14
+00:00:44,480 --> 00:00:46,580
+to get through all
+of this for you.
+
+15
+00:00:46,580 --> 00:00:48,860
+But I think it's really
+an interesting class,
+
+16
+00:00:48,860 --> 00:00:51,470
+and it's very pertinent
+to everything related
+
+17
+00:00:51,470 --> 00:00:53,990
+to aircraft and aerodynamics.
+
+18
+00:00:53,990 --> 00:00:58,400
+And this class 16.400 was
+one of my favorite classes.
+
+19
+00:00:58,400 --> 00:01:00,518
+Still today, I refer back to it.
+
+20
+00:01:00,518 --> 00:01:02,060
+And one of the things
+we did was also
+
+21
+00:01:02,060 --> 00:01:04,480
+go through different
+NTSB reports.
+
+22
+00:01:04,480 --> 00:01:08,150
+So I gave a link there as well.
+
+23
+00:01:08,150 --> 00:01:11,270
+And you can read through
+accident investigations.
+
+24
+00:01:11,270 --> 00:01:12,730
+And not all of them are scary.
+
+25
+00:01:12,730 --> 00:01:15,980
+You know, many of these reports,
+nobody actually got injured.
+
+26
+00:01:15,980 --> 00:01:18,650
+But it's good to just read
+through what happened.
+
+27
+00:01:18,650 --> 00:01:19,970
+What was the decision making?
+
+28
+00:01:19,970 --> 00:01:22,130
+What led to the issue?
+
+29
+00:01:22,130 --> 00:01:25,010
+It's a really
+interesting exercise.
+
+30
+00:01:25,010 --> 00:01:29,690
+And one thing in particular that
+we did in that course, 16.400,
+
+31
+00:01:29,690 --> 00:01:33,683
+was really interesting is that
+they have you be on basically
+
+32
+00:01:33,683 --> 00:01:34,475
+a flight simulator.
+
+33
+00:01:34,475 --> 00:01:36,410
+So you're pretending
+to be a pilot.
+
+34
+00:01:36,410 --> 00:01:38,048
+And then there's
+all kinds of inputs
+
+35
+00:01:38,048 --> 00:01:39,590
+coming into you,
+which is really what
+
+36
+00:01:39,590 --> 00:01:42,130
+you're going to experience in
+the cockpit when you're flying.
+
+37
+00:01:42,130 --> 00:01:44,463
+You know, you've got people
+talking to you on the radio.
+
+38
+00:01:44,463 --> 00:01:46,400
+You have your passengers
+inside the plane.
+
+39
+00:01:46,400 --> 00:01:48,800
+You have all kinds of inputs
+coming up on the screen.
+
+40
+00:01:48,800 --> 00:01:50,600
+You're looking for
+other aircraft.
+
+41
+00:01:50,600 --> 00:01:52,160
+You're trying to
+identify an airport
+
+42
+00:01:52,160 --> 00:01:53,330
+that you're coming up on.
+
+43
+00:01:53,330 --> 00:01:56,160
+There's a lot happening,
+a lot of information.
+
+44
+00:01:56,160 --> 00:02:00,290
+And then we had to basically
+talk about if a light went out,
+
+45
+00:02:00,290 --> 00:02:04,070
+the absence of a light, trying
+to expect a pilot to identify
+
+46
+00:02:04,070 --> 00:02:06,912
+that is totally unreasonable.
+
+47
+00:02:06,912 --> 00:02:08,120
+So it was really interesting.
+
+48
+00:02:08,120 --> 00:02:11,510
+And taking this course as
+an aerospace engineering
+
+49
+00:02:11,510 --> 00:02:14,390
+student at MIT
+the lesson was you
+
+50
+00:02:14,390 --> 00:02:17,360
+need to design these
+things to be better,
+
+51
+00:02:17,360 --> 00:02:21,320
+because if you engineered
+this system such that somebody
+
+52
+00:02:21,320 --> 00:02:23,800
+under that much stress and
+looking at those many inputs
+
+53
+00:02:23,800 --> 00:02:25,550
+were supposed to notice
+a light going out,
+
+54
+00:02:25,550 --> 00:02:27,320
+that's totally unreasonable.
+
+55
+00:02:27,320 --> 00:02:31,070
+Now, on the other hand,
+talking about a pilot,
+
+56
+00:02:31,070 --> 00:02:34,010
+we will talk a little
+bit about how many inputs
+
+57
+00:02:34,010 --> 00:02:37,220
+are on a person with a
+pilot, how a lot of things
+
+58
+00:02:37,220 --> 00:02:38,810
+are attributed to pilot error.
+
+59
+00:02:38,810 --> 00:02:41,060
+The whole purpose of this
+course and the whole purpose
+
+60
+00:02:41,060 --> 00:02:45,110
+of learning to fly is how you
+can minimize the pilot error
+
+61
+00:02:45,110 --> 00:02:47,690
+aspect, not the
+engineering design aspect.
+
+62
+00:02:47,690 --> 00:02:50,480
+But certainly, it's good
+to experience both sides,
+
+63
+00:02:50,480 --> 00:02:52,370
+designing the aircraft
+and the avionics,
+
+64
+00:02:52,370 --> 00:02:55,315
+as well as flying the aircraft.
+
+65
+00:02:55,315 --> 00:02:57,690
+So one thing I really want to
+point out-- it's little bit
+
+66
+00:02:57,690 --> 00:03:00,240
+morbid, but I just want
+to talk about accidents
+
+67
+00:03:00,240 --> 00:03:01,590
+and what causes them.
+
+68
+00:03:01,590 --> 00:03:05,220
+Well, a very large
+number of accidents
+
+69
+00:03:05,220 --> 00:03:09,450
+are what's called controlled
+flight into terrain.
+
+70
+00:03:09,450 --> 00:03:12,090
+Does anyone know what controlled
+flight into terrain means?
+
+71
+00:03:15,054 --> 00:03:18,512
+AUDIENCE: There's no instrument
+error or adverse weather,
+
+72
+00:03:18,512 --> 00:03:22,000
+but mostly human error
+that would be playing
+
+73
+00:03:22,000 --> 00:03:23,687
+into [INAUDIBLE] something.
+
+74
+00:03:23,687 --> 00:03:25,270
+TINA SRIVASTAVA:
+Yeah, so what he said
+
+75
+00:03:25,270 --> 00:03:29,740
+was that there's no instrument
+error and it's pilot error.
+
+76
+00:03:29,740 --> 00:03:32,240
+So it's not necessarily that
+it means that it's pilot error.
+
+77
+00:03:32,240 --> 00:03:34,360
+But what it's saying is that
+there's nothing physically
+
+78
+00:03:34,360 --> 00:03:35,360
+wrong with the aircraft.
+
+79
+00:03:35,360 --> 00:03:37,660
+So it's not that
+the engine broke.
+
+80
+00:03:37,660 --> 00:03:39,370
+It's not like the case
+with Captain Sully
+
+81
+00:03:39,370 --> 00:03:42,110
+where birds were
+ingested into the engines
+
+82
+00:03:42,110 --> 00:03:43,790
+and the engine stopped working.
+
+83
+00:03:43,790 --> 00:03:47,020
+But it is the case that a
+fully functional aircraft
+
+84
+00:03:47,020 --> 00:03:50,830
+was flown into terrain, into a
+mountain, or into the ground.
+
+85
+00:03:50,830 --> 00:03:52,210
+So why does that happen?
+
+86
+00:03:56,650 --> 00:04:00,060
+So as we just heard,
+it's the pilot's fault
+
+87
+00:04:00,060 --> 00:04:03,150
+is one of the most
+common answers.
+
+88
+00:04:03,150 --> 00:04:05,250
+They attribute things
+to pilot error.
+
+89
+00:04:05,250 --> 00:04:07,770
+And the NTSB does this a lot.
+
+90
+00:04:07,770 --> 00:04:10,290
+If you watch the movie
+about Captain Sully,
+
+91
+00:04:10,290 --> 00:04:13,230
+it made it seem like the NTSB
+was out to get him as well.
+
+92
+00:04:13,230 --> 00:04:15,420
+I've heard the reality is
+that they were much more
+
+93
+00:04:15,420 --> 00:04:17,130
+friendly towards him.
+
+94
+00:04:17,130 --> 00:04:20,519
+But the situation is that
+that's kind of a natural thing
+
+95
+00:04:20,519 --> 00:04:22,440
+that they have to explore.
+
+96
+00:04:22,440 --> 00:04:24,510
+They ultimately found
+that he wasn't at fault,
+
+97
+00:04:24,510 --> 00:04:29,290
+but that becomes a big issue.
+
+98
+00:04:29,290 --> 00:04:32,350
+So I don't think that it's
+always the case, again,
+
+99
+00:04:32,350 --> 00:04:33,710
+that it's pilot error.
+
+100
+00:04:33,710 --> 00:04:36,620
+Please take 16.400
+and look into that.
+
+101
+00:04:36,620 --> 00:04:40,120
+But for the purposes of this
+class, for being a pilot,
+
+102
+00:04:40,120 --> 00:04:41,923
+you need to be aware
+of all the things
+
+103
+00:04:41,923 --> 00:04:43,090
+that are under your control.
+
+104
+00:04:43,090 --> 00:04:45,088
+How do you get a really
+good weather briefing?
+
+105
+00:04:45,088 --> 00:04:46,630
+How do you make sure
+you're prepared,
+
+106
+00:04:46,630 --> 00:04:51,220
+so that it is not your fault and
+you don't have any accidents?
+
+107
+00:04:51,220 --> 00:04:54,430
+So just to get you in the
+zone for the types of things
+
+108
+00:04:54,430 --> 00:04:57,850
+we're going to discuss today,
+here's a practice question.
+
+109
+00:04:57,850 --> 00:04:59,820
+I just want to see where
+people are on this.
+
+110
+00:04:59,820 --> 00:05:01,570
+I know I haven't taught
+it yet, but I just
+
+111
+00:05:01,570 --> 00:05:03,820
+want to know what you
+think the answer is
+
+112
+00:05:03,820 --> 00:05:06,220
+so I know how much time
+to spend on these topics
+
+113
+00:05:06,220 --> 00:05:08,453
+in the next couple slides.
+
+114
+00:05:08,453 --> 00:05:09,870
+I'll give you a
+chance to read it.
+
+115
+00:05:25,870 --> 00:05:27,650
+OK, so how many
+people think it's A?
+
+116
+00:05:30,891 --> 00:05:33,090
+All right, how many
+people think it's B?
+
+117
+00:05:36,100 --> 00:05:40,400
+We had movement on B, but nobody
+fully raised the arm on B.
+
+118
+00:05:40,400 --> 00:05:43,080
+All right, C?
+
+119
+00:05:43,080 --> 00:05:48,850
+Lot of hands raised on C.
+All right, how about D?
+
+120
+00:05:48,850 --> 00:05:50,600
+Now that everybody
+raise their hands on C,
+
+121
+00:05:50,600 --> 00:05:53,690
+almost no one wants
+to admit D. All right,
+
+122
+00:05:53,690 --> 00:05:57,390
+so it is, in fact,
+spatial disorientation.
+
+123
+00:05:57,390 --> 00:06:00,810
+So we're going to talk about the
+first half aeromedical factors.
+
+124
+00:06:00,810 --> 00:06:02,010
+And then we'll take a break.
+
+125
+00:06:02,010 --> 00:06:05,160
+And then we'll get into the
+aeronautical decision-making.
+
+126
+00:06:05,160 --> 00:06:07,860
+All right, so
+aeromedical factors,
+
+127
+00:06:07,860 --> 00:06:09,810
+so Philip has already
+talked about some
+
+128
+00:06:09,810 --> 00:06:11,700
+of the regulations
+associated with getting
+
+129
+00:06:11,700 --> 00:06:16,500
+your medical certificate and
+having an EMT or an aviation
+
+130
+00:06:16,500 --> 00:06:20,830
+medical examiner
+basically check you out.
+
+131
+00:06:20,830 --> 00:06:24,810
+So there are a lot of
+physiological factors
+
+132
+00:06:24,810 --> 00:06:26,340
+that can affect a pilot.
+
+133
+00:06:26,340 --> 00:06:29,640
+And some of those you know are
+unrelated to that medical exam
+
+134
+00:06:29,640 --> 00:06:31,910
+that can happen to any of us.
+
+135
+00:06:31,910 --> 00:06:35,780
+So we're going to go through
+the ones that are listed here.
+
+136
+00:06:35,780 --> 00:06:40,000
+So hypoxia, it
+basically is related
+
+137
+00:06:40,000 --> 00:06:43,360
+to not having enough
+oxygen, or having a reduced
+
+138
+00:06:43,360 --> 00:06:45,790
+amount of oxygen.
+And there are a lot
+
+139
+00:06:45,790 --> 00:06:47,530
+of different types of hypoxia.
+
+140
+00:06:47,530 --> 00:06:50,170
+And it results in a
+lot of disorientation.
+
+141
+00:06:50,170 --> 00:06:52,600
+A lot of things that you
+would be able to do normally,
+
+142
+00:06:52,600 --> 00:06:55,490
+you won't be able to do in
+those types of conditions.
+
+143
+00:06:55,490 --> 00:06:59,020
+So impaired judgment, visual
+impairment drowsiness,
+
+144
+00:06:59,020 --> 00:07:05,630
+a lot of issues can happen if
+you're under that situation.
+
+145
+00:07:05,630 --> 00:07:07,771
+So let's see if we've
+got this video going.
+
+146
+00:07:07,771 --> 00:07:08,438
+[VIDEO PLAYBACK]
+
+147
+00:07:08,438 --> 00:07:10,146
+- And as you feel your
+symptoms, go ahead
+
+148
+00:07:10,146 --> 00:07:11,432
+and list what they are.
+
+149
+00:07:11,432 --> 00:07:13,428
+- Six of spades.
+
+150
+00:07:13,428 --> 00:07:14,925
+Six of spades.
+
+151
+00:07:14,925 --> 00:07:17,120
+No symptoms yet.
+
+152
+00:07:17,120 --> 00:07:18,870
+TINA SRIVASTAVA: He's
+taking off his mask.
+
+153
+00:07:18,870 --> 00:07:20,340
+So he doesn't have the oxygen.
+
+154
+00:07:20,340 --> 00:07:24,316
+- Two of hearts.
+
+155
+00:07:24,316 --> 00:07:31,771
+- Do you have any
+of air [INAUDIBLE]
+
+156
+00:07:31,771 --> 00:07:36,533
+- I think I have tinkling in
+my toes, in my toes, in my...
+
+157
+00:07:36,533 --> 00:07:39,723
+- What was the last question?
+
+158
+00:07:39,723 --> 00:07:41,711
+- What was the last card?
+
+159
+00:07:46,681 --> 00:07:48,440
+- Four of spades.
+
+160
+00:07:48,440 --> 00:07:50,226
+Tingling in the toes right now.
+
+161
+00:07:50,226 --> 00:07:56,595
+- [INAUDIBLE]
+
+162
+00:07:56,595 --> 00:07:58,720
+TINA SRIVASTAVA: So if you
+heard what he just said,
+
+163
+00:07:58,720 --> 00:08:02,260
+he's feeling tinkling in his
+toes, tingling in his toes.
+
+164
+00:08:07,040 --> 00:08:08,962
+- Four of spades.
+
+165
+00:08:08,962 --> 00:08:11,249
+- What are you symptoms.
+
+166
+00:08:11,249 --> 00:08:12,720
+- Four-- Four of spades.
+
+167
+00:08:12,720 --> 00:08:14,048
+Four of spades.
+
+168
+00:08:16,765 --> 00:08:18,494
+- What are your symptoms?
+
+169
+00:08:24,930 --> 00:08:28,020
+- What are you
+feeling right now, 14?
+
+170
+00:08:28,020 --> 00:08:30,030
+- Five of spades,
+five of spades.
+
+171
+00:08:30,030 --> 00:08:30,592
+- Good.
+
+172
+00:08:30,592 --> 00:08:32,830
+[INAUDIBLE]
+
+173
+00:08:32,830 --> 00:08:34,100
+- What do you feel, Sir?
+
+174
+00:08:37,182 --> 00:08:37,890
+- Four of spades.
+
+175
+00:08:37,890 --> 00:08:39,125
+Four of spades.
+
+176
+00:08:42,450 --> 00:08:45,310
+- What's your symptoms, sir?
+
+177
+00:08:45,310 --> 00:08:47,610
+- What are you feeling, 14?
+
+178
+00:08:47,610 --> 00:08:51,450
+- Four-- four of
+spades, four of spades.
+
+179
+00:08:51,450 --> 00:08:54,610
+- What's your symptoms, sir?
+
+180
+00:08:54,610 --> 00:08:56,480
+- Four of spades, four
+of spades right now.
+
+181
+00:08:59,959 --> 00:09:02,941
+- Where did you get the
+card that you're looking at.
+
+182
+00:09:09,402 --> 00:09:11,390
+What card is that?
+
+183
+00:09:11,390 --> 00:09:13,875
+- This is four of spades.
+
+184
+00:09:13,875 --> 00:09:15,863
+- [INAUDIBLE]
+
+185
+00:09:15,863 --> 00:09:17,777
+- Four of spades,
+four of spades.
+
+186
+00:09:17,777 --> 00:09:18,360
+[END PLAYBACK]
+
+187
+00:09:18,360 --> 00:09:20,930
+TINA SRIVASTAVA: I'll let
+you watch the whole thing.
+
+188
+00:09:20,930 --> 00:09:22,740
+It basically just
+gets a lot worse.
+
+189
+00:09:22,740 --> 00:09:24,360
+But you can see--
+
+190
+00:09:24,360 --> 00:09:26,760
+and one of the biggest
+problems is also maybe
+
+191
+00:09:26,760 --> 00:09:29,530
+not being able to realize
+that there is a problem.
+
+192
+00:09:29,530 --> 00:09:34,290
+So that's what makes it
+even more of an issue.
+
+193
+00:09:34,290 --> 00:09:37,230
+Another issue is carbon
+monoxide poisoning.
+
+194
+00:09:37,230 --> 00:09:40,740
+So this can actually
+happen in the aircraft
+
+195
+00:09:40,740 --> 00:09:44,850
+that you fly just based on
+where the heat comes in.
+
+196
+00:09:44,850 --> 00:09:48,660
+And you get
+headache, drowsiness,
+
+197
+00:09:48,660 --> 00:09:50,710
+a lot of issues
+there, blurred vision.
+
+198
+00:09:50,710 --> 00:09:52,110
+The way to detect
+that is there's
+
+199
+00:09:52,110 --> 00:09:57,090
+actually a CO detector, a
+carbon monoxide detector,
+
+200
+00:09:57,090 --> 00:09:58,480
+inside the aircraft.
+
+201
+00:09:58,480 --> 00:10:02,040
+And so when that middle
+part becomes very dark,
+
+202
+00:10:02,040 --> 00:10:05,590
+then you'll know that
+there's an issue.
+
+203
+00:10:05,590 --> 00:10:08,250
+And so it's good to know
+what the symptoms are.
+
+204
+00:10:08,250 --> 00:10:11,580
+So if you're starting to
+experience those symptoms,
+
+205
+00:10:11,580 --> 00:10:13,300
+you know what the problem is.
+
+206
+00:10:13,300 --> 00:10:16,170
+And you can, for
+example, open your window
+
+207
+00:10:16,170 --> 00:10:19,290
+to get some fresh air
+into the aircraft.
+
+208
+00:10:19,290 --> 00:10:22,950
+Some aircraft, even
+certain Cirruses
+
+209
+00:10:22,950 --> 00:10:26,620
+have supplemental oxygen. So
+you can use that as an option
+
+210
+00:10:26,620 --> 00:10:27,120
+as well.
+
+211
+00:10:31,850 --> 00:10:33,533
+There's another video.
+
+212
+00:10:33,533 --> 00:10:35,450
+Just for time, I'm not
+going to go through it.
+
+213
+00:10:35,450 --> 00:10:39,330
+But there's a lot of issues
+associated with high G-force.
+
+214
+00:10:39,330 --> 00:10:44,100
+And you might have seen some
+things with the Top Gun, which
+
+215
+00:10:44,100 --> 00:10:46,943
+we heard from Laz is a
+terrible representation.
+
+216
+00:10:46,943 --> 00:10:48,360
+But even on that
+one, when they're
+
+217
+00:10:48,360 --> 00:10:51,870
+pulling high-G maneuvers, we've
+seen loss of consciousness
+
+218
+00:10:51,870 --> 00:10:54,180
+and other issues.
+
+219
+00:10:54,180 --> 00:10:56,430
+Another one that you might
+have actually heard of this
+
+220
+00:10:56,430 --> 00:10:58,470
+before is hyperventilation.
+
+221
+00:10:58,470 --> 00:11:02,260
+Some people here on the
+ground experience this.
+
+222
+00:11:02,260 --> 00:11:06,480
+And so you might just be over
+anxious, breathing too quickly.
+
+223
+00:11:06,480 --> 00:11:08,727
+It makes you not be able
+to breathe properly.
+
+224
+00:11:08,727 --> 00:11:10,560
+You might need to just
+sort of take a break,
+
+225
+00:11:10,560 --> 00:11:11,940
+breathe into a bag.
+
+226
+00:11:11,940 --> 00:11:17,190
+Another good reason to
+have a co-pilot with you.
+
+227
+00:11:17,190 --> 00:11:21,000
+So a lot of the issues in terms
+of the disorientation that you
+
+228
+00:11:21,000 --> 00:11:25,150
+face are somehow related to
+how your inner ear works.
+
+229
+00:11:25,150 --> 00:11:28,080
+So the fluid in your inner
+ear is sort of related
+
+230
+00:11:28,080 --> 00:11:32,700
+to how you feel motion.
+
+231
+00:11:32,700 --> 00:11:34,710
+So I won't get into the details.
+
+232
+00:11:34,710 --> 00:11:39,220
+You don't actually have to
+know a ton of detail about it.
+
+233
+00:11:39,220 --> 00:11:44,310
+But one thing to know in
+terms of how you feel motion
+
+234
+00:11:44,310 --> 00:11:49,530
+is that you have fluid
+moving in your ear canal.
+
+235
+00:11:49,530 --> 00:11:51,760
+You can't actually
+really detect the fluid.
+
+236
+00:11:51,760 --> 00:11:56,890
+What happens is you have these
+little hairs that come up.
+
+237
+00:11:56,890 --> 00:12:01,320
+And so when the fluid
+changes direction--
+
+238
+00:12:01,320 --> 00:12:03,690
+so let's say that the
+fluid starts moving
+
+239
+00:12:03,690 --> 00:12:05,640
+in a particular direction.
+
+240
+00:12:05,640 --> 00:12:11,530
+Then all these hair
+pieces start moving,
+
+241
+00:12:11,530 --> 00:12:14,510
+and so you feel that motion.
+
+242
+00:12:14,510 --> 00:12:19,150
+Now, the fluid can continue
+to move in that direction.
+
+243
+00:12:19,150 --> 00:12:25,540
+But over time,
+the hair follicles
+
+244
+00:12:25,540 --> 00:12:28,630
+will basically resume
+where they are.
+
+245
+00:12:28,630 --> 00:12:31,690
+They won't feel
+motion occurring.
+
+246
+00:12:31,690 --> 00:12:34,520
+Or they'll basically
+be stagnant.
+
+247
+00:12:34,520 --> 00:12:36,710
+So it could be the case
+that the fluid is moving,
+
+248
+00:12:36,710 --> 00:12:40,390
+and the hair is
+sitting like this.
+
+249
+00:12:40,390 --> 00:12:49,060
+Now, all of a sudden, when
+the fluid stops moving,
+
+250
+00:12:49,060 --> 00:12:54,430
+the hair tries to just
+return to its previous state.
+
+251
+00:12:54,430 --> 00:12:56,680
+And when that happens,
+you might actually
+
+252
+00:12:56,680 --> 00:13:01,190
+think that you've started
+moving in the other direction.
+
+253
+00:13:01,190 --> 00:13:04,090
+So this is an issue
+where, basically,
+
+254
+00:13:04,090 --> 00:13:07,780
+if you are flying along
+and you start turning
+
+255
+00:13:07,780 --> 00:13:11,200
+and you're in a
+constant rate turn,
+
+256
+00:13:11,200 --> 00:13:15,340
+you might start feeling
+like you're not turning.
+
+257
+00:13:15,340 --> 00:13:18,580
+And then, when you come out
+of that turn-- so you roll out
+
+258
+00:13:18,580 --> 00:13:20,590
+and now you're straight
+and level again,
+
+259
+00:13:20,590 --> 00:13:24,940
+you feel like you have just
+started turning to the right.
+
+260
+00:13:24,940 --> 00:13:27,220
+So even though now you're
+flying straight and level,
+
+261
+00:13:27,220 --> 00:13:30,820
+your ear is telling you that
+you've turned to the right.
+
+262
+00:13:30,820 --> 00:13:34,180
+And so you tried to correct that
+by turning back to the left.
+
+263
+00:13:34,180 --> 00:13:37,480
+So it might be the case that
+your airplane's actual motion
+
+264
+00:13:37,480 --> 00:13:40,623
+was constant rate turned to the
+left and then it flattened out,
+
+265
+00:13:40,623 --> 00:13:42,040
+but you don't
+realize you're flat.
+
+266
+00:13:42,040 --> 00:13:44,330
+So you start turning again.
+
+267
+00:13:44,330 --> 00:13:46,510
+So these are reasons
+why you don't
+
+268
+00:13:46,510 --> 00:13:48,640
+want to rely on your inner ear.
+
+269
+00:13:48,640 --> 00:13:51,970
+People refer to it as flying
+by the seat of your pants--
+
+270
+00:13:51,970 --> 00:13:53,800
+basically, what
+you feel as opposed
+
+271
+00:13:53,800 --> 00:13:55,150
+to looking at the instruments.
+
+272
+00:13:55,150 --> 00:13:56,740
+But actually, the
+seat of your pants
+
+273
+00:13:56,740 --> 00:13:59,140
+is primarily your inner
+ear is what's giving you
+
+274
+00:13:59,140 --> 00:14:01,660
+all these indications.
+
+275
+00:14:01,660 --> 00:14:03,190
+So there's a lot
+of things that can
+
+276
+00:14:03,190 --> 00:14:05,145
+contribute to disorientation.
+
+277
+00:14:05,145 --> 00:14:06,520
+So we already
+talked a little bit
+
+278
+00:14:06,520 --> 00:14:08,352
+about spatial disorientation.
+
+279
+00:14:08,352 --> 00:14:10,060
+Well, there are a lot
+of things that-- we
+
+280
+00:14:10,060 --> 00:14:12,520
+talked about the
+vestibular system, which
+
+281
+00:14:12,520 --> 00:14:13,600
+is that inner ear.
+
+282
+00:14:13,600 --> 00:14:18,370
+But also even visual
+cues can cause
+
+283
+00:14:18,370 --> 00:14:21,340
+you to have spatial
+disorientation, and then
+
+284
+00:14:21,340 --> 00:14:23,290
+the feeling on your
+skin, so, you know,
+
+285
+00:14:23,290 --> 00:14:27,950
+how much you're pressuring
+against the seat, for example.
+
+286
+00:14:27,950 --> 00:14:31,120
+So one thing about
+spatial disorientation
+
+287
+00:14:31,120 --> 00:14:35,290
+is that when you're flying and
+you're looking out the window,
+
+288
+00:14:35,290 --> 00:14:38,020
+your eyes are a big part
+of your orientation.
+
+289
+00:14:38,020 --> 00:14:39,730
+So you're looking
+at the horizon,
+
+290
+00:14:39,730 --> 00:14:42,040
+and if the horizon is tilted,
+you think you're turning.
+
+291
+00:14:42,040 --> 00:14:44,930
+That's how you determine
+what's going on.
+
+292
+00:14:44,930 --> 00:14:46,360
+But there are a
+lot of false cues
+
+293
+00:14:46,360 --> 00:14:49,780
+you can get from
+looking outside.
+
+294
+00:14:49,780 --> 00:14:53,070
+So one thing is that--
+
+295
+00:14:53,070 --> 00:14:56,620
+and we spent a little bit of
+time talking about IFR flight
+
+296
+00:14:56,620 --> 00:14:59,650
+earlier today, where you
+can't see outside the airplane
+
+297
+00:14:59,650 --> 00:15:01,750
+and you're just relying
+on your instruments.
+
+298
+00:15:01,750 --> 00:15:04,030
+Well, it's also good
+to do a reference
+
+299
+00:15:04,030 --> 00:15:06,910
+check of your instruments
+because of some of the tricks
+
+300
+00:15:06,910 --> 00:15:09,500
+your eyes can play on you.
+
+301
+00:15:09,500 --> 00:15:13,720
+So, for example, if there
+is a low cloud layer that's
+
+302
+00:15:13,720 --> 00:15:16,900
+kind of tilted, the
+horizon might look tilted
+
+303
+00:15:16,900 --> 00:15:17,955
+and may not look flat.
+
+304
+00:15:17,955 --> 00:15:20,080
+And you might think you're
+tilted when you're flat.
+
+305
+00:15:20,080 --> 00:15:22,740
+Or you might think you're
+flat when you're tilted.
+
+306
+00:15:22,740 --> 00:15:24,620
+There is also other--
+
+307
+00:15:24,620 --> 00:15:29,570
+because of the motion in your
+inner ear when you actually
+
+308
+00:15:29,570 --> 00:15:32,420
+have a motion in one direction,
+if you actually turn over,
+
+309
+00:15:32,420 --> 00:15:36,200
+if you bend your head down,
+so let's say you're writing
+
+310
+00:15:36,200 --> 00:15:38,120
+with a pencil
+while you're flying
+
+311
+00:15:38,120 --> 00:15:41,000
+and you dropped your pencil,
+well, when you bend down,
+
+312
+00:15:41,000 --> 00:15:44,550
+you actually feel emotions
+that don't actually exist.
+
+313
+00:15:44,550 --> 00:15:46,760
+You might think you're
+sort of tumbling.
+
+314
+00:15:46,760 --> 00:15:49,520
+And so that's really not good.
+
+315
+00:15:49,520 --> 00:15:51,020
+Actually, if you
+fly out of Hanscom,
+
+316
+00:15:51,020 --> 00:15:53,000
+you have to wear a badge anyway.
+
+317
+00:15:53,000 --> 00:15:54,380
+And so you have a lanyard.
+
+318
+00:15:54,380 --> 00:15:57,500
+Maybe you clip your
+pencil to that lanyard
+
+319
+00:15:57,500 --> 00:15:59,000
+or do whatever you
+can such that you
+
+320
+00:15:59,000 --> 00:16:01,670
+can reach everything you need
+to reach without physically
+
+321
+00:16:01,670 --> 00:16:03,020
+bending over.
+
+322
+00:16:03,020 --> 00:16:06,530
+Or if you have a
+co-pilot that is also
+
+323
+00:16:06,530 --> 00:16:08,750
+could be a pilot in
+command or safety pilot,
+
+324
+00:16:08,750 --> 00:16:11,090
+you can ask them
+to take control.
+
+325
+00:16:11,090 --> 00:16:13,490
+And we talked about positive
+exchange of controls.
+
+326
+00:16:13,490 --> 00:16:15,440
+Ask them to take
+control of the aircraft
+
+327
+00:16:15,440 --> 00:16:17,750
+before you reach down
+to pick up something,
+
+328
+00:16:17,750 --> 00:16:20,210
+because it can have a more
+significant effect than you
+
+329
+00:16:20,210 --> 00:16:22,810
+think it will.
+
+330
+00:16:22,810 --> 00:16:27,640
+And I will reserve some of
+the aerobatic talk for Mark
+
+331
+00:16:27,640 --> 00:16:30,760
+to discuss some of these
+with you in more detail.
+
+332
+00:16:33,143 --> 00:16:34,810
+PHILIP GREENSPUN:
+Tina was talking trash
+
+333
+00:16:34,810 --> 00:16:35,780
+about the autopilot.
+
+334
+00:16:35,780 --> 00:16:39,280
+But that's also a good
+argument for if you
+
+335
+00:16:39,280 --> 00:16:41,140
+have to bend down and
+get something, take
+
+336
+00:16:41,140 --> 00:16:43,057
+your hands off the
+controls completely, that's
+
+337
+00:16:43,057 --> 00:16:46,330
+better than leaving them on
+while you're fishing around
+
+338
+00:16:46,330 --> 00:16:47,150
+for something.
+
+339
+00:16:47,150 --> 00:16:49,660
+And if you have an
+autopilot, yet better.
+
+340
+00:16:51,863 --> 00:16:54,280
+TINA SRIVASTAVA: I think the
+autopilot is a very important
+
+341
+00:16:54,280 --> 00:16:56,050
+tool to use when you're flying.
+
+342
+00:16:56,050 --> 00:16:58,030
+I was just cautioning
+against it--
+
+343
+00:16:58,030 --> 00:17:01,900
+again, when I was flying on my
+check ride with Mark up there,
+
+344
+00:17:01,900 --> 00:17:04,819
+mysteriously, the
+autopilot stopped working.
+
+345
+00:17:04,819 --> 00:17:07,180
+And I had to perform
+everything without it.
+
+346
+00:17:07,180 --> 00:17:08,700
+So you can't rely on that.
+
+347
+00:17:08,700 --> 00:17:10,450
+When you're flying,
+it could stop working.
+
+348
+00:17:10,450 --> 00:17:14,470
+But also your check ride pilot
+will not let you use one.
+
+349
+00:17:14,470 --> 00:17:16,210
+So this is something
+once you're flying,
+
+350
+00:17:16,210 --> 00:17:17,710
+and you can even
+ask your instructor
+
+351
+00:17:17,710 --> 00:17:19,420
+to help you with
+that, to actually get
+
+352
+00:17:19,420 --> 00:17:21,609
+a sense of these
+disorientation, you
+
+353
+00:17:21,609 --> 00:17:24,760
+can try you know climbing
+while accelerating, climbing
+
+354
+00:17:24,760 --> 00:17:27,099
+while turning, these
+different types of motions,
+
+355
+00:17:27,099 --> 00:17:29,163
+and also consider
+moving your head,
+
+356
+00:17:29,163 --> 00:17:31,330
+making sure the other person
+has the flight controls
+
+357
+00:17:31,330 --> 00:17:34,300
+to experience some
+of these motions.
+
+358
+00:17:34,300 --> 00:17:36,190
+Or if you like,
+over near, I think,
+
+359
+00:17:36,190 --> 00:17:39,250
+Building 33 or Building
+35, they have a centrifuge,
+
+360
+00:17:39,250 --> 00:17:43,680
+and you can experience a
+lot of these things as well.
+
+361
+00:17:43,680 --> 00:17:46,410
+So how do you deal with
+all these disorientation
+
+362
+00:17:46,410 --> 00:17:47,710
+that are happening?
+
+363
+00:17:47,710 --> 00:17:50,160
+One is just being aware of
+the causes of them help,
+
+364
+00:17:50,160 --> 00:17:53,070
+making sure you know
+that they're there,
+
+365
+00:17:53,070 --> 00:17:57,100
+getting briefings in advance
+so you know what's happening.
+
+366
+00:17:57,100 --> 00:18:00,088
+And, really, try to avoid
+sudden head movements
+
+367
+00:18:00,088 --> 00:18:00,880
+when you're flying.
+
+368
+00:18:00,880 --> 00:18:03,420
+So we've talked about scanning
+and looking for traffic,
+
+369
+00:18:03,420 --> 00:18:06,420
+but avoid very sudden head
+movements while you're flying,
+
+370
+00:18:06,420 --> 00:18:07,710
+because you are moving.
+
+371
+00:18:07,710 --> 00:18:10,235
+And it can cause you to
+have a lot of effects.
+
+372
+00:18:10,235 --> 00:18:12,360
+And then the other thing
+is just being well rested,
+
+373
+00:18:12,360 --> 00:18:13,320
+eating properly.
+
+374
+00:18:13,320 --> 00:18:15,240
+If you're hungry,
+if you're tired,
+
+375
+00:18:15,240 --> 00:18:17,280
+your body is not at its best.
+
+376
+00:18:17,280 --> 00:18:19,260
+It can also contribute.
+
+377
+00:18:19,260 --> 00:18:21,210
+So here are just
+some more examples
+
+378
+00:18:21,210 --> 00:18:23,903
+of the visual illusions.
+
+379
+00:18:23,903 --> 00:18:25,320
+And then there are
+also times when
+
+380
+00:18:25,320 --> 00:18:26,850
+the visual illusions are worse.
+
+381
+00:18:26,850 --> 00:18:29,400
+So nighttime, we're going to
+have a whole section of night
+
+382
+00:18:29,400 --> 00:18:30,420
+flying tomorrow.
+
+383
+00:18:30,420 --> 00:18:32,460
+But as it relates
+to human factors,
+
+384
+00:18:32,460 --> 00:18:35,490
+I will say that you might
+think you're coming in
+
+385
+00:18:35,490 --> 00:18:37,920
+towards the airport,
+but you're actually
+
+386
+00:18:37,920 --> 00:18:41,100
+seeing a cluster of lights
+that's a city somewhere else.
+
+387
+00:18:41,100 --> 00:18:43,342
+You might start going
+to the wrong place.
+
+388
+00:18:43,342 --> 00:18:45,300
+If you don't keep
+referencing your instruments,
+
+389
+00:18:45,300 --> 00:18:48,180
+you might not notice that
+you're kind of off track.
+
+390
+00:18:48,180 --> 00:18:50,580
+I'll give you one tip, though.
+
+391
+00:18:50,580 --> 00:18:52,020
+I was flying to Hyannis.
+
+392
+00:18:52,020 --> 00:18:56,370
+Hyannis is a city right
+at the base of the Cape
+
+393
+00:18:56,370 --> 00:18:58,890
+before you go all the way
+down the arm of the Cape.
+
+394
+00:18:58,890 --> 00:19:01,380
+And there's a great
+restaurant there right next
+
+395
+00:19:01,380 --> 00:19:04,290
+to the Hyannis airport, a
+little French restaurant.
+
+396
+00:19:04,290 --> 00:19:06,870
+During the day, they have
+kind of little sandwiches
+
+397
+00:19:06,870 --> 00:19:07,530
+and pastries.
+
+398
+00:19:07,530 --> 00:19:10,630
+And at night, it becomes kind
+of a nicer French restaurant.
+
+399
+00:19:10,630 --> 00:19:12,720
+So I was actually
+flying there at night.
+
+400
+00:19:12,720 --> 00:19:15,960
+And coming into Hyannis, I was
+having a little bit of issue
+
+401
+00:19:15,960 --> 00:19:18,210
+because my heading
+indicator kept processing
+
+402
+00:19:18,210 --> 00:19:19,865
+and I wasn't sure exactly--
+
+403
+00:19:19,865 --> 00:19:21,240
+and things happened
+very quickly,
+
+404
+00:19:21,240 --> 00:19:23,847
+because I'd been talking
+about the Bravo clearance,
+
+405
+00:19:23,847 --> 00:19:25,430
+because going from
+Bedford over there,
+
+406
+00:19:25,430 --> 00:19:27,780
+you're talking to
+all these controllers
+
+407
+00:19:27,780 --> 00:19:29,578
+and worrying about
+your altitude.
+
+408
+00:19:29,578 --> 00:19:30,870
+And so there's a lot happening.
+
+409
+00:19:30,870 --> 00:19:33,660
+And as I got close to
+the Hyannis airport,
+
+410
+00:19:33,660 --> 00:19:36,840
+I wasn't exactly sure that I was
+going for the-- they have two
+
+411
+00:19:36,840 --> 00:19:38,670
+different intersecting runways.
+
+412
+00:19:38,670 --> 00:19:40,380
+I wasn't exactly
+sure I was lined up
+
+413
+00:19:40,380 --> 00:19:41,790
+for the correct runway.
+
+414
+00:19:41,790 --> 00:19:43,800
+So I just talked to
+the tower controller.
+
+415
+00:19:43,800 --> 00:19:46,090
+And I told them that I
+was having this issue.
+
+416
+00:19:46,090 --> 00:19:48,900
+And so they lit up
+the runway that I
+
+417
+00:19:48,900 --> 00:19:51,180
+was trying to land at very
+bright just for a moment
+
+418
+00:19:51,180 --> 00:19:55,037
+so I could get oriented
+and get myself situated.
+
+419
+00:19:55,037 --> 00:19:55,870
+That was very great.
+
+420
+00:19:55,870 --> 00:20:00,120
+So good also to use other
+people, whether it's the flight
+
+421
+00:20:00,120 --> 00:20:03,030
+service folks or the
+tower folks to give you
+
+422
+00:20:03,030 --> 00:20:04,080
+help when you need it.
+
+423
+00:20:09,160 --> 00:20:12,092
+So this is also just another
+thing that happens at night.
+
+424
+00:20:12,092 --> 00:20:14,050
+And we'll talk about this
+with the night flying
+
+425
+00:20:14,050 --> 00:20:17,970
+that sometimes a stationary
+light can appear to move.
+
+426
+00:20:17,970 --> 00:20:19,220
+And so you have to be careful.
+
+427
+00:20:19,220 --> 00:20:22,200
+Don't trust everything you see.
+
+428
+00:20:22,200 --> 00:20:24,240
+A big one in terms of
+an optical illusion,
+
+429
+00:20:24,240 --> 00:20:28,870
+whether it's day or night, is
+that if a runway is not flat,
+
+430
+00:20:28,870 --> 00:20:32,700
+but it's actually inclined
+going up or inclined going down,
+
+431
+00:20:32,700 --> 00:20:35,130
+not only as it relates to
+performance when we're talking
+
+432
+00:20:35,130 --> 00:20:37,110
+about how long it
+takes you to land,
+
+433
+00:20:37,110 --> 00:20:39,000
+but also as you're
+coming in, you
+
+434
+00:20:39,000 --> 00:20:42,460
+might think that you're a
+different place than you are.
+
+435
+00:20:42,460 --> 00:20:46,620
+This is also the case if the
+runway is wider or narrower
+
+436
+00:20:46,620 --> 00:20:47,610
+than you're used to.
+
+437
+00:20:47,610 --> 00:20:50,010
+So at Hanscom, you might
+have very wide runways.
+
+438
+00:20:50,010 --> 00:20:53,220
+If you fly out of Beverly,
+you have narrower runways.
+
+439
+00:20:53,220 --> 00:20:55,320
+So just that
+difference can make you
+
+440
+00:20:55,320 --> 00:20:57,300
+think you're at a
+different orientation
+
+441
+00:20:57,300 --> 00:20:59,500
+or you're higher or
+lower than where you are.
+
+442
+00:20:59,500 --> 00:21:00,540
+PHILIP GREENSPUN: Tina, can
+you go back to that one?
+
+443
+00:21:00,540 --> 00:21:03,087
+So basically, they're saying
+if the runway is sloped
+
+444
+00:21:03,087 --> 00:21:04,920
+and you rely on your
+ordinary sight picture,
+
+445
+00:21:04,920 --> 00:21:09,443
+you might follow a higher or
+lower than standard guide path.
+
+446
+00:21:09,443 --> 00:21:10,860
+TINA SRIVASTAVA:
+Yeah, absolutely.
+
+447
+00:21:10,860 --> 00:21:14,730
+So what it's saying,
+the top one is
+
+448
+00:21:14,730 --> 00:21:16,440
+showing that, you
+know, obviously,
+
+449
+00:21:16,440 --> 00:21:17,790
+that's just when it's flat.
+
+450
+00:21:17,790 --> 00:21:20,640
+And so when it's
+inclined up, you
+
+451
+00:21:20,640 --> 00:21:23,235
+might you might try
+to be farther away,
+
+452
+00:21:23,235 --> 00:21:24,610
+so that you get
+the same picture.
+
+453
+00:21:24,610 --> 00:21:28,000
+So that the dotted aircraft
+is where you should be.
+
+454
+00:21:28,000 --> 00:21:31,050
+But the solid aircraft is
+where you might actually be,
+
+455
+00:21:31,050 --> 00:21:32,610
+where you're trying
+to compensate
+
+456
+00:21:32,610 --> 00:21:33,615
+because of the illusion.
+
+457
+00:21:37,380 --> 00:21:40,230
+And then, if there's
+a featureless terrain,
+
+458
+00:21:40,230 --> 00:21:42,120
+it can really
+affect you as well.
+
+459
+00:21:42,120 --> 00:21:44,380
+So like right now, we
+have a snowy condition.
+
+460
+00:21:44,380 --> 00:21:46,950
+So it's harder to
+see what's happening.
+
+461
+00:21:46,950 --> 00:21:49,620
+It makes it difficult.
+And in general, it
+
+462
+00:21:49,620 --> 00:21:55,080
+makes you fly a lower
+approach, which is not good.
+
+463
+00:21:55,080 --> 00:21:57,138
+OK, and then just
+a couple more--
+
+464
+00:21:57,138 --> 00:21:58,430
+I won't dive into each of them.
+
+465
+00:21:58,430 --> 00:22:02,510
+But fog or haze, different types
+of things, can cause a mirage
+
+466
+00:22:02,510 --> 00:22:04,040
+or can cause an illusion.
+
+467
+00:22:04,040 --> 00:22:07,370
+And so you really want to keep
+referencing your instruments
+
+468
+00:22:07,370 --> 00:22:10,070
+to make sure you are in
+fact holding the altitude,
+
+469
+00:22:10,070 --> 00:22:13,870
+or use your autopilot
+to help you out.
+
+470
+00:22:13,870 --> 00:22:15,790
+And, of course, any
+reference system,
+
+471
+00:22:15,790 --> 00:22:18,430
+so if you have a
+VASI or a PAPI, those
+
+472
+00:22:18,430 --> 00:22:21,700
+are great tools that even if
+it looks like the runways, one
+
+473
+00:22:21,700 --> 00:22:24,520
+place or the other, if
+the lights are all red,
+
+474
+00:22:24,520 --> 00:22:27,700
+you're too low.
+
+475
+00:22:27,700 --> 00:22:29,420
+OK, another one is
+motion sickness.
+
+476
+00:22:29,420 --> 00:22:32,620
+So one thing I want to tell
+you about motion sickness
+
+477
+00:22:32,620 --> 00:22:35,162
+is when you go up and you take
+your first discovery flight,
+
+478
+00:22:35,162 --> 00:22:37,120
+you come out of this
+class, you're ready to go,
+
+479
+00:22:37,120 --> 00:22:39,070
+you might feel a
+little bit motion sick.
+
+480
+00:22:39,070 --> 00:22:39,670
+And that's OK.
+
+481
+00:22:39,670 --> 00:22:40,780
+You're in a tiny airplane.
+
+482
+00:22:40,780 --> 00:22:43,090
+It might be bouncing
+around a little bit.
+
+483
+00:22:43,090 --> 00:22:45,430
+What I'm here to say
+is that that goes away.
+
+484
+00:22:45,430 --> 00:22:48,070
+You can actually train
+your body to get used to it
+
+485
+00:22:48,070 --> 00:22:50,710
+and kind of get over
+that motion sickness.
+
+486
+00:22:50,710 --> 00:22:53,890
+But, unfortunately, you
+can lose that tolerance
+
+487
+00:22:53,890 --> 00:22:55,720
+that you built up
+if you wait a really
+
+488
+00:22:55,720 --> 00:22:57,100
+long time between flights.
+
+489
+00:23:01,180 --> 00:23:03,070
+I'm at MIT, so I
+don't know how much I
+
+490
+00:23:03,070 --> 00:23:04,540
+need to tell you about stress.
+
+491
+00:23:04,540 --> 00:23:06,820
+I think we all
+know about stress.
+
+492
+00:23:06,820 --> 00:23:09,290
+We have different ways
+of dealing with it.
+
+493
+00:23:09,290 --> 00:23:11,320
+But just as much as it
+affects your ability
+
+494
+00:23:11,320 --> 00:23:13,690
+to take an exam at
+MIT, that stress
+
+495
+00:23:13,690 --> 00:23:17,020
+can also affect your ability
+to fly and think logically
+
+496
+00:23:17,020 --> 00:23:20,393
+as you might need to to do
+aeronautical decision making.
+
+497
+00:23:20,393 --> 00:23:22,060
+PHILIP GREENSPUN: And
+that's a good time
+
+498
+00:23:22,060 --> 00:23:23,685
+to think about whether
+you should bring
+
+499
+00:23:23,685 --> 00:23:25,300
+an instructor along on a trip.
+
+500
+00:23:25,300 --> 00:23:29,120
+You know, if you're tired or
+you're upset about something,
+
+501
+00:23:29,120 --> 00:23:33,218
+then be part of
+a two-pilot crew.
+
+502
+00:23:33,218 --> 00:23:34,260
+TINA SRIVASTAVA: Exactly.
+
+503
+00:23:34,260 --> 00:23:36,280
+Fatigue is a big one.
+
+504
+00:23:36,280 --> 00:23:40,060
+If you do take my advice and
+look at those NTSB reports,
+
+505
+00:23:40,060 --> 00:23:41,880
+a large number of
+them are talking
+
+506
+00:23:41,880 --> 00:23:46,920
+about airline pilots that have
+just been flying for 22 hours
+
+507
+00:23:46,920 --> 00:23:50,460
+and something happens, whereas
+if you really think through it,
+
+508
+00:23:50,460 --> 00:23:53,260
+you know, maybe that issue
+wouldn't have happened,
+
+509
+00:23:53,260 --> 00:23:57,510
+but they're so tired that those
+things result in an issue.
+
+510
+00:23:57,510 --> 00:24:01,530
+So really be mindful of how much
+fatigue can affect your ability
+
+511
+00:24:01,530 --> 00:24:04,430
+to fly and what stresses
+it puts on the pilot.
+
+512
+00:24:07,750 --> 00:24:10,300
+Dehydration and heat
+stroke are big ones.
+
+513
+00:24:10,300 --> 00:24:13,780
+Here, in this area, it gets
+very hot in the summers.
+
+514
+00:24:13,780 --> 00:24:15,460
+Make sure to bring
+a bottle of water
+
+515
+00:24:15,460 --> 00:24:16,930
+with you when you go flying.
+
+516
+00:24:16,930 --> 00:24:18,910
+It can be a big issue.
+
+517
+00:24:18,910 --> 00:24:21,520
+And, you know, if you're
+feeling kind of lightheaded,
+
+518
+00:24:21,520 --> 00:24:23,020
+take a drink of water.
+
+519
+00:24:23,020 --> 00:24:26,600
+It can make a big difference.
+
+520
+00:24:26,600 --> 00:24:29,420
+All right, so no
+alcohol or drugs
+
+521
+00:24:29,420 --> 00:24:32,290
+while flying or before flying.
+
+522
+00:24:32,290 --> 00:24:34,840
+There are some
+specific regulations.
+
+523
+00:24:34,840 --> 00:24:36,860
+They're much more
+strict than driving,
+
+524
+00:24:36,860 --> 00:24:38,370
+which I think is a good thing.
+
+525
+00:24:38,370 --> 00:24:42,530
+So please take a look at that,
+14 CFR Part 91, the blood
+
+526
+00:24:42,530 --> 00:24:45,800
+alcohol level and the
+time since the last drink.
+
+527
+00:24:45,800 --> 00:24:46,920
+It's really not worth it.
+
+528
+00:24:46,920 --> 00:24:48,635
+You're flying as
+a hobby, for fun,
+
+529
+00:24:48,635 --> 00:24:50,010
+don't do something
+that's unsafe.
+
+530
+00:24:53,300 --> 00:24:55,490
+Some of these are
+ways to remember,
+
+531
+00:24:55,490 --> 00:24:58,478
+the bottle to throttle
+examples here.
+
+532
+00:24:58,478 --> 00:25:00,020
+So I'll let you take
+a look at those.
+
+533
+00:25:03,220 --> 00:25:04,477
+Also, don't carry drugs.
+
+534
+00:25:04,477 --> 00:25:06,310
+I don't know if I need
+to elaborate on that.
+
+535
+00:25:09,120 --> 00:25:10,800
+OK, so we talked about vision.
+
+536
+00:25:10,800 --> 00:25:14,290
+Vision is one of the things
+that in your medical exam,
+
+537
+00:25:14,290 --> 00:25:16,050
+you're AME is going
+to look at your vision
+
+538
+00:25:16,050 --> 00:25:18,810
+and test your ability to see.
+
+539
+00:25:18,810 --> 00:25:20,670
+One thing to keep
+in mind is that when
+
+540
+00:25:20,670 --> 00:25:23,220
+you're looking out
+your windshield,
+
+541
+00:25:23,220 --> 00:25:25,980
+you can basically
+kind of zone out.
+
+542
+00:25:25,980 --> 00:25:28,205
+And so you think you're
+looking out your windshield
+
+543
+00:25:28,205 --> 00:25:29,580
+and you're scanning
+for aircraft,
+
+544
+00:25:29,580 --> 00:25:32,500
+but you've sort of
+stopped paying attention.
+
+545
+00:25:32,500 --> 00:25:35,250
+So one thing that they
+recommend you do is actually
+
+546
+00:25:35,250 --> 00:25:38,010
+have a series of very
+specific eye movements.
+
+547
+00:25:38,010 --> 00:25:38,890
+I just moved my head.
+
+548
+00:25:38,890 --> 00:25:40,265
+But, again, don't
+move your head.
+
+549
+00:25:40,265 --> 00:25:44,010
+But kind of look with
+your eyes to scan across,
+
+550
+00:25:44,010 --> 00:25:47,340
+so that you're actually
+specifically deciding
+
+551
+00:25:47,340 --> 00:25:49,830
+and you're specifically
+looking and scanning
+
+552
+00:25:49,830 --> 00:25:51,240
+the air for other aircraft.
+
+553
+00:25:51,240 --> 00:25:52,830
+And tell this to
+your passengers.
+
+554
+00:25:52,830 --> 00:25:56,880
+You don't have to be a trained
+pilot to look for aircraft.
+
+555
+00:25:56,880 --> 00:25:59,160
+I always tell all
+of my passengers.
+
+556
+00:25:59,160 --> 00:26:00,270
+Look out the window.
+
+557
+00:26:00,270 --> 00:26:03,490
+Tell me if you see
+other aircraft.
+
+558
+00:26:03,490 --> 00:26:08,060
+OK, so we're going to dive into
+aeronautical decision-making.
+
+559
+00:26:08,060 --> 00:26:13,180
+One quick thing I'll say is that
+I brought a couple of magazines
+
+560
+00:26:13,180 --> 00:26:14,050
+here.
+
+561
+00:26:14,050 --> 00:26:17,240
+Although some of them are older,
+they have some good content.
+
+562
+00:26:17,240 --> 00:26:20,440
+So this one is about
+aviation safety.
+
+563
+00:26:20,440 --> 00:26:23,350
+For folks today that we're
+interested in the talk
+
+564
+00:26:23,350 --> 00:26:25,720
+about instrument
+flight, there's actually
+
+565
+00:26:25,720 --> 00:26:29,860
+a magazine called IFR Refresher
+and specifically focuses
+
+566
+00:26:29,860 --> 00:26:32,500
+on topics related to
+instrument flight.
+
+567
+00:26:32,500 --> 00:26:37,060
+And then a number of
+these Aviation Safety
+
+568
+00:26:37,060 --> 00:26:39,800
+that talk about topics
+that I felt were relevant,
+
+569
+00:26:39,800 --> 00:26:42,940
+such as flying with
+icing is one of the ones
+
+570
+00:26:42,940 --> 00:26:45,910
+here and flying at night.
+
+571
+00:26:45,910 --> 00:26:48,670
+And then there's a
+general IFR magazine
+
+572
+00:26:48,670 --> 00:26:51,700
+that just talks about some
+good articles about how
+
+573
+00:26:51,700 --> 00:26:55,570
+you handle your skills in
+flying instrument approaches,
+
+574
+00:26:55,570 --> 00:26:57,670
+such as ILS.
+
+575
+00:26:57,670 --> 00:27:02,650
+So these are kind of first
+come, first serve over here.
+
+576
+00:27:02,650 --> 00:27:04,900
+So aeronautical
+decision-making--
+
+577
+00:27:04,900 --> 00:27:08,660
+so how you make decisions
+when you're in the cockpit
+
+578
+00:27:08,660 --> 00:27:12,910
+can really affect how
+you successfully exit
+
+579
+00:27:12,910 --> 00:27:16,390
+a very negative situations.
+
+580
+00:27:16,390 --> 00:27:18,880
+So whether it's what we were
+just talking about with regard
+
+581
+00:27:18,880 --> 00:27:23,050
+to having spatial disorientation
+or having carbon monoxide
+
+582
+00:27:23,050 --> 00:27:25,760
+poisoning versus
+an engine failure
+
+583
+00:27:25,760 --> 00:27:28,390
+or specific issue
+or a weather issue,
+
+584
+00:27:28,390 --> 00:27:30,910
+the way that you go
+about making a decision
+
+585
+00:27:30,910 --> 00:27:34,940
+can significantly
+impact the outcome.
+
+586
+00:27:34,940 --> 00:27:38,230
+So we're going to talk about
+decision-making, hazards,
+
+587
+00:27:38,230 --> 00:27:41,950
+how we go about evaluating
+risks, and having
+
+588
+00:27:41,950 --> 00:27:45,210
+personal checklists.
+
+589
+00:27:45,210 --> 00:27:48,160
+So in aeronautical
+decision-making,
+
+590
+00:27:48,160 --> 00:27:50,160
+one thing to think
+about is just that there
+
+591
+00:27:50,160 --> 00:27:52,890
+is a way that you
+can teach someone
+
+592
+00:27:52,890 --> 00:27:54,850
+how to make good decisions.
+
+593
+00:27:54,850 --> 00:27:56,940
+So in addition to learning
+about your airplane
+
+594
+00:27:56,940 --> 00:27:59,610
+and learning how to
+fly, one thing that
+
+595
+00:27:59,610 --> 00:28:01,530
+throughout your pilot
+training is that you'll
+
+596
+00:28:01,530 --> 00:28:05,650
+learn how to make decisions.
+
+597
+00:28:05,650 --> 00:28:09,350
+So crew resource management
+is one specific aspect.
+
+598
+00:28:09,350 --> 00:28:11,560
+And we've been alluding
+to that all day,
+
+599
+00:28:11,560 --> 00:28:15,070
+talking about how to
+use either your co-pilot
+
+600
+00:28:15,070 --> 00:28:17,140
+or whoever it is that's
+sitting next to you
+
+601
+00:28:17,140 --> 00:28:21,160
+in the plane or your
+other passengers as well.
+
+602
+00:28:21,160 --> 00:28:23,440
+There are a number of
+aircraft that we talk about,
+
+603
+00:28:23,440 --> 00:28:25,810
+and we discuss the
+FAA regulations
+
+604
+00:28:25,810 --> 00:28:27,970
+earlier about
+mandated requirements
+
+605
+00:28:27,970 --> 00:28:31,030
+to have a co-pilot or
+sometimes other folks.
+
+606
+00:28:31,030 --> 00:28:33,640
+But there even people
+outside your cockpit
+
+607
+00:28:33,640 --> 00:28:36,250
+that you could rely on--
+air traffic controllers,
+
+608
+00:28:36,250 --> 00:28:39,190
+we talked about, flight
+service stations, for example.
+
+609
+00:28:41,800 --> 00:28:44,770
+So again really think
+about when you're
+
+610
+00:28:44,770 --> 00:28:49,510
+flying, although the FAA might
+require just a crew of one,
+
+611
+00:28:49,510 --> 00:28:51,960
+whether you really are
+all alone or there are
+
+612
+00:28:51,960 --> 00:28:53,500
+other people you can rely on.
+
+613
+00:28:56,280 --> 00:28:59,610
+So there are a lot of aspects
+to making good decisions.
+
+614
+00:28:59,610 --> 00:29:03,510
+And this is part of why pilots
+love talking to other pilots.
+
+615
+00:29:03,510 --> 00:29:06,030
+They also just like
+discussing if they
+
+616
+00:29:06,030 --> 00:29:07,830
+encountered an
+issue, how they went
+
+617
+00:29:07,830 --> 00:29:09,600
+about dealing with that issue.
+
+618
+00:29:09,600 --> 00:29:12,090
+And talking to other people
+about their experiences
+
+619
+00:29:12,090 --> 00:29:14,520
+is actually a good way to learn.
+
+620
+00:29:14,520 --> 00:29:16,080
+One thing you
+should also know is
+
+621
+00:29:16,080 --> 00:29:18,450
+about your personal attitudes.
+
+622
+00:29:18,450 --> 00:29:21,570
+I think that might have
+been another reason Laz,
+
+623
+00:29:21,570 --> 00:29:25,890
+our F-22 pilot yesterday was
+so against Top Gun, the concept
+
+624
+00:29:25,890 --> 00:29:30,930
+of being a very arrogant person
+that violates the rules is
+
+625
+00:29:30,930 --> 00:29:34,560
+really not a good stereotype
+for a pilot because people
+
+626
+00:29:34,560 --> 00:29:38,130
+that fly like that are more
+likely to have accidents.
+
+627
+00:29:38,130 --> 00:29:40,470
+How you can modify
+your behavior,
+
+628
+00:29:40,470 --> 00:29:43,150
+how to recognize and
+cope with stress,
+
+629
+00:29:43,150 --> 00:29:45,690
+we could certainly
+use that here at MIT.
+
+630
+00:29:45,690 --> 00:29:48,360
+And then how to really
+assess risks properly,
+
+631
+00:29:48,360 --> 00:29:50,640
+we talked about
+weather as an example.
+
+632
+00:29:50,640 --> 00:29:53,430
+How do you know if you have
+the right weather information?
+
+633
+00:29:53,430 --> 00:29:55,980
+Have you evaluated a
+risk appropriately?
+
+634
+00:29:55,980 --> 00:29:59,200
+And we've really tried to give
+you pointers and cues for that.
+
+635
+00:29:59,200 --> 00:30:02,580
+Especially if they tell you
+VFR flight not advisable,
+
+636
+00:30:02,580 --> 00:30:03,540
+it's not advisable.
+
+637
+00:30:03,540 --> 00:30:07,470
+That means it's
+probably a bad idea.
+
+638
+00:30:07,470 --> 00:30:09,420
+So hazards and risks--
+
+639
+00:30:09,420 --> 00:30:13,530
+so a hazard is
+basically a condition
+
+640
+00:30:13,530 --> 00:30:17,100
+or an event, something
+that you might encounter,
+
+641
+00:30:17,100 --> 00:30:19,920
+whereas risk is
+basically your assessment
+
+642
+00:30:19,920 --> 00:30:22,930
+of how likely is that risk?
+
+643
+00:30:22,930 --> 00:30:25,380
+How likely is that hazard
+going to come to be?
+
+644
+00:30:25,380 --> 00:30:28,245
+What impact could that
+hazard have on your outcome?
+
+645
+00:30:31,030 --> 00:30:33,790
+So one thing, again,
+is about your attitude.
+
+646
+00:30:33,790 --> 00:30:36,990
+So don't be like
+those Top Gun pilots.
+
+647
+00:30:36,990 --> 00:30:39,990
+If you're very
+anti-authority and you say,
+
+648
+00:30:39,990 --> 00:30:43,050
+you know, I don't care
+even if the weather
+
+649
+00:30:43,050 --> 00:30:46,770
+folks said VFR flight not
+advisable, I'm a great pilot.
+
+650
+00:30:46,770 --> 00:30:48,090
+I can do it any way.
+
+651
+00:30:48,090 --> 00:30:49,800
+That type of
+attitude is probably
+
+652
+00:30:49,800 --> 00:30:51,900
+going to lead you
+in unsafe condition.
+
+653
+00:30:51,900 --> 00:30:54,960
+It's really not a good idea.
+
+654
+00:30:54,960 --> 00:30:57,920
+We also discussed the
+concept of personal minimums
+
+655
+00:30:57,920 --> 00:31:00,330
+and setting personal
+minimums for yourself.
+
+656
+00:31:00,330 --> 00:31:05,150
+The reason is that today,
+for example, or after you've
+
+657
+00:31:05,150 --> 00:31:07,550
+done a little bit
+of flying, you might
+
+658
+00:31:07,550 --> 00:31:10,070
+have a good sense of what
+you're comfortable with.
+
+659
+00:31:10,070 --> 00:31:13,850
+You might have gone up with
+a lot of gusting winds.
+
+660
+00:31:13,850 --> 00:31:15,680
+And so you might
+decide that, hey, I
+
+661
+00:31:15,680 --> 00:31:19,460
+was a little bit uncomfortable
+with winds gusting to 20 knots.
+
+662
+00:31:19,460 --> 00:31:21,950
+Even if my aircraft
+is capable of it,
+
+663
+00:31:21,950 --> 00:31:24,200
+I think that's something
+that until I get a little bit
+
+664
+00:31:24,200 --> 00:31:27,010
+more experience, I'm going to
+set as a personal minimum I
+
+665
+00:31:27,010 --> 00:31:30,020
+don't want winds
+gusting over 15 knots
+
+666
+00:31:30,020 --> 00:31:32,690
+before I decide to take
+a flight by myself.
+
+667
+00:31:32,690 --> 00:31:34,580
+So you can set your
+personal minimums.
+
+668
+00:31:34,580 --> 00:31:36,410
+Why are we talking about that?
+
+669
+00:31:36,410 --> 00:31:40,220
+Well, the reason is on the
+actual day that you're flying,
+
+670
+00:31:40,220 --> 00:31:42,890
+you may re-evaluate
+the situation.
+
+671
+00:31:42,890 --> 00:31:45,230
+You might really want
+to go flying that day.
+
+672
+00:31:45,230 --> 00:31:48,560
+Maybe you've already arranged
+with a friend to come with you.
+
+673
+00:31:48,560 --> 00:31:51,650
+Maybe you have a destination
+you're really trying to reach.
+
+674
+00:31:51,650 --> 00:31:53,510
+Philip described a
+number of situations
+
+675
+00:31:53,510 --> 00:31:55,250
+where he's flying cross-country.
+
+676
+00:31:55,250 --> 00:31:56,220
+He has a plan.
+
+677
+00:31:56,220 --> 00:31:57,410
+He has to follow it.
+
+678
+00:31:57,410 --> 00:32:01,320
+And he can't really be
+away missing several days
+
+679
+00:32:01,320 --> 00:32:02,690
+where he was trying to go.
+
+680
+00:32:02,690 --> 00:32:05,960
+And so sometimes
+in the moment you
+
+681
+00:32:05,960 --> 00:32:08,840
+might have an impulsive nature.
+
+682
+00:32:08,840 --> 00:32:11,000
+You might decide that
+I think I can do it.
+
+683
+00:32:11,000 --> 00:32:12,870
+I'm sure it's fine.
+
+684
+00:32:12,870 --> 00:32:14,990
+So having personal
+minimums and actually
+
+685
+00:32:14,990 --> 00:32:17,600
+writing those down
+are a really good way
+
+686
+00:32:17,600 --> 00:32:19,760
+to hold yourself
+accountable to what
+
+687
+00:32:19,760 --> 00:32:27,000
+you had decided in a calm state
+of mind was a good restriction.
+
+688
+00:32:27,000 --> 00:32:29,940
+So one thing to keep in mind
+is the assessment of risk.
+
+689
+00:32:29,940 --> 00:32:33,870
+You also shouldn't be
+overly risk averse.
+
+690
+00:32:33,870 --> 00:32:37,110
+The FAA has guidance on
+what type of equipment
+
+691
+00:32:37,110 --> 00:32:38,760
+is required in your aircraft.
+
+692
+00:32:38,760 --> 00:32:40,710
+So certain things
+are that's required.
+
+693
+00:32:40,710 --> 00:32:42,990
+If it's not there,
+you can't fly.
+
+694
+00:32:42,990 --> 00:32:45,450
+But there are other
+things that are optional.
+
+695
+00:32:45,450 --> 00:32:47,970
+And so if there's a piece of
+equipment that's optional,
+
+696
+00:32:47,970 --> 00:32:51,460
+that's not functional.
+
+697
+00:32:51,460 --> 00:32:53,760
+There's a lot of importance
+around understanding
+
+698
+00:32:53,760 --> 00:32:56,070
+what is the risk of that
+not being operational
+
+699
+00:32:56,070 --> 00:32:56,920
+as an example.
+
+700
+00:32:56,920 --> 00:33:00,810
+And we'll go through a
+checklist in a little bit
+
+701
+00:33:00,810 --> 00:33:03,390
+to assess both your
+personal state of being,
+
+702
+00:33:03,390 --> 00:33:05,490
+your aircraft state of
+being, the environment,
+
+703
+00:33:05,490 --> 00:33:08,860
+and assessing all
+those risks together.
+
+704
+00:33:08,860 --> 00:33:12,720
+But for a given risk, you want
+to know, one, how likely is it?
+
+705
+00:33:12,720 --> 00:33:15,750
+So maybe if you're
+talking about weather,
+
+706
+00:33:15,750 --> 00:33:19,200
+there is a chance that
+a storm will come in.
+
+707
+00:33:19,200 --> 00:33:21,240
+There's a chance that it won't.
+
+708
+00:33:21,240 --> 00:33:25,020
+Then also the severity, are we
+talking about some light rain
+
+709
+00:33:25,020 --> 00:33:25,710
+showers?
+
+710
+00:33:25,710 --> 00:33:29,280
+Or are we talking about a
+very, very dangerous front
+
+711
+00:33:29,280 --> 00:33:31,672
+with icing or thunderstorms?
+
+712
+00:33:31,672 --> 00:33:33,630
+So that's the difference
+between the likelihood
+
+713
+00:33:33,630 --> 00:33:34,830
+and the severity.
+
+714
+00:33:34,830 --> 00:33:39,090
+Both of those have to be
+assessed for a given hazard
+
+715
+00:33:39,090 --> 00:33:42,370
+that you encounter when
+you assess its risk.
+
+716
+00:33:42,370 --> 00:33:45,490
+So there's this way
+of checking yourself.
+
+717
+00:33:45,490 --> 00:33:46,990
+It's called IMSAFE.
+
+718
+00:33:46,990 --> 00:33:50,460
+So this is just
+determining just you--
+
+719
+00:33:50,460 --> 00:33:53,460
+not the airplane, not the
+environment-- as a pilot
+
+720
+00:33:53,460 --> 00:33:54,930
+if you're safe to fly.
+
+721
+00:33:54,930 --> 00:33:56,440
+So do you have an illness?
+
+722
+00:33:56,440 --> 00:33:59,700
+Or are you taking medications
+that might affect your ability
+
+723
+00:33:59,700 --> 00:34:00,240
+to fly?
+
+724
+00:34:00,240 --> 00:34:02,160
+Are you very stressed out?
+
+725
+00:34:02,160 --> 00:34:04,530
+Do you have your
+thermodynamics final coming up
+
+726
+00:34:04,530 --> 00:34:08,040
+and you're really
+nervous about it?
+
+727
+00:34:08,040 --> 00:34:11,080
+Again, we talked about there
+are also legal regulations.
+
+728
+00:34:11,080 --> 00:34:13,679
+You can't have alcohol or drugs
+that could affect your ability
+
+729
+00:34:13,679 --> 00:34:14,610
+to fly.
+
+730
+00:34:14,610 --> 00:34:16,290
+Are you just very tired?
+
+731
+00:34:16,290 --> 00:34:18,630
+Or really, just are you
+very distracted by something
+
+732
+00:34:18,630 --> 00:34:21,449
+that's happening?
+
+733
+00:34:21,449 --> 00:34:23,760
+The PAVE checklist
+is the one I was
+
+734
+00:34:23,760 --> 00:34:25,980
+referring to that
+actually considers
+
+735
+00:34:25,980 --> 00:34:27,870
+all of these different things.
+
+736
+00:34:27,870 --> 00:34:30,630
+So the IMSAFE is just the pilot.
+
+737
+00:34:30,630 --> 00:34:33,389
+A is referring to the aircraft.
+
+738
+00:34:33,389 --> 00:34:36,030
+So this is when we're talking
+about are certain things
+
+739
+00:34:36,030 --> 00:34:37,292
+different about the aircraft?
+
+740
+00:34:37,292 --> 00:34:39,000
+Maybe it's a new
+aircraft that you're not
+
+741
+00:34:39,000 --> 00:34:40,324
+really comfortable with.
+
+742
+00:34:40,324 --> 00:34:41,699
+Maybe you're
+checked out, but you
+
+743
+00:34:41,699 --> 00:34:44,255
+don't have that many hours
+in that particular aircraft.
+
+744
+00:34:44,255 --> 00:34:46,380
+Or maybe you know we've
+talked about the difference
+
+745
+00:34:46,380 --> 00:34:48,300
+between steam gauge and G1000.
+
+746
+00:34:48,300 --> 00:34:50,699
+Maybe you're really used
+to flying steam gauge
+
+747
+00:34:50,699 --> 00:34:51,923
+and this is a G1000.
+
+748
+00:34:51,923 --> 00:34:54,090
+So there's nothing actually
+wrong with the airplane,
+
+749
+00:34:54,090 --> 00:34:55,949
+but you may be less comfortable.
+
+750
+00:34:55,949 --> 00:34:57,840
+Environmental, so
+that could be weather.
+
+751
+00:34:57,840 --> 00:34:59,845
+That could be flying
+to a new airport.
+
+752
+00:34:59,845 --> 00:35:01,470
+That could be flying
+to an airport that
+
+753
+00:35:01,470 --> 00:35:02,910
+has some special conditions.
+
+754
+00:35:02,910 --> 00:35:04,260
+Maybe it's a grass strip.
+
+755
+00:35:04,260 --> 00:35:08,670
+You're flying to
+Katama, which is a grass
+
+756
+00:35:08,670 --> 00:35:11,923
+runway out at Martha's Vineyard
+right next to the beach.
+
+757
+00:35:11,923 --> 00:35:12,840
+It's really beautiful.
+
+758
+00:35:12,840 --> 00:35:13,710
+I recommend it.
+
+759
+00:35:13,710 --> 00:35:17,580
+But maybe if it's your first
+time, flying to a soft field,
+
+760
+00:35:17,580 --> 00:35:19,620
+that could be a concern.
+
+761
+00:35:19,620 --> 00:35:22,955
+External pressures, that's what
+we were just talking about.
+
+762
+00:35:22,955 --> 00:35:24,330
+You're already
+committed to being
+
+763
+00:35:24,330 --> 00:35:26,120
+somewhere later in the day.
+
+764
+00:35:26,120 --> 00:35:27,990
+You've met up with somebody.
+
+765
+00:35:27,990 --> 00:35:28,950
+You're with a friend.
+
+766
+00:35:28,950 --> 00:35:30,720
+You had decided to
+take them flying.
+
+767
+00:35:30,720 --> 00:35:32,730
+They really wanted to go.
+
+768
+00:35:32,730 --> 00:35:35,370
+But the weather is
+looking a little bit iffy.
+
+769
+00:35:35,370 --> 00:35:38,130
+So one thing that's good
+about this PAVE checklist
+
+770
+00:35:38,130 --> 00:35:40,470
+is to kind of put
+things in perspective.
+
+771
+00:35:40,470 --> 00:35:45,000
+That maybe you're feeling
+a little bit stressed out
+
+772
+00:35:45,000 --> 00:35:48,900
+or distracted about an MIT exam,
+but the aircraft is the one
+
+773
+00:35:48,900 --> 00:35:50,530
+that you've been flying a lot.
+
+774
+00:35:50,530 --> 00:35:51,780
+You're very familiar with it.
+
+775
+00:35:51,780 --> 00:35:53,405
+You have a lot of
+time on the aircraft.
+
+776
+00:35:53,405 --> 00:35:54,660
+Everything is working well.
+
+777
+00:35:54,660 --> 00:35:56,160
+You have a good amount of fuel.
+
+778
+00:35:56,160 --> 00:35:57,120
+The weather's great.
+
+779
+00:35:57,120 --> 00:35:58,290
+It's a beautiful day.
+
+780
+00:35:58,290 --> 00:36:00,150
+You're flying to
+familiar airports.
+
+781
+00:36:00,150 --> 00:36:02,298
+And you don't have any
+external pressures that day.
+
+782
+00:36:02,298 --> 00:36:03,840
+There's no one you're
+trying to meet.
+
+783
+00:36:03,840 --> 00:36:05,590
+There's nothing you're
+trying to get done.
+
+784
+00:36:05,590 --> 00:36:08,250
+So that might be a good day
+that, OK, one of these things
+
+785
+00:36:08,250 --> 00:36:12,090
+is a little bit iffy, nothing
+crossed your minimums,
+
+786
+00:36:12,090 --> 00:36:14,100
+but it's just something
+that maybe you
+
+787
+00:36:14,100 --> 00:36:15,900
+could still go ahead and fly.
+
+788
+00:36:15,900 --> 00:36:17,610
+However, if it's
+multiple things,
+
+789
+00:36:17,610 --> 00:36:19,690
+if it's a different aircraft.
+
+790
+00:36:19,690 --> 00:36:20,880
+It's a different location.
+
+791
+00:36:20,880 --> 00:36:22,140
+You're having stresses.
+
+792
+00:36:22,140 --> 00:36:24,120
+These start becoming
+times that you
+
+793
+00:36:24,120 --> 00:36:27,038
+want to take these risks even
+more seriously, because as they
+
+794
+00:36:27,038 --> 00:36:28,830
+come together, it could
+affect your ability
+
+795
+00:36:28,830 --> 00:36:31,690
+to have a safe flight.
+
+796
+00:36:31,690 --> 00:36:34,230
+So just these types
+of personal checklists
+
+797
+00:36:34,230 --> 00:36:38,280
+are a great way to assess
+risk and make decisions
+
+798
+00:36:38,280 --> 00:36:40,200
+as you're trying to
+decide whether or not
+
+799
+00:36:40,200 --> 00:36:43,243
+to go on a flight.
+
+800
+00:36:43,243 --> 00:36:45,410
+And these are just a breakdown
+of some of the things
+
+801
+00:36:45,410 --> 00:36:48,020
+I just said on the
+environmental condition.
+
+802
+00:36:48,020 --> 00:36:50,000
+So nighttime is also on there.
+
+803
+00:36:50,000 --> 00:36:51,980
+Tomorrow, we'll talk
+about night flying
+
+804
+00:36:51,980 --> 00:36:54,500
+in particular and the
+fact that basically
+
+805
+00:36:54,500 --> 00:36:57,710
+in the US with just your
+private pilot's license,
+
+806
+00:36:57,710 --> 00:36:58,970
+you can fly at night.
+
+807
+00:36:58,970 --> 00:37:00,710
+A lot of other
+countries consider
+
+808
+00:37:00,710 --> 00:37:05,540
+night flying just as advanced
+as instrument flying.
+
+809
+00:37:05,540 --> 00:37:07,190
+And you need your
+instrument rating
+
+810
+00:37:07,190 --> 00:37:09,560
+to fly at night because
+of all the concerns
+
+811
+00:37:09,560 --> 00:37:12,560
+about not being able to see
+much outside your airplane.
+
+812
+00:37:12,560 --> 00:37:14,300
+So be mindful that,
+you know, it's
+
+813
+00:37:14,300 --> 00:37:16,910
+a slightly more challenging
+condition to fly in.
+
+814
+00:37:16,910 --> 00:37:18,797
+And how does that
+affect your ability
+
+815
+00:37:18,797 --> 00:37:21,005
+to assess the other risks
+that might be taking place?
+
+816
+00:37:23,670 --> 00:37:25,740
+I really would
+recommend, especially
+
+817
+00:37:25,740 --> 00:37:28,230
+when you're first
+getting certified,
+
+818
+00:37:28,230 --> 00:37:31,380
+you don't really make plans
+anywhere near the time
+
+819
+00:37:31,380 --> 00:37:34,540
+that you're supposed
+to be done flying.
+
+820
+00:37:34,540 --> 00:37:36,540
+Most flight schools will
+give you a flight block
+
+821
+00:37:36,540 --> 00:37:37,768
+of 2 and 1/2 hours.
+
+822
+00:37:37,768 --> 00:37:39,810
+Make sure that you don't
+have to be anywhere even
+
+823
+00:37:39,810 --> 00:37:41,610
+for a few hours after that.
+
+824
+00:37:41,610 --> 00:37:44,335
+In case the weather got bad,
+you had to land somewhere else,
+
+825
+00:37:44,335 --> 00:37:45,960
+you don't want those
+external pressures
+
+826
+00:37:45,960 --> 00:37:48,390
+affecting your decision-making
+when you're in the cockpit.
+
+827
+00:37:51,450 --> 00:37:53,700
+This is another way to
+think about it in terms
+
+828
+00:37:53,700 --> 00:37:56,970
+of this 5 "P" checklist.
+
+829
+00:37:56,970 --> 00:38:01,638
+So there are certain
+kind of different parts
+
+830
+00:38:01,638 --> 00:38:02,430
+through the flight.
+
+831
+00:38:02,430 --> 00:38:04,590
+We discussed the
+pre-flight, take-off,
+
+832
+00:38:04,590 --> 00:38:07,800
+while you're kind of cruising
+along, you're descending
+
+833
+00:38:07,800 --> 00:38:09,270
+and you're flying,
+and it might be
+
+834
+00:38:09,270 --> 00:38:14,520
+good to kind of look through
+all of these different aspects
+
+835
+00:38:14,520 --> 00:38:17,100
+about when you're flying
+and kind of checklist
+
+836
+00:38:17,100 --> 00:38:19,327
+for yourself to understand
+what's happening.
+
+837
+00:38:19,327 --> 00:38:20,910
+There are a lot of
+different resources
+
+838
+00:38:20,910 --> 00:38:23,610
+that talk about aeronautical
+decision-making.
+
+839
+00:38:23,610 --> 00:38:25,560
+I think one of
+the best resources
+
+840
+00:38:25,560 --> 00:38:28,920
+is really talking to other
+pilots about experiences
+
+841
+00:38:28,920 --> 00:38:30,960
+that they've gone
+through and learning
+
+842
+00:38:30,960 --> 00:38:33,690
+after you go through an
+experience reflecting
+
+843
+00:38:33,690 --> 00:38:35,940
+afterwards whether it's
+through your instructor,
+
+844
+00:38:35,940 --> 00:38:36,880
+with your friends.
+
+845
+00:38:36,880 --> 00:38:37,920
+You know, what happened?
+
+846
+00:38:37,920 --> 00:38:39,990
+What could I have
+done differently?
+
+847
+00:38:39,990 --> 00:38:41,582
+Was that the right
+decision to make?
+
+848
+00:38:41,582 --> 00:38:43,290
+So even these little
+things, like Phillip
+
+849
+00:38:43,290 --> 00:38:45,600
+was talking about
+flying with Oxana,
+
+850
+00:38:45,600 --> 00:38:47,520
+trying to avoid some weather.
+
+851
+00:38:47,520 --> 00:38:48,500
+There was rain.
+
+852
+00:38:48,500 --> 00:38:51,990
+Thinking about how he evaluated
+that risk of that thunderstorm.
+
+853
+00:38:51,990 --> 00:38:53,490
+What could he have
+done differently?
+
+854
+00:38:53,490 --> 00:38:54,810
+Was that the right decision?
+
+855
+00:38:54,810 --> 00:38:57,180
+And in general, making
+a conservative decision
+
+856
+00:38:57,180 --> 00:38:58,918
+is good, because it's
+your life at stake
+
+857
+00:38:58,918 --> 00:38:59,960
+that we're talking about.
+
+858
+00:39:02,710 --> 00:39:05,730
+All right, so I think we've
+talked a lot about this.
+
+859
+00:39:05,730 --> 00:39:09,310
+Are there any specific questions
+on aeronautical decision-making
+
+860
+00:39:09,310 --> 00:39:10,630
+or human factors in general?
+
+861
+00:39:10,630 --> 00:39:11,240
+Yes.
+
+862
+00:39:11,240 --> 00:39:12,684
+AUDIENCE: You
+mentioned currency.
+
+863
+00:39:12,684 --> 00:39:15,585
+Is there like a recommended
+frequency, or like rule
+
+864
+00:39:15,585 --> 00:39:18,640
+of thumb, like how often
+you should be flying
+
+865
+00:39:18,640 --> 00:39:20,410
+to be maintaining your skills?
+
+866
+00:39:20,410 --> 00:39:22,910
+PHILIP GREENSPUN: We're going
+to cover that at the very end.
+
+867
+00:39:22,910 --> 00:39:26,230
+There's a Cirrus that we put
+together this big matrix.
+
+868
+00:39:26,230 --> 00:39:28,540
+They don't tell you how
+often to fly to practice.
+
+869
+00:39:28,540 --> 00:39:30,130
+But they tell you
+given how recently
+
+870
+00:39:30,130 --> 00:39:32,170
+you've been flying
+and practicing,
+
+871
+00:39:32,170 --> 00:39:34,580
+here's the kind of weather
+that should be challenging.
+
+872
+00:39:34,580 --> 00:39:37,630
+TINA SRIVASTAVA: So the question
+for those who couldn't hear
+
+873
+00:39:37,630 --> 00:39:39,520
+was just about the currency.
+
+874
+00:39:39,520 --> 00:39:44,140
+So are there rules about
+how often you need to fly?
+
+875
+00:39:44,140 --> 00:39:46,480
+And there are rules,
+especially related
+
+876
+00:39:46,480 --> 00:39:50,330
+to carrying passengers
+at night, for example.
+
+877
+00:39:50,330 --> 00:39:52,960
+There are certain legal
+currency requirements.
+
+878
+00:39:52,960 --> 00:39:56,500
+But just as Philip said, there's
+also just personal minimums
+
+879
+00:39:56,500 --> 00:39:58,210
+that you might want
+to set for yourself.
+
+880
+00:39:58,210 --> 00:40:00,490
+If you haven't gone
+flying for a month,
+
+881
+00:40:00,490 --> 00:40:02,770
+you may be legally
+current, but may not
+
+882
+00:40:02,770 --> 00:40:05,140
+be a good time to take
+a bunch of passengers
+
+883
+00:40:05,140 --> 00:40:08,170
+to a new destination that
+you haven't flown to before.
+
+884
+00:40:08,170 --> 00:40:09,400
+PHILIP GREENSPUN: Yeah, so
+you remember from yesterday,
+
+885
+00:40:09,400 --> 00:40:11,440
+there's that 90 day, three
+takeoffs and landings
+
+886
+00:40:11,440 --> 00:40:13,065
+within the preceding
+90 days before you
+
+887
+00:40:13,065 --> 00:40:14,450
+can carry passengers.
+
+888
+00:40:14,450 --> 00:40:15,580
+That's a good minimum.
+
+889
+00:40:15,580 --> 00:40:19,510
+A lot depends on
+the type of aircraft
+
+890
+00:40:19,510 --> 00:40:21,110
+and how familiar
+you are with it.
+
+891
+00:40:21,110 --> 00:40:24,160
+So if you have 500 hours in
+a very logically designed
+
+892
+00:40:24,160 --> 00:40:27,310
+airplane like the
+Cirrus, you know,
+
+893
+00:40:27,310 --> 00:40:29,710
+then you're going
+to be safe probably
+
+894
+00:40:29,710 --> 00:40:31,460
+without flying too often.
+
+895
+00:40:31,460 --> 00:40:33,620
+In a more complicated
+aircraft, you know,
+
+896
+00:40:33,620 --> 00:40:36,460
+that has buttons and
+levers just randomly strewn
+
+897
+00:40:36,460 --> 00:40:40,210
+across the panel, which seems
+to be the industry standard, you
+
+898
+00:40:40,210 --> 00:40:42,010
+know, if you haven't
+flown it for a month,
+
+899
+00:40:42,010 --> 00:40:43,780
+you may actually be
+a little bit at sea
+
+900
+00:40:43,780 --> 00:40:46,060
+as to where are the flaps?
+
+901
+00:40:46,060 --> 00:40:47,660
+Where is the gear?
+
+902
+00:40:47,660 --> 00:40:50,650
+So a lot depends on how
+many hours of experience
+
+903
+00:40:50,650 --> 00:40:52,990
+you have in the type of
+aircraft you're going to fly
+
+904
+00:40:52,990 --> 00:40:56,770
+and just how inherently
+challenging it is to fly.
+
+905
+00:40:56,770 --> 00:41:00,520
+The practical
+currency requirements
+
+906
+00:41:00,520 --> 00:41:02,650
+for a multi-engine
+piston airplane
+
+907
+00:41:02,650 --> 00:41:05,500
+are going to be very
+different from those
+
+908
+00:41:05,500 --> 00:41:07,530
+that you might use
+in the Piper cub.
+
+909
+00:41:07,530 --> 00:41:10,300
+TINA SRIVASTAVA: Yeah, when
+we polled the class earlier,
+
+910
+00:41:10,300 --> 00:41:13,300
+I think there were
+70 of you have really
+
+911
+00:41:13,300 --> 00:41:15,700
+only flown once or not at all.
+
+912
+00:41:15,700 --> 00:41:17,740
+And so that's a
+lot of people that
+
+913
+00:41:17,740 --> 00:41:19,670
+don't have flying experience.
+
+914
+00:41:19,670 --> 00:41:22,270
+So I would say, you know,
+back before I had 200 hours,
+
+915
+00:41:22,270 --> 00:41:25,160
+or even before I had 100
+hours of flying experience,
+
+916
+00:41:25,160 --> 00:41:27,760
+I actually set very strict
+currency requirements.
+
+917
+00:41:27,760 --> 00:41:30,850
+I had to fly, you know, two
+times a week before I really
+
+918
+00:41:30,850 --> 00:41:33,390
+felt comfortable
+taking up a passenger,
+
+919
+00:41:33,390 --> 00:41:36,850
+when I wanted to fly relatively
+frequently with an instructor
+
+920
+00:41:36,850 --> 00:41:39,890
+and practice stall recovery,
+these types of things.
+
+921
+00:41:39,890 --> 00:41:40,960
+And I think that's good.
+
+922
+00:41:40,960 --> 00:41:44,242
+Make it as much as you need
+to in order to be safe.
+
+923
+00:41:44,242 --> 00:41:45,200
+PHILIP GREENSPUN: Yeah.
+
+924
+00:41:45,200 --> 00:41:48,040
+You could also decide again, if
+you haven't flown for a while,
+
+925
+00:41:48,040 --> 00:41:49,840
+are you going to fly
+an IFR approach down
+
+926
+00:41:49,840 --> 00:41:54,610
+to minimums, down at 200 feet
+above the runway in the clouds
+
+927
+00:41:54,610 --> 00:41:59,290
+by yourself in an airplane with
+no autopilot, would be legal?
+
+928
+00:41:59,290 --> 00:42:01,690
+Or you're going to say,
+look, I'm a little bit rusty,
+
+929
+00:42:01,690 --> 00:42:05,980
+so I'm going to only fly
+on a fairly calm VFR day
+
+930
+00:42:05,980 --> 00:42:07,300
+and get back into it?
+
+931
+00:42:07,300 --> 00:42:10,380
+So a lot depends on the
+challenge of the flight
+
+932
+00:42:10,380 --> 00:42:11,772
+that you're considering.
+
+933
+00:42:14,570 --> 00:42:15,570
+Who else has a question?
+
+934
+00:42:18,180 --> 00:42:19,930
+I'll tell you one
+more little story.
+
+935
+00:42:19,930 --> 00:42:23,550
+A friend of mine had a twin
+engine airplane, a Cessna 340,
+
+936
+00:42:23,550 --> 00:42:25,410
+which is a very
+complicated airplane with--
+
+937
+00:42:25,410 --> 00:42:29,380
+I think it has six fuel tanks
+and all kinds of levers.
+
+938
+00:42:29,380 --> 00:42:32,700
+It's pressurized off
+the turbo chargers.
+
+939
+00:42:32,700 --> 00:42:35,430
+Anyway, one engine
+caught on fire.
+
+940
+00:42:35,430 --> 00:42:37,020
+So an engine caught on fire.
+
+941
+00:42:37,020 --> 00:42:41,280
+He's got four or five people
+from his family in the back.
+
+942
+00:42:41,280 --> 00:42:44,640
+And he manages to get the fire
+out by cutting off the fuel,
+
+943
+00:42:44,640 --> 00:42:46,800
+I guess, to the burning engine.
+
+944
+00:42:46,800 --> 00:42:49,140
+He's right above Bradley
+Field in Connecticut.
+
+945
+00:42:49,140 --> 00:42:52,320
+So that's one of the largest
+airports actually in the world.
+
+946
+00:42:52,320 --> 00:42:55,240
+It's probably among
+the top few percent
+
+947
+00:42:55,240 --> 00:42:58,193
+of big airports in the world
+in terms of physical size.
+
+948
+00:42:58,193 --> 00:42:59,610
+They have regular
+airline service.
+
+949
+00:42:59,610 --> 00:43:01,193
+They have a full-time
+fire department.
+
+950
+00:43:01,193 --> 00:43:02,430
+They have a control tower.
+
+951
+00:43:02,430 --> 00:43:04,972
+They have a runway that's about
+as long as Logan's, you know,
+
+952
+00:43:04,972 --> 00:43:08,760
+like close to 1
+miles long runway.
+
+953
+00:43:08,760 --> 00:43:12,290
+So he decides, well,
+I've got one engine.
+
+954
+00:43:12,290 --> 00:43:12,915
+It's nighttime.
+
+955
+00:43:12,915 --> 00:43:14,518
+It was night.
+
+956
+00:43:14,518 --> 00:43:15,810
+The controllers are right here.
+
+957
+00:43:15,810 --> 00:43:19,460
+Should I just, you know,
+spiral down and land
+
+958
+00:43:19,460 --> 00:43:21,410
+on one of these huge
+runways at Bradley
+
+959
+00:43:21,410 --> 00:43:24,660
+and the fire department come
+up and meet the airplane?
+
+960
+00:43:24,660 --> 00:43:26,850
+Or-- that's option 1.
+
+961
+00:43:26,850 --> 00:43:28,860
+Let's see what you guys think.
+
+962
+00:43:28,860 --> 00:43:31,770
+Option 2, let me continue
+to my home airport
+
+963
+00:43:31,770 --> 00:43:34,490
+at Fitchburg, which
+is unattended.
+
+964
+00:43:34,490 --> 00:43:37,800
+I don't think there's a fire
+department that's there.
+
+965
+00:43:37,800 --> 00:43:39,390
+There's no control tower.
+
+966
+00:43:39,390 --> 00:43:41,853
+The runway is pretty
+short, 4,500 feet.
+
+967
+00:43:41,853 --> 00:43:43,770
+But on the other hand,
+it is the home airport.
+
+968
+00:43:43,770 --> 00:43:45,030
+So it's very familiar.
+
+969
+00:43:45,030 --> 00:43:47,610
+And he's got one engine left.
+
+970
+00:43:47,610 --> 00:43:51,210
+You only need one
+engine to descend.
+
+971
+00:43:51,210 --> 00:43:53,194
+So what do you
+guys think, A or B?
+
+972
+00:43:53,194 --> 00:43:57,702
+Land it at Bradley
+or go to Pittsburgh?
+
+973
+00:43:57,702 --> 00:43:59,160
+OK, what do you
+think this guy did?
+
+974
+00:43:59,160 --> 00:44:00,570
+AUDIENCE: He went to Fitchburg.
+
+975
+00:44:00,570 --> 00:44:01,700
+PHILIP GREENSPUN: He
+went to Fitchburg.
+
+976
+00:44:01,700 --> 00:44:03,030
+And he wrecked the airplane.
+
+977
+00:44:03,030 --> 00:44:03,900
+You know, he landed.
+
+978
+00:44:03,900 --> 00:44:06,555
+But I don't know-- it's
+twins with one engine.
+
+979
+00:44:06,555 --> 00:44:08,430
+They always say the
+second engine carries you
+
+980
+00:44:08,430 --> 00:44:09,638
+to the scene of the accident.
+
+981
+00:44:09,638 --> 00:44:12,030
+We'll talk about that tomorrow.
+
+982
+00:44:12,030 --> 00:44:15,070
+So they just are hard--
+it's hard to maintain--
+
+983
+00:44:15,070 --> 00:44:17,070
+it's hard to keep them
+going perfectly straight.
+
+984
+00:44:17,070 --> 00:44:18,987
+So, of course, he didn't
+go perfectly straight
+
+985
+00:44:18,987 --> 00:44:21,540
+down the runway, went off
+the side of the runway,
+
+986
+00:44:21,540 --> 00:44:23,250
+did some damage to the airplane.
+
+987
+00:44:23,250 --> 00:44:24,690
+Nobody was hurt, fortunately.
+
+988
+00:44:24,690 --> 00:44:27,690
+The punchline of the story
+is he doesn't tell this
+
+989
+00:44:27,690 --> 00:44:31,140
+as an example of bad
+aeronautical decision-making he
+
+990
+00:44:31,140 --> 00:44:35,070
+tells this as a story
+of good decisions
+
+991
+00:44:35,070 --> 00:44:37,020
+and making good
+decisions as a pilot.
+
+992
+00:44:37,020 --> 00:44:38,970
+And I'm not really sure why.
+
+993
+00:44:38,970 --> 00:44:40,680
+But anyway, I just
+wanted to tell you,
+
+994
+00:44:40,680 --> 00:44:42,720
+like despite all
+those checklists,
+
+995
+00:44:42,720 --> 00:44:45,960
+people can have very
+different perspectives on what
+
+996
+00:44:45,960 --> 00:44:48,030
+constitutes a wise decision.
+
+997
+00:44:48,030 --> 00:44:51,240
+But personally, I try to
+do-- you know, I have an ATP.
+
+998
+00:44:51,240 --> 00:44:54,480
+But I try to do flights whenever
+possible that require only
+
+999
+00:44:54,480 --> 00:44:56,470
+a student pilot level of skill.
+
+1000
+00:44:56,470 --> 00:44:59,000
+And that gives me a nice margin.

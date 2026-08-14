@@ -1,0 +1,4902 @@
+1
+00:00:16,610 --> 00:00:19,390
+PHILIP GREENSPUN: We're going
+to talk about meteorology.
+
+2
+00:00:19,390 --> 00:00:25,240
+So as pilots, we're just trying
+to understand the basics.
+
+3
+00:00:25,240 --> 00:00:27,280
+And in terms of
+passing the exam,
+
+4
+00:00:27,280 --> 00:00:31,340
+you don't need to
+be a physicist.
+
+5
+00:00:31,340 --> 00:00:34,210
+You just mostly
+are trying to learn
+
+6
+00:00:34,210 --> 00:00:40,060
+stuff that will help you fly
+within the VFR weather minimums
+
+7
+00:00:40,060 --> 00:00:44,230
+and predict when those minimums
+aren't likely to be met
+
+8
+00:00:44,230 --> 00:00:46,990
+or when there's going to
+be really serious hazards,
+
+9
+00:00:46,990 --> 00:00:48,550
+such as thunderstorms.
+
+10
+00:00:48,550 --> 00:00:51,160
+All right, this
+will be on the test.
+
+11
+00:00:51,160 --> 00:00:54,620
+You have to memorize
+all of this.
+
+12
+00:00:54,620 --> 00:00:55,710
+Well, you kind of do.
+
+13
+00:00:55,710 --> 00:00:57,530
+Anyways, they want you--
+
+14
+00:00:57,530 --> 00:01:04,310
+you will have to learn some
+of this stuff for the exam.
+
+15
+00:01:04,310 --> 00:01:07,730
+In reality around here,
+almost all airspace
+
+16
+00:01:07,730 --> 00:01:09,380
+is at least class echo.
+
+17
+00:01:09,380 --> 00:01:10,680
+That's controlled airspace.
+
+18
+00:01:10,680 --> 00:01:13,880
+It means controllers
+could give you a clearance
+
+19
+00:01:13,880 --> 00:01:17,180
+to fly on instruments
+and separate you
+
+20
+00:01:17,180 --> 00:01:19,340
+from other aircraft.
+
+21
+00:01:19,340 --> 00:01:22,500
+So they want you to be
+well separated from clouds,
+
+22
+00:01:22,500 --> 00:01:26,870
+1,000 feet above, 500 feet
+underneath, 2,000 horizontally.
+
+23
+00:01:26,870 --> 00:01:31,700
+That way, if an aircraft under
+IFR comes out of the clouds,
+
+24
+00:01:31,700 --> 00:01:34,550
+there'll be some time
+for the two of you
+
+25
+00:01:34,550 --> 00:01:36,740
+to see and avoid each other.
+
+26
+00:01:36,740 --> 00:01:39,960
+You can see the weather minimums
+are different in class Golf
+
+27
+00:01:39,960 --> 00:01:41,150
+airspace.
+
+28
+00:01:41,150 --> 00:01:43,670
+And, actually, in
+uncontrolled airspace
+
+29
+00:01:43,670 --> 00:01:47,870
+like up in Alaska, if you're
+flying on instruments,
+
+30
+00:01:47,870 --> 00:01:50,200
+you don't have a clearance.
+
+31
+00:01:50,200 --> 00:01:52,170
+So you'll say, well,
+how is that possible?
+
+32
+00:01:52,170 --> 00:01:54,462
+You can be instrument rated,
+have an instrument capable
+
+33
+00:01:54,462 --> 00:01:57,633
+airplane, and fly from airport
+to airport in the clouds.
+
+34
+00:01:57,633 --> 00:02:00,300
+But the air traffic controllers,
+they can't give you a clearance
+
+35
+00:02:00,300 --> 00:02:03,450
+and guarantee you separation
+from other aircraft
+
+36
+00:02:03,450 --> 00:02:04,830
+because they don't have radar.
+
+37
+00:02:04,830 --> 00:02:06,288
+They don't even
+have the authority.
+
+38
+00:02:06,288 --> 00:02:08,610
+It's not controlled airspace.
+
+39
+00:02:08,610 --> 00:02:11,190
+I've done some flying up
+there in little airplanes,
+
+40
+00:02:11,190 --> 00:02:13,780
+and you have to be very patient.
+
+41
+00:02:13,780 --> 00:02:15,780
+Another interesting thing
+to notice about this--
+
+42
+00:02:15,780 --> 00:02:17,850
+we'll talk about it
+more again later--
+
+43
+00:02:17,850 --> 00:02:20,250
+is notice how class
+Bravo airspace
+
+44
+00:02:20,250 --> 00:02:25,140
+has lower minimums than
+ordinary class Echo airspace.
+
+45
+00:02:25,140 --> 00:02:30,237
+So we have to be 1,000
+feet from the clouds here.
+
+46
+00:02:30,237 --> 00:02:32,070
+Here we just have to
+be clear of the clouds.
+
+47
+00:02:34,860 --> 00:02:38,340
+Why are the minimums reduced
+right around Logan Airport
+
+48
+00:02:38,340 --> 00:02:42,558
+and JFK and LAX than they are--
+
+49
+00:02:42,558 --> 00:02:44,808
+AUDIENCE: Because everyone's
+in contact with the tower
+
+50
+00:02:44,808 --> 00:02:47,178
+so the tower knows
+where everyone is.
+
+51
+00:02:47,178 --> 00:02:48,720
+PHILIP GREENSPUN:
+Yeah, great answer.
+
+52
+00:02:48,720 --> 00:02:51,720
+So her answer is that
+air traffic control
+
+53
+00:02:51,720 --> 00:02:54,840
+is in contact with everybody
+in class Bravo airspace
+
+54
+00:02:54,840 --> 00:02:56,183
+and knows where they are.
+
+55
+00:02:56,183 --> 00:02:57,600
+And in fact, they're
+on clearances
+
+56
+00:02:57,600 --> 00:03:00,042
+in class Bravo airspace, so
+they're being told what to do.
+
+57
+00:03:00,042 --> 00:03:00,750
+Fly this heading.
+
+58
+00:03:00,750 --> 00:03:01,860
+Fly that heading.
+
+59
+00:03:01,860 --> 00:03:03,490
+Maintain this altitude.
+
+60
+00:03:03,490 --> 00:03:04,740
+Great answer.
+
+61
+00:03:04,740 --> 00:03:07,260
+All right, so how do we know
+if the weather minimums are
+
+62
+00:03:07,260 --> 00:03:09,120
+going to be maintained?
+
+63
+00:03:09,120 --> 00:03:12,010
+Let's talk about weather theory.
+
+64
+00:03:12,010 --> 00:03:14,670
+So raise your hand if
+you're a science major here
+
+65
+00:03:14,670 --> 00:03:16,570
+as opposed to engineering?
+
+66
+00:03:16,570 --> 00:03:18,210
+Where are the smart scientists?
+
+67
+00:03:18,210 --> 00:03:21,660
+All right, Francis.
+
+68
+00:03:21,660 --> 00:03:24,930
+So the science
+approach to this task
+
+69
+00:03:24,930 --> 00:03:34,160
+would be to say if we could just
+assume that humans are only 4
+
+70
+00:03:34,160 --> 00:03:39,970
+inches tall, then we could build
+some really great aircraft.
+
+71
+00:03:39,970 --> 00:03:42,120
+And we'll get into
+that in a moment.
+
+72
+00:03:42,120 --> 00:03:43,100
+Just think about that.
+
+73
+00:03:43,100 --> 00:03:46,570
+If you're a scientist,
+how much flexibility
+
+74
+00:03:46,570 --> 00:03:50,440
+can you have compared
+to being an engineer?
+
+75
+00:03:50,440 --> 00:03:55,960
+All right, so let's look at
+the atmosphere that we do have.
+
+76
+00:03:55,960 --> 00:03:59,920
+Mostly, the troposphere
+tops out around 40,000 feet
+
+77
+00:03:59,920 --> 00:04:02,140
+according to this chart.
+
+78
+00:04:02,140 --> 00:04:05,200
+And that's where most
+of the water vapor
+
+79
+00:04:05,200 --> 00:04:08,500
+is and, therefore, most
+of the weather, also
+
+80
+00:04:08,500 --> 00:04:11,650
+the higher temperatures.
+
+81
+00:04:11,650 --> 00:04:16,630
+You can see it actually does
+get warm again way up high
+
+82
+00:04:16,630 --> 00:04:18,940
+in the thermosphere.
+
+83
+00:04:18,940 --> 00:04:21,500
+This is in kilometers
+on the left.
+
+84
+00:04:21,500 --> 00:04:25,550
+So you can see that part of the
+earth that we're flying through
+
+85
+00:04:25,550 --> 00:04:30,280
+is really just, I don't know,
+probably around 20 kilometers
+
+86
+00:04:30,280 --> 00:04:32,110
+and down.
+
+87
+00:04:32,110 --> 00:04:32,990
+What did I say?
+
+88
+00:04:32,990 --> 00:04:37,690
+Said he could go up to
+65,000 feet in this F-22.
+
+89
+00:04:37,690 --> 00:04:40,820
+So that's what?
+
+90
+00:04:40,820 --> 00:04:43,830
+That's a little over 10 miles.
+
+91
+00:04:43,830 --> 00:04:47,110
+Yeah, it's about 20 kilometers,
+somewhere in that neighborhood.
+
+92
+00:04:47,110 --> 00:04:49,850
+Anyway, so not too many
+people are going higher
+
+93
+00:04:49,850 --> 00:04:56,370
+than just the bottom 0
+through 20 on this chart.
+
+94
+00:04:56,370 --> 00:04:59,580
+All right, who's concerned
+about global inequality?
+
+95
+00:04:59,580 --> 00:05:02,140
+Raise your hand.
+
+96
+00:05:02,140 --> 00:05:03,440
+Awesome.
+
+97
+00:05:03,440 --> 00:05:09,930
+Well, you'll be pleased to
+know that so is the FAA.
+
+98
+00:05:09,930 --> 00:05:17,550
+And this figure here shows you
+why it's warmer at the equator
+
+99
+00:05:17,550 --> 00:05:19,130
+than up at the North Pole.
+
+100
+00:05:19,130 --> 00:05:20,880
+There's the same amount--
+
+101
+00:05:20,880 --> 00:05:24,630
+we're missing a little bit
+of tilt here, but that's OK.
+
+102
+00:05:24,630 --> 00:05:27,090
+There's the same amount of
+incoming solar radiation,
+
+103
+00:05:27,090 --> 00:05:30,815
+but it gets spread out over
+a larger portion of the earth
+
+104
+00:05:30,815 --> 00:05:31,565
+up near the poles.
+
+105
+00:05:34,550 --> 00:05:39,350
+All right, so this is where
+guys like Francis have it easy.
+
+106
+00:05:39,350 --> 00:05:41,510
+If you want to
+understand something,
+
+107
+00:05:41,510 --> 00:05:46,670
+you just say, well, you
+know, I've got an earth,
+
+108
+00:05:46,670 --> 00:05:49,400
+and it's pretty much the
+same as the existing earth.
+
+109
+00:05:49,400 --> 00:05:51,810
+It just doesn't have
+any water on it.
+
+110
+00:05:51,810 --> 00:05:54,800
+And it doesn't
+rotate, and it's not
+
+111
+00:05:54,800 --> 00:05:57,270
+tilted with respect to the sun.
+
+112
+00:05:57,270 --> 00:05:58,977
+So now I'll do my analysis.
+
+113
+00:05:58,977 --> 00:06:00,060
+And I'll publish my paper.
+
+114
+00:06:00,060 --> 00:06:02,640
+And I'll get tenure, and
+your problem is solved.
+
+115
+00:06:06,520 --> 00:06:07,020
+Let's see.
+
+116
+00:06:07,020 --> 00:06:08,270
+What would happen here?
+
+117
+00:06:08,270 --> 00:06:11,700
+In a non-rotating,
+non-tilted waterless earth,
+
+118
+00:06:11,700 --> 00:06:14,700
+it would get hotter
+at the equator,
+
+119
+00:06:14,700 --> 00:06:17,340
+and the air would
+rise up from the heat.
+
+120
+00:06:17,340 --> 00:06:19,710
+So we can see that here.
+
+121
+00:06:19,710 --> 00:06:23,760
+So we would have low pressure
+right there at the equator.
+
+122
+00:06:23,760 --> 00:06:25,850
+And then the air
+would circulate up,
+
+123
+00:06:25,850 --> 00:06:28,736
+and we would have high
+pressure up at the polls.
+
+124
+00:06:28,736 --> 00:06:31,206
+Does that makes
+sense to everybody?
+
+125
+00:06:31,206 --> 00:06:32,760
+All right, great,
+problem solved.
+
+126
+00:06:32,760 --> 00:06:35,160
+We can go home.
+
+127
+00:06:35,160 --> 00:06:37,940
+Unfortunately, as
+engineers, we have
+
+128
+00:06:37,940 --> 00:06:41,130
+to deal with the real
+world a little bit more.
+
+129
+00:06:41,130 --> 00:06:44,540
+So if we're spinning
+around the Earth,
+
+130
+00:06:44,540 --> 00:06:49,150
+We're going to end up
+with these three cells
+
+131
+00:06:49,150 --> 00:06:54,220
+and in each hemisphere.
+
+132
+00:06:54,220 --> 00:06:56,830
+And in this case,
+you end up still
+
+133
+00:06:56,830 --> 00:06:59,140
+with a low pressure
+at the equator.
+
+134
+00:06:59,140 --> 00:07:02,530
+But then you get a high pressure
+with all the air sinking down
+
+135
+00:07:02,530 --> 00:07:03,700
+here.
+
+136
+00:07:03,700 --> 00:07:08,440
+And you get still low pressure--
+
+137
+00:07:08,440 --> 00:07:11,770
+you still get high pressure up
+at the polls and low pressure
+
+138
+00:07:11,770 --> 00:07:12,310
+down here.
+
+139
+00:07:18,690 --> 00:07:20,200
+See if I got that right.
+
+140
+00:07:20,200 --> 00:07:22,000
+High.
+
+141
+00:07:22,000 --> 00:07:23,200
+I should be high.
+
+142
+00:07:23,200 --> 00:07:25,725
+It says high pressure
+at 30 degrees North.
+
+143
+00:07:25,725 --> 00:07:27,100
+Oh yeah, high,
+high, that's good.
+
+144
+00:07:27,100 --> 00:07:29,260
+And, yes, and low and low.
+
+145
+00:07:29,260 --> 00:07:31,480
+All right, we got that right.
+
+146
+00:07:31,480 --> 00:07:34,626
+It gets more
+confusing as you see.
+
+147
+00:07:34,626 --> 00:07:37,750
+OK, so the
+circulation-- one thing
+
+148
+00:07:37,750 --> 00:07:39,400
+that the FAA wants
+you to know is
+
+149
+00:07:39,400 --> 00:07:42,670
+that it's heat exchange
+that drives the weather.
+
+150
+00:07:42,670 --> 00:07:46,120
+So the weather is basically a
+function of the sun heating up
+
+151
+00:07:46,120 --> 00:07:47,080
+the earth.
+
+152
+00:07:47,080 --> 00:07:49,270
+And then it's not
+uniform, so the heat
+
+153
+00:07:49,270 --> 00:07:53,320
+gets pushed from one part
+of the earth to another.
+
+154
+00:07:53,320 --> 00:07:56,890
+And all of this
+unequal heating is
+
+155
+00:07:56,890 --> 00:08:01,060
+responsible for the
+altimeter varying,
+
+156
+00:08:01,060 --> 00:08:04,000
+for wind blowing around.
+
+157
+00:08:04,000 --> 00:08:07,540
+Pretty much every phenomenon
+that is of interest to pilots
+
+158
+00:08:07,540 --> 00:08:12,730
+is caused by heat trying
+to move from the hotter
+
+159
+00:08:12,730 --> 00:08:16,030
+parts of the earth to the
+colder parts of the earth.
+
+160
+00:08:16,030 --> 00:08:18,020
+We'll talk a little
+bit more about these.
+
+161
+00:08:18,020 --> 00:08:19,870
+But notice there's
+parts of the earth
+
+162
+00:08:19,870 --> 00:08:22,520
+that are windier than others.
+
+163
+00:08:22,520 --> 00:08:26,580
+Unfortunately, we're in
+one of the windier parts.
+
+164
+00:08:26,580 --> 00:08:33,140
+OK, so you also have to know as
+a pilot just what an isobar is.
+
+165
+00:08:33,140 --> 00:08:35,980
+That's a line of equal pressure.
+
+166
+00:08:35,980 --> 00:08:37,130
+And that tells you--
+
+167
+00:08:39,700 --> 00:08:43,539
+that gives you an idea of how
+the wind is going to move.
+
+168
+00:08:43,539 --> 00:08:46,770
+We'll see that in a minute.
+
+169
+00:08:46,770 --> 00:08:49,600
+The tighter the isobars,
+the more dramatic
+
+170
+00:08:49,600 --> 00:08:51,720
+the pressure change in a region.
+
+171
+00:08:51,720 --> 00:08:53,330
+And it's the pressure
+gradient force
+
+172
+00:08:53,330 --> 00:08:56,240
+that's causing the wind
+to flow from the high
+
+173
+00:08:56,240 --> 00:08:58,610
+to the low pressure.
+
+174
+00:08:58,610 --> 00:09:03,150
+So you might think
+on this chart,
+
+175
+00:09:03,150 --> 00:09:07,460
+for example, that wherever
+you see an L and an H
+
+176
+00:09:07,460 --> 00:09:10,370
+that you would just draw a
+vector of wind from one place
+
+177
+00:09:10,370 --> 00:09:12,110
+to the other, right?
+
+178
+00:09:12,110 --> 00:09:13,950
+That kind of makes sense.
+
+179
+00:09:13,950 --> 00:09:19,410
+However, there is
+Coriolis force.
+
+180
+00:09:19,410 --> 00:09:21,232
+This is for Francis,
+the science major.
+
+181
+00:09:21,232 --> 00:09:22,440
+Francis, what course are you?
+
+182
+00:09:22,440 --> 00:09:26,328
+AUDIENCE: I'm course
+9, so [INAUDIBLE]..
+
+183
+00:09:26,328 --> 00:09:29,250
+PHILIP GREENSPUN: Oh.
+
+184
+00:09:29,250 --> 00:09:33,210
+All right, so scientists
+wear lab coats.
+
+185
+00:09:33,210 --> 00:09:36,360
+[LAUGHTER]
+
+186
+00:09:36,360 --> 00:09:40,980
+Coriolis force is a fake
+news force formerly known
+
+187
+00:09:40,980 --> 00:09:42,194
+as fictitious.
+
+188
+00:09:46,370 --> 00:09:49,820
+So you can see they're
+throwing the ball straight.
+
+189
+00:09:49,820 --> 00:09:54,060
+But because they're on
+a rotating platform,
+
+190
+00:09:54,060 --> 00:09:58,430
+it's apparently curving.
+
+191
+00:09:58,430 --> 00:10:00,680
+So camera is mounted
+to the ground,
+
+192
+00:10:00,680 --> 00:10:02,360
+and we'll see the
+ball going straight.
+
+193
+00:10:05,870 --> 00:10:08,786
+They're going to draw you a
+little dash line at one point
+
+194
+00:10:08,786 --> 00:10:11,040
+so you can see the path
+is actually straight.
+
+195
+00:10:17,670 --> 00:10:18,815
+So the ball has an inertia.
+
+196
+00:10:18,815 --> 00:10:20,190
+Basically, once
+it's launched, it
+
+197
+00:10:20,190 --> 00:10:22,800
+wants to keep doing
+whatever it was doing.
+
+198
+00:10:22,800 --> 00:10:27,600
+And this guy's white
+lab coated colleague
+
+199
+00:10:27,600 --> 00:10:29,730
+just moves away from
+where the ball was going.
+
+200
+00:10:39,056 --> 00:10:39,556
+Whoa.
+
+201
+00:10:48,240 --> 00:10:50,010
+All right, everybody's got that?
+
+202
+00:10:50,010 --> 00:10:51,510
+That's Coriolis force for you.
+
+203
+00:10:55,480 --> 00:10:59,620
+What happens when we
+do this on the earth?
+
+204
+00:10:59,620 --> 00:11:00,400
+So think about it.
+
+205
+00:11:00,400 --> 00:11:02,260
+You have a parcel
+of air that's moving
+
+206
+00:11:02,260 --> 00:11:04,430
+with the earth at the equator.
+
+207
+00:11:04,430 --> 00:11:07,300
+If you displace it up
+to a higher latitude,
+
+208
+00:11:07,300 --> 00:11:11,230
+it still has that velocity.
+
+209
+00:11:11,230 --> 00:11:13,690
+But now the Earth
+isn't spinning as fast.
+
+210
+00:11:13,690 --> 00:11:19,060
+So it ends up essentially moving
+a little bit to the right.
+
+211
+00:11:19,060 --> 00:11:22,355
+That is the fundamental insight
+just as you saw in that video.
+
+212
+00:11:22,355 --> 00:11:24,730
+You'll have to go home and
+think about that a little bit.
+
+213
+00:11:24,730 --> 00:11:28,240
+But, basically, I think
+the most effective way
+
+214
+00:11:28,240 --> 00:11:31,150
+to think about it is just
+that a parcel of air that
+
+215
+00:11:31,150 --> 00:11:34,180
+was the equator wants to keep
+moving as if it were still
+
+216
+00:11:34,180 --> 00:11:37,460
+at the equator, but
+it's not there anymore,
+
+217
+00:11:37,460 --> 00:11:41,170
+so it moves relative to
+the underlying earth.
+
+218
+00:11:43,750 --> 00:11:46,420
+If you combine the Coriolis
+force and the pressure
+
+219
+00:11:46,420 --> 00:11:50,050
+gradient, then you get
+the actual wind direction.
+
+220
+00:11:50,050 --> 00:11:53,350
+And the trend as seen here--
+
+221
+00:11:53,350 --> 00:11:55,240
+eventually, there's
+so much Coriolis force
+
+222
+00:11:55,240 --> 00:11:57,640
+over so much time
+that the wind actually
+
+223
+00:11:57,640 --> 00:12:03,495
+moves exactly 90 degrees to
+where you think it should move.
+
+224
+00:12:03,495 --> 00:12:08,920
+It flows along the isobars
+instead of perpendicular
+
+225
+00:12:08,920 --> 00:12:10,520
+across them.
+
+226
+00:12:10,520 --> 00:12:15,280
+So there you have a
+couple pressure systems
+
+227
+00:12:15,280 --> 00:12:19,360
+and you see that the wind is
+circulating around these lows
+
+228
+00:12:19,360 --> 00:12:23,890
+and highs rather than flowing
+directly from one to the other
+
+229
+00:12:23,890 --> 00:12:24,670
+as you'd expect.
+
+230
+00:12:27,680 --> 00:12:35,180
+All right, who would like to
+become a helicopter test pilot?
+
+231
+00:12:35,180 --> 00:12:37,970
+Raise your hand if that
+sounds like a fun job.
+
+232
+00:12:37,970 --> 00:12:41,900
+OK, so when you're developing
+the manual for your Sikorsky
+
+233
+00:12:41,900 --> 00:12:44,270
+helicopter, you've
+got to go somewhere
+
+234
+00:12:44,270 --> 00:12:46,670
+where the wind is calm.
+
+235
+00:12:46,670 --> 00:12:49,340
+Where would you all
+suggest going now
+
+236
+00:12:49,340 --> 00:12:51,693
+that you've seen this chart?
+
+237
+00:12:51,693 --> 00:12:52,610
+What's your name, sir?
+
+238
+00:12:52,610 --> 00:12:53,260
+Sorry.
+
+239
+00:12:53,260 --> 00:12:54,020
+AUDIENCE: Jeremy.
+
+240
+00:12:54,020 --> 00:12:56,560
+PHILIP GREENSPUN: Jeremy,
+where do you want to go?
+
+241
+00:12:56,560 --> 00:12:58,550
+You're going to take
+your Sikorsky helicopter
+
+242
+00:12:58,550 --> 00:12:59,967
+and you're going
+to write the POH.
+
+243
+00:12:59,967 --> 00:13:01,220
+AUDIENCE: [INAUDIBLE] Florida.
+
+244
+00:13:01,220 --> 00:13:02,390
+PHILIP GREENSPUN: Florida.
+
+245
+00:13:02,390 --> 00:13:05,810
+Sikorsky, which is
+headquartered in Connecticut,
+
+246
+00:13:05,810 --> 00:13:07,760
+they have a big
+flight test facility.
+
+247
+00:13:07,760 --> 00:13:10,340
+I believe it's in Palm Beach.
+
+248
+00:13:10,340 --> 00:13:12,355
+So there you have it.
+
+249
+00:13:12,355 --> 00:13:15,200
+They thought just along
+the same lines as you,
+
+250
+00:13:15,200 --> 00:13:17,540
+and they'll be in
+the horse latitudes.
+
+251
+00:13:17,540 --> 00:13:20,150
+There's a whole bunch of--
+
+252
+00:13:20,150 --> 00:13:22,520
+nobody really knows why it's
+called the horse latitudes.
+
+253
+00:13:22,520 --> 00:13:24,862
+One idea is that the ships--
+
+254
+00:13:24,862 --> 00:13:26,570
+since there's no wind
+in those latitudes,
+
+255
+00:13:26,570 --> 00:13:28,340
+they have to find a
+current, and then they
+
+256
+00:13:28,340 --> 00:13:32,950
+get pulled along by the current
+as if they were on a horse.
+
+257
+00:13:32,950 --> 00:13:36,710
+All right, surface friction
+is a little bit complicated.
+
+258
+00:13:36,710 --> 00:13:38,770
+It tends to drag down the wind.
+
+259
+00:13:38,770 --> 00:13:44,060
+You'll have to study this
+vector diagram on your own.
+
+260
+00:13:44,060 --> 00:13:46,300
+But, really, from the
+FAA's point of view,
+
+261
+00:13:46,300 --> 00:13:48,130
+they just want
+you to know mostly
+
+262
+00:13:48,130 --> 00:13:53,920
+that the wind 2,000
+or 3,000 feet up is
+
+263
+00:13:53,920 --> 00:13:56,200
+going to be different from
+the wind on the surface.
+
+264
+00:13:56,200 --> 00:13:58,020
+Because of surface
+friction, it will
+
+265
+00:13:58,020 --> 00:14:03,046
+be less intense and in a
+slightly different direction.
+
+266
+00:14:03,046 --> 00:14:06,650
+OK, vertical
+circulation of the air.
+
+267
+00:14:06,650 --> 00:14:10,940
+I think you're going to be OK
+if you just remember that warmer
+
+268
+00:14:10,940 --> 00:14:12,575
+air is lighter than colder air.
+
+269
+00:14:12,575 --> 00:14:14,450
+That's all that you
+pretty much need to know.
+
+270
+00:14:17,270 --> 00:14:20,640
+OK, local wind patterns.
+
+271
+00:14:20,640 --> 00:14:26,250
+If you heat up the shore line,
+the air will rise off the shore
+
+272
+00:14:26,250 --> 00:14:28,930
+and pull in air from the
+ocean during the daytime
+
+273
+00:14:28,930 --> 00:14:30,840
+so you get that sea breeze.
+
+274
+00:14:30,840 --> 00:14:34,808
+And then at nighttime,
+the opposite happens,
+
+275
+00:14:34,808 --> 00:14:35,850
+so you get a land breeze.
+
+276
+00:14:35,850 --> 00:14:38,980
+So there are some of these
+predictable local weather
+
+277
+00:14:38,980 --> 00:14:39,480
+patterns.
+
+278
+00:14:42,240 --> 00:14:44,990
+The bigger ones have to do
+with atmospheric stability.
+
+279
+00:14:47,520 --> 00:14:52,430
+If you have a stable
+atmosphere, meaning
+
+280
+00:14:52,430 --> 00:14:56,120
+that a displaced parcel of air
+tends to get pushed back down
+
+281
+00:14:56,120 --> 00:15:02,390
+to wherever it was, then you get
+these weather characteristics
+
+282
+00:15:02,390 --> 00:15:05,480
+where you're not going to be
+bumped around in your aircraft.
+
+283
+00:15:05,480 --> 00:15:08,360
+You're going to
+have trouble seeing,
+
+284
+00:15:08,360 --> 00:15:11,000
+and you're going to see clouds
+that are basically flat,
+
+285
+00:15:11,000 --> 00:15:16,670
+these stratiform clouds here
+that you see on the right.
+
+286
+00:15:16,670 --> 00:15:18,740
+If it rains, it's just
+going to rain all day.
+
+287
+00:15:18,740 --> 00:15:21,500
+It's going to be a typical
+miserable New England
+
+288
+00:15:21,500 --> 00:15:25,910
+day where it rains all the
+time, or Seattle, I guess,
+
+289
+00:15:25,910 --> 00:15:28,130
+is like that as well.
+
+290
+00:15:28,130 --> 00:15:30,620
+Well, what about if
+the air once displaced
+
+291
+00:15:30,620 --> 00:15:33,350
+tends to want to
+keep being displaced?
+
+292
+00:15:33,350 --> 00:15:35,870
+If it rises up a little
+bit, it keeps rising.
+
+293
+00:15:35,870 --> 00:15:38,840
+Then you have these clouds
+with vertical development.
+
+294
+00:15:38,840 --> 00:15:42,182
+And the good news is
+you can see really well.
+
+295
+00:15:42,182 --> 00:15:44,390
+You're not going to have an
+obstruction to visibility
+
+296
+00:15:44,390 --> 00:15:47,720
+unless you're in heavy rain.
+
+297
+00:15:47,720 --> 00:15:50,810
+And the rain won't be
+all day, every day.
+
+298
+00:15:50,810 --> 00:15:53,930
+It'll be showery, but
+it'll be very turbulent
+
+299
+00:15:53,930 --> 00:15:56,750
+if you get into that
+cloud or maybe right
+
+300
+00:15:56,750 --> 00:15:58,955
+underneath that cloud.
+
+301
+00:15:58,955 --> 00:16:07,200
+OK, what about the
+profile of the atmosphere?
+
+302
+00:16:07,200 --> 00:16:10,470
+Let's have a look at this.
+
+303
+00:16:10,470 --> 00:16:11,210
+So on the right--
+
+304
+00:16:14,510 --> 00:16:16,640
+I wonder if this is
+actually my newest
+
+305
+00:16:16,640 --> 00:16:17,840
+version of the presentation.
+
+306
+00:16:17,840 --> 00:16:19,010
+We'll see.
+
+307
+00:16:19,010 --> 00:16:20,840
+I corrected an error.
+
+308
+00:16:20,840 --> 00:16:24,380
+On the right, you can see that
+for every 1,000 feet you go up.
+
+309
+00:16:24,380 --> 00:16:27,230
+So we go from 0
+to 1,000 feet up.
+
+310
+00:16:27,230 --> 00:16:30,060
+The temperature is gone
+from 18 Celsius to 15,
+
+311
+00:16:30,060 --> 00:16:32,450
+so it's lapsed by 3 degrees.
+
+312
+00:16:32,450 --> 00:16:35,981
+And the dew point has gone
+down by half a degree.
+
+313
+00:16:35,981 --> 00:16:37,400
+Does that makes sense?
+
+314
+00:16:37,400 --> 00:16:40,070
+The air goes up,
+it's lower pressure.
+
+315
+00:16:40,070 --> 00:16:43,270
+This is called an
+adiabatic process.
+
+316
+00:16:43,270 --> 00:16:45,710
+I was not a chemistry
+major, but I
+
+317
+00:16:45,710 --> 00:16:50,240
+think that means that we're
+not adding or taking away
+
+318
+00:16:50,240 --> 00:16:51,530
+heat from the air.
+
+319
+00:16:51,530 --> 00:16:52,980
+We're just moving it.
+
+320
+00:16:52,980 --> 00:16:57,530
+So the temperature
+and dew point spread,
+
+321
+00:16:57,530 --> 00:16:59,240
+actually does get narrower.
+
+322
+00:16:59,240 --> 00:17:02,780
+You can see as we rise up to
+5,000 feet that the spread has
+
+323
+00:17:02,780 --> 00:17:06,380
+gone down to 2 and 1/2 degrees
+because the dew point is not
+
+324
+00:17:06,380 --> 00:17:10,529
+falling nearly as fast as
+the overall temperature.
+
+325
+00:17:10,529 --> 00:17:11,404
+Does that make sense?
+
+326
+00:17:11,404 --> 00:17:14,990
+So I think this conceivably
+could be an FAA test
+
+327
+00:17:14,990 --> 00:17:21,430
+question that the dry adiabatic
+lapse rate is 3 degrees.
+
+328
+00:17:21,430 --> 00:17:26,589
+OK, then the moist air is
+lapsing only at 2 degrees.
+
+329
+00:17:26,589 --> 00:17:32,690
+So this figure shows you
+going from 0 to 1,000 feet,
+
+330
+00:17:32,690 --> 00:17:36,500
+and from 1 to 2,000
+feet, we were dropping
+
+331
+00:17:36,500 --> 00:17:39,830
+3 degrees per thousand feet.
+
+332
+00:17:39,830 --> 00:17:44,070
+After that, we're dropping only
+2 degrees per thousand feet.
+
+333
+00:17:44,070 --> 00:17:47,790
+And once the temperature
+dew point spread goes to 0,
+
+334
+00:17:47,790 --> 00:17:50,050
+that's when a cloud happens.
+
+335
+00:17:50,050 --> 00:17:52,900
+So the air can't hold
+anymore water vapor.
+
+336
+00:17:52,900 --> 00:17:58,320
+And when the temperature
+and dew point meet,
+
+337
+00:17:58,320 --> 00:18:00,055
+the water vapor
+turns into water,
+
+338
+00:18:00,055 --> 00:18:03,200
+and now you've got a cloud.
+
+339
+00:18:03,200 --> 00:18:07,690
+All right, so you might
+ask yourself, well,
+
+340
+00:18:07,690 --> 00:18:10,540
+why is this air moving at all?
+
+341
+00:18:10,540 --> 00:18:12,130
+Why does it start moving?
+
+342
+00:18:12,130 --> 00:18:15,380
+One thing that can start it
+moving is a mountain range.
+
+343
+00:18:15,380 --> 00:18:19,090
+So the air gets pushed
+by a wind coming
+
+344
+00:18:19,090 --> 00:18:23,050
+from the left side of the slide
+up the top of the mountain.
+
+345
+00:18:23,050 --> 00:18:27,760
+And at that point, it will
+condense into a cloud.
+
+346
+00:18:31,470 --> 00:18:34,000
+Just let you absorb that
+cloud here for a minute.
+
+347
+00:18:34,000 --> 00:18:35,880
+Notice also that
+relative humidity is just
+
+348
+00:18:35,880 --> 00:18:39,340
+another way of stating the
+temperature dew point spread.
+
+349
+00:18:39,340 --> 00:18:41,880
+So here temperature and
+dew point are pretty close,
+
+350
+00:18:41,880 --> 00:18:44,400
+10 and 15 or 15 and 10.
+
+351
+00:18:44,400 --> 00:18:47,010
+So we've got relative
+humidity of 80%.
+
+352
+00:18:47,010 --> 00:18:50,610
+Over here, they're
+quite far apart.
+
+353
+00:18:50,610 --> 00:18:53,760
+The temperature is 23, and
+the dew point is minus 2.
+
+354
+00:18:53,760 --> 00:18:57,790
+So the relative humidity is low.
+
+355
+00:18:57,790 --> 00:19:01,270
+OK, you've heard that there's
+a cold front coming in
+
+356
+00:19:01,270 --> 00:19:03,040
+and we have all
+these thunderstorms.
+
+357
+00:19:03,040 --> 00:19:03,790
+Well, this is why.
+
+358
+00:19:03,790 --> 00:19:07,490
+The cold air is denser
+than the warm air.
+
+359
+00:19:07,490 --> 00:19:09,980
+So it pushes the warm air up.
+
+360
+00:19:09,980 --> 00:19:12,490
+And at that point, you
+get clouds forming,
+
+361
+00:19:12,490 --> 00:19:14,860
+and you get thunderstorms
+all along the line
+
+362
+00:19:14,860 --> 00:19:16,860
+of the cold front.
+
+363
+00:19:16,860 --> 00:19:19,230
+OK, so what if you
+have stable air?
+
+364
+00:19:19,230 --> 00:19:20,370
+Let's have a look at this.
+
+365
+00:19:25,980 --> 00:19:26,750
+You end up--
+
+366
+00:19:30,520 --> 00:19:31,160
+Let's see.
+
+367
+00:19:35,770 --> 00:19:46,390
+We've gone from 0, to
+1, to 2, and we're only
+
+368
+00:19:46,390 --> 00:19:48,370
+dropping-- actually,
+we're not dropping at all.
+
+369
+00:19:48,370 --> 00:19:49,328
+And then we're back up.
+
+370
+00:19:49,328 --> 00:19:50,590
+This is an inversion.
+
+371
+00:19:50,590 --> 00:19:53,350
+OK, so, basically,
+the air temperature
+
+372
+00:19:53,350 --> 00:19:56,780
+is pretty constant as we go up.
+
+373
+00:19:56,780 --> 00:20:11,260
+So if a parcel of air rises
+up into the atmosphere,
+
+374
+00:20:11,260 --> 00:20:16,330
+it's not going to be warmer
+than the surrounding air,
+
+375
+00:20:16,330 --> 00:20:20,340
+so it doesn't want
+to keep rising.
+
+376
+00:20:20,340 --> 00:20:22,920
+OK, what if it's unstable?
+
+377
+00:20:22,920 --> 00:20:24,740
+So look at this by contrast.
+
+378
+00:20:24,740 --> 00:20:26,210
+The environmental
+air temperature
+
+379
+00:20:26,210 --> 00:20:28,790
+is lapsing at a higher
+than standard rate.
+
+380
+00:20:31,730 --> 00:20:36,250
+It's going down 4 degrees
+Celsius per thousand feet.
+
+381
+00:20:36,250 --> 00:20:40,810
+And this parcel of air
+that was in equilibrium
+
+382
+00:20:40,810 --> 00:20:49,120
+down at sea level is still
+warmer than the surrounding
+
+383
+00:20:49,120 --> 00:20:51,340
+air, and, therefore, it
+wants to keep rising.
+
+384
+00:20:51,340 --> 00:20:53,720
+Does that make sense?
+
+385
+00:20:53,720 --> 00:20:58,030
+So, basically, if it goes up
+and it wants to keep going up,
+
+386
+00:20:58,030 --> 00:21:01,090
+that's unstable and
+a perfect situation
+
+387
+00:21:01,090 --> 00:21:05,950
+for forming thunderstorms,
+which we'll talk about shortly.
+
+388
+00:21:05,950 --> 00:21:09,520
+Temperature inversion like
+we saw on that earlier slide
+
+389
+00:21:09,520 --> 00:21:14,560
+where it was actually a
+little bit warmer here,
+
+390
+00:21:14,560 --> 00:21:21,310
+that tends to keep
+air where it is,
+
+391
+00:21:21,310 --> 00:21:23,470
+and, therefore, you end
+up with poor visibility
+
+392
+00:21:23,470 --> 00:21:25,660
+and haze because
+all the stuff that's
+
+393
+00:21:25,660 --> 00:21:27,430
+obscuring your visibility
+is just staying
+
+394
+00:21:27,430 --> 00:21:28,833
+underneath the inversion.
+
+395
+00:21:28,833 --> 00:21:30,250
+It's kind of a
+common phenomenon I
+
+396
+00:21:30,250 --> 00:21:32,800
+think in some of these
+basins like Los Angeles.
+
+397
+00:21:32,800 --> 00:21:36,035
+Talk about an inversion,
+and ordinary people
+
+398
+00:21:36,035 --> 00:21:38,410
+think about that, and hear
+that term, and worry about it.
+
+399
+00:21:41,140 --> 00:21:44,680
+Most frequently-- you're going
+to I think see this on a test
+
+400
+00:21:44,680 --> 00:21:45,570
+maybe--
+
+401
+00:21:45,570 --> 00:21:53,350
+is phenomena having to do with
+the ground radiating back heat
+
+402
+00:21:53,350 --> 00:21:56,440
+into the atmosphere or
+into space at night.
+
+403
+00:21:56,440 --> 00:21:58,990
+Tends to make the
+ground cold and the air
+
+404
+00:21:58,990 --> 00:22:02,560
+right next to the ground cold,
+whereas the air just slightly
+
+405
+00:22:02,560 --> 00:22:04,750
+higher than that, a
+couple thousand feet up,
+
+406
+00:22:04,750 --> 00:22:07,430
+hasn't changed the
+temperature too much.
+
+407
+00:22:07,430 --> 00:22:12,400
+So the terrestrial radiation
+on a clear still night
+
+408
+00:22:12,400 --> 00:22:15,400
+can cause a
+temperature inversion.
+
+409
+00:22:15,400 --> 00:22:20,380
+We talked about this earlier
+when the temperature and dew
+
+410
+00:22:20,380 --> 00:22:26,130
+point meet, and that's when
+the water vapor will condense.
+
+411
+00:22:26,130 --> 00:22:27,030
+Frost.
+
+412
+00:22:27,030 --> 00:22:32,740
+When the dew point
+is below freezing
+
+413
+00:22:32,740 --> 00:22:38,190
+and you have a surface that's
+cold, then you will get--
+
+414
+00:22:38,190 --> 00:22:40,860
+maybe it's cold because
+it radiated its heat
+
+415
+00:22:40,860 --> 00:22:43,260
+back out into space
+at night, for example.
+
+416
+00:22:43,260 --> 00:22:46,260
+That's when you
+get frost forming.
+
+417
+00:22:46,260 --> 00:22:48,630
+And you want to definitely
+clear that off your aircraft
+
+418
+00:22:48,630 --> 00:22:53,580
+before you go anywhere
+because it messes
+
+419
+00:22:53,580 --> 00:22:58,080
+with the smooth flow of the air,
+so the wing becomes much less
+
+420
+00:22:58,080 --> 00:23:02,220
+efficient even if the shape
+hasn't changed that much.
+
+421
+00:23:02,220 --> 00:23:04,095
+All right, let's look
+at the kinds of clouds.
+
+422
+00:23:07,290 --> 00:23:14,520
+You've got basically--
+the prefix to the cloud
+
+423
+00:23:14,520 --> 00:23:18,630
+tells you what height it is.
+
+424
+00:23:18,630 --> 00:23:21,360
+And then the second
+part of the word
+
+425
+00:23:21,360 --> 00:23:24,930
+tells you kind of the
+shape of the cloud.
+
+426
+00:23:24,930 --> 00:23:29,430
+So I'll just let you
+absorb this a little bit.
+
+427
+00:23:29,430 --> 00:23:34,460
+If it says nimbo, yeah,
+cumulonimbus or nimbostratus,
+
+428
+00:23:34,460 --> 00:23:37,550
+that means it's raining.
+
+429
+00:23:37,550 --> 00:23:42,260
+Towering cumulus is bad
+if they talk about that.
+
+430
+00:23:42,260 --> 00:23:43,790
+And cumulonimbus is the worst.
+
+431
+00:23:43,790 --> 00:23:48,620
+That's just another fancier
+way of saying thunderstorm.
+
+432
+00:23:48,620 --> 00:23:53,580
+OK, so here's your
+Latin lesson for today.
+
+433
+00:23:53,580 --> 00:23:55,200
+Unfortunately, I
+didn't study Latin.
+
+434
+00:23:55,200 --> 00:23:57,890
+It would have been
+nice when I went
+
+435
+00:23:57,890 --> 00:23:59,810
+to Peru to be able
+to communicate
+
+436
+00:23:59,810 --> 00:24:05,060
+with the locals
+in Latin America.
+
+437
+00:24:05,060 --> 00:24:06,320
+OK, that wasn't funny I guess.
+
+438
+00:24:06,320 --> 00:24:09,722
+[LAUGHTER]
+
+439
+00:24:12,650 --> 00:24:18,320
+If you have low clouds, the
+main hazard to worry about
+
+440
+00:24:18,320 --> 00:24:20,180
+is the icing.
+
+441
+00:24:20,180 --> 00:24:24,800
+If the water is supercooled,
+that's the worst.
+
+442
+00:24:24,800 --> 00:24:27,717
+You can usually get
+a forecast of that.
+
+443
+00:24:27,717 --> 00:24:29,300
+You'll get AIRMETs
+for icing, and they
+
+444
+00:24:29,300 --> 00:24:33,545
+might talk about supercooled
+water is a hazard.
+
+445
+00:24:36,530 --> 00:24:38,720
+I guess this might
+be an exam question.
+
+446
+00:24:38,720 --> 00:24:43,850
+Stratus clouds form when moist,
+stable air flows upslope.
+
+447
+00:24:43,850 --> 00:24:49,310
+But just remember stable
+usually means the flat clouds,
+
+448
+00:24:49,310 --> 00:24:50,740
+stratiform clouds.
+
+449
+00:24:50,740 --> 00:24:55,745
+And unstable is where you
+get the cumuliform clouds.
+
+450
+00:25:02,090 --> 00:25:03,230
+So same deal.
+
+451
+00:25:03,230 --> 00:25:04,880
+Those altocumulus
+are going to be
+
+452
+00:25:04,880 --> 00:25:13,690
+much more turbulent and probably
+more severe icing potential.
+
+453
+00:25:13,690 --> 00:25:19,390
+The high clouds-- it's so
+cold in the high atmosphere
+
+454
+00:25:19,390 --> 00:25:22,720
+that the maximum amount of
+water that can be stored
+
+455
+00:25:22,720 --> 00:25:25,570
+is pretty low,
+and, therefore, you
+
+456
+00:25:25,570 --> 00:25:28,780
+don't tend to get
+ice when it's below
+
+457
+00:25:28,780 --> 00:25:32,260
+say minus 15 degrees Celsius.
+
+458
+00:25:32,260 --> 00:25:35,110
+There just isn't a whole lot
+of moisture to begin with.
+
+459
+00:25:38,790 --> 00:25:41,910
+OK, so this is
+what as a GA pilot
+
+460
+00:25:41,910 --> 00:25:44,608
+you're more likely to
+have to worry about.
+
+461
+00:25:44,608 --> 00:25:46,650
+You're probably not going
+to be up at 25,000 feet
+
+462
+00:25:46,650 --> 00:25:48,360
+in your Piper Warrior.
+
+463
+00:25:48,360 --> 00:25:57,038
+But you could be
+underneath a cumulus cloud.
+
+464
+00:25:57,038 --> 00:25:58,830
+I will tell you that
+if you have passengers
+
+465
+00:25:58,830 --> 00:26:01,470
+and there is low cumulus
+clouds, you desperately
+
+466
+00:26:01,470 --> 00:26:02,860
+want to get above those.
+
+467
+00:26:02,860 --> 00:26:05,700
+So let's say there's a bunch
+of cumulus clouds at 4,000
+
+468
+00:26:05,700 --> 00:26:07,290
+or 5,000 feet.
+
+469
+00:26:07,290 --> 00:26:10,500
+You can climb probably
+to 8,000 or 10,000 feet
+
+470
+00:26:10,500 --> 00:26:13,120
+in a light airplane, and
+that'll be much, much smoother.
+
+471
+00:26:13,120 --> 00:26:16,470
+So as soon as you get
+above the cumulus clouds,
+
+472
+00:26:16,470 --> 00:26:18,750
+that's where the air
+tends to smooth out,
+
+473
+00:26:18,750 --> 00:26:21,180
+and it'll be much
+more comfortable.
+
+474
+00:26:21,180 --> 00:26:23,730
+But if it's a towering
+cumulus cloud,
+
+475
+00:26:23,730 --> 00:26:29,130
+they may go up to as high as
+60,000 feet down in Texas.
+
+476
+00:26:29,130 --> 00:26:30,660
+And you really
+can't get over them
+
+477
+00:26:30,660 --> 00:26:36,870
+in anything short of an
+SR-71 or maybe last as F-22.
+
+478
+00:26:36,870 --> 00:26:41,970
+Even the latest Gulfstreams
+only go to 51,000, I believe.
+
+479
+00:26:41,970 --> 00:26:44,750
+OK, so thunderstorms
+are the worst hazard.
+
+480
+00:26:44,750 --> 00:26:47,700
+Even the airliners get in
+trouble and thunderstorms
+
+481
+00:26:47,700 --> 00:26:55,790
+with hail smashing into the
+windshield and turbulence that
+
+482
+00:26:55,790 --> 00:26:58,930
+can bend stuff.
+
+483
+00:26:58,930 --> 00:27:08,500
+So how do you predict
+if you're flying along--
+
+484
+00:27:08,500 --> 00:27:10,580
+well, if you're preparing
+to go on a flight,
+
+485
+00:27:10,580 --> 00:27:12,788
+how do you predict where
+the clouds are likely to be?
+
+486
+00:27:12,788 --> 00:27:16,130
+One thing you do is look at the
+temperature dew point spread.
+
+487
+00:27:16,130 --> 00:27:21,255
+The FAA tells you to use a lapse
+rate of 2.5 degrees Celsius
+
+488
+00:27:21,255 --> 00:27:22,880
+to figure out where
+the clouds will be.
+
+489
+00:27:22,880 --> 00:27:28,240
+So if there is a 10 degree
+temperature dew point spread,
+
+490
+00:27:28,240 --> 00:27:30,740
+then you should expect
+the clouds to have
+
+491
+00:27:30,740 --> 00:27:32,480
+a base at about 4,000 feet.
+
+492
+00:27:32,480 --> 00:27:33,780
+There's a typo in the slide.
+
+493
+00:27:33,780 --> 00:27:34,760
+Sorry about that.
+
+494
+00:27:34,760 --> 00:27:37,340
+I thought we had the new
+version in the Dropbox.
+
+495
+00:27:37,340 --> 00:27:42,590
+The temperature lapses at 3
+for the dry adiabatic air.
+
+496
+00:27:42,590 --> 00:27:43,590
+You remember that?
+
+497
+00:27:43,590 --> 00:27:45,415
+And the dew point's at 0.5.
+
+498
+00:27:45,415 --> 00:27:46,790
+So if we go back
+to that figure--
+
+499
+00:27:52,080 --> 00:27:55,690
+I think it was our-- yeah.
+
+500
+00:27:55,690 --> 00:27:59,640
+Yeah, if we go back
+here, you remember this?
+
+501
+00:27:59,640 --> 00:28:02,530
+We went from 18, to 15, to 12.
+
+502
+00:28:02,530 --> 00:28:05,260
+And the dew point, meanwhile,
+is falling from 3, to 2 and 1/2,
+
+503
+00:28:05,260 --> 00:28:06,430
+to 2.
+
+504
+00:28:06,430 --> 00:28:07,270
+So that's why.
+
+505
+00:28:10,930 --> 00:28:13,060
+It's 2.5 as a rule of thumb.
+
+506
+00:28:13,060 --> 00:28:16,300
+That's not great, but
+you can actually--
+
+507
+00:28:16,300 --> 00:28:19,843
+Just look at METARs
+around the country,
+
+508
+00:28:19,843 --> 00:28:21,760
+and I think you will see
+because they give you
+
+509
+00:28:21,760 --> 00:28:24,130
+the basis of the clouds
+and the ceilings.
+
+510
+00:28:24,130 --> 00:28:26,260
+I think you usually
+will see that it's
+
+511
+00:28:26,260 --> 00:28:31,810
+reasonably close to this formula
+but almost never spot on.
+
+512
+00:28:31,810 --> 00:28:38,620
+OK, this is worth studying.
+
+513
+00:28:38,620 --> 00:28:41,300
+I'm not going to cover
+it completely here.
+
+514
+00:28:41,300 --> 00:28:44,540
+But some of these
+are exam questions.
+
+515
+00:28:44,540 --> 00:28:46,420
+Advection fog-- I
+think I remember
+
+516
+00:28:46,420 --> 00:28:50,590
+they like to ask about that,
+when the warm moist air moves
+
+517
+00:28:50,590 --> 00:28:55,253
+over a cool surface
+along coastlines.
+
+518
+00:28:55,253 --> 00:28:56,420
+So I think that makes sense.
+
+519
+00:28:56,420 --> 00:28:58,520
+Maybe that's what they're
+having in California
+
+520
+00:28:58,520 --> 00:28:59,650
+a lot of the time.
+
+521
+00:28:59,650 --> 00:29:05,455
+They have the fog over
+the coastal areas.
+
+522
+00:29:12,270 --> 00:29:15,810
+And radiation fog-- also,
+in the Western deserts,
+
+523
+00:29:15,810 --> 00:29:18,850
+oftentimes, there's
+fog in the morning.
+
+524
+00:29:18,850 --> 00:29:23,160
+So I think you're advection fog
+would be a coastal phenomenon.
+
+525
+00:29:23,160 --> 00:29:26,520
+And the radiation
+fog, something they
+
+526
+00:29:26,520 --> 00:29:32,750
+can have in a place like
+Arizona or Palm Springs.
+
+527
+00:29:32,750 --> 00:29:36,610
+OK, the FAA loves this.
+
+528
+00:29:36,610 --> 00:29:39,880
+If you see ice pellets, you
+probably shouldn't be flying.
+
+529
+00:29:39,880 --> 00:29:44,110
+But they want you to know that
+if you do see ice pellets,
+
+530
+00:29:44,110 --> 00:29:47,260
+how did they arrive?
+
+531
+00:29:47,260 --> 00:29:50,050
+Well, they had to be
+freezing rain up higher.
+
+532
+00:29:50,050 --> 00:29:52,360
+So don't climb in hopes
+of getting out of the ice
+
+533
+00:29:52,360 --> 00:29:56,050
+pellets because then you'll have
+freezing rain on your airplane
+
+534
+00:29:56,050 --> 00:29:58,960
+which is probably the worst
+kind of icing-related hazard.
+
+535
+00:30:01,580 --> 00:30:04,170
+OK, airmasses.
+
+536
+00:30:09,470 --> 00:30:10,790
+You can just have a look here.
+
+537
+00:30:13,560 --> 00:30:16,460
+If you hear that there's
+a polar airmass coming in,
+
+538
+00:30:16,460 --> 00:30:18,800
+it's going to be cold,
+not too exciting.
+
+539
+00:30:18,800 --> 00:30:19,890
+Might be a question.
+
+540
+00:30:19,890 --> 00:30:21,650
+Fronts, they do
+want you to see--
+
+541
+00:30:21,650 --> 00:30:23,970
+be able to read
+one of these maps.
+
+542
+00:30:23,970 --> 00:30:25,910
+They may occasionally
+asked you a question.
+
+543
+00:30:25,910 --> 00:30:29,090
+So one thing to remember
+is the cold front
+
+544
+00:30:29,090 --> 00:30:32,260
+has the pointy
+spikes like icicles.
+
+545
+00:30:32,260 --> 00:30:36,140
+So if you can remember
+that, you'll be pretty good.
+
+546
+00:30:36,140 --> 00:30:39,410
+There's a cold front.
+
+547
+00:30:39,410 --> 00:30:44,690
+Again, you can just read this
+and study it at your leisure.
+
+548
+00:30:48,115 --> 00:30:49,740
+I guess they might
+want you to remember
+
+549
+00:30:49,740 --> 00:30:54,950
+that the front is the boundary
+between two air masses.
+
+550
+00:30:54,950 --> 00:30:55,560
+OK.
+
+551
+00:30:55,560 --> 00:30:57,440
+Here's a typical
+drawing where they'll
+
+552
+00:30:57,440 --> 00:30:59,420
+show you the cold fronts
+and the warm fronts.
+
+553
+00:31:03,070 --> 00:31:05,188
+When there is a
+front, how do you
+
+554
+00:31:05,188 --> 00:31:06,730
+know when the front
+has gone through?
+
+555
+00:31:06,730 --> 00:31:10,000
+Well, the temperature's
+changed and the wind's changed,
+
+556
+00:31:10,000 --> 00:31:10,750
+simple as that.
+
+557
+00:31:14,020 --> 00:31:18,250
+Here's a little explanation
+of what you can expect
+
+558
+00:31:18,250 --> 00:31:20,860
+when a cold front goes through.
+
+559
+00:31:32,800 --> 00:31:35,792
+Everybody is happy with that?
+
+560
+00:31:35,792 --> 00:31:37,610
+OK.
+
+561
+00:31:37,610 --> 00:31:43,030
+When a warm front goes through,
+it gets warmer afterwards.
+
+562
+00:31:43,030 --> 00:31:46,520
+Yeah, so the warm front
+produces, as you can see,
+
+563
+00:31:46,520 --> 00:31:53,332
+light to moderate rain,
+drizzle, visibility is bad.
+
+564
+00:31:53,332 --> 00:31:55,040
+That's actually the
+important thing here.
+
+565
+00:31:55,040 --> 00:31:56,960
+The visibility gets poor.
+
+566
+00:31:56,960 --> 00:31:59,760
+And then it becomes
+fair and haze,
+
+567
+00:31:59,760 --> 00:32:06,887
+whereas the visibility becomes
+really good after a cold front
+
+568
+00:32:06,887 --> 00:32:07,470
+comes through.
+
+569
+00:32:11,850 --> 00:32:16,984
+Occluded fronts-- same
+deal, bad visibility.
+
+570
+00:32:19,720 --> 00:32:20,220
+All right.
+
+571
+00:32:20,220 --> 00:32:21,400
+Let's talk about hazards.
+
+572
+00:32:21,400 --> 00:32:23,200
+This is more important.
+
+573
+00:32:23,200 --> 00:32:34,940
+So this is a summary
+of where heat
+
+574
+00:32:34,940 --> 00:32:39,860
+is released into the atmosphere
+versus absorbed by water.
+
+575
+00:32:39,860 --> 00:32:48,650
+So as the water goes, for
+example, from vapor to liquid,
+
+576
+00:32:48,650 --> 00:32:50,145
+it releases heat.
+
+577
+00:32:50,145 --> 00:32:51,770
+So that's exactly
+what's happening when
+
+578
+00:32:51,770 --> 00:32:54,170
+it's raining in a thunderstorm.
+
+579
+00:32:56,870 --> 00:33:00,590
+And that's not a good thing.
+
+580
+00:33:00,590 --> 00:33:01,550
+All right.
+
+581
+00:33:01,550 --> 00:33:08,390
+So here's the FAA's chart
+of a cumulus cloud forming.
+
+582
+00:33:08,390 --> 00:33:11,480
+So you can see the
+lapse rate over here
+
+583
+00:33:11,480 --> 00:33:14,270
+in the ambient atmosphere.
+
+584
+00:33:14,270 --> 00:33:19,550
+It's going from 28
+to 24 down to 21.
+
+585
+00:33:19,550 --> 00:33:25,070
+So it is, at least
+initially, higher
+
+586
+00:33:25,070 --> 00:33:27,050
+than standard lapse rate.
+
+587
+00:33:27,050 --> 00:33:30,450
+So this warm air--
+
+588
+00:33:30,450 --> 00:33:31,820
+it starts at 28.
+
+589
+00:33:31,820 --> 00:33:34,280
+And then it drops only to 25.
+
+590
+00:33:34,280 --> 00:33:36,830
+So it's still warmer
+than the surrounding air.
+
+591
+00:33:36,830 --> 00:33:42,930
+So it goes into becoming
+this big, nasty cloud.
+
+592
+00:33:42,930 --> 00:33:47,270
+There's this-- you
+can see-- if you don't
+
+593
+00:33:47,270 --> 00:33:49,880
+want to look at the summaries
+of weather forecasts,
+
+594
+00:33:49,880 --> 00:33:54,170
+you can look at these
+shards of lifted index.
+
+595
+00:33:54,170 --> 00:33:59,510
+Here, it shows the difference
+between minus 18 and minus 11,
+
+596
+00:33:59,510 --> 00:34:00,200
+minus 7.
+
+597
+00:34:00,200 --> 00:34:03,898
+That gives you a measure of
+the thunderstorm potential.
+
+598
+00:34:03,898 --> 00:34:04,940
+There are charts of that.
+
+599
+00:34:08,900 --> 00:34:12,620
+But as pilots, this
+is more what we
+
+600
+00:34:12,620 --> 00:34:14,750
+deal with on our practical
+day-to-day basis.
+
+601
+00:34:14,750 --> 00:34:16,760
+We just look at
+the next rad data
+
+602
+00:34:16,760 --> 00:34:20,130
+from the radar stations that
+are strewn around the country.
+
+603
+00:34:20,130 --> 00:34:22,287
+And if it's red, we try
+to find a path around it,
+
+604
+00:34:22,287 --> 00:34:23,870
+because there's just
+not much else you
+
+605
+00:34:23,870 --> 00:34:26,659
+can do in a little aircraft.
+
+606
+00:34:26,659 --> 00:34:31,520
+It's possible that you could
+get over this entire front
+
+607
+00:34:31,520 --> 00:34:35,570
+if you were in a jet
+that could climb up
+
+608
+00:34:35,570 --> 00:34:37,610
+to 40,000 feet or higher.
+
+609
+00:34:37,610 --> 00:34:40,397
+But in a Piper or
+Cessna or Cirrus,
+
+610
+00:34:40,397 --> 00:34:42,230
+you're just not going
+to be able to do that.
+
+611
+00:34:45,719 --> 00:34:46,350
+OK.
+
+612
+00:34:46,350 --> 00:34:51,560
+The thunderstorm lifecycle--
+this is, I think,
+
+613
+00:34:51,560 --> 00:34:52,850
+my favorite test question.
+
+614
+00:34:52,850 --> 00:34:54,650
+How do you know that
+the thunderstorm
+
+615
+00:34:54,650 --> 00:34:56,600
+has reached its mature stage?
+
+616
+00:34:56,600 --> 00:35:00,230
+Well, it's raining,
+simple as that.
+
+617
+00:35:00,230 --> 00:35:03,300
+If it's raining, it's mature.
+
+618
+00:35:03,300 --> 00:35:09,640
+If it's dissipating, you're
+going to get these downdrafts.
+
+619
+00:35:09,640 --> 00:35:12,040
+If it's building,
+you get updrafts.
+
+620
+00:35:12,040 --> 00:35:17,720
+So everything comes up,
+and then it all comes down.
+
+621
+00:35:17,720 --> 00:35:19,490
+OK.
+
+622
+00:35:19,490 --> 00:35:22,267
+Look at that nasty thunderstorm.
+
+623
+00:35:22,267 --> 00:35:24,350
+You're going to get
+turbulence right on top of it.
+
+624
+00:35:24,350 --> 00:35:27,630
+If you can clear that
+thunderstorm by 5,000 feet,
+
+625
+00:35:27,630 --> 00:35:29,520
+it'll probably nice and smooth.
+
+626
+00:35:29,520 --> 00:35:33,272
+So this is your good argument
+for a plane that can go to 51
+
+627
+00:35:33,272 --> 00:35:35,690
+[INAUDIBLE] or 510.
+
+628
+00:35:35,690 --> 00:35:37,020
+Airliners don't go that high.
+
+629
+00:35:37,020 --> 00:35:41,640
+The latest these jets go
+much higher than airliners.
+
+630
+00:35:41,640 --> 00:35:42,630
+All right.
+
+631
+00:35:42,630 --> 00:35:44,190
+The hazard-- we're
+going to hear more
+
+632
+00:35:44,190 --> 00:35:47,190
+about this tomorrow
+from [? Dojo, ?]
+
+633
+00:35:47,190 --> 00:35:49,950
+from the Brazilian Air Force.
+
+634
+00:35:49,950 --> 00:35:59,190
+But there is this chart here
+that shows you how much load
+
+635
+00:35:59,190 --> 00:36:00,290
+factor-- that's in g's.
+
+636
+00:36:03,650 --> 00:36:09,200
+If you're going pretty
+fast, you can pretty quickly
+
+637
+00:36:09,200 --> 00:36:12,350
+get into the structural
+damage range.
+
+638
+00:36:15,030 --> 00:36:19,020
+So that's why they tell you--
+this these lines here are
+
+639
+00:36:19,020 --> 00:36:19,860
+basically--
+
+640
+00:36:23,560 --> 00:36:26,200
+this is how many g's you
+can get on the aircraft
+
+641
+00:36:26,200 --> 00:36:29,800
+with either extreme
+movements on the controls
+
+642
+00:36:29,800 --> 00:36:32,470
+or extreme movements
+that are imposed on you
+
+643
+00:36:32,470 --> 00:36:34,450
+by a thunderstorm or something.
+
+644
+00:36:34,450 --> 00:36:37,450
+So the takeaway
+from this diagram
+
+645
+00:36:37,450 --> 00:36:40,840
+is slow down if you get
+into heavy turbulence,
+
+646
+00:36:40,840 --> 00:36:45,630
+because then the airplane
+will stall before it bends.
+
+647
+00:36:45,630 --> 00:36:51,650
+And stalling can be corrected
+by pushing the nose down.
+
+648
+00:36:51,650 --> 00:36:52,150
+OK.
+
+649
+00:36:52,150 --> 00:36:54,580
+So these are all of the
+hazards from thunderstorms.
+
+650
+00:36:54,580 --> 00:36:57,710
+Again, it's a lot better--
+
+651
+00:36:57,710 --> 00:36:59,710
+in this day and age,
+there's so much information
+
+652
+00:36:59,710 --> 00:37:02,440
+out there and datalink
+available in the cockpit
+
+653
+00:37:02,440 --> 00:37:05,890
+that going through thunderstorms
+is just much less common
+
+654
+00:37:05,890 --> 00:37:07,060
+than it used to be.
+
+655
+00:37:07,060 --> 00:37:11,860
+And therefore, don't really
+have to remember too much, other
+
+656
+00:37:11,860 --> 00:37:15,330
+than don't fly through
+a thunderstorm.
+
+657
+00:37:15,330 --> 00:37:18,390
+Microburst-- however, if
+you're trying to land and beat
+
+658
+00:37:18,390 --> 00:37:20,465
+the thunderstorm,
+you can actually
+
+659
+00:37:20,465 --> 00:37:21,840
+get into a little
+bit of trouble,
+
+660
+00:37:21,840 --> 00:37:28,380
+because the wind right before
+a thunderstorm or right
+
+661
+00:37:28,380 --> 00:37:36,890
+after can be pretty squirrelly
+and cause you some difficulties
+
+662
+00:37:36,890 --> 00:37:39,350
+here.
+
+663
+00:37:39,350 --> 00:37:39,850
+Let's see.
+
+664
+00:37:39,850 --> 00:37:41,040
+What do we have?
+
+665
+00:37:41,040 --> 00:37:43,330
+So here, this airplane is
+getting a performance boost
+
+666
+00:37:43,330 --> 00:37:45,580
+from a strong headwind.
+
+667
+00:37:45,580 --> 00:37:48,040
+Now, not much is
+happening, except that it's
+
+668
+00:37:48,040 --> 00:37:53,270
+getting pushed down, maybe
+faster than the airplane can
+
+669
+00:37:53,270 --> 00:37:54,200
+climb.
+
+670
+00:37:54,200 --> 00:37:57,110
+And at this point, you're
+getting a performance reduction
+
+671
+00:37:57,110 --> 00:37:58,145
+from this big tailwind.
+
+672
+00:37:58,145 --> 00:38:00,520
+So that's reducing-- you might
+think, well, that's great.
+
+673
+00:38:00,520 --> 00:38:02,390
+I'm getting pushed
+along with a tailwind.
+
+674
+00:38:02,390 --> 00:38:05,810
+But if it's suddenly
+taking away your airspeed,
+
+675
+00:38:05,810 --> 00:38:09,920
+then that's not a
+performance boost.
+
+676
+00:38:09,920 --> 00:38:10,670
+All right.
+
+677
+00:38:10,670 --> 00:38:16,280
+So the thunderstorm
+emergency procedures
+
+678
+00:38:16,280 --> 00:38:18,320
+are, again, probably
+a little bit
+
+679
+00:38:18,320 --> 00:38:20,090
+less relevant now
+that we're living
+
+680
+00:38:20,090 --> 00:38:27,380
+in this world of constant
+datalink and NEXRAD data.
+
+681
+00:38:27,380 --> 00:38:31,850
+2006, there was a famous
+accident with a former test
+
+682
+00:38:31,850 --> 00:38:34,580
+pilot, Scott
+Crossfield, who maybe
+
+683
+00:38:34,580 --> 00:38:38,180
+didn't get the best advice
+from air traffic control.
+
+684
+00:38:38,180 --> 00:38:44,060
+And I don't think he had
+datalink in his cockpit.
+
+685
+00:38:44,060 --> 00:38:46,400
+The Boeing B 29 bomber
+crews, they would fly,
+
+686
+00:38:46,400 --> 00:38:51,800
+I think, seven or eight hours
+from an island in the Pacific
+
+687
+00:38:51,800 --> 00:38:53,090
+over to Japan.
+
+688
+00:38:53,090 --> 00:38:55,040
+And during those
+eight hours, they
+
+689
+00:38:55,040 --> 00:38:59,140
+had satellite data, no
+data from a ground station.
+
+690
+00:38:59,140 --> 00:39:01,390
+So they just had no idea
+what they were going through.
+
+691
+00:39:01,390 --> 00:39:03,620
+And they didn't go as high
+as the designers thought
+
+692
+00:39:03,620 --> 00:39:06,770
+that airplane was designed
+to go, super high.
+
+693
+00:39:06,770 --> 00:39:09,083
+But they were so loaded
+up with fuel and bombs,
+
+694
+00:39:09,083 --> 00:39:11,000
+they couldn't practically
+climb all that high.
+
+695
+00:39:11,000 --> 00:39:15,410
+So they were going at
+10-15,000 feet over the ocean.
+
+696
+00:39:15,410 --> 00:39:20,300
+And at those altitudes,
+you can't really see--
+
+697
+00:39:20,300 --> 00:39:22,820
+you may get into an
+embedded thunderstorm.
+
+698
+00:39:22,820 --> 00:39:27,140
+Today's airliners, they go so
+high that you really are never
+
+699
+00:39:27,140 --> 00:39:29,600
+in a position where
+you blunder into stuff,
+
+700
+00:39:29,600 --> 00:39:33,240
+or almost never, because
+you're in the clear,
+
+701
+00:39:33,240 --> 00:39:35,300
+and you can just see
+the towering cumulus
+
+702
+00:39:35,300 --> 00:39:36,480
+and not fly there.
+
+703
+00:39:36,480 --> 00:39:40,290
+You just back
+yourself around them.
+
+704
+00:39:40,290 --> 00:39:42,600
+So I guess-- yeah,
+the final statement
+
+705
+00:39:42,600 --> 00:39:44,640
+there is, get-there-itis
+hasn't been cured.
+
+706
+00:39:44,640 --> 00:39:48,000
+So as a pilot, the
+safest thing you can do
+
+707
+00:39:48,000 --> 00:39:50,850
+is really fight that
+tendency to want
+
+708
+00:39:50,850 --> 00:39:52,740
+to complete the
+mission as planned
+
+709
+00:39:52,740 --> 00:39:55,230
+and overcommit to
+your plan of action.
+
+710
+00:39:55,230 --> 00:39:57,330
+All right.
+
+711
+00:39:57,330 --> 00:40:02,010
+There are three other categories
+of turbulence to worry about.
+
+712
+00:40:02,010 --> 00:40:13,540
+Probably the worst is due
+to terrain, like mountains.
+
+713
+00:40:13,540 --> 00:40:18,340
+This low level turbulence
+from thermals is not crazy.
+
+714
+00:40:18,340 --> 00:40:21,430
+But as I said, if you get above
+the clouds, that plane on top
+
+715
+00:40:21,430 --> 00:40:25,190
+is going to be in
+a nice, smooth air.
+
+716
+00:40:25,190 --> 00:40:28,920
+Wake turbulence [INAUDIBLE] is
+also another thing to consider.
+
+717
+00:40:28,920 --> 00:40:30,270
+Let's look at that.
+
+718
+00:40:30,270 --> 00:40:42,120
+So if you're taking off behind
+an airplane, so look at that--
+
+719
+00:40:42,120 --> 00:40:45,120
+heavy, slow and in
+clean configuration.
+
+720
+00:40:45,120 --> 00:40:50,220
+So airplanes will tend
+to retract their flaps,
+
+721
+00:40:50,220 --> 00:40:52,590
+and therefore be in
+a clean configuration
+
+722
+00:40:52,590 --> 00:40:55,080
+shortly after takeoff,
+whereas, if they're landing,
+
+723
+00:40:55,080 --> 00:40:56,112
+the flaps are down.
+
+724
+00:40:56,112 --> 00:40:58,320
+They're not generating quite
+as much wake turbulence.
+
+725
+00:40:58,320 --> 00:41:01,500
+Although, still if you land
+behind a Boeing, in your little
+
+726
+00:41:01,500 --> 00:41:02,850
+Cessna, you will notice that.
+
+727
+00:41:07,190 --> 00:41:09,500
+The solution here--
+and I think this
+
+728
+00:41:09,500 --> 00:41:13,190
+is a test question--
+is you land or take off
+
+729
+00:41:13,190 --> 00:41:17,220
+beyond the touchdown
+point of a large aircraft.
+
+730
+00:41:17,220 --> 00:41:21,870
+So if the large aircraft--
+
+731
+00:41:21,870 --> 00:41:26,820
+let's say the large aircraft
+landed right here in front
+
+732
+00:41:26,820 --> 00:41:28,380
+of the laptop on the runway.
+
+733
+00:41:28,380 --> 00:41:30,510
+You just fly a
+little bit higher.
+
+734
+00:41:30,510 --> 00:41:33,290
+And you land maybe in
+the middle of the runway.
+
+735
+00:41:33,290 --> 00:41:36,000
+And that way, you can't possibly
+get into wake turbulence,
+
+736
+00:41:36,000 --> 00:41:38,880
+because it will have sunk below
+that big aircraft's flight
+
+737
+00:41:38,880 --> 00:41:39,840
+path.
+
+738
+00:41:39,840 --> 00:41:41,270
+Controllers at a
+towered airport,
+
+739
+00:41:41,270 --> 00:41:45,210
+they'll also separate you by
+the necessary number of minutes.
+
+740
+00:41:45,210 --> 00:41:48,810
+They have a bunch of regulations
+about how much separation
+
+741
+00:41:48,810 --> 00:41:51,630
+they have to have
+between aircraft.
+
+742
+00:41:51,630 --> 00:41:53,500
+And then similarly,
+for liftoff point--
+
+743
+00:41:53,500 --> 00:41:56,790
+so if the big airplane--
+
+744
+00:41:56,790 --> 00:42:01,290
+again, this is not really that
+much of a practical problem,
+
+745
+00:42:01,290 --> 00:42:04,320
+because so little runway
+is used by light airplanes.
+
+746
+00:42:04,320 --> 00:42:08,610
+But if the big airplane rotated
+and took off and started
+
+747
+00:42:08,610 --> 00:42:11,280
+climbing here, well,
+then you take off
+
+748
+00:42:11,280 --> 00:42:13,740
+and start climbing earlier.
+
+749
+00:42:13,740 --> 00:42:16,187
+Of course, the climb
+rate of the big airplane
+
+750
+00:42:16,187 --> 00:42:17,770
+is probably a lot
+better than you are.
+
+751
+00:42:17,770 --> 00:42:20,460
+So you've got to think about
+which way the wind is going
+
+752
+00:42:20,460 --> 00:42:23,290
+and maybe try to
+turn away from it.
+
+753
+00:42:23,290 --> 00:42:25,710
+I've only really been
+stuck in weight turbulence
+
+754
+00:42:25,710 --> 00:42:27,540
+once that I can think about.
+
+755
+00:42:27,540 --> 00:42:29,040
+It was at Hanscom Field.
+
+756
+00:42:29,040 --> 00:42:32,100
+And there was a
+heavy helicopter that
+
+757
+00:42:32,100 --> 00:42:34,080
+was cleared to
+land on the runway,
+
+758
+00:42:34,080 --> 00:42:36,090
+and then transitioned sideways.
+
+759
+00:42:36,090 --> 00:42:37,292
+And I was in the Cirrus.
+
+760
+00:42:37,292 --> 00:42:39,000
+And I think the
+controllers didn't really
+
+761
+00:42:39,000 --> 00:42:42,800
+think about, well, how
+much wake turbulence can
+
+762
+00:42:42,800 --> 00:42:44,640
+a helicopter generate.
+
+763
+00:42:44,640 --> 00:42:46,530
+So I was trying to land.
+
+764
+00:42:46,530 --> 00:42:49,110
+And maybe about 200
+feet above the ground,
+
+765
+00:42:49,110 --> 00:42:53,820
+there was a sharp
+wing dip that I--
+
+766
+00:42:53,820 --> 00:42:57,180
+the good news is you don't have
+to be heroic to correct it,
+
+767
+00:42:57,180 --> 00:42:59,490
+because, if your
+airplane is banked,
+
+768
+00:42:59,490 --> 00:43:02,050
+the natural tendency is to
+want to take the bank out.
+
+769
+00:43:02,050 --> 00:43:03,630
+So whenever your
+natural tendency
+
+770
+00:43:03,630 --> 00:43:09,430
+is to do the safe thing, that's
+usually not much of a problem.
+
+771
+00:43:09,430 --> 00:43:09,930
+Oh yeah.
+
+772
+00:43:09,930 --> 00:43:13,753
+So anyway, here's
+the FAA question.
+
+773
+00:43:13,753 --> 00:43:14,920
+Who wants to give an answer?
+
+774
+00:43:14,920 --> 00:43:15,580
+Shout it out.
+
+775
+00:43:15,580 --> 00:43:16,360
+A, B, or C?
+
+776
+00:43:24,160 --> 00:43:25,553
+AUDIENCE: A.
+
+777
+00:43:25,553 --> 00:43:26,470
+PHILIP GREENSPUN: Yay.
+
+778
+00:43:30,620 --> 00:43:31,680
+All right.
+
+779
+00:43:31,680 --> 00:43:36,330
+So this is a practical
+issue, especially for anybody
+
+780
+00:43:36,330 --> 00:43:39,960
+who wants to fly out west.
+
+781
+00:43:39,960 --> 00:43:41,790
+You have the Sierra Mountains.
+
+782
+00:43:41,790 --> 00:43:44,100
+You have the Rocky Mountains.
+
+783
+00:43:44,100 --> 00:43:46,680
+And you have to be very careful
+when crossing these mountain
+
+784
+00:43:46,680 --> 00:43:49,530
+ranges.
+
+785
+00:43:49,530 --> 00:43:52,770
+If the wind aloft forecast
+is more than about 30 knots
+
+786
+00:43:52,770 --> 00:43:56,130
+for the time that you're
+planning on crossing,
+
+787
+00:43:56,130 --> 00:43:59,640
+you can expect this kind of
+turbulence on the lee side
+
+788
+00:43:59,640 --> 00:44:02,680
+or the eastern side of
+those mountain ranges.
+
+789
+00:44:02,680 --> 00:44:07,200
+So when I've crossed those
+mountains in light airplanes,
+
+790
+00:44:07,200 --> 00:44:11,100
+I have usually done it first
+thing in the morning basically.
+
+791
+00:44:11,100 --> 00:44:15,420
+So I arranged to shut down
+just short of the mountains
+
+792
+00:44:15,420 --> 00:44:18,330
+the night before, and then
+cross early in the morning
+
+793
+00:44:18,330 --> 00:44:21,330
+when the winds are
+typically calm.
+
+794
+00:44:21,330 --> 00:44:25,470
+So you can look for
+these lenticular clouds.
+
+795
+00:44:25,470 --> 00:44:27,690
+But again, if you
+saw the winds aloft
+
+796
+00:44:27,690 --> 00:44:30,660
+forecast that it was going to
+be blowing 50 knots at 12,000
+
+797
+00:44:30,660 --> 00:44:32,580
+feet, you can be
+pretty sure that it's
+
+798
+00:44:32,580 --> 00:44:36,580
+going to be turbulent.
+
+799
+00:44:36,580 --> 00:44:37,080
+All right.
+
+800
+00:44:37,080 --> 00:44:43,610
+Structural icing-- you can
+get rime, clear or mixed.
+
+801
+00:44:43,610 --> 00:44:47,720
+I'll just let you look
+through the conditions that
+
+802
+00:44:47,720 --> 00:44:48,380
+lead to this.
+
+803
+00:44:56,300 --> 00:45:00,350
+Clearing rime-- probably
+rime icing is more common.
+
+804
+00:45:04,470 --> 00:45:06,760
+What happens?
+
+805
+00:45:06,760 --> 00:45:09,713
+Everything gets worse
+about your aircraft.
+
+806
+00:45:09,713 --> 00:45:11,130
+Especially if
+you're on autopilot,
+
+807
+00:45:11,130 --> 00:45:15,890
+it's a challenge to recognize
+when icing is occurring.
+
+808
+00:45:15,890 --> 00:45:18,070
+You can be in the air,
+fat, dumb, and happy
+
+809
+00:45:18,070 --> 00:45:22,110
+while the airplane gets iced up.
+
+810
+00:45:22,110 --> 00:45:27,870
+So the worst part of it, I
+guess, is that you can't climb.
+
+811
+00:45:27,870 --> 00:45:30,720
+Basically, when your airplane
+has all this performance
+
+812
+00:45:30,720 --> 00:45:34,630
+reduction, you can
+summarize this all--
+
+813
+00:45:34,630 --> 00:45:38,070
+if it's only moderate
+icing, basically you
+
+814
+00:45:38,070 --> 00:45:39,570
+have an aircraft
+that can't climb.
+
+815
+00:45:39,570 --> 00:45:41,130
+All you can do is descend.
+
+816
+00:45:41,130 --> 00:45:45,900
+So a good practical tip is, if
+you're-- well, first off all,
+
+817
+00:45:45,900 --> 00:45:47,760
+the good news is, if
+you're a VFR pilot,
+
+818
+00:45:47,760 --> 00:45:49,620
+like you guys are
+going to become,
+
+819
+00:45:49,620 --> 00:45:52,020
+initially you shouldn't
+have to worry about icing,
+
+820
+00:45:52,020 --> 00:45:55,200
+because it's a phenomenon that
+occurs when you're in a cloud.
+
+821
+00:45:55,200 --> 00:45:57,840
+So you shouldn't be in a
+cloud if you're a VFR pilot
+
+822
+00:45:57,840 --> 00:45:58,820
+to begin with.
+
+823
+00:45:58,820 --> 00:46:01,110
+So how did you get ice?
+
+824
+00:46:01,110 --> 00:46:03,300
+The exception might be
+freezing rain, if you somehow
+
+825
+00:46:03,300 --> 00:46:05,410
+drive through freezing rain.
+
+826
+00:46:05,410 --> 00:46:08,370
+But if you are instrument-rated
+and you are going somewhere--
+
+827
+00:46:08,370 --> 00:46:12,960
+I'm planning on going to New
+York next week in the Cirrus.
+
+828
+00:46:12,960 --> 00:46:19,350
+So if it's cloudy, even if
+there's no icing forecast,
+
+829
+00:46:19,350 --> 00:46:22,620
+I know that there is a risk
+of getting ice on the wings.
+
+830
+00:46:22,620 --> 00:46:25,885
+So in the wintertime,
+I just say,
+
+831
+00:46:25,885 --> 00:46:28,260
+well look, I'm not going to
+go unless it's above freezing
+
+832
+00:46:28,260 --> 00:46:30,900
+on the surface, because,
+if I get iced up,
+
+833
+00:46:30,900 --> 00:46:36,330
+then inadvertently I
+need an escape route.
+
+834
+00:46:36,330 --> 00:46:40,200
+And if it's going to be above
+freezing at, say, 3,000 feet,
+
+835
+00:46:40,200 --> 00:46:41,340
+well, that's fine.
+
+836
+00:46:41,340 --> 00:46:43,710
+I know that I probably
+won't be able to climb
+
+837
+00:46:43,710 --> 00:46:48,060
+if I get moderate icing, but
+I will be able to descend.
+
+838
+00:46:48,060 --> 00:46:49,920
+Even a brick can descend.
+
+839
+00:46:49,920 --> 00:46:53,087
+So descend down to 3,000 feet,
+and all the ice will melt off.
+
+840
+00:46:53,087 --> 00:46:53,920
+That would be great.
+
+841
+00:46:53,920 --> 00:46:56,780
+But if it's below
+freezing on the surface,
+
+842
+00:46:56,780 --> 00:47:00,610
+then it's basically a no-go.
+
+843
+00:47:00,610 --> 00:47:02,310
+I've definitely had
+icing a few times.
+
+844
+00:47:02,310 --> 00:47:03,360
+And it's pretty scary.
+
+845
+00:47:03,360 --> 00:47:09,470
+I was out on a day when
+with an instrument student.
+
+846
+00:47:09,470 --> 00:47:11,270
+And it seemed like
+a perfect day to go
+
+847
+00:47:11,270 --> 00:47:13,700
+practice instrument flying.
+
+848
+00:47:13,700 --> 00:47:15,530
+There was no turbulence.
+
+849
+00:47:15,530 --> 00:47:17,840
+There was just
+clouds everywhere,
+
+850
+00:47:17,840 --> 00:47:19,747
+about 800 feet of ceiling.
+
+851
+00:47:19,747 --> 00:47:21,830
+So you could be in the
+clouds, do real approaches,
+
+852
+00:47:21,830 --> 00:47:25,190
+get experience with actual IMC.
+
+853
+00:47:25,190 --> 00:47:27,920
+And halfway through
+the flight, I
+
+854
+00:47:27,920 --> 00:47:31,970
+started criticizing this guy
+for using way too much power.
+
+855
+00:47:31,970 --> 00:47:35,990
+The power settings were all off.
+
+856
+00:47:35,990 --> 00:47:37,142
+What are you doing wrong?
+
+857
+00:47:37,142 --> 00:47:38,600
+And then I looked
+out on the wings.
+
+858
+00:47:38,600 --> 00:47:40,520
+And I saw they were all frosted.
+
+859
+00:47:40,520 --> 00:47:42,020
+So we descended.
+
+860
+00:47:42,020 --> 00:47:46,280
+We managed to complete an
+ILS approach into Lawrence
+
+861
+00:47:46,280 --> 00:47:50,750
+and pulled the airplane
+into a warm hangar
+
+862
+00:47:50,750 --> 00:47:53,640
+and got it warmed up.
+
+863
+00:47:53,640 --> 00:47:55,790
+So actually, as we
+were as we were flying,
+
+864
+00:47:55,790 --> 00:47:58,480
+the FAA issued an
+AIRMET for icing,
+
+865
+00:47:58,480 --> 00:48:01,370
+but the controllers
+never told us about it.
+
+866
+00:48:01,370 --> 00:48:02,600
+All right.
+
+867
+00:48:02,600 --> 00:48:04,370
+Requirements for
+icing formation--
+
+868
+00:48:08,040 --> 00:48:12,570
+near freezing temperatures,
+minus 10 to 0, is the worst.
+
+869
+00:48:12,570 --> 00:48:16,080
+You have to have a surface
+on which the ice can form.
+
+870
+00:48:16,080 --> 00:48:18,750
+And you have to be invisible
+moisture, basically.
+
+871
+00:48:18,750 --> 00:48:22,530
+So again, if you're flying in
+the clear with your VFR pilot
+
+872
+00:48:22,530 --> 00:48:25,510
+certificate, icing should
+not be a factor for you.
+
+873
+00:48:30,310 --> 00:48:30,810
+Yeah.
+
+874
+00:48:30,810 --> 00:48:34,860
+So as I said below, go
+through a cold cloud
+
+875
+00:48:34,860 --> 00:48:37,910
+only if you have an escape
+route of warm air below.
+
+876
+00:48:42,050 --> 00:48:46,550
+AUDIENCE: [INAUDIBLE] for
+the engine [INAUDIBLE]
+
+877
+00:48:46,550 --> 00:48:51,502
+as far as getting the icing
+in the carburetor [INAUDIBLE]..
+
+878
+00:48:51,502 --> 00:48:52,460
+PHILIP GREENSPUN: Yeah.
+
+879
+00:48:52,460 --> 00:48:55,960
+So the question is, what
+about icing in the engine?
+
+880
+00:48:55,960 --> 00:48:58,810
+So you can get carb ice
+that we talked about.
+
+881
+00:48:58,810 --> 00:49:02,490
+You can get carb ice when
+it's 50 degrees outside,
+
+882
+00:49:02,490 --> 00:49:05,220
+as long as it's humid.
+
+883
+00:49:05,220 --> 00:49:07,440
+So it's slightly unrelated.
+
+884
+00:49:07,440 --> 00:49:10,350
+The main problem with
+engines is that you
+
+885
+00:49:10,350 --> 00:49:12,400
+can get ice in the induction.
+
+886
+00:49:12,400 --> 00:49:15,930
+So if the intake for the engine
+where it's trying to breathe
+
+887
+00:49:15,930 --> 00:49:19,260
+gets iced over, then there's
+an alternate-- again,
+
+888
+00:49:19,260 --> 00:49:21,870
+they're relying
+on the hero pilot.
+
+889
+00:49:21,870 --> 00:49:24,990
+Some airplanes actually,
+it'll just open automatically,
+
+890
+00:49:24,990 --> 00:49:27,870
+the vacuum of trying to suck the
+air through the intake that's
+
+891
+00:49:27,870 --> 00:49:32,180
+not working will cause
+some backup door to open.
+
+892
+00:49:32,180 --> 00:49:33,930
+And a lot of--
+
+893
+00:49:33,930 --> 00:49:38,310
+most IFR-certified aircraft have
+an alternate air lever that you
+
+894
+00:49:38,310 --> 00:49:44,380
+can pull and have air pulled
+from somewhere inside the--
+
+895
+00:49:44,380 --> 00:49:47,430
+it's a little more protected
+inside the airframe.
+
+896
+00:49:47,430 --> 00:49:49,280
+Does that answer your question?
+
+897
+00:49:49,280 --> 00:49:49,900
+AUDIENCE: Yes.
+
+898
+00:49:49,900 --> 00:49:54,290
+So I guess you're saying as
+long as the heat's working
+
+899
+00:49:54,290 --> 00:49:56,723
+your [INAUDIBLE].
+
+900
+00:49:56,723 --> 00:49:58,390
+PHILIP GREENSPUN: As
+long as which heat?
+
+901
+00:49:58,390 --> 00:50:03,873
+AUDIENCE: [INAUDIBLE]
+
+902
+00:50:03,873 --> 00:50:05,290
+PHILIP GREENSPUN:
+You're not going
+
+903
+00:50:05,290 --> 00:50:07,660
+to get carb icing and airframe
+icing at the same time
+
+904
+00:50:07,660 --> 00:50:08,230
+probably.
+
+905
+00:50:08,230 --> 00:50:11,535
+I think, at that point,
+it's probably too cold.
+
+906
+00:50:11,535 --> 00:50:12,410
+I'm not I'm not sure.
+
+907
+00:50:12,410 --> 00:50:14,530
+Well, the other issue is
+you're probably not going
+
+908
+00:50:14,530 --> 00:50:16,420
+to fly a carburated
+airplane into the clouds,
+
+909
+00:50:16,420 --> 00:50:19,600
+because the real IFR airplanes
+that people use to travel,
+
+910
+00:50:19,600 --> 00:50:23,340
+like Cirruses and
+Bonanzas and stuff,
+
+911
+00:50:23,340 --> 00:50:26,910
+in challenging conditions, those
+are almost all fuel injected.
+
+912
+00:50:26,910 --> 00:50:29,410
+But you do have to worry about
+induction icing, like I said.
+
+913
+00:50:32,310 --> 00:50:32,810
+OK.
+
+914
+00:50:35,740 --> 00:50:37,640
+Icing layers are
+usually pretty thin.
+
+915
+00:50:37,640 --> 00:50:41,050
+So if you're in a jet, you
+just add power and climb up
+
+916
+00:50:41,050 --> 00:50:44,390
+another few thousand feet
+and you're out of it.
+
+917
+00:50:44,390 --> 00:50:47,560
+Again, one of the
+effects of icing
+
+918
+00:50:47,560 --> 00:50:51,940
+is to dramatically reduce
+your climb performance.
+
+919
+00:50:51,940 --> 00:50:55,030
+So this best approach
+of climbing out of it
+
+920
+00:50:55,030 --> 00:50:56,440
+is not always available.
+
+921
+00:51:00,380 --> 00:51:05,800
+You will end up using more
+power on the final approach.
+
+922
+00:51:05,800 --> 00:51:09,460
+And you'll add speed as
+well, because the stall
+
+923
+00:51:09,460 --> 00:51:10,480
+speed may have gone up.
+
+924
+00:51:10,480 --> 00:51:14,530
+And you can't really be
+sure, since it hasn't
+
+925
+00:51:14,530 --> 00:51:18,170
+been quantified and tested.
+
+926
+00:51:18,170 --> 00:51:20,830
+You probably won't use flaps.
+
+927
+00:51:20,830 --> 00:51:24,670
+And you'll not
+make severe turns.
+
+928
+00:51:24,670 --> 00:51:28,870
+So there's a good NASA video
+that I encourage you to watch,
+
+929
+00:51:28,870 --> 00:51:34,150
+especially as you work on higher
+performance aircraft and IFR.
+
+930
+00:51:34,150 --> 00:51:37,460
+NASA has this great
+video about icing.
+
+931
+00:51:37,460 --> 00:51:38,410
+OK.
+
+932
+00:51:38,410 --> 00:51:41,830
+How do the transportation
+class airplanes handle this?
+
+933
+00:51:41,830 --> 00:51:46,990
+One approach is to push
+antifreeze out onto the wings.
+
+934
+00:51:46,990 --> 00:51:48,370
+That used to be called TKS.
+
+935
+00:51:48,370 --> 00:51:51,040
+Now, it's called CAV.
+
+936
+00:51:51,040 --> 00:51:52,460
+It's just a brand name.
+
+937
+00:51:52,460 --> 00:51:55,540
+So if you go to a flight school
+and you see a modern Cirrus,
+
+938
+00:51:55,540 --> 00:51:58,510
+like the SR22s, the
+leading edges of the wings
+
+939
+00:51:58,510 --> 00:51:59,710
+will be metal.
+
+940
+00:51:59,710 --> 00:52:01,660
+And they'll have little
+tiny holes in them.
+
+941
+00:52:01,660 --> 00:52:05,140
+And that's for this
+antifreeze to come out.
+
+942
+00:52:05,140 --> 00:52:08,650
+If you have a very light
+jet or a turbo prop,
+
+943
+00:52:08,650 --> 00:52:12,250
+you may have rubber boots on the
+wings and on the tail surfaces.
+
+944
+00:52:12,250 --> 00:52:15,310
+And those inflate to
+crack the ice off.
+
+945
+00:52:15,310 --> 00:52:18,190
+The jets are really
+the ultimate--
+
+946
+00:52:18,190 --> 00:52:22,780
+the bigger jets
+all have bleed air.
+
+947
+00:52:22,780 --> 00:52:24,220
+Remember, the jets
+are compressing
+
+948
+00:52:24,220 --> 00:52:27,060
+air so much that it becomes
+really hot even before it's
+
+949
+00:52:27,060 --> 00:52:28,030
+burned.
+
+950
+00:52:28,030 --> 00:52:30,490
+So you pull the bleed
+air off the compressor,
+
+951
+00:52:30,490 --> 00:52:34,550
+and you run it out into the
+leading edges of the wings.
+
+952
+00:52:34,550 --> 00:52:37,720
+And that just melts the ice off.
+
+953
+00:52:37,720 --> 00:52:46,150
+The transporter aircraft, they
+also heat the windshields.
+
+954
+00:52:46,150 --> 00:52:47,890
+So you'll be able
+to see when you do--
+
+955
+00:52:47,890 --> 00:52:50,920
+if it's not above
+freezing at the airport,
+
+956
+00:52:50,920 --> 00:52:54,580
+you'll have a clear windshield,
+so you can leave the runway.
+
+957
+00:52:54,580 --> 00:52:58,390
+Even in very basic
+airplanes like a Cirrus,
+
+958
+00:52:58,390 --> 00:53:03,040
+if they're IFR-certified,
+the pedo tube
+
+959
+00:53:03,040 --> 00:53:04,180
+is going to be heated.
+
+960
+00:53:04,180 --> 00:53:06,740
+There will be pedo heat.
+
+961
+00:53:06,740 --> 00:53:08,810
+OK.
+
+962
+00:53:08,810 --> 00:53:11,630
+You can learn a whole
+bunch more about this.
+
+963
+00:53:11,630 --> 00:53:13,310
+I think everything
+you know to pass
+
+964
+00:53:13,310 --> 00:53:15,440
+the test is pretty much
+in the Pilot's Handbook
+
+965
+00:53:15,440 --> 00:53:17,390
+of Aeronautical Knowledge.
+
+966
+00:53:17,390 --> 00:53:20,120
+There's a little bit in the AIM.
+
+967
+00:53:20,120 --> 00:53:23,480
+If you want to dig deeper
+and understand more of it,
+
+968
+00:53:23,480 --> 00:53:26,150
+then I would encourage you
+to look at these FAA weather
+
+969
+00:53:26,150 --> 00:53:27,790
+publications.
+
+970
+00:53:27,790 --> 00:53:31,940
+One is about weather theory
+and one is about information
+
+971
+00:53:31,940 --> 00:53:34,280
+that you can get
+from various sources.
+
+972
+00:53:34,280 --> 00:53:38,450
+There's also these videos that I
+would encourage you to look at.
+
+973
+00:53:38,450 --> 00:53:41,830
+One of them is called
+"Ambushed by Ice"
+
+974
+00:53:41,830 --> 00:53:44,390
+and "Into Deep--"
+these particular links,
+
+975
+00:53:44,390 --> 00:53:47,300
+don't write those down, because
+I fixed them last night,
+
+976
+00:53:47,300 --> 00:53:49,490
+but the Dropbox
+didn't update yet.
+
+977
+00:53:49,490 --> 00:53:52,500
+Do they have real-time
+weather data?
+
+978
+00:53:52,500 --> 00:53:55,700
+So the question is, in your
+basic trainer airplane,
+
+979
+00:53:55,700 --> 00:53:58,770
+do they have real-time
+weather data?
+
+980
+00:53:58,770 --> 00:54:02,300
+So let's just talk about
+East Coast Aero Club
+
+981
+00:54:02,300 --> 00:54:07,010
+is a typical higher
+end flight school.
+
+982
+00:54:07,010 --> 00:54:10,430
+About maybe 10 years ago,
+almost all the aircraft
+
+983
+00:54:10,430 --> 00:54:15,050
+had a Garmin IFR-certified
+GPS put in, a Garmin 430.
+
+984
+00:54:15,050 --> 00:54:18,770
+So at that point, you
+had a really good GPS.
+
+985
+00:54:18,770 --> 00:54:22,700
+But they did not have XM weather
+pulling data from satellites,
+
+986
+00:54:22,700 --> 00:54:25,670
+which we'll talk
+about in a little bit,
+
+987
+00:54:25,670 --> 00:54:30,710
+because it's a $500 a year
+subscription and a $10,000 box.
+
+988
+00:54:30,710 --> 00:54:32,990
+So people didn't want to do it.
+
+989
+00:54:32,990 --> 00:54:37,220
+With ADS-B, the FAA is now
+providing some of the same data
+
+990
+00:54:37,220 --> 00:54:41,240
+that XM was providing
+for free, as long
+
+991
+00:54:41,240 --> 00:54:44,380
+as you have an ADS-B
+in transponder.
+
+992
+00:54:44,380 --> 00:54:47,720
+And the East Coast
+Aero-- well, everybody
+
+993
+00:54:47,720 --> 00:54:50,780
+has to upgrade to ADS-B by 2020.
+
+994
+00:54:50,780 --> 00:54:52,940
+Not everybody has
+to have ADS-B in,
+
+995
+00:54:52,940 --> 00:54:54,800
+but I think East Coast
+Aero Club's probably
+
+996
+00:54:54,800 --> 00:54:57,830
+fairly typical of the
+better flight schools.
+
+997
+00:54:57,830 --> 00:55:00,980
+They've put-- or they're
+gradually putting in a ADS-B
+
+998
+00:55:00,980 --> 00:55:03,600
+in and out transponders
+in all their aircraft.
+
+999
+00:55:03,600 --> 00:55:05,487
+It won't display in the cockpit.
+
+1000
+00:55:05,487 --> 00:55:07,820
+You'll have to have your
+phone, your iPad, or something.
+
+1001
+00:55:07,820 --> 00:55:11,180
+But you'll be able to see--
+
+1002
+00:55:11,180 --> 00:55:13,460
+you'll be able to see
+NEXRAD radar picture.
+
+1003
+00:55:13,460 --> 00:55:15,110
+You'll be able to
+get METARs and TAFs.
+
+1004
+00:55:15,110 --> 00:55:16,280
+You'll get all of that.
+
+1005
+00:55:16,280 --> 00:55:16,940
+So I think--
+
+1006
+00:55:16,940 --> 00:55:20,120
+TINA: But if you don't want
+to rely on someone else--
+
+1007
+00:55:20,120 --> 00:55:21,440
+this is MIT.
+
+1008
+00:55:21,440 --> 00:55:23,960
+You can actually get
+that data yourself.
+
+1009
+00:55:23,960 --> 00:55:26,810
+So when we talk about
+weather data today,
+
+1010
+00:55:26,810 --> 00:55:28,310
+we're going to
+also talk about how
+
+1011
+00:55:28,310 --> 00:55:34,160
+you can do it yourself,
+build your own Stratux ADS-B
+
+1012
+00:55:34,160 --> 00:55:35,670
+receiver.
+
+1013
+00:55:35,670 --> 00:55:36,930
+And I've actually done this.
+
+1014
+00:55:36,930 --> 00:55:38,340
+It was really fun to do.
+
+1015
+00:55:38,340 --> 00:55:41,210
+It's very easy, actually.
+
+1016
+00:55:41,210 --> 00:55:45,260
+Basically, based on a Raspberry
+Pi with a couple of antennas,
+
+1017
+00:55:45,260 --> 00:55:48,740
+with a little cooling fan, you
+can build a little box that
+
+1018
+00:55:48,740 --> 00:55:50,750
+can receive that weather data.
+
+1019
+00:55:50,750 --> 00:55:53,610
+And it actually-- the
+software is open source.
+
+1020
+00:55:53,610 --> 00:55:55,820
+And it can sync with
+your other tools.
+
+1021
+00:55:55,820 --> 00:55:58,280
+So I have it synced
+with my Foreflight app.
+
+1022
+00:55:58,280 --> 00:56:00,490
+So when I'm flying,
+I plug that in, I
+
+1023
+00:56:00,490 --> 00:56:02,030
+bring a backup battery for it.
+
+1024
+00:56:02,030 --> 00:56:05,420
+And it gives me weather data
+and some other traffic data.
+
+1025
+00:56:05,420 --> 00:56:07,573
+And we'll be talking about
+that in a couple hours.
+
+1026
+00:56:07,573 --> 00:56:09,490
+PHILIP GREENSPUN: Yeah,
+I should have noticed.
+
+1027
+00:56:09,490 --> 00:56:12,560
+As Tina said, a lot of
+flight school customers
+
+1028
+00:56:12,560 --> 00:56:15,650
+for the last five years would
+bring little battery powered
+
+1029
+00:56:15,650 --> 00:56:21,300
+boxes and stick them to the
+windshield of whatever they're
+
+1030
+00:56:21,300 --> 00:56:21,800
+flying.
+
+1031
+00:56:21,800 --> 00:56:24,920
+And they would get a whole
+bunch of more modern services.
+
+1032
+00:56:24,920 --> 00:56:26,780
+I personally don't love that.
+
+1033
+00:56:26,780 --> 00:56:28,720
+When I started out
+in my flying career,
+
+1034
+00:56:28,720 --> 00:56:30,470
+I had my big flight
+bag with all the stuff
+
+1035
+00:56:30,470 --> 00:56:32,330
+I was going to bring
+into the airplane.
+
+1036
+00:56:32,330 --> 00:56:34,427
+And now, I have the
+philosophy that I
+
+1037
+00:56:34,427 --> 00:56:36,260
+don't want to bring
+anything into the CIrrus
+
+1038
+00:56:36,260 --> 00:56:37,430
+other than a pencil.
+
+1039
+00:56:37,430 --> 00:56:41,140
+I want everything that I
+need to be in the panel.
+
+1040
+00:56:41,140 --> 00:56:44,150
+But yeah, I definitely think,
+in the older airplanes,
+
+1041
+00:56:44,150 --> 00:56:45,950
+it's become
+conventional for people
+
+1042
+00:56:45,950 --> 00:56:52,090
+to bring some sort of ADS-B
+receiver and get that data.

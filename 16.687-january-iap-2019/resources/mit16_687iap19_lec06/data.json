@@ -1,0 +1,21 @@
+{
+  "content": "",
+  "content_type": "resource",
+  "description": "",
+  "draft": false,
+  "file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/61d97df9f12c1182fac7b341acab99ce_MIT16_687IAP19_Lec06.pdf",
+  "file_size": 2463906,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "24cd8438-c1d2-e3d6-7d52-602af43cbf1c",
+  "resourcetype": "Document",
+  "title": "MIT16_687IAP19_Lec06, The Flight Environment",
+  "uid": "61d97df9-f12c-1182-fac7-b341acab99ce"
+}

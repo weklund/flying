@@ -1,0 +1,41 @@
+{
+  "content": "<h2 id=\"description\">Description</h2>\n<p>This lecture discussed the multi-engine aircraft, including the twin-turbojets.</p>\n<p><strong>Instructor:</strong> Philip Greenspun, Tina Srisvastava</p>\n",
+  "content_type": "resource",
+  "description": "",
+  "draft": false,
+  "end_time": "",
+  "file": null,
+  "file_size": "68665567",
+  "file_type": "",
+  "image_metadata": {
+    "caption": "",
+    "credit": "",
+    "image-alt": ""
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "",
+  "optional_tab_title": "",
+  "optional_text": "",
+  "parent_title": "Class Videos",
+  "parent_type": "CourseSection",
+  "related_resources_text": "",
+  "resource_index_text": "",
+  "resourcetype": "Video",
+  "start_time": "",
+  "title": "Lecture 19: Multi-Engine and Jets",
+  "uid": "8e6eeee5-780d-5ae8-0917-f8b330b67cd1",
+  "video_files": {
+    "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec19_300k.mp4",
+    "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/ebeb4cff9e905c7d9382d72109b79b0b_ksyY5wa5_50.vtt",
+    "video_thumbnail_file": "https://img.youtube.com/vi/ksyY5wa5_50/default.jpg",
+    "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/cf047d8b68dc1c7050afff6f57ac59de_ksyY5wa5_50.pdf"
+  },
+  "video_metadata": {
+    "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, phenom 300, piper seminole, piston multi-engine, piston twin, turbofan, twin turboprops",
+    "youtube_id": "ksyY5wa5_50"
+  }
+}

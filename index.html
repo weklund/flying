@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Flying Study Notes · Private Pilot</title>
+  <meta name="description" content="Personal private pilot study kit: interactive density altitude lab, practice quiz, and links to MIT 16.687 and FAA handbooks." />
+  <link rel="stylesheet" href="site.css" />
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <p class="eyebrow">Private pilot ground school · personal study notes</p>
+      <h1>Flying study kit</h1>
+      <p class="lede">
+        Interactive tools and notes for private pilot knowledge—density altitude,
+        aircraft performance, and drill quizzes—anchored to
+        <a href="https://ocw.mit.edu/courses/16-687-private-pilot-ground-school-january-iap-2019/">MIT OCW 16.687</a>
+        and the FAA Pilot’s Handbook of Aeronautical Knowledge.
+      </p>
+      <p class="banner">
+        Educational use only — <strong>not for flight planning</strong>.
+        Always use the AFM/POH for the airplane you fly and current FAA materials on
+        <a href="https://www.faa.gov/">faa.gov</a>.
+      </p>
+    </header>
+
+    <section class="grid">
+      <a class="card primary" href="learn/aircraft-performance/">
+        <span class="tag">Interactive</span>
+        <h2>Aircraft Performance Lab</h2>
+        <p>
+          Density altitude, humidity, weight, wind, and runway factors.
+          Molecule box, altitude tape, mission theater, guided story, and self-check.
+        </p>
+        <span class="go">Open lab →</span>
+      </a>
+
+      <a class="card" href="quiz/">
+        <span class="tag">Practice</span>
+        <h2>Knowledge quiz</h2>
+        <p>
+          Browser quiz aligned to ground-school topics. Practice only—not an official FAA test bank.
+        </p>
+        <span class="go">Start quiz →</span>
+      </a>
+
+      <a class="card" href="notes/">
+        <span class="tag">Notes</span>
+        <h2>Study notes</h2>
+        <p>
+          Short write-ups (density altitude, humidity, performance factors) you can read before using the lab.
+        </p>
+        <span class="go">Read notes →</span>
+      </a>
+
+      <a class="card" href="https://ocw.mit.edu/courses/16-687-private-pilot-ground-school-january-iap-2019/">
+        <span class="tag">Course</span>
+        <h2>MIT 16.687 (OCW)</h2>
+        <p>
+          Official course page: lectures, syllabus, and instructor materials (CC BY-NC-SA).
+        </p>
+        <span class="go">Open OCW →</span>
+      </a>
+    </section>
+
+    <section class="panel">
+      <h2>FAA handbooks (official)</h2>
+      <p class="muted">
+        Free U.S. government publications. Prefer the current edition on faa.gov.
+        Large PDFs are not hosted on this Pages site (GitHub size limits); download from the FAA or clone the repo and run the download script.
+      </p>
+      <ul class="links">
+        <li>
+          <a href="https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak">Pilot’s Handbook of Aeronautical Knowledge</a>
+          (FAA-H-8083-25C) — Ch. 4 principles / density; Ch. 11 performance
+        </li>
+        <li>
+          <a href="https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook">Airplane Flying Handbook</a>
+          (FAA-H-8083-3C)
+        </li>
+      </ul>
+    </section>
+
+    <section class="panel">
+      <h2>How to use this site</h2>
+      <ol class="steps">
+        <li>Read the <a href="notes/density-altitude.html">density altitude note</a> (10 minutes).</li>
+        <li>Open the <a href="learn/aircraft-performance/">Performance Lab</a> — Density → Mission → Guide.</li>
+        <li>Drill with the <a href="quiz/">quiz</a>.</li>
+        <li>Cross-check claims in the PHAK chapters above.</li>
+      </ol>
+    </section>
+
+    <section class="panel">
+      <h2>Repository</h2>
+      <p class="muted">
+        Source, scripts, and optional offline OCW dump live in the GitHub repo.
+        Local clone can also hold handbook PDFs via <code>python3 scripts/download_faa_handbooks.py</code>.
+      </p>
+      <p class="muted" id="repo-link">
+        <!-- Filled loosely: user replaces after first push -->
+        Clone from GitHub after you push this project; enable Pages from the <code>main</code> branch root.
+      </p>
+    </section>
+
+    <footer class="foot">
+      <p>
+        MIT OCW materials: <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>.
+        FAA handbooks: U.S. government works (public domain in the U.S.).
+        Interactive lab &amp; notes: personal study aid—verify against primary sources.
+      </p>
+    </footer>
+  </div>
+</body>
+</html>

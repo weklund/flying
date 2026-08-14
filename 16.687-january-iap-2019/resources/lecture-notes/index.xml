@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>&lt;p&gt;All lecture notes, except Session 18: Special Lecture on Aerobatics, are provided in the following table.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&#xA;&lt;a name=&#34;UnityCalendar&#34;&gt;&lt;/a&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;SES #&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;TOPICS&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;1&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit16_687iap19_lec01/index.html&#34;&gt;Lecture 1: Introduction (PDF - 2.5 MB)&lt;/a&gt;, &lt;a href=&#34;../../resources/mit16_687iap19_lec01review/index.html&#34;&gt;Lecture 1 Q and A (PDF - 1.1MB)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;2&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit16_687iap19_lec02/index.html&#34;&gt;Lecture 2: Airplane Aerodynamics (PDF - 3.1MB)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;3&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit16_687iap19_lec03/index.html&#34;&gt;Lecture 3: Learning to Fly (PDF - 2.3MB)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;4&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit16_687iap19_lec04/index.html&#34;&gt;Lecture 4: Aircraft Systems (PDF - 3.7MB)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;5&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit16_687iap19_lecoshkosh/index.html&#34;&gt;Special Lecture: Oshkosh 2018 (PDF - 3.5MB)&lt;/a&gt;&#xA;&lt;/td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;6&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;&lt;a href=&#34;../../resources/mit16_687iap19_lec05/index.html&#34;&gt;Lecture 5: Charts and Airspace (PDF - 2.8MB)&lt;/a&gt; &#xA;&lt;/td&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec, 2018 Oshkosh</title>
+      <link>/resources/mit16_687iap19_lecoshkosh/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lecoshkosh/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec, F-22 Flight Controls</title>
+      <link>/resources/mit16_687iap19_lecf-22/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lecf-22/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec, The How and the Why of IFR</title>
+      <link>/resources/mit16_687iap19_lecifr/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lecifr/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec01, Introduction</title>
+      <link>/resources/mit16_687iap19_lec01/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec01/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec01Review, QandA</title>
+      <link>/resources/mit16_687iap19_lec01review/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec01review/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec02, Airplane Aerodynamics</title>
+      <link>/resources/mit16_687iap19_lec02/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec02/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec03, Learning to Fly</title>
+      <link>/resources/mit16_687iap19_lec03/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec03/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec04, Aircraft Systems</title>
+      <link>/resources/mit16_687iap19_lec04/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec04/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec05, Charts and Airspace</title>
+      <link>/resources/mit16_687iap19_lec05/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec05/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec06, The Flight Environment</title>
+      <link>/resources/mit16_687iap19_lec06/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec06/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec07, Navigation</title>
+      <link>/resources/mit16_687iap19_lec07/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec07/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec08, Helicopter Aerodynamics</title>
+      <link>/resources/mit16_687iap19_lec08/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec08/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec09, Meteorology</title>
+      <link>/resources/mit16_687iap19_lec09/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec09/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec10, Communication and Flight Information</title>
+      <link>/resources/mit16_687iap19_lec10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec10/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec11, Aircraft Ownership and Maintenance</title>
+      <link>/resources/mit16_687iap19_lec11/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec11/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec12, Aircraft Performance</title>
+      <link>/resources/mit16_687iap19_lec12/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec12/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec13, Interpreting Weather Data</title>
+      <link>/resources/mit16_687iap19_lec13/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec13/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec14, Human Factors</title>
+      <link>/resources/mit16_687iap19_lec14/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec14/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec15, Flight Planning</title>
+      <link>/resources/mit16_687iap19_lec15/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec15/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec16, Seaplanes</title>
+      <link>/resources/mit16_687iap19_lec16/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec16/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec17, Small UAS Operations</title>
+      <link>/resources/mit16_687iap19_lec17/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec17/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec18, Weight and Balance</title>
+      <link>/resources/mit16_687iap19_lec18/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec18/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec19, Multi-Engine and Jets</title>
+      <link>/resources/mit16_687iap19_lec19/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec19/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec20, Flying at Night</title>
+      <link>/resources/mit16_687iap19_lec20/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec20/data.json</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MIT16_687IAP19_Lec21, Weather Minimums and Final Tips</title>
+      <link>/resources/mit16_687iap19_lec21/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit16_687iap19_lec21/data.json</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

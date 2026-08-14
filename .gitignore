@@ -1,0 +1,26 @@
+# Local video downloads (multi-GB)
+videos/*
+!videos/.gitkeep
+
+# FAA handbook PDFs are large (AFH ~260MB exceeds GitHub’s 100MB file limit).
+# Download locally with: python3 scripts/download_faa_handbooks.py
+# Official free copies: see study/faa-handbooks/SOURCES.md and README.
+study/faa-handbooks/*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Env / secrets (if any later)
+.env
+.env.*

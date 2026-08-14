@@ -1,0 +1,3368 @@
+1
+00:00:00,000 --> 00:00:01,952
+[CLICKING]
+
+2
+00:00:13,352 --> 00:00:14,810
+PHILIP GREENSPUN:
+All right, folks.
+
+3
+00:00:14,810 --> 00:00:15,880
+Tina is going to tell you more.
+
+4
+00:00:15,880 --> 00:00:17,180
+We had a little bit
+of weight and balance
+
+5
+00:00:17,180 --> 00:00:18,850
+before that flight
+planning example,
+
+6
+00:00:18,850 --> 00:00:21,970
+but Tina is now going to
+give you the real story.
+
+7
+00:00:24,807 --> 00:00:27,140
+TINA SRIVASTAVA: So are guys
+all ready to go out and get
+
+8
+00:00:27,140 --> 00:00:29,960
+your drone license?
+
+9
+00:00:29,960 --> 00:00:30,690
+Good.
+
+10
+00:00:30,690 --> 00:00:31,480
+I'm really glad.
+
+11
+00:00:31,480 --> 00:00:34,995
+PHILIP GREENSPUN: [INAUDIBLE]
+
+12
+00:00:34,995 --> 00:00:36,120
+TINA SRIVASTAVA: All right.
+
+13
+00:00:36,120 --> 00:00:41,020
+Weight and balance So
+we talked a little bit.
+
+14
+00:00:41,020 --> 00:00:43,260
+We've actually had quite a
+few discussions throughout
+
+15
+00:00:43,260 --> 00:00:47,310
+about stability, about
+where the center of G
+
+16
+00:00:47,310 --> 00:00:49,800
+is, how that affects
+your controllability
+
+17
+00:00:49,800 --> 00:00:51,070
+of the aircraft.
+
+18
+00:00:51,070 --> 00:00:53,910
+So weight and balance is
+not only an important thing
+
+19
+00:00:53,910 --> 00:00:55,770
+to know, but it's
+a required thing
+
+20
+00:00:55,770 --> 00:00:59,080
+that you have to do before
+you go flying each time.
+
+21
+00:00:59,080 --> 00:01:01,260
+And one thing
+that's also relevant
+
+22
+00:01:01,260 --> 00:01:04,090
+is to understand the
+center of gravity,
+
+23
+00:01:04,090 --> 00:01:06,090
+and you want to make sure
+that center of gravity
+
+24
+00:01:06,090 --> 00:01:10,430
+is within the limits
+for your given aircraft.
+
+25
+00:01:10,430 --> 00:01:13,360
+So we talked about--
+
+26
+00:01:13,360 --> 00:01:16,660
+yesterday, when we were talking
+about aerodynamic flight,
+
+27
+00:01:16,660 --> 00:01:19,330
+that certain aircraft
+have to be reinforced
+
+28
+00:01:19,330 --> 00:01:21,050
+to do certain operations.
+
+29
+00:01:21,050 --> 00:01:22,860
+So again, it really
+has to do with that.
+
+30
+00:01:22,860 --> 00:01:25,360
+And by the way,
+from yesterday, mark
+
+31
+00:01:25,360 --> 00:01:29,815
+left behind some of his
+aerodynamic procedure diagrams.
+
+32
+00:01:29,815 --> 00:01:33,340
+So if you want to take a look
+at that, those are up front.
+
+33
+00:01:33,340 --> 00:01:34,840
+Well, one thing
+that really you have
+
+34
+00:01:34,840 --> 00:01:37,900
+to keep in mind in terms of
+what the aircraft can handle
+
+35
+00:01:37,900 --> 00:01:40,540
+is just what is the
+max gross weight.
+
+36
+00:01:40,540 --> 00:01:45,700
+So what can this airframe
+sustain, in terms of stresses
+
+37
+00:01:45,700 --> 00:01:47,570
+on its body.
+
+38
+00:01:47,570 --> 00:01:51,350
+We also talked this
+morning about performance
+
+39
+00:01:51,350 --> 00:01:56,270
+and discussed certain
+things like the distance--
+
+40
+00:01:56,270 --> 00:01:59,480
+the length of the runway and the
+distance you need to take off
+
+41
+00:01:59,480 --> 00:02:02,960
+are affected by how the
+airplane is weighted.
+
+42
+00:02:02,960 --> 00:02:06,410
+So we're going to talk about
+those things specifically,
+
+43
+00:02:06,410 --> 00:02:08,780
+and then one thing
+I have on here
+
+44
+00:02:08,780 --> 00:02:11,300
+is if you go over
+your gross weight,
+
+45
+00:02:11,300 --> 00:02:14,600
+then you get into
+test pilot territory,
+
+46
+00:02:14,600 --> 00:02:16,557
+and right after this--
+
+47
+00:02:16,557 --> 00:02:18,140
+we'll grab lunch and
+come back-- we'll
+
+48
+00:02:18,140 --> 00:02:20,750
+hear from [INAUDIBLE],,
+a test pilot who's
+
+49
+00:02:20,750 --> 00:02:24,450
+going to tell you some
+really cool things as well.
+
+50
+00:02:24,450 --> 00:02:27,470
+All right, so it's just some
+basic terms to get started off.
+
+51
+00:02:27,470 --> 00:02:30,320
+So when you're thinking
+about an aircraft,
+
+52
+00:02:30,320 --> 00:02:33,920
+one piece of information is
+its standard empty weight.
+
+53
+00:02:33,920 --> 00:02:36,140
+So that's the weight
+of the airplane,
+
+54
+00:02:36,140 --> 00:02:39,110
+and there's also
+some fuel in the tank
+
+55
+00:02:39,110 --> 00:02:43,670
+that sometimes it's hard to
+drain, and when you refill,
+
+56
+00:02:43,670 --> 00:02:47,090
+that fuel sits at the bottom and
+can't be used by the aircraft,
+
+57
+00:02:47,090 --> 00:02:49,370
+so that's the unusable
+fuel, and then
+
+58
+00:02:49,370 --> 00:02:51,650
+there's some different
+fluids and fuel
+
+59
+00:02:51,650 --> 00:02:52,940
+oil inside the aircraft.
+
+60
+00:02:52,940 --> 00:02:55,490
+So all those count
+in the calculation
+
+61
+00:02:55,490 --> 00:02:57,410
+of the standard empty weight.
+
+62
+00:02:57,410 --> 00:02:59,390
+There's also the
+basic empty weight,
+
+63
+00:02:59,390 --> 00:03:02,330
+where you have some
+optional equipment inside,
+
+64
+00:03:02,330 --> 00:03:07,970
+and we'll go to a aircraft's POH
+to look into what it actually
+
+65
+00:03:07,970 --> 00:03:09,365
+reports about what it contains.
+
+66
+00:03:12,380 --> 00:03:13,790
+There's also a
+good rule of thumb
+
+67
+00:03:13,790 --> 00:03:17,450
+to know about what weight
+you're going to associate
+
+68
+00:03:17,450 --> 00:03:19,710
+with the per gallon of fuel.
+
+69
+00:03:19,710 --> 00:03:23,240
+So it's generally a good
+number is six pounds.
+
+70
+00:03:23,240 --> 00:03:24,710
+For the fuel that
+you'll be using,
+
+71
+00:03:24,710 --> 00:03:28,965
+it's slightly more for
+different types of fuel.
+
+72
+00:03:28,965 --> 00:03:30,590
+So right at the
+beginning of the class,
+
+73
+00:03:30,590 --> 00:03:33,890
+we talked about weight,
+which is the force pulling
+
+74
+00:03:33,890 --> 00:03:39,170
+the aircraft down, which has to
+oppose the lift pulling it up.
+
+75
+00:03:39,170 --> 00:03:43,650
+So the weight actually
+becomes less as you burn fuel.
+
+76
+00:03:43,650 --> 00:03:46,670
+So when you take off, you have
+all the fuel on the aircraft.
+
+77
+00:03:46,670 --> 00:03:48,560
+As you've been flying
+for a while, that
+
+78
+00:03:48,560 --> 00:03:52,820
+fuel is used in the
+aircraft has less weight.
+
+79
+00:03:52,820 --> 00:03:55,960
+So there's a fully
+loaded aircraft.
+
+80
+00:03:55,960 --> 00:03:59,020
+Has something called
+the maximum ramp weight.
+
+81
+00:03:59,020 --> 00:04:02,530
+So that has fuel that
+will be expended even
+
+82
+00:04:02,530 --> 00:04:05,440
+when it's just taxiing
+over to the runway,
+
+83
+00:04:05,440 --> 00:04:08,590
+and so you make certain
+assumptions about how
+
+84
+00:04:08,590 --> 00:04:10,240
+much fuel you'll
+actually burn off
+
+85
+00:04:10,240 --> 00:04:14,710
+just taxiing up to the runway
+and then before you take off.
+
+86
+00:04:14,710 --> 00:04:17,110
+And so when you're calculating
+the weight of the airplane
+
+87
+00:04:17,110 --> 00:04:19,029
+when it takes off,
+it'll be slightly
+
+88
+00:04:19,029 --> 00:04:21,940
+different than how you fueled
+it when it was sitting parking
+
+89
+00:04:21,940 --> 00:04:24,580
+on the ramp.
+
+90
+00:04:24,580 --> 00:04:27,500
+OK, some of the
+biggest things that you
+
+91
+00:04:27,500 --> 00:04:29,870
+would keep in mind that
+you change every time you
+
+92
+00:04:29,870 --> 00:04:31,160
+get into the airplane.
+
+93
+00:04:31,160 --> 00:04:33,050
+So there's the weight
+of the passengers,
+
+94
+00:04:33,050 --> 00:04:34,760
+the baggage you take
+with you, and then
+
+95
+00:04:34,760 --> 00:04:39,260
+how much fuel you fill the
+plane with before you take off.
+
+96
+00:04:39,260 --> 00:04:43,890
+So the payload in this case is
+the passengers and the cargo.
+
+97
+00:04:43,890 --> 00:04:46,190
+So whatever baggage and
+the weight of those bags
+
+98
+00:04:46,190 --> 00:04:49,190
+that you take with you.
+
+99
+00:04:49,190 --> 00:04:53,160
+So one thing to keep in mind
+in addition to just the weight,
+
+100
+00:04:53,160 --> 00:04:57,450
+we have to figure out where
+that vector, that force vector,
+
+101
+00:04:57,450 --> 00:04:59,260
+acts on the aircraft.
+
+102
+00:04:59,260 --> 00:05:01,253
+If all of the weight
+is really at the front,
+
+103
+00:05:01,253 --> 00:05:02,670
+you might have a
+center of gravity
+
+104
+00:05:02,670 --> 00:05:06,360
+at the front, which will create
+a moment on the airplane.
+
+105
+00:05:06,360 --> 00:05:09,040
+So it'll cause it to bend
+in a particular direction.
+
+106
+00:05:09,040 --> 00:05:10,650
+And if all that
+weight was acting
+
+107
+00:05:10,650 --> 00:05:12,025
+at the back of
+the plane, you had
+
+108
+00:05:12,025 --> 00:05:14,820
+a lot of really heavy bricks
+at your tail, which is not
+
+109
+00:05:14,820 --> 00:05:17,520
+a good idea, it would
+cause that force vector
+
+110
+00:05:17,520 --> 00:05:19,740
+to act over here
+and create a moment.
+
+111
+00:05:19,740 --> 00:05:23,170
+So that's all related to torque,
+which we talked about before.
+
+112
+00:05:23,170 --> 00:05:25,710
+So it's also important,
+not just to calculate
+
+113
+00:05:25,710 --> 00:05:27,570
+what the weight
+is of the airplane
+
+114
+00:05:27,570 --> 00:05:29,910
+once everybody and
+everything is inside,
+
+115
+00:05:29,910 --> 00:05:33,540
+but also how that weight is
+distributed in the airplane
+
+116
+00:05:33,540 --> 00:05:35,880
+and how it affects the
+airplane's center of gravity.
+
+117
+00:05:38,780 --> 00:05:41,970
+All right, so I think that
+many of you have already--
+
+118
+00:05:41,970 --> 00:05:44,270
+It looks like most
+folks in the rooms
+
+119
+00:05:44,270 --> 00:05:47,360
+were either MIT undergrad
+or grad student, which
+
+120
+00:05:47,360 --> 00:05:50,240
+means you already understand
+some of these basic physics
+
+121
+00:05:50,240 --> 00:05:52,820
+terms about torque
+and moment, so we'll
+
+122
+00:05:52,820 --> 00:05:55,220
+discover them very briefly.
+
+123
+00:05:55,220 --> 00:05:58,790
+The moment is the
+weight times the arm.
+
+124
+00:05:58,790 --> 00:06:02,900
+So basically where the wait
+is times how far away it
+
+125
+00:06:02,900 --> 00:06:05,900
+is from a particular location
+that you're calculating it
+
+126
+00:06:05,900 --> 00:06:06,800
+from.
+
+127
+00:06:06,800 --> 00:06:10,140
+So we're going to do a
+couple basic examples.
+
+128
+00:06:10,140 --> 00:06:12,090
+So we have a seesaw here.
+
+129
+00:06:12,090 --> 00:06:15,980
+So in this case, whenever
+you're calculating your moment,
+
+130
+00:06:15,980 --> 00:06:17,630
+you have to pick
+a reference point
+
+131
+00:06:17,630 --> 00:06:21,690
+and make sure you're
+consistent as you use it.
+
+132
+00:06:21,690 --> 00:06:25,210
+So in this case, they have a--
+
+133
+00:06:25,210 --> 00:06:27,620
+their data point
+is at that triangle
+
+134
+00:06:27,620 --> 00:06:29,990
+at that fulcrum in the
+middle, and so they
+
+135
+00:06:29,990 --> 00:06:33,260
+have a moment on the right
+and a moment on the left.
+
+136
+00:06:33,260 --> 00:06:35,840
+So you see various
+rectangles that
+
+137
+00:06:35,840 --> 00:06:39,440
+represent different objects
+or different weight,
+
+138
+00:06:39,440 --> 00:06:40,670
+and then they calculate it.
+
+139
+00:06:40,670 --> 00:06:45,290
+So that blue box that's five
+pounds is 10 inches away.
+
+140
+00:06:45,290 --> 00:06:48,170
+So to figure out what the
+moment is that it applies,
+
+141
+00:06:48,170 --> 00:06:52,330
+you just calculate the
+weight times how far away is.
+
+142
+00:06:52,330 --> 00:06:56,350
+OK, so in order to figure out
+what the center of gravity is,
+
+143
+00:06:56,350 --> 00:06:59,290
+you might want to
+consider where you're
+
+144
+00:06:59,290 --> 00:07:00,830
+doing that reference point.
+
+145
+00:07:00,830 --> 00:07:02,890
+So rather than doing
+the reference point
+
+146
+00:07:02,890 --> 00:07:05,583
+from right in the middle of
+the aircraft, in this case,
+
+147
+00:07:05,583 --> 00:07:06,750
+they're starting at the end.
+
+148
+00:07:06,750 --> 00:07:08,500
+So where that yellow
+line is where it says
+
+149
+00:07:08,500 --> 00:07:11,710
+datum is where they're
+starting, and then they're
+
+150
+00:07:11,710 --> 00:07:14,660
+using the length from
+that same reference point.
+
+151
+00:07:14,660 --> 00:07:17,650
+So now you have a purple
+box of five pounds
+
+152
+00:07:17,650 --> 00:07:21,280
+that's 10 inches from that
+datum, and then three pounds
+
+153
+00:07:21,280 --> 00:07:23,650
+then a green weight
+that's father,
+
+154
+00:07:23,650 --> 00:07:26,830
+and the red box that's
+the farthest away.
+
+155
+00:07:26,830 --> 00:07:30,840
+So here they've listed
+all those different boxes
+
+156
+00:07:30,840 --> 00:07:34,660
+and the weight of each of those
+boxes times how far it is.
+
+157
+00:07:34,660 --> 00:07:37,780
+You multiply that to get
+the moment that it applies.
+
+158
+00:07:37,780 --> 00:07:40,420
+And use that to
+calculate the location
+
+159
+00:07:40,420 --> 00:07:41,890
+of the center of gravity.
+
+160
+00:07:45,140 --> 00:07:49,160
+And just in terms of if you've
+been on a seesaw before,
+
+161
+00:07:49,160 --> 00:07:51,893
+who has been on a seesaw before?
+
+162
+00:07:51,893 --> 00:07:52,560
+All right, good.
+
+163
+00:07:52,560 --> 00:07:54,030
+I'm glad.
+
+164
+00:07:54,030 --> 00:07:57,090
+So as you know that
+that fulcrum or where
+
+165
+00:07:57,090 --> 00:07:59,520
+that triangle is, if
+you put that triangle
+
+166
+00:07:59,520 --> 00:08:01,150
+at the center of gravity.
+
+167
+00:08:01,150 --> 00:08:04,343
+So all the kids sitting
+on one side of the seesaw
+
+168
+00:08:04,343 --> 00:08:05,760
+weigh the same as
+the kids sitting
+
+169
+00:08:05,760 --> 00:08:08,640
+on the other side of the seesaw
+at the appropriate lengths
+
+170
+00:08:08,640 --> 00:08:10,830
+away, so they're
+applying the same moment.
+
+171
+00:08:10,830 --> 00:08:12,940
+Then the fulcrum balances.
+
+172
+00:08:12,940 --> 00:08:15,750
+So if we determined what
+the center of gravity
+
+173
+00:08:15,750 --> 00:08:18,618
+of this airplane was and
+I put my finger there,
+
+174
+00:08:18,618 --> 00:08:20,160
+then it would balance
+and it wouldn't
+
+175
+00:08:20,160 --> 00:08:22,400
+tilt one way or the other.
+
+176
+00:08:22,400 --> 00:08:25,380
+So that's the whole idea.
+
+177
+00:08:25,380 --> 00:08:28,980
+So for a given aircraft,
+there is not only
+
+178
+00:08:28,980 --> 00:08:33,210
+the center of gravity, but
+in the testing process,
+
+179
+00:08:33,210 --> 00:08:36,480
+they understand what is
+that approved range of where
+
+180
+00:08:36,480 --> 00:08:39,780
+that center of gravity can be
+such that the aircraft is still
+
+181
+00:08:39,780 --> 00:08:41,100
+stable.
+
+182
+00:08:41,100 --> 00:08:44,220
+So if you're thinking about
+putting a lot of weight
+
+183
+00:08:44,220 --> 00:08:47,820
+at the front of the
+aircraft and less weight
+
+184
+00:08:47,820 --> 00:08:50,250
+at the back of the aircraft,
+then the center of gravity
+
+185
+00:08:50,250 --> 00:08:52,590
+moves forward, and
+there's a limit
+
+186
+00:08:52,590 --> 00:08:55,350
+to how far forward
+that center of gravity
+
+187
+00:08:55,350 --> 00:08:59,160
+can be that allows the
+plane still to be stable.
+
+188
+00:08:59,160 --> 00:09:01,740
+So that's the forward
+CG limit, and then you
+
+189
+00:09:01,740 --> 00:09:03,120
+see the same thing at the back.
+
+190
+00:09:03,120 --> 00:09:06,330
+Aft just means back, so how
+far back the center of gravity
+
+191
+00:09:06,330 --> 00:09:09,010
+can be.
+
+192
+00:09:09,010 --> 00:09:10,840
+All right, so we've
+already discussed some
+
+193
+00:09:10,840 --> 00:09:14,320
+of the performance things, but
+just to just to remind you,
+
+194
+00:09:14,320 --> 00:09:18,280
+what are some of the things that
+can happen if your air plane is
+
+195
+00:09:18,280 --> 00:09:20,540
+overloaded?
+
+196
+00:09:20,540 --> 00:09:22,670
+You want to just a
+shout out some things
+
+197
+00:09:22,670 --> 00:09:24,230
+that you would
+experience if you have
+
+198
+00:09:24,230 --> 00:09:27,314
+a very, very heavy airplane.
+
+199
+00:09:27,314 --> 00:09:29,110
+AUDIENCE: Longer take off.
+
+200
+00:09:29,110 --> 00:09:31,600
+TINA SRIVASTAVA: Yes, very good.
+
+201
+00:09:31,600 --> 00:09:33,760
+Just to repeat it,
+longer to take off.
+
+202
+00:09:33,760 --> 00:09:37,010
+So we have takeoff and
+landing distances increase.
+
+203
+00:09:37,010 --> 00:09:39,280
+So if you have a
+very heavy airplane,
+
+204
+00:09:39,280 --> 00:09:44,085
+you may not be able to take
+off from a short field runway.
+
+205
+00:09:44,085 --> 00:09:45,460
+And then of course
+it was talking
+
+206
+00:09:45,460 --> 00:09:49,990
+about if your aircraft gets
+outside the approved envelope,
+
+207
+00:09:49,990 --> 00:09:52,380
+it will talk about what
+we mean by envelope,
+
+208
+00:09:52,380 --> 00:09:57,640
+then it hasn't been tested
+to be stable at those areas,
+
+209
+00:09:57,640 --> 00:10:00,340
+and so now you've become a
+test pilot, which you may not
+
+210
+00:10:00,340 --> 00:10:01,490
+want to do.
+
+211
+00:10:01,490 --> 00:10:05,630
+Again, we're going to hear
+from a test pilot very soon.
+
+212
+00:10:05,630 --> 00:10:07,560
+OK, so what happens
+if-- not just
+
+213
+00:10:07,560 --> 00:10:09,480
+that it's overloaded,
+maybe it's still
+
+214
+00:10:09,480 --> 00:10:12,910
+within the envelope for
+the total amount of weight,
+
+215
+00:10:12,910 --> 00:10:15,210
+but what if the
+center of gravity
+
+216
+00:10:15,210 --> 00:10:19,080
+has moved too far forward and
+pass that forward CG limit.
+
+217
+00:10:19,080 --> 00:10:22,500
+So your plane naturally
+wants to be nose down.
+
+218
+00:10:22,500 --> 00:10:24,060
+So what is the impact of that?
+
+219
+00:10:28,240 --> 00:10:30,450
+Well, it'd be harder
+to climb, right?
+
+220
+00:10:30,450 --> 00:10:32,900
+It's harder to climb
+because your nose keeps
+
+221
+00:10:32,900 --> 00:10:36,350
+pulling it down, for example.
+
+222
+00:10:36,350 --> 00:10:39,650
+What does it mean to have
+a stall speed increased?
+
+223
+00:10:39,650 --> 00:10:41,424
+Is that a good thing?
+
+224
+00:10:41,424 --> 00:10:43,322
+AUDIENCE: No.
+
+225
+00:10:43,322 --> 00:10:44,530
+TINA SRIVASTAVA: And why not?
+
+226
+00:10:44,530 --> 00:10:45,820
+Why is it not a good thing?
+
+227
+00:10:49,540 --> 00:10:51,870
+AUDIENCE: [INAUDIBLE]
+
+228
+00:10:51,870 --> 00:10:54,450
+TINA SRIVASTAVA: Yeah, so
+basically, if your stall speed
+
+229
+00:10:54,450 --> 00:10:58,590
+has increased, that means you're
+likely to stall at a higher
+
+230
+00:10:58,590 --> 00:10:59,530
+speed.
+
+231
+00:10:59,530 --> 00:11:04,020
+So if traditionally
+can fly at 60 knots
+
+232
+00:11:04,020 --> 00:11:07,260
+without stalling but that
+stall speed has increased from
+
+233
+00:11:07,260 --> 00:11:09,900
+say 40 knots up
+to 60 knots, that
+
+234
+00:11:09,900 --> 00:11:11,460
+means that when
+you traditionally
+
+235
+00:11:11,460 --> 00:11:13,320
+have been able to fly
+safely at 60 knots,
+
+236
+00:11:13,320 --> 00:11:15,000
+you could actually
+stall at 60 knots.
+
+237
+00:11:15,000 --> 00:11:19,250
+So an increased
+stall speed is bad.
+
+238
+00:11:19,250 --> 00:11:20,960
+And what about an aft CG?
+
+239
+00:11:20,960 --> 00:11:24,170
+Having the weight
+too far to the back.
+
+240
+00:11:24,170 --> 00:11:27,915
+What is the impact there?
+
+241
+00:11:27,915 --> 00:11:29,390
+AUDIENCE: They pitch up.
+
+242
+00:11:29,390 --> 00:11:30,260
+TINA SRIVASTAVA: They
+tend to pitch up.
+
+243
+00:11:30,260 --> 00:11:30,760
+Right.
+
+244
+00:11:30,760 --> 00:11:35,150
+And so one thing that they are
+talking about here is flare.
+
+245
+00:11:35,150 --> 00:11:38,810
+So this is when you're coming
+into land, you go down,
+
+246
+00:11:38,810 --> 00:11:43,400
+but then you flare up, and
+it could actually over flare,
+
+247
+00:11:43,400 --> 00:11:46,220
+and that can cause some really
+strange things when you're
+
+248
+00:11:46,220 --> 00:11:47,870
+trying to land,
+such as bouncing,
+
+249
+00:11:47,870 --> 00:11:49,720
+and you definitely
+don't want to do that.
+
+250
+00:11:49,720 --> 00:11:51,470
+But all of these things
+you might actually
+
+251
+00:11:51,470 --> 00:11:54,260
+just notice when you're
+feeling the airplane.
+
+252
+00:11:54,260 --> 00:11:56,930
+It acts differently
+than you want it to act.
+
+253
+00:11:59,660 --> 00:12:02,840
+So here's just basically
+a cross section.
+
+254
+00:12:02,840 --> 00:12:05,900
+If you took off the wings
+and the top of the fuselage
+
+255
+00:12:05,900 --> 00:12:07,340
+and you were looking
+at the plane,
+
+256
+00:12:07,340 --> 00:12:10,140
+it shows you the pilot
+sitting in the left seat,
+
+257
+00:12:10,140 --> 00:12:13,490
+a passenger in the right seat,
+two passengers in the back.
+
+258
+00:12:13,490 --> 00:12:17,210
+This one actually has a third
+row of passengers, and then
+
+259
+00:12:17,210 --> 00:12:19,280
+two baggage compartments.
+
+260
+00:12:19,280 --> 00:12:20,960
+So this is just showing--
+
+261
+00:12:20,960 --> 00:12:23,210
+traditionally, when you're
+loading up an airplane,
+
+262
+00:12:23,210 --> 00:12:26,300
+they payload again is your
+passengers and your baggage,
+
+263
+00:12:26,300 --> 00:12:28,225
+where do they sit?
+
+264
+00:12:28,225 --> 00:12:30,350
+So now I'm going to go over
+to this document viewer
+
+265
+00:12:30,350 --> 00:12:32,130
+and talk about
+specific airplane.
+
+266
+00:12:32,130 --> 00:12:39,220
+The plane I like to
+fly, a Cessna 172.
+
+267
+00:12:39,220 --> 00:12:44,310
+OK, so this book is talking
+about a particular aircraft,
+
+268
+00:12:44,310 --> 00:12:48,520
+a Skyhawk, so it's a Cessna 172.
+
+269
+00:12:48,520 --> 00:12:50,290
+This is a plane that
+many of you guys
+
+270
+00:12:50,290 --> 00:12:53,110
+might use as a flying aircraft.
+
+271
+00:12:53,110 --> 00:12:54,640
+We've also talked
+about for example
+
+272
+00:12:54,640 --> 00:12:57,760
+a Piper, which is a low wing
+airplane that you might use.
+
+273
+00:12:57,760 --> 00:12:59,260
+So this is what a
+Cessna looks like,
+
+274
+00:12:59,260 --> 00:13:02,770
+and it has a tricycle
+gear at the bottom.
+
+275
+00:13:02,770 --> 00:13:05,550
+Whatever plane you are
+using for training,
+
+276
+00:13:05,550 --> 00:13:07,960
+I would get very
+familiar with this book,
+
+277
+00:13:07,960 --> 00:13:11,550
+and in particular, remember
+what the table of contents is.
+
+278
+00:13:11,550 --> 00:13:16,440
+Because when you get your oral
+exam on your FAA examination,
+
+279
+00:13:16,440 --> 00:13:18,390
+it's OK if you don't
+remember everything.
+
+280
+00:13:18,390 --> 00:13:21,180
+What's really great is if you
+know how to find information,
+
+281
+00:13:21,180 --> 00:13:24,630
+and you can say, hey, if
+I didn't remember this,
+
+282
+00:13:24,630 --> 00:13:27,480
+I would go look at my
+POH, and I would go look
+
+283
+00:13:27,480 --> 00:13:30,850
+at the weight and balance
+section, section 6 of my book,
+
+284
+00:13:30,850 --> 00:13:33,870
+and I'd be able to flip and find
+this information very quickly.
+
+285
+00:13:33,870 --> 00:13:36,113
+So oftentimes, you'll get
+questions in that oral exam
+
+286
+00:13:36,113 --> 00:13:37,530
+where they would
+ask how you would
+
+287
+00:13:37,530 --> 00:13:39,630
+go about finding information.
+
+288
+00:13:39,630 --> 00:13:41,850
+We discussed that a lot
+with regard to weather data.
+
+289
+00:13:41,850 --> 00:13:43,600
+What are the sources
+of weather data,
+
+290
+00:13:43,600 --> 00:13:45,450
+so with regard to
+weight and balance,
+
+291
+00:13:45,450 --> 00:13:47,580
+the information
+about your airplane
+
+292
+00:13:47,580 --> 00:13:51,720
+is found with a book made
+about your particular airplane.
+
+293
+00:13:51,720 --> 00:13:54,220
+And if you're at a
+particular flight school,
+
+294
+00:13:54,220 --> 00:13:56,840
+and we'll show you
+that in an example,
+
+295
+00:13:56,840 --> 00:13:59,340
+they might have a-- they most
+likely have all of this weight
+
+296
+00:13:59,340 --> 00:14:02,040
+and balance information
+listed in a spreadsheet,
+
+297
+00:14:02,040 --> 00:14:04,110
+sometimes it's
+accessible online so you
+
+298
+00:14:04,110 --> 00:14:07,380
+know for your exact airplane
+what its gross weight is.
+
+299
+00:14:10,040 --> 00:14:14,320
+So if we flip to
+that section 6, it
+
+300
+00:14:14,320 --> 00:14:16,660
+has a fair amount of
+information, including
+
+301
+00:14:16,660 --> 00:14:18,340
+the picture we just showed you.
+
+302
+00:14:21,210 --> 00:14:24,060
+So it talks about--
+
+303
+00:14:24,060 --> 00:14:26,730
+in this case, there are
+only two rows of seats.
+
+304
+00:14:26,730 --> 00:14:29,460
+So that the pilot and
+passenger, one row of seats,
+
+305
+00:14:29,460 --> 00:14:32,912
+so it seats four people, and
+then it has a baggage area.
+
+306
+00:14:32,912 --> 00:14:34,620
+But what's really
+important to understand
+
+307
+00:14:34,620 --> 00:14:37,800
+is that even though the
+Cessna can fit four people,
+
+308
+00:14:37,800 --> 00:14:43,620
+it will show you that if you put
+four 200 pound people in there
+
+309
+00:14:43,620 --> 00:14:46,848
+with a bunch of bags, you'll
+actually exceed the allotment.
+
+310
+00:14:46,848 --> 00:14:48,390
+So just because
+there are four seats,
+
+311
+00:14:48,390 --> 00:14:51,660
+doesn't mean you can take
+four large people on a flight.
+
+312
+00:14:51,660 --> 00:14:54,930
+Some of it is something
+we'll keep in mind,
+
+313
+00:14:54,930 --> 00:14:58,650
+and maybe you can reduce bags
+and reduce fuel such that you
+
+314
+00:14:58,650 --> 00:14:59,970
+can make that weight workout.
+
+315
+00:15:02,730 --> 00:15:04,220
+So we talked about envelopes.
+
+316
+00:15:08,580 --> 00:15:12,510
+So the envelope is
+basically a line
+
+317
+00:15:12,510 --> 00:15:17,340
+on this graph that shows where
+the center of gravity can be,
+
+318
+00:15:17,340 --> 00:15:19,770
+and the envelope is
+where is it safe to be.
+
+319
+00:15:19,770 --> 00:15:22,260
+So if you're inside
+the envelope,
+
+320
+00:15:22,260 --> 00:15:26,460
+so inside this line, if
+your calculations result
+
+321
+00:15:26,460 --> 00:15:28,620
+in a center of gravity
+inside, then you're
+
+322
+00:15:28,620 --> 00:15:29,920
+within the envelope.
+
+323
+00:15:29,920 --> 00:15:32,745
+If you're outside of
+it, then you're not.
+
+324
+00:15:32,745 --> 00:15:36,660
+You can see a little
+pencil mark towards the top
+
+325
+00:15:36,660 --> 00:15:38,850
+where I took a flight
+recently, and I
+
+326
+00:15:38,850 --> 00:15:41,820
+was trying to calculate
+whether or not I was inside
+
+327
+00:15:41,820 --> 00:15:43,140
+and in fact I was.
+
+328
+00:15:43,140 --> 00:15:45,930
+And it's OK that I'm right
+at the edge of the envelope.
+
+329
+00:15:45,930 --> 00:15:47,670
+As long as you're
+inside, you're still
+
+330
+00:15:47,670 --> 00:15:50,190
+with inside the tested limits.
+
+331
+00:15:50,190 --> 00:15:52,230
+Now, there are two
+different categories
+
+332
+00:15:52,230 --> 00:15:53,640
+or two different lines here.
+
+333
+00:15:53,640 --> 00:15:56,520
+There's a bigger line
+that says normal category,
+
+334
+00:15:56,520 --> 00:15:58,860
+and then there's
+a smaller line--
+
+335
+00:15:58,860 --> 00:16:02,380
+smaller envelope-- that's
+talking about utility category.
+
+336
+00:16:02,380 --> 00:16:03,880
+Does anyone know
+what the difference
+
+337
+00:16:03,880 --> 00:16:06,338
+is between normal and utility?
+
+338
+00:16:06,338 --> 00:16:08,290
+AUDIENCE: G limits.
+
+339
+00:16:08,290 --> 00:16:09,940
+TINA SRIVASTAVA: G limits.
+
+340
+00:16:09,940 --> 00:16:12,110
+Is that what you're
+going to say?
+
+341
+00:16:12,110 --> 00:16:14,200
+So there's different
+restrictions.
+
+342
+00:16:16,562 --> 00:16:18,520
+One question you might
+get asked is, how do you
+
+343
+00:16:18,520 --> 00:16:19,900
+find out where the answer is?
+
+344
+00:16:29,312 --> 00:16:30,270
+And it's right in here.
+
+345
+00:16:30,270 --> 00:16:31,437
+Right where you think it is.
+
+346
+00:16:34,330 --> 00:16:37,530
+And I'm actually going to
+show you real examples,
+
+347
+00:16:37,530 --> 00:16:42,490
+so we're going to go through
+an example of loading up
+
+348
+00:16:42,490 --> 00:16:44,087
+an airplane.
+
+349
+00:16:44,087 --> 00:16:45,670
+Don't want to embarrass
+anyone, but we
+
+350
+00:16:45,670 --> 00:16:47,795
+might ask some of you
+what your weight is.
+
+351
+00:16:47,795 --> 00:16:48,295
+So beware.
+
+352
+00:16:51,470 --> 00:16:54,730
+So every time you have
+to calculate your weight
+
+353
+00:16:54,730 --> 00:16:56,570
+and balance, you
+can do it by hand,
+
+354
+00:16:56,570 --> 00:16:58,990
+or you can use a
+computer to do it,
+
+355
+00:16:58,990 --> 00:17:02,560
+and I would just caution
+that you have to double check
+
+356
+00:17:02,560 --> 00:17:03,490
+all the information.
+
+357
+00:17:03,490 --> 00:17:06,819
+So here's a great
+link that tells you
+
+358
+00:17:06,819 --> 00:17:11,869
+for a particular Cessna 172, a
+weight and balance calculator.
+
+359
+00:17:11,869 --> 00:17:15,790
+So here, you can actually
+type in the empty weight.
+
+360
+00:17:15,790 --> 00:17:19,152
+Now, there's a big Warning
+here, use your own AC data.
+
+361
+00:17:19,152 --> 00:17:19,985
+What is that saying?
+
+362
+00:17:23,800 --> 00:17:24,619
+What is AC?
+
+363
+00:17:24,619 --> 00:17:25,430
+AUDIENCE: Aircraft.
+
+364
+00:17:25,430 --> 00:17:26,000
+TINA SRIVASTAVA: Aircraft.
+
+365
+00:17:26,000 --> 00:17:27,380
+Use your own aircraft's data.
+
+366
+00:17:27,380 --> 00:17:30,440
+So look at your
+actual information
+
+367
+00:17:30,440 --> 00:17:33,890
+from your school to
+figure out for the plane
+
+368
+00:17:33,890 --> 00:17:38,270
+that you're renting what those
+pieces of information are.
+
+369
+00:17:38,270 --> 00:17:42,020
+So here is a link from
+east coast aero club
+
+370
+00:17:42,020 --> 00:17:44,030
+just as an example,
+and they have
+
+371
+00:17:44,030 --> 00:17:46,880
+provided for every
+aircraft that they
+
+372
+00:17:46,880 --> 00:17:49,740
+have a bunch of information.
+
+373
+00:17:53,390 --> 00:17:57,310
+So for each aircraft, they
+have provided the empty weight
+
+374
+00:17:57,310 --> 00:18:01,450
+and the CG, the moment,
+gross weight, useful load,
+
+375
+00:18:01,450 --> 00:18:04,810
+and then they also talk
+about two different settings
+
+376
+00:18:04,810 --> 00:18:05,750
+for fuel.
+
+377
+00:18:05,750 --> 00:18:09,700
+So you can have full
+fuel or fuel to tabs.
+
+378
+00:18:09,700 --> 00:18:13,570
+So that is something you'll
+hear pretty frequently.
+
+379
+00:18:13,570 --> 00:18:15,200
+Fill the fuel to tabs.
+
+380
+00:18:15,200 --> 00:18:19,780
+So if you want to have
+extra mass, extra weight
+
+381
+00:18:19,780 --> 00:18:23,120
+in your plane, you have some
+heavier folks flying with you,
+
+382
+00:18:23,120 --> 00:18:25,480
+you might only want
+the fuel to tabs.
+
+383
+00:18:25,480 --> 00:18:27,550
+But if it's just you or
+you and your instructor
+
+384
+00:18:27,550 --> 00:18:29,590
+and you want to fly a
+cross-country flight,
+
+385
+00:18:29,590 --> 00:18:31,360
+you might want to fuel full.
+
+386
+00:18:31,360 --> 00:18:34,760
+So these are all
+things you can change.
+
+387
+00:18:34,760 --> 00:18:36,960
+This calculator has
+some restrictions,
+
+388
+00:18:36,960 --> 00:18:43,610
+which is that the weight is
+identified here in terms of--
+
+389
+00:18:43,610 --> 00:18:44,945
+so they have the oil.
+
+390
+00:18:44,945 --> 00:18:48,290
+So you might want to
+check what is the oil
+
+391
+00:18:48,290 --> 00:18:50,600
+level inside your engine.
+
+392
+00:18:50,600 --> 00:18:54,638
+For a Cessna 172, six quarts is
+a really good number to have,
+
+393
+00:18:54,638 --> 00:18:56,930
+but you check it every time
+and during your pre-flight.
+
+394
+00:18:56,930 --> 00:18:59,365
+It could be five quarts,
+it could be seven quarts,
+
+395
+00:18:59,365 --> 00:19:00,740
+so you want to
+double check that.
+
+396
+00:19:00,740 --> 00:19:02,980
+And of course, if you
+see that it's low,
+
+397
+00:19:02,980 --> 00:19:05,000
+four quarts, you really
+want to ask someone
+
+398
+00:19:05,000 --> 00:19:07,700
+to fill that up
+before you go flying.
+
+399
+00:19:07,700 --> 00:19:09,980
+But the other thing
+here is you actually
+
+400
+00:19:09,980 --> 00:19:13,970
+list the weight of the
+people that are sitting
+
+401
+00:19:13,970 --> 00:19:15,680
+in the front and the back.
+
+402
+00:19:15,680 --> 00:19:18,410
+So I talked about
+embarrassing folks.
+
+403
+00:19:18,410 --> 00:19:20,900
+Well, let's not let's not
+embarrass folks right now.
+
+404
+00:19:20,900 --> 00:19:23,990
+So let's say the
+pilot and let's say
+
+405
+00:19:23,990 --> 00:19:26,330
+you're doing some great
+resource management.
+
+406
+00:19:26,330 --> 00:19:28,385
+You have another pilot
+sitting next to you,
+
+407
+00:19:28,385 --> 00:19:32,540
+so your co-pilot is
+there, and you also
+
+408
+00:19:32,540 --> 00:19:37,220
+have some big folks sitting
+in the back, both the left
+
+409
+00:19:37,220 --> 00:19:38,540
+and the right side.
+
+410
+00:19:38,540 --> 00:19:42,050
+And you want to take a
+bunch of pictures and stuff,
+
+411
+00:19:42,050 --> 00:19:44,340
+but you want to get
+as low as you want,
+
+412
+00:19:44,340 --> 00:19:46,430
+so you put in some bags.
+
+413
+00:19:46,430 --> 00:19:49,870
+So this-- it's actually
+hard to see because there's
+
+414
+00:19:49,870 --> 00:19:51,040
+too much weight.
+
+415
+00:19:51,040 --> 00:19:54,970
+This red little
+plus sign is showing
+
+416
+00:19:54,970 --> 00:19:57,820
+where your center
+of gravity fell
+
+417
+00:19:57,820 --> 00:20:02,560
+and whether it's within that
+utility or normal category.
+
+418
+00:20:02,560 --> 00:20:05,660
+So in this case, we
+have three people.
+
+419
+00:20:05,660 --> 00:20:08,350
+Front two are 200
+pounds each, one person
+
+420
+00:20:08,350 --> 00:20:13,110
+in the rear with 200, and bags
+there weighing about 10 pounds.
+
+421
+00:20:13,110 --> 00:20:16,630
+Is this safe to fly?
+
+422
+00:20:16,630 --> 00:20:20,560
+No, so you're a little red
+dot went outside the limits.
+
+423
+00:20:20,560 --> 00:20:23,470
+If you have a much
+smaller person sitting
+
+424
+00:20:23,470 --> 00:20:26,500
+in the back seat, you
+cross over that line,
+
+425
+00:20:26,500 --> 00:20:28,960
+and now you're back into
+the normal categories
+
+426
+00:20:28,960 --> 00:20:30,490
+so you can fly.
+
+427
+00:20:30,490 --> 00:20:33,070
+Again, another
+thing you can alter
+
+428
+00:20:33,070 --> 00:20:38,870
+is, of course, you
+fill the fuel to tabs.
+
+429
+00:20:38,870 --> 00:20:41,010
+So this is also talking about--
+
+430
+00:20:41,010 --> 00:20:47,143
+so most of the time in the
+POH book, so the section 6
+
+431
+00:20:47,143 --> 00:20:48,310
+is about weight and balance.
+
+432
+00:20:48,310 --> 00:20:49,820
+So although the
+one example I just
+
+433
+00:20:49,820 --> 00:20:53,660
+showed you was for a Cessna
+172, the Piper Warrior
+
+434
+00:20:53,660 --> 00:20:56,210
+also has that
+consistent, so really
+
+435
+00:20:56,210 --> 00:21:01,790
+recommend just memorizing the
+table of contents for your POH.
+
+436
+00:21:01,790 --> 00:21:05,930
+So the way that you go
+about calculating it
+
+437
+00:21:05,930 --> 00:21:08,540
+is the same way we entered it
+into their little calculator.
+
+438
+00:21:08,540 --> 00:21:11,870
+So first you have to determine
+the basic empty weight
+
+439
+00:21:11,870 --> 00:21:15,110
+of the aircraft and
+then the moment.
+
+440
+00:21:15,110 --> 00:21:18,740
+Section 6 almost always
+also has a place for you
+
+441
+00:21:18,740 --> 00:21:21,020
+to do that calculation,
+and so they
+
+442
+00:21:21,020 --> 00:21:23,240
+have a place right
+there where you
+
+443
+00:21:23,240 --> 00:21:26,750
+can enter in your
+airplane, the moment,
+
+444
+00:21:26,750 --> 00:21:29,570
+and it does the same steps
+that we just saw on the slide.
+
+445
+00:21:29,570 --> 00:21:31,850
+So you start with that
+basic empty weight,
+
+446
+00:21:31,850 --> 00:21:35,180
+then you focus on the
+fuel, and it gives you
+
+447
+00:21:35,180 --> 00:21:38,330
+the 6 pounds per
+gallon is what you're
+
+448
+00:21:38,330 --> 00:21:41,370
+going to most likely be using.
+
+449
+00:21:41,370 --> 00:21:43,710
+What is the max
+number of gallons?
+
+450
+00:21:43,710 --> 00:21:46,440
+What is the amount for tabs?
+
+451
+00:21:46,440 --> 00:21:49,200
+You want to actually look
+this up for your airplane.
+
+452
+00:21:49,200 --> 00:21:51,960
+The weight of the pilot
+in the front passenger,
+
+453
+00:21:51,960 --> 00:21:55,320
+rear passengers, and the
+baggage area, and then you
+
+454
+00:21:55,320 --> 00:21:57,630
+get this ramp weight.
+
+455
+00:21:57,630 --> 00:21:59,580
+And as I talked about,
+you can actually
+
+456
+00:21:59,580 --> 00:22:02,730
+have your plane be a little
+heavier than the envelope right
+
+457
+00:22:02,730 --> 00:22:04,680
+when it's fueled on the
+ramp because there's
+
+458
+00:22:04,680 --> 00:22:08,898
+some allowance for the fuel that
+you'll burn off during a taxi,
+
+459
+00:22:08,898 --> 00:22:09,940
+and so that's right here.
+
+460
+00:22:09,940 --> 00:22:13,110
+So fuel allowance for engine
+start, taxi, and run up.
+
+461
+00:22:13,110 --> 00:22:16,380
+So they took off about
+eight pounds over there,
+
+462
+00:22:16,380 --> 00:22:17,970
+and then you can calculate it.
+
+463
+00:22:17,970 --> 00:22:20,070
+And once you locate
+the point, then you
+
+464
+00:22:20,070 --> 00:22:23,470
+go to that diagram right here.
+
+465
+00:22:23,470 --> 00:22:25,690
+So you go to the
+weight and the moment,
+
+466
+00:22:25,690 --> 00:22:29,698
+and you figure out whether
+or not you're in the safe--
+
+467
+00:22:29,698 --> 00:22:31,240
+whether or not you're
+in the envelope
+
+468
+00:22:31,240 --> 00:22:35,760
+for that normal
+category of aircraft.
+
+469
+00:22:35,760 --> 00:22:37,980
+So what we just went through
+is the same procedure
+
+470
+00:22:37,980 --> 00:22:39,120
+that's listed right here.
+
+471
+00:22:43,020 --> 00:22:45,900
+And so here is it just
+doing that same example
+
+472
+00:22:45,900 --> 00:22:47,810
+for a particular Piper Warrior.
+
+473
+00:22:47,810 --> 00:22:51,410
+So they have the basic empty
+weight of the aircraft.
+
+474
+00:22:51,410 --> 00:22:54,660
+Just as a hint, if it's
+something round like 1,500,
+
+475
+00:22:54,660 --> 00:22:57,470
+then you probably didn't get
+the exact accurate amount.
+
+476
+00:22:57,470 --> 00:23:00,320
+So again, if you look
+at the real thing,
+
+477
+00:23:00,320 --> 00:23:06,160
+you're getting it down to some
+very specific accurate numbers.
+
+478
+00:23:06,160 --> 00:23:10,060
+So 1,196.63.
+
+479
+00:23:10,060 --> 00:23:11,530
+That means you
+got a real number.
+
+480
+00:23:14,240 --> 00:23:16,690
+Here's our Piper Warrior.
+
+481
+00:23:16,690 --> 00:23:20,500
+And so they have the basic
+empty weight, the passengers
+
+482
+00:23:20,500 --> 00:23:22,530
+in the front and the rear.
+
+483
+00:23:22,530 --> 00:23:25,060
+They don't have any
+bags here right now,
+
+484
+00:23:25,060 --> 00:23:29,230
+and they basically multiplied
+the weight times the arm.
+
+485
+00:23:29,230 --> 00:23:31,930
+The arm is really
+indicated in the book
+
+486
+00:23:31,930 --> 00:23:34,510
+and in these
+calculators as to where
+
+487
+00:23:34,510 --> 00:23:36,520
+the location is of the chair.
+
+488
+00:23:36,520 --> 00:23:38,700
+Now, of course, the seats
+slide forward and back,
+
+489
+00:23:38,700 --> 00:23:40,950
+but they usually don't--
+they don't get into that many
+
+490
+00:23:40,950 --> 00:23:44,320
+specifics, and then you can
+calculate here the moment.
+
+491
+00:23:44,320 --> 00:23:46,660
+So next, we do the
+ramp condition.
+
+492
+00:23:46,660 --> 00:23:49,150
+So ramp condition
+is basically, what's
+
+493
+00:23:49,150 --> 00:23:51,490
+the weight and loading
+of your airplane
+
+494
+00:23:51,490 --> 00:23:53,770
+once it's fueled up and
+sitting on the ramp?
+
+495
+00:23:53,770 --> 00:23:55,600
+Then you, in this
+case, they took off
+
+496
+00:23:55,600 --> 00:23:58,690
+seven pounds for
+that taxi, and run up
+
+497
+00:23:58,690 --> 00:24:01,900
+and then you're takeoff
+condition, in this case,
+
+498
+00:24:01,900 --> 00:24:10,420
+is 2,440 pounds, and it has
+a moment here as calculated.
+
+499
+00:24:10,420 --> 00:24:12,970
+So you basically do the
+same thing we just showed.
+
+500
+00:24:12,970 --> 00:24:15,760
+So you you look at the
+weight on the left,
+
+501
+00:24:15,760 --> 00:24:18,370
+and the CG location
+as the vertical line,
+
+502
+00:24:18,370 --> 00:24:20,590
+and you see where those
+two lines intersect
+
+503
+00:24:20,590 --> 00:24:23,681
+and you see whether or not
+it's inside the envelope.
+
+504
+00:24:26,390 --> 00:24:28,640
+You can also check
+the landing condition.
+
+505
+00:24:28,640 --> 00:24:33,450
+In general, you will have
+burned fuel during your flight,
+
+506
+00:24:33,450 --> 00:24:36,290
+and so your landing
+condition will be lower,
+
+507
+00:24:36,290 --> 00:24:39,380
+but you might have
+heard big jets,
+
+508
+00:24:39,380 --> 00:24:43,100
+and you've heard that sometimes
+they have to do a fuel dump.
+
+509
+00:24:43,100 --> 00:24:44,840
+Why did they have
+to do a fuel dump?
+
+510
+00:24:44,840 --> 00:24:47,660
+Well, maybe they
+calculated their landing
+
+511
+00:24:47,660 --> 00:24:49,382
+based on having flown
+across the country,
+
+512
+00:24:49,382 --> 00:24:50,840
+but their flight
+across the country
+
+513
+00:24:50,840 --> 00:24:52,820
+was canceled because
+of weather or whatever,
+
+514
+00:24:52,820 --> 00:24:55,787
+and so they had to dump
+their fuel in order to land,
+
+515
+00:24:55,787 --> 00:24:58,370
+which you don't like to hear is
+once they've dumped their fuel
+
+516
+00:24:58,370 --> 00:25:00,500
+then you have another delay in
+the air, and you're like, hey,
+
+517
+00:25:00,500 --> 00:25:01,083
+what happened?
+
+518
+00:25:01,083 --> 00:25:03,560
+I thought we dumped
+all of our fuel.
+
+519
+00:25:03,560 --> 00:25:06,020
+But of course, as a
+small little airplane,
+
+520
+00:25:06,020 --> 00:25:08,060
+dumping fuel is not
+really a procedure
+
+521
+00:25:08,060 --> 00:25:11,030
+you're going to be doing,
+so it might be a good idea
+
+522
+00:25:11,030 --> 00:25:14,750
+to just calculate the landing
+and the runway lengths
+
+523
+00:25:14,750 --> 00:25:19,220
+with the full fuel in case you
+have to make it landing right
+
+524
+00:25:19,220 --> 00:25:22,010
+then and there before you've
+flown all the distance you
+
+525
+00:25:22,010 --> 00:25:25,300
+thought you were
+going to get to fly.
+
+526
+00:25:25,300 --> 00:25:30,710
+So in general, as you can see
+that where we were beforehand
+
+527
+00:25:30,710 --> 00:25:32,620
+was higher and the
+weight goes down,
+
+528
+00:25:32,620 --> 00:25:34,940
+so your landing condition
+is almost always
+
+529
+00:25:34,940 --> 00:25:37,710
+going to stay
+within the envelope.
+
+530
+00:25:37,710 --> 00:25:40,450
+There's some places,
+where if you're CG
+
+531
+00:25:40,450 --> 00:25:42,830
+is too far aft or
+too far forward,
+
+532
+00:25:42,830 --> 00:25:44,930
+where actually that
+reduction in weight
+
+533
+00:25:44,930 --> 00:25:47,171
+could cause you to come
+outside the envelope.
+
+534
+00:25:49,820 --> 00:25:52,530
+All right, so there are also a
+lot of spreadsheets available.
+
+535
+00:25:52,530 --> 00:25:55,410
+You can make your own
+spreadsheet pretty quickly
+
+536
+00:25:55,410 --> 00:25:58,920
+in Excel using the data
+from the particular aircraft
+
+537
+00:25:58,920 --> 00:26:00,420
+that you're renting or buying.
+
+538
+00:26:03,780 --> 00:26:07,220
+All right, and these
+are just some snapshots
+
+539
+00:26:07,220 --> 00:26:09,020
+from the book that
+we just looked at
+
+540
+00:26:09,020 --> 00:26:11,540
+and the show pictures
+of where the seats are
+
+541
+00:26:11,540 --> 00:26:15,350
+in the airplane in order
+for you to calculate that.
+
+542
+00:26:15,350 --> 00:26:19,910
+You could also calculate
+the moment left to right.
+
+543
+00:26:19,910 --> 00:26:21,800
+It's pretty easy to
+think about, though,
+
+544
+00:26:21,800 --> 00:26:23,750
+that in that tiny
+little airplane,
+
+545
+00:26:23,750 --> 00:26:26,287
+if you're sitting on the
+front in the left and no one's
+
+546
+00:26:26,287 --> 00:26:28,370
+sitting on your right and
+you have someone sitting
+
+547
+00:26:28,370 --> 00:26:31,610
+in the back on the left, then
+you're going to be tilted over.
+
+548
+00:26:31,610 --> 00:26:33,370
+It's very easy to
+fix that problem,
+
+549
+00:26:33,370 --> 00:26:36,680
+just make sure you have someone
+sitting on the other side.
+
+550
+00:26:36,680 --> 00:26:39,540
+I have noticed some of
+these effects before.
+
+551
+00:26:39,540 --> 00:26:42,080
+I'm a little bit of
+a smaller person,
+
+552
+00:26:42,080 --> 00:26:45,140
+and there was a very, very large
+instructor sitting next to me,
+
+553
+00:26:45,140 --> 00:26:47,750
+and I actually could tell
+as I was flying that it
+
+554
+00:26:47,750 --> 00:26:49,370
+was a little bit tilted.
+
+555
+00:26:49,370 --> 00:26:52,100
+And so with the future
+flights, we put some more bags
+
+556
+00:26:52,100 --> 00:26:55,250
+on my side, and it was a
+little bit more evened out.
+
+557
+00:26:55,250 --> 00:26:58,130
+Usually, you won't run into
+that too much as an issue.
+
+558
+00:26:58,130 --> 00:27:02,570
+In some of the small puddle
+jumper aircraft and so
+
+559
+00:27:02,570 --> 00:27:06,650
+a commercial aircraft, they
+have sometimes a situation
+
+560
+00:27:06,650 --> 00:27:10,322
+where there's only one
+row of seats on one side
+
+561
+00:27:10,322 --> 00:27:11,780
+and then there's
+the aisle and then
+
+562
+00:27:11,780 --> 00:27:13,407
+two seats on the other side.
+
+563
+00:27:13,407 --> 00:27:14,990
+Have you guys seen
+that configuration?
+
+564
+00:27:14,990 --> 00:27:16,710
+I'm getting a lot of head nods.
+
+565
+00:27:16,710 --> 00:27:20,270
+So in that situation,
+they might enforce
+
+566
+00:27:20,270 --> 00:27:22,940
+that you have to sit in the
+seat that was assigned to you.
+
+567
+00:27:22,940 --> 00:27:26,420
+And when people try to
+move from the side that
+
+568
+00:27:26,420 --> 00:27:28,787
+only had one seat in
+the row to the side that
+
+569
+00:27:28,787 --> 00:27:31,370
+has two seats because they just
+want more space to spread out,
+
+570
+00:27:31,370 --> 00:27:33,537
+they might say, hey, for
+weight and balance reasons,
+
+571
+00:27:33,537 --> 00:27:37,040
+you have to sit in the seat
+that was assigned for takeoff
+
+572
+00:27:37,040 --> 00:27:40,290
+and so that's what
+they're talking about.
+
+573
+00:27:40,290 --> 00:27:42,480
+There any questions
+about weight and balance?
+
+574
+00:27:51,230 --> 00:27:53,280
+Do you guys think you
+could do weight and balance
+
+575
+00:27:53,280 --> 00:27:54,580
+calculations?
+
+576
+00:27:54,580 --> 00:27:55,080
+Yes?
+
+577
+00:27:55,080 --> 00:27:57,540
+OK, I'm getting a lot of head
+nods, so everyone took physics.
+
+578
+00:27:57,540 --> 00:27:58,040
+That's good.
+
+579
+00:27:58,040 --> 00:27:58,620
+Good job.
+
+580
+00:27:58,620 --> 00:27:59,120
+Yes?
+
+581
+00:27:59,120 --> 00:28:03,129
+AUDIENCE: So I assume that
+[INAUDIBLE] the helicopter has
+
+582
+00:28:03,129 --> 00:28:05,524
+lateral elements in the chart.
+
+583
+00:28:05,524 --> 00:28:08,400
+[INAUDIBLE]
+
+584
+00:28:08,400 --> 00:28:10,230
+TINA SRIVASTAVA:
+Helicopter question.
+
+585
+00:28:10,230 --> 00:28:13,320
+I will actually defer to
+Philip, who flies helicopters
+
+586
+00:28:13,320 --> 00:28:14,410
+quite frequently.
+
+587
+00:28:14,410 --> 00:28:18,300
+So once he's back, we'll ask
+him about helicopter CG limits.
+
+588
+00:28:18,300 --> 00:28:20,610
+Good question.
+
+589
+00:28:20,610 --> 00:28:23,074
+Anything else?
+
+590
+00:28:23,074 --> 00:28:24,026
+Yes?
+
+591
+00:28:24,026 --> 00:28:32,730
+AUDIENCE: [INAUDIBLE]
+
+592
+00:28:32,730 --> 00:28:35,030
+TINA SRIVASTAVA:
+So the question is,
+
+593
+00:28:35,030 --> 00:28:36,710
+when you're actually
+flying, do you
+
+594
+00:28:36,710 --> 00:28:38,603
+do this calculation
+every single time,
+
+595
+00:28:38,603 --> 00:28:40,520
+or do you mostly only
+do it when you're really
+
+596
+00:28:40,520 --> 00:28:41,690
+loading the aircraft?
+
+597
+00:28:41,690 --> 00:28:43,790
+So it's actually
+required that you have
+
+598
+00:28:43,790 --> 00:28:45,662
+the weight and balance done.
+
+599
+00:28:45,662 --> 00:28:47,870
+The reason you don't do it
+every single time, though,
+
+600
+00:28:47,870 --> 00:28:50,340
+is you frequently fly in
+the same configuration.
+
+601
+00:28:50,340 --> 00:28:52,550
+So if you rent from
+a flight school,
+
+602
+00:28:52,550 --> 00:28:55,940
+you might frequently rent
+you know a couple aircraft,
+
+603
+00:28:55,940 --> 00:28:59,960
+and you might frequently
+fly just yourself,
+
+604
+00:28:59,960 --> 00:29:02,570
+doing a solo flight, or
+fly with your instructor.
+
+605
+00:29:02,570 --> 00:29:05,150
+So you might just keep
+it stored that you
+
+606
+00:29:05,150 --> 00:29:08,240
+have a couple of pieces of
+paper in your flight bag
+
+607
+00:29:08,240 --> 00:29:11,000
+that are the weight and balance
+calculations for what you
+
+608
+00:29:11,000 --> 00:29:13,520
+almost always fly
+and is almost always
+
+609
+00:29:13,520 --> 00:29:16,580
+within the normal
+category envelope.
+
+610
+00:29:16,580 --> 00:29:19,670
+But you definitely want
+to do those calculations
+
+611
+00:29:19,670 --> 00:29:22,460
+if you're getting
+passengers in the back seat.
+
+612
+00:29:22,460 --> 00:29:24,890
+Whenever we go on
+these MIT fly outs,
+
+613
+00:29:24,890 --> 00:29:28,080
+we actually ask people
+for their weights,
+
+614
+00:29:28,080 --> 00:29:31,070
+and it's actually a
+big restriction too.
+
+615
+00:29:31,070 --> 00:29:33,443
+So when we're trying to
+get passengers to sit down,
+
+616
+00:29:33,443 --> 00:29:35,360
+just because I fly
+assessment with four seats,
+
+617
+00:29:35,360 --> 00:29:38,980
+as we just saw from the example,
+I don't have four pass--
+
+618
+00:29:38,980 --> 00:29:40,810
+I don't have three
+passengers to offer.
+
+619
+00:29:40,810 --> 00:29:44,690
+I often say, I have
+220 pounds available,
+
+620
+00:29:44,690 --> 00:29:49,160
+and so they then have to sort
+out, Sebastian and his team,
+
+621
+00:29:49,160 --> 00:29:52,963
+as to who to assign to my
+plane versus another plane.
+
+622
+00:29:52,963 --> 00:29:54,380
+And also, if people
+aren't being--
+
+623
+00:29:54,380 --> 00:29:56,743
+if you notice people aren't
+being overly forthcoming
+
+624
+00:29:56,743 --> 00:29:58,160
+about their weight,
+you might want
+
+625
+00:29:58,160 --> 00:30:00,440
+to increase the amount
+that they gave you.
+
+626
+00:30:00,440 --> 00:30:02,870
+PHILIP GREENSPUN:
+Yeah, let me add that--
+
+627
+00:30:02,870 --> 00:30:05,180
+obviously, have a
+lot more experience
+
+628
+00:30:05,180 --> 00:30:12,222
+being over overweight than
+Tina might have, but also--
+
+629
+00:30:12,222 --> 00:30:13,930
+actually, these pants
+are a good example.
+
+630
+00:30:13,930 --> 00:30:17,060
+20 years ago, some
+friends and I,
+
+631
+00:30:17,060 --> 00:30:20,120
+we made a web front end to
+a Levi Strauss factory that
+
+632
+00:30:20,120 --> 00:30:22,130
+could make custom cut khakis.
+
+633
+00:30:22,130 --> 00:30:23,660
+So we asked people
+in the web form
+
+634
+00:30:23,660 --> 00:30:25,820
+when they ordered what's
+your waist size, what's
+
+635
+00:30:25,820 --> 00:30:28,520
+your inseam, what's
+your height and weight.
+
+636
+00:30:28,520 --> 00:30:32,000
+And from that, we
+had software to try
+
+637
+00:30:32,000 --> 00:30:35,287
+to infer their actual weight,
+their actual waist size,
+
+638
+00:30:35,287 --> 00:30:37,370
+and then we make them--
+you can't really see this,
+
+639
+00:30:37,370 --> 00:30:39,790
+but these pants just
+say pair number 7.
+
+640
+00:30:39,790 --> 00:30:42,490
+They don't say anything about
+what size it actually is.
+
+641
+00:30:42,490 --> 00:30:43,820
+They would get their pants--
+
+642
+00:30:43,820 --> 00:30:45,660
+this was in 1997.
+
+643
+00:30:45,660 --> 00:30:47,720
+They would get their
+pants, if they didn't fit,
+
+644
+00:30:47,720 --> 00:30:50,303
+they'd say, look, it needs to
+be a little looser in the waist.
+
+645
+00:30:50,303 --> 00:30:52,370
+It needs to be a little
+shorter, and then
+
+646
+00:30:52,370 --> 00:30:55,520
+a revised pair would be
+made and sent to them,
+
+647
+00:30:55,520 --> 00:30:58,130
+but we never relied
+on their stated weight
+
+648
+00:30:58,130 --> 00:31:00,872
+or their stated
+waist size, exactly.
+
+649
+00:31:00,872 --> 00:31:03,080
+TINA SRIVASTAVA: Philip,
+there was a question for you
+
+650
+00:31:03,080 --> 00:31:06,950
+that I wasn't able to
+answer about helicopter CGs,
+
+651
+00:31:06,950 --> 00:31:09,210
+and really thinking
+it was the lateral CG.
+
+652
+00:31:09,210 --> 00:31:10,710
+What was your
+question specifically?
+
+653
+00:31:10,710 --> 00:31:13,230
+AUDIENCE: [INAUDIBLE]
+
+654
+00:31:13,230 --> 00:31:16,250
+PHILIP GREENSPUN: It's very
+hard to get a-- the question is
+
+655
+00:31:16,250 --> 00:31:19,240
+it's very hard to get a
+helicopter out of lateral CG,
+
+656
+00:31:19,240 --> 00:31:20,230
+as with an aircraft.
+
+657
+00:31:20,230 --> 00:31:23,350
+If you have to have you people
+in the back and a light person
+
+658
+00:31:23,350 --> 00:31:29,700
+in the front, it's easy to
+get out of front back CG,
+
+659
+00:31:29,700 --> 00:31:32,160
+longitudinal CG, but--
+
+660
+00:31:32,160 --> 00:31:34,660
+TINA SRIVASTAVA: He's talking
+about, what we just discussed,
+
+661
+00:31:34,660 --> 00:31:36,493
+it's frequently the
+case that you might have
+
+662
+00:31:36,493 --> 00:31:39,490
+a forward CG or an aft
+CG, but you don't usually
+
+663
+00:31:39,490 --> 00:31:43,810
+have an issue with the CG on
+the left or the right, unless--
+
+664
+00:31:43,810 --> 00:31:47,090
+it's very visible in
+a four seat aircraft
+
+665
+00:31:47,090 --> 00:31:48,548
+how to fix those
+types of problems.
+
+666
+00:31:48,548 --> 00:31:50,423
+PHILIP GREENSPUN: One
+issue with the Robinson
+
+667
+00:31:50,423 --> 00:31:52,510
+is they put the main
+fuel tank on the left,
+
+668
+00:31:52,510 --> 00:31:53,970
+so they're budgeting for--
+
+669
+00:31:53,970 --> 00:31:57,490
+in a solo situation, a pilot
+of at least a certain minimum
+
+670
+00:31:57,490 --> 00:31:59,440
+weight in the front right.
+
+671
+00:31:59,440 --> 00:32:02,320
+So very lightweight,
+sometimes when
+
+672
+00:32:02,320 --> 00:32:04,630
+teenagers are learning
+to fly helicopters,
+
+673
+00:32:04,630 --> 00:32:06,790
+they have to add a
+little bit of ballast,
+
+674
+00:32:06,790 --> 00:32:10,240
+let's say like a big
+heavy gym weight.
+
+675
+00:32:10,240 --> 00:32:13,810
+A 50 pound gym
+weight in the front
+
+676
+00:32:13,810 --> 00:32:15,790
+left footwell or something.
+
+677
+00:32:15,790 --> 00:32:18,640
+AUDIENCE: The other thing
+that could go wrong is--
+
+678
+00:32:18,640 --> 00:32:21,850
+so when you do your pre-flight,
+one of the things that you do
+
+679
+00:32:21,850 --> 00:32:24,890
+is that if you're sitting
+in the pilot's seat, so
+
+680
+00:32:24,890 --> 00:32:27,040
+on the left side,
+so to your right
+
+681
+00:32:27,040 --> 00:32:28,810
+in the middle at
+the bottom, there's
+
+682
+00:32:28,810 --> 00:32:31,300
+a little knob where you
+can say whether you want
+
+683
+00:32:31,300 --> 00:32:34,990
+the fuel to be coming from
+the left tank, the right tank,
+
+684
+00:32:34,990 --> 00:32:35,860
+or both.
+
+685
+00:32:35,860 --> 00:32:38,830
+And pretty much, all
+the time, the checklist
+
+686
+00:32:38,830 --> 00:32:40,663
+says that after you've
+parked the plane,
+
+687
+00:32:40,663 --> 00:32:42,580
+you want to twist it to
+the left or the right,
+
+688
+00:32:42,580 --> 00:32:44,110
+and the reason is
+you don't want--
+
+689
+00:32:44,110 --> 00:32:45,850
+while it's sitting
+there, fuel to be
+
+690
+00:32:45,850 --> 00:32:49,960
+sloshing across the plane,
+and so you set it to left,
+
+691
+00:32:49,960 --> 00:32:51,020
+for example.
+
+692
+00:32:51,020 --> 00:32:53,590
+Now, if you skipped that
+step, even though it comes up
+
+693
+00:32:53,590 --> 00:32:56,020
+several times throughout
+your pre-flight
+
+694
+00:32:56,020 --> 00:33:00,160
+and then your run up check,
+if you didn't put the fuel
+
+695
+00:33:00,160 --> 00:33:03,430
+to draw from both tanks and
+it's only drawing from one tank,
+
+696
+00:33:03,430 --> 00:33:07,598
+then you might experience
+that instability.
+
+697
+00:33:07,598 --> 00:33:09,390
+PHILIP GREENSPUN: All
+right, why don't we--
+
+698
+00:33:09,390 --> 00:33:12,280
+should we take a 15-minute
+break so people can run out,
+
+699
+00:33:12,280 --> 00:33:14,890
+grab food, bring it back,
+and then we'll hear from
+
+700
+00:33:14,890 --> 00:33:16,150
+[INAUDIBLE] about--
+
+701
+00:33:16,150 --> 00:33:19,870
+TINA SRIVASTAVA: The test pilot
+and life potentially outside
+
+702
+00:33:19,870 --> 00:33:21,570
+of the limits.

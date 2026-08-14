@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Videos on MIT OpenCourseWare</title>
+    <link>/resources/lecture-videos/</link>
+    <description>Recent content in Lecture Videos on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/lecture-videos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lecture 1: Introduction to Private Pilot Ground School</title>
+      <link>/resources/lecture-1-introduction/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-1-introduction/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This first lecture introduced the background and course objectives of this three-day workshop of ground school for pilots. The main purpose is to help students prepare the FAA Private Pilot Knowledge Test.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 10: Communication and Flight Information</title>
+      <link>/resources/lecture-10-communication-and-flight-information/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-10-communication-and-flight-information/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture covered topics of radar and ATC services, radio procedures, and sources of flight information.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 11: Aircraft Ownership and Maintenance</title>
+      <link>/resources/lecture-11-aircraft-ownership-and-maintenance/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-11-aircraft-ownership-and-maintenance/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture covered aircraft maintenance, preventative maintenance, and alterations.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 12: Aircraft Performance</title>
+      <link>/resources/lecture-12-aircraft-performance/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-12-aircraft-performance/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture discussed various factors affecting aircraft performance and how to predict performance for all flight phases.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 13:  Interpreting Weather Data</title>
+      <link>/resources/lecture-13-interpreting-weather-data/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-13-interpreting-weather-data/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture covered topics in understanding various weather reports and forecasts, and introduced graphic weather products.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 14: Human Factors</title>
+      <link>/resources/lecture-14-human-factors/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-14-human-factors/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture discussed aeromedical factors and aeronautical decision-making.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 15: Flight Planning</title>
+      <link>/resources/lecture-15-flight-planning/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-15-flight-planning/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture introduced various tools for flight planning.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 16: Seaplanes</title>
+      <link>/resources/lecture-16-seaplanes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-16-seaplanes/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture introduced different types of seaplanes.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 17: Small UAS Operations</title>
+      <link>/resources/lecture-17-small-uas-operations/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-17-small-uas-operations/data.json</guid>
+      <description>&lt;p&gt;This lecture is with guest speaker, Michael Holzwarth.&lt;/p&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture discussed the small unmanned aircraft systems and the related FAA regulations.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Michael Holzwarth&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 18: Weight and Balance</title>
+      <link>/resources/lecture-18-weight-and-balance/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-18-weight-and-balance/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture discussed the topic of weight and balance during aircraft operation.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 19: Multi-Engine and Jets</title>
+      <link>/resources/lecture-19-multi-engine-and-jets/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-19-multi-engine-and-jets/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture discussed the multi-engine aircraft, including the twin-turbojets.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 2: Airplane Aerodynamics</title>
+      <link>/resources/lecture-2-airplane-aerodynamics/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-2-airplane-aerodynamics/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture introduced the fundamental knowledge and basic principles of airplane aerodynamics.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 20: Flying at Night</title>
+      <link>/resources/lecture-20-flying-at-night/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-20-flying-at-night/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture discussed the visual flight rules (VFR), issues and challenges when operating aircraft at night.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 21: Weather Minimums and Final Tips</title>
+      <link>/resources/lecture-21-weather-minimums-and-final-tips/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-21-weather-minimums-and-final-tips/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This last lecture discussed the more weather challenges a VFR pilot facing than an IFR pilot and had a final review of this three-day workshop.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 3: Learning to Fly</title>
+      <link>/resources/lecture-3-learning-to-fly/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-3-learning-to-fly/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture introduced the details in acquiring the FAA Pilot Certificate.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 4: Aircraft Systems</title>
+      <link>/resources/lecture-4-aircraft-systems/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-4-aircraft-systems/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture introduced different aircraft systems.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 5: Charts and Airspace</title>
+      <link>/resources/lecture-5-charts-and-airspace/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-5-charts-and-airspace/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture focused on the aeronautical charts.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 6: The Flight Environment</title>
+      <link>/resources/lecture-6-the-flight-environment/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-6-the-flight-environment/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture covered the topics of flying and landing at an airport.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 7: Navigation</title>
+      <link>/resources/lecture-7-navigation/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-7-navigation/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture focused on how to navigate an airplane.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 8: Helicopter Aerodynamics</title>
+      <link>/resources/lecture-8-helicopter-aerodynamics/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lecture-8-helicopter-aerodynamics/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture focused on the aerodynamics of helicopters.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture 9: Meteorology</title>
+      <link>/resources/lec-9-meteorology/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/lec-9-meteorology/data.json</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture covered the basic weather theory, weather patterns, and related hazards.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun, Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Special Lecture: F-22 Flight Controls</title>
+      <link>/resources/special-lecture-f-22-flight-controls/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/special-lecture-f-22-flight-controls/data.json</guid>
+      <description>&lt;p&gt;This is a special lecture with Randy Gordon.&lt;/p&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture featured Lieutenant Colonel Randy Gordon to share experience in flying fighter jet.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Randy Gordon&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Special Lecture: Oshkosh 2018</title>
+      <link>/resources/special-lecture-oshkosh-2018/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/special-lecture-oshkosh-2018/data.json</guid>
+      <description>&lt;p&gt;This is a special lecture with Philip Greenspun.&lt;/p&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Philip Greenspun shared the EAA AirVenture at Oshkosh Wisconsin in July 2018.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Philip Greenspun&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Special Lecture: The How and the Why of IFR</title>
+      <link>/resources/special-lecture-the-how-and-the-why-of-ifr/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/special-lecture-the-how-and-the-why-of-ifr/data.json</guid>
+      <description>&lt;p&gt;This is a special lecture with Tina Srisvastava.&lt;/p&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;This lecture discussed the instrument flight rules and instrument meterological conditions.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Instructor:&lt;/strong&gt; Tina Srisvastava&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

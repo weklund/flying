@@ -1,0 +1,14 @@
+
+{
+  "content": "\n    <h3 id=\"course-meeting-times\">Course Meeting Times</h3>\n\n<p>This is a three-day workshop that took place during the MIT Independent Activities Period (IAP) in January, 2019.</p>\n\n    <h3 id=\"course-description\">Course Description</h3>\n\n<p>This workshop aims to provide information for students to prepare for the FAA Private Pilot Knowledge Test. Topics include airplane aerodynamics, aircraft systems, navigation, meteorology, aircraft ownership and maintenance, aircraft performance, multi-engine and jets.</p>\n\n    <h3 id=\"prerequisites\">Prerequisites</h3>\n\n<p>None</p>\n\n    <h3 id=\"course-objectives\">Course Objectives</h3>\n\n<ul>\n<li>Prepare for FAA Private Pilot Knowledge Test, available in Airplane, Helicopter, Balloon, Glider, etc. variants</li>\n<li>Concentrate on the Airplane variant</li>\n<li>Prepare for FAA Remote Pilots UAS Test</li>\n<li>Help you get the most out of flight training</li>\n<li>Learn about the engineering behind aviation</li>\n</ul>\n\n    <h3 id=\"resources\">Resources</h3>\n\n<p><a   class=\"external-link \"   target=\"_blank\"   href=\"https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/phak/\"  aria-label=\"FAA Pilot’s Handbook of Aeronautical Knowledge (opens in a new tab)\"  >FAA Pilot’s Handbook of Aeronautical Knowledge</a></p>\n<p><a   class=\"external-link \"   target=\"_blank\"   href=\"https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/airplane_handbook/\"  aria-label=\"FAA Airplane Flying Handbook (opens in a new tab)\"  >FAA Airplane Flying Handbook</a></p>\n<p><a   class=\"external-link \"   target=\"_blank\"   href=\"https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/helicopter_flying_handbook/\"  aria-label=\"FAA Helicopter Flying Handbook (opens in a new tab)\"  >FAA Helicopter Flying Handbook</a></p>\n\n    <h3 id=\"assessment\">Assessment</h3>\n\n<p>This course does not have in-class assessment. However, this course aims to help students acquire the private pilot&rsquo;s license and prepare for the following steps/exams:</p>\n<ul>\n<li>Flight Training</li>\n<li>Apply for Student Pilot Certificate</li>\n<li>Exam for 3rd class Medical Certificate</li>\n<li>FAA Private Pilot Knowledge Exam</li>\n<li>Checkride (Practical Exam): Oral section and Flight section</li>\n</ul>\n",
+  "content_type": "page",
+  "description": "This section provides the course policy of the MIT course 16.687 Private Pilot Ground School of January IAP, 2019.",
+  "draft": false,
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "CourseSection",
+  "title": "Syllabus",
+  "uid": "2b0ed8a1-6726-647c-c21b-e00357fe6848"
+}
+

@@ -1,0 +1,8396 @@
+1
+00:00:11,210 --> 00:00:13,220
+RANDY GORDON: Well,
+guys, you have
+
+2
+00:00:13,220 --> 00:00:17,508
+picked the coolest independent
+activities period class you
+
+3
+00:00:17,508 --> 00:00:18,800
+could ever do at ground school.
+
+4
+00:00:18,800 --> 00:00:20,900
+This is the most
+awesome thing possible
+
+5
+00:00:20,900 --> 00:00:22,550
+when I saw the course offerings.
+
+6
+00:00:22,550 --> 00:00:24,680
+So kudos to Tina and
+Phil for teaching this.
+
+7
+00:00:24,680 --> 00:00:25,970
+This is a good, good.
+
+8
+00:00:25,970 --> 00:00:27,110
+Gig.
+
+9
+00:00:27,110 --> 00:00:28,340
+I go by Laz.
+
+10
+00:00:28,340 --> 00:00:29,780
+It's a fighter pilot thing.
+
+11
+00:00:29,780 --> 00:00:32,117
+All fighter pilots
+have call signs.
+
+12
+00:00:32,117 --> 00:00:33,950
+They're not like what
+you see in the movies.
+
+13
+00:00:33,950 --> 00:00:36,500
+By the way, Top Gun is the worst
+movie for any fighter pilot
+
+14
+00:00:36,500 --> 00:00:37,000
+to watch.
+
+15
+00:00:37,000 --> 00:00:38,660
+It's terrible, drives you crazy.
+
+16
+00:00:38,660 --> 00:00:40,400
+No one is called
+Maverick because they're
+
+17
+00:00:40,400 --> 00:00:42,442
+the most awesome thing on
+the face of the planet.
+
+18
+00:00:42,442 --> 00:00:43,940
+Never happens that way.
+
+19
+00:00:43,940 --> 00:00:45,680
+You're always named
+for something silly.
+
+20
+00:00:45,680 --> 00:00:49,120
+So the previous discussion
+about crew resource management,
+
+21
+00:00:49,120 --> 00:00:51,620
+if you're a single seat, you
+still have air traffic control,
+
+22
+00:00:51,620 --> 00:00:56,473
+you have other guys, I am living
+proof that that's 100% true.
+
+23
+00:00:56,473 --> 00:00:58,640
+So I won't get into it too
+much, but suffice to say,
+
+24
+00:00:58,640 --> 00:01:00,560
+if you know the biblical
+story of Lazarus,
+
+25
+00:01:00,560 --> 00:01:02,727
+you know a lot about
+how I got my name,
+
+26
+00:01:02,727 --> 00:01:03,810
+and I'll leave it at that.
+
+27
+00:01:03,810 --> 00:01:06,060
+Normally that's over
+a beer afterwards.
+
+28
+00:01:06,060 --> 00:01:08,600
+So we're here to talk about
+F-22 flight control stuff.
+
+29
+00:01:08,600 --> 00:01:11,090
+I'm going to give you the
+punch line right at the start.
+
+30
+00:01:11,090 --> 00:01:13,610
+I'm here to tell you that
+everything you're learning-- so
+
+31
+00:01:13,610 --> 00:01:16,460
+who's actually flown airplanes
+here already, like sailplanes?
+
+32
+00:01:16,460 --> 00:01:17,282
+So a lot of guys.
+
+33
+00:01:17,282 --> 00:01:17,990
+So a lot of guys.
+
+34
+00:01:17,990 --> 00:01:19,907
+So first time then for
+probably the other half
+
+35
+00:01:19,907 --> 00:01:20,900
+of the class or so.
+
+36
+00:01:20,900 --> 00:01:22,400
+So here's what I'm
+here to tell you.
+
+37
+00:01:22,400 --> 00:01:24,200
+The same stuff that
+you're learning
+
+38
+00:01:24,200 --> 00:01:27,680
+with respect to Cessnas and
+all this stuff with respect
+
+39
+00:01:27,680 --> 00:01:32,030
+to the ground school, there's
+no difference between this
+
+40
+00:01:32,030 --> 00:01:33,350
+and between my beloved Raptor.
+
+41
+00:01:33,350 --> 00:01:34,590
+It's the same thing.
+
+42
+00:01:34,590 --> 00:01:35,900
+So there's great relevance.
+
+43
+00:01:35,900 --> 00:01:38,060
+And you as MIT guys
+have the ability
+
+44
+00:01:38,060 --> 00:01:40,660
+to derive and figure out
+what makes the Raptor look
+
+45
+00:01:40,660 --> 00:01:43,160
+the way that it does, and we
+can talk a lot about the flight
+
+46
+00:01:43,160 --> 00:01:43,770
+controls.
+
+47
+00:01:43,770 --> 00:01:44,660
+It's not cosmic.
+
+48
+00:01:44,660 --> 00:01:46,743
+We can go through that.
+
+49
+00:01:46,743 --> 00:01:48,910
+So with that, they always
+have the standard personal
+
+50
+00:01:48,910 --> 00:01:50,440
+background slide.
+
+51
+00:01:50,440 --> 00:01:51,265
+Here's the gig.
+
+52
+00:01:51,265 --> 00:01:52,390
+I'll keep it really simple.
+
+53
+00:01:52,390 --> 00:01:56,290
+I am a test pilot, which
+means I am a fighter pilot
+
+54
+00:01:56,290 --> 00:01:57,730
+and I'm also an engineer.
+
+55
+00:01:57,730 --> 00:02:00,560
+It means I like Beavis
+and Butthead greatly,
+
+56
+00:02:00,560 --> 00:02:01,720
+and I read Carl Sagan.
+
+57
+00:02:01,720 --> 00:02:03,440
+It's the same thing to me.
+
+58
+00:02:03,440 --> 00:02:05,020
+So as a fighter
+test pilot, you live
+
+59
+00:02:05,020 --> 00:02:06,987
+in the world of being
+a fighter pilot,
+
+60
+00:02:06,987 --> 00:02:09,070
+but you also have the
+ability to understand Matlab
+
+61
+00:02:09,070 --> 00:02:12,040
+and to be able to do cool
+neat MIT-ish kind of things.
+
+62
+00:02:12,040 --> 00:02:13,540
+Because all of the
+stuff that you're
+
+63
+00:02:13,540 --> 00:02:17,330
+working with as a test
+pilot are brand new things--
+
+64
+00:02:17,330 --> 00:02:21,817
+new weapons, new avionics,
+new airplanes, in some cases.
+
+65
+00:02:21,817 --> 00:02:23,650
+And that's not the world
+of a fighter pilot.
+
+66
+00:02:23,650 --> 00:02:26,297
+Fighter pilots are exceptionally
+good at taking this airplane
+
+67
+00:02:26,297 --> 00:02:28,630
+to combat and doing the normal
+kind of missions with it.
+
+68
+00:02:28,630 --> 00:02:30,490
+But when there's
+something new on board,
+
+69
+00:02:30,490 --> 00:02:32,170
+that requires an engineer.
+
+70
+00:02:32,170 --> 00:02:34,780
+So I have a deep,
+deep connection
+
+71
+00:02:34,780 --> 00:02:35,710
+with this institution.
+
+72
+00:02:35,710 --> 00:02:38,133
+I finished up here
+last year in 2018.
+
+73
+00:02:38,133 --> 00:02:40,300
+I've done a whole bunch of
+other kind of funky stuff
+
+74
+00:02:40,300 --> 00:02:41,920
+along the way.
+
+75
+00:02:41,920 --> 00:02:43,403
+Two combat tours.
+
+76
+00:02:43,403 --> 00:02:44,320
+That was a lot of fun.
+
+77
+00:02:44,320 --> 00:02:46,403
+I'll tell you, flying is
+one of my great passions.
+
+78
+00:02:46,403 --> 00:02:48,550
+Flying and getting
+shot at and missed
+
+79
+00:02:48,550 --> 00:02:49,960
+is my second great passion.
+
+80
+00:02:49,960 --> 00:02:51,028
+That's much cooler.
+
+81
+00:02:51,028 --> 00:02:53,320
+And then when you can fly
+and you can use that airplane
+
+82
+00:02:53,320 --> 00:02:55,720
+to actually protect
+people from bad guys,
+
+83
+00:02:55,720 --> 00:02:58,880
+that's life-fulfilling to go
+get a chance to go do that.
+
+84
+00:02:58,880 --> 00:03:01,768
+So we can talk a little bit
+more through that as well.
+
+85
+00:03:01,768 --> 00:03:04,310
+Test pilots, we get a chance to
+fly a lot of different stuff.
+
+86
+00:03:04,310 --> 00:03:07,420
+So you'll see this 76
+different airplanes.
+
+87
+00:03:07,420 --> 00:03:10,450
+That might sound weird
+to the rest of the world,
+
+88
+00:03:10,450 --> 00:03:12,790
+but in the world of flight
+test, that's pretty normal.
+
+89
+00:03:12,790 --> 00:03:14,350
+And the reason
+that's there is it's
+
+90
+00:03:14,350 --> 00:03:18,250
+just like-- look, by the
+way, warning to the class,
+
+91
+00:03:18,250 --> 00:03:21,460
+I talk a lot in terms of movies,
+Game of Thrones, or whatever,
+
+92
+00:03:21,460 --> 00:03:24,010
+television shows and sports
+because no matter where
+
+93
+00:03:24,010 --> 00:03:26,230
+you come from, those
+three topics always
+
+94
+00:03:26,230 --> 00:03:28,700
+tend to bring
+everybody all together.
+
+95
+00:03:28,700 --> 00:03:31,300
+So it is just like what you--
+
+96
+00:03:31,300 --> 00:03:34,390
+when you've gone car shopping
+and you sit in this car and go,
+
+97
+00:03:34,390 --> 00:03:36,940
+oh, man, I really like the
+way this steering wheel feels
+
+98
+00:03:36,940 --> 00:03:38,770
+but I hate the way
+the radio is set up,
+
+99
+00:03:38,770 --> 00:03:40,687
+and you go to another
+car and you go, oh, man,
+
+100
+00:03:40,687 --> 00:03:44,020
+this is great from the sunroof
+or whatever but this stinks.
+
+101
+00:03:44,020 --> 00:03:46,900
+That same kind of
+discernment that you
+
+102
+00:03:46,900 --> 00:03:49,630
+have when you're shopping
+for cars, this airplane
+
+103
+00:03:49,630 --> 00:03:51,160
+is a couple hundred
+million dollars.
+
+104
+00:03:51,160 --> 00:03:52,580
+You don't want to
+be wrong about that,
+
+105
+00:03:52,580 --> 00:03:54,372
+and so you want your
+test pilots very, very
+
+106
+00:03:54,372 --> 00:03:56,380
+experienced in a lot
+of different airplanes.
+
+107
+00:03:56,380 --> 00:03:58,360
+So I've got a chance
+to fly helicopters--
+
+108
+00:03:58,360 --> 00:03:59,080
+spectacular.
+
+109
+00:03:59,080 --> 00:04:00,590
+In pilot training,
+I don't know why,
+
+110
+00:04:00,590 --> 00:04:03,160
+but we send our worst
+pilot training students
+
+111
+00:04:03,160 --> 00:04:04,100
+to helicopters.
+
+112
+00:04:04,100 --> 00:04:07,000
+It's the dumbest idea because
+helicopters are really, really
+
+113
+00:04:07,000 --> 00:04:08,310
+challenging to go fly.
+
+114
+00:04:08,310 --> 00:04:10,060
+But we've had a chance
+to fly helicopters.
+
+115
+00:04:10,060 --> 00:04:12,280
+Your discussion, Tina,
+earlier about right of way,
+
+116
+00:04:12,280 --> 00:04:13,822
+I was laughing with
+that because I've
+
+117
+00:04:13,822 --> 00:04:15,820
+flown a Zeppelin, an airship.
+
+118
+00:04:15,820 --> 00:04:16,940
+It's quite spectacular.
+
+119
+00:04:16,940 --> 00:04:20,140
+It's a big Lab-Z-Boy couch
+with a big trim wheel
+
+120
+00:04:20,140 --> 00:04:22,450
+and big engines that actually
+pivot on the outside,
+
+121
+00:04:22,450 --> 00:04:24,830
+so you can turn the
+whole ship based on that.
+
+122
+00:04:24,830 --> 00:04:26,687
+That's pretty normal
+for being a test pilot,
+
+123
+00:04:26,687 --> 00:04:29,020
+is getting a chance to fly a
+lot of different airplanes,
+
+124
+00:04:29,020 --> 00:04:31,810
+more so than just one particular
+airplane your whole life.
+
+125
+00:04:31,810 --> 00:04:34,140
+Most of my stuff is in fighters.
+
+126
+00:04:34,140 --> 00:04:35,740
+So I've flown every
+frontline fighter
+
+127
+00:04:35,740 --> 00:04:37,330
+with the exception of the F-35.
+
+128
+00:04:37,330 --> 00:04:41,518
+Hopefully I'll fix that soon,
+shortly, in a few months.
+
+129
+00:04:41,518 --> 00:04:42,310
+But a lot of stuff.
+
+130
+00:04:42,310 --> 00:04:44,555
+So MIT guy, Harvard guy.
+
+131
+00:04:44,555 --> 00:04:45,180
+Did some stuff.
+
+132
+00:04:45,180 --> 00:04:46,438
+It's been a good life.
+
+133
+00:04:46,438 --> 00:04:48,730
+Really, at the end of the
+day what I want to impress on
+
+134
+00:04:48,730 --> 00:04:53,710
+you is I am 100% zero different
+from anybody in this room.
+
+135
+00:04:53,710 --> 00:04:55,720
+I just have more
+battle scars on me
+
+136
+00:04:55,720 --> 00:04:57,430
+just from a lifetime
+of doing this.
+
+137
+00:04:57,430 --> 00:04:58,853
+I started off flying Cessnas.
+
+138
+00:04:58,853 --> 00:05:00,520
+I did that for several
+years of my life.
+
+139
+00:05:00,520 --> 00:05:01,360
+I still do it.
+
+140
+00:05:01,360 --> 00:05:02,380
+I love it.
+
+141
+00:05:02,380 --> 00:05:03,340
+Fly sailplanes.
+
+142
+00:05:03,340 --> 00:05:05,290
+Still do it, love it.
+
+143
+00:05:05,290 --> 00:05:07,660
+And all the stuff that
+you learn with this
+
+144
+00:05:07,660 --> 00:05:10,180
+has direct applicability to
+the more advanced fighter
+
+145
+00:05:10,180 --> 00:05:10,780
+airplanes.
+
+146
+00:05:10,780 --> 00:05:13,870
+In fact, I'll tell you,
+this is actually harder
+
+147
+00:05:13,870 --> 00:05:16,780
+to fly than the Raptor, and
+we'll talk a little bit more
+
+148
+00:05:16,780 --> 00:05:18,260
+about that as we go through.
+
+149
+00:05:18,260 --> 00:05:18,760
+All right.
+
+150
+00:05:18,760 --> 00:05:20,030
+So more fun and games.
+
+151
+00:05:20,030 --> 00:05:20,530
+All right.
+
+152
+00:05:20,530 --> 00:05:22,640
+So now comes the class
+participation part.
+
+153
+00:05:22,640 --> 00:05:24,950
+My talks are very interactive.
+
+154
+00:05:24,950 --> 00:05:26,530
+I love hearing what
+you guys think.
+
+155
+00:05:26,530 --> 00:05:28,150
+So we'll do a quick
+thought exercise.
+
+156
+00:05:28,150 --> 00:05:30,108
+I'll try and keep a mental
+note because I stink
+
+157
+00:05:30,108 --> 00:05:31,480
+at writing on a chalkboard.
+
+158
+00:05:31,480 --> 00:05:33,730
+But we'll chat through this
+just so you can understand
+
+159
+00:05:33,730 --> 00:05:35,410
+that there's really not that
+much difference from what
+
+160
+00:05:35,410 --> 00:05:37,780
+you're learning now to go off
+to do something like that.
+
+161
+00:05:37,780 --> 00:05:41,560
+So why does a Cessna look
+the way that it does?
+
+162
+00:05:41,560 --> 00:05:44,020
+And why does a Raptor
+look the way that it does?
+
+163
+00:05:44,020 --> 00:05:46,320
+What were the
+engineers trying to do?
+
+164
+00:05:46,320 --> 00:05:47,388
+And just call them out.
+
+165
+00:05:47,388 --> 00:05:48,680
+No real-- go ahead, just shoot.
+
+166
+00:05:48,680 --> 00:05:49,860
+AUDIENCE: [INAUDIBLE] Raptor.
+
+167
+00:05:49,860 --> 00:05:50,568
+RANDY GORDON: OK.
+
+168
+00:05:50,568 --> 00:05:51,230
+So explain.
+
+169
+00:05:51,230 --> 00:05:55,420
+AUDIENCE: You have way more
+area that's clear [INAUDIBLE]
+
+170
+00:05:59,188 --> 00:06:00,980
+RANDY GORDON: So you
+brought up two things.
+
+171
+00:06:00,980 --> 00:06:02,605
+One is the position
+of the wing, right.
+
+172
+00:06:02,605 --> 00:06:05,620
+So in a Cessna, the
+wings are obviously--
+
+173
+00:06:05,620 --> 00:06:07,870
+well, in a lot of airplanes,
+really, not just Cessnas.
+
+174
+00:06:07,870 --> 00:06:09,100
+But in the Cessna,
+the wings are directly
+
+175
+00:06:09,100 --> 00:06:10,870
+above you, big Hershey bar wing.
+
+176
+00:06:10,870 --> 00:06:12,870
+Why did they put the wings
+this way in a Cessna?
+
+177
+00:06:16,729 --> 00:06:18,180
+[LAUGHTER]
+
+178
+00:06:18,180 --> 00:06:19,270
+You're doing great so far.
+
+179
+00:06:19,270 --> 00:06:20,310
+Keep going, man.
+
+180
+00:06:20,310 --> 00:06:21,960
+PROFESSOR: I'm going
+to answer that.
+
+181
+00:06:21,960 --> 00:06:24,960
+Get in or out of a
+Cirrus in heavy rain,
+
+182
+00:06:24,960 --> 00:06:27,815
+and you will immediately see
+the value of that Cessna wing.
+
+183
+00:06:27,815 --> 00:06:29,190
+RANDY GORDON:
+Yeah, they did this
+
+184
+00:06:29,190 --> 00:06:31,740
+so that my wife doesn't yell at
+me in bad weather conditions,
+
+185
+00:06:31,740 --> 00:06:33,240
+so that you can get
+inside the airplane
+
+186
+00:06:33,240 --> 00:06:34,560
+with not getting completely wet.
+
+187
+00:06:34,560 --> 00:06:35,977
+The other part
+about the high wing
+
+188
+00:06:35,977 --> 00:06:39,450
+is it's great for
+visibility, looking down.
+
+189
+00:06:39,450 --> 00:06:41,242
+Where this is terrible
+is if you're turning
+
+190
+00:06:41,242 --> 00:06:43,200
+and you have to be able
+to see through the wing
+
+191
+00:06:43,200 --> 00:06:44,830
+because you're kind
+of doing the old--
+
+192
+00:06:44,830 --> 00:06:47,620
+looking over the side
+to see out the outside.
+
+193
+00:06:47,620 --> 00:06:49,260
+So that's one
+advantage over Raptor.
+
+194
+00:06:49,260 --> 00:06:51,100
+It's not a high wing or a--
+it's kind of a mid wing,
+
+195
+00:06:51,100 --> 00:06:51,600
+if you will.
+
+196
+00:06:51,600 --> 00:06:54,750
+But that wing is well after
+the cockpit for what reason?
+
+197
+00:06:59,115 --> 00:06:59,990
+AUDIENCE: Visibility.
+
+198
+00:06:59,990 --> 00:07:02,460
+RANDY GORDON: Visibility, yeah.
+
+199
+00:07:02,460 --> 00:07:04,030
+That's the big, huge reason why.
+
+200
+00:07:04,030 --> 00:07:07,740
+And then you also brought up
+the idea of the swept wings.
+
+201
+00:07:07,740 --> 00:07:12,330
+Why the swept wings compared
+to, say, straight wings?
+
+202
+00:07:12,330 --> 00:07:14,830
+AUDIENCE: Well, wouldn't they
+have an aerodynamic advantage?
+
+203
+00:07:14,830 --> 00:07:15,538
+RANDY GORDON: OK.
+
+204
+00:07:15,538 --> 00:07:17,790
+What's that advantage?
+
+205
+00:07:17,790 --> 00:07:20,876
+AUDIENCE: Something
+that [INAUDIBLE]
+
+206
+00:07:25,290 --> 00:07:26,740
+RANDY GORDON: Close.
+
+207
+00:07:26,740 --> 00:07:29,240
+I'll stop picking on you because
+you're bold and went first.
+
+208
+00:07:29,240 --> 00:07:29,740
+Go ahead.
+
+209
+00:07:29,740 --> 00:07:30,700
+AUDIENCE: Mach.
+
+210
+00:07:30,700 --> 00:07:31,140
+RANDY GORDON: Yeah, Mach.
+
+211
+00:07:31,140 --> 00:07:31,970
+So explain Mach.
+
+212
+00:07:33,835 --> 00:07:35,960
+AUDIENCE: The closer you
+get to the speed of sound,
+
+213
+00:07:35,960 --> 00:07:37,620
+the more compressibility
+is important.
+
+214
+00:07:37,620 --> 00:07:38,370
+RANDY GORDON: Yep.
+
+215
+00:07:38,370 --> 00:07:40,220
+AUDIENCE:
+Aerodynamically, the wing
+
+216
+00:07:40,220 --> 00:07:43,930
+really behaves like it's going
+at the speed normal to leading
+
+217
+00:07:43,930 --> 00:07:44,430
+edge.
+
+218
+00:07:44,430 --> 00:07:45,222
+RANDY GORDON: Yeah.
+
+219
+00:07:45,222 --> 00:07:47,780
+So you ever see those
+old, the first jet
+
+220
+00:07:47,780 --> 00:07:49,460
+airplanes that came out?
+
+221
+00:07:49,460 --> 00:07:51,350
+The wings on the
+jet airplanes had
+
+222
+00:07:51,350 --> 00:07:54,320
+wings that looked exactly like
+this, and that was a problem.
+
+223
+00:07:54,320 --> 00:07:56,570
+I'm going to do something I
+said I wouldn't try to do,
+
+224
+00:07:56,570 --> 00:07:57,487
+but I'll try to do it.
+
+225
+00:07:57,487 --> 00:07:59,340
+So here's your swept wing.
+
+226
+00:07:59,340 --> 00:08:02,950
+Here's the arrows that
+come over the wing.
+
+227
+00:08:02,950 --> 00:08:05,260
+And then what ends up
+happening is, really
+
+228
+00:08:05,260 --> 00:08:08,440
+what you care about is
+the air that's going over
+
+229
+00:08:08,440 --> 00:08:11,660
+top of the wing, that's normal
+to the chord line of the wing
+
+230
+00:08:11,660 --> 00:08:12,160
+itself.
+
+231
+00:08:12,160 --> 00:08:13,960
+You know what I mean
+when I say chord?
+
+232
+00:08:13,960 --> 00:08:15,230
+Just like this imaginary line.
+
+233
+00:08:15,230 --> 00:08:18,310
+So on a Hershey bar wing,
+all of that air hits the wing
+
+234
+00:08:18,310 --> 00:08:20,920
+and it goes directly over top
+of that chord line of the wing.
+
+235
+00:08:20,920 --> 00:08:23,260
+So like when we talked
+about over here,
+
+236
+00:08:23,260 --> 00:08:24,790
+the wings have camber.
+
+237
+00:08:24,790 --> 00:08:28,008
+So what happens to the air as
+it goes over top of any wing?
+
+238
+00:08:28,008 --> 00:08:30,300
+Doesn't matter if it's a
+fighter wing or whatever else.
+
+239
+00:08:30,300 --> 00:08:33,496
+But what happens to the velocity
+of the air as it goes over top?
+
+240
+00:08:33,496 --> 00:08:35,150
+It goes faster, right.
+
+241
+00:08:35,150 --> 00:08:37,640
+So if I'm already going
+fast and air hits my wing
+
+242
+00:08:37,640 --> 00:08:40,220
+and goes over top of
+my wing and goes faster
+
+243
+00:08:40,220 --> 00:08:42,169
+than the rest of
+the airplane, that's
+
+244
+00:08:42,169 --> 00:08:44,955
+going to cause a problem when
+you get to very high speeds
+
+245
+00:08:44,955 --> 00:08:47,330
+approaching Mach because what
+ends up happening is you'll
+
+246
+00:08:47,330 --> 00:08:49,257
+get a shockwave
+forming on that wing.
+
+247
+00:08:49,257 --> 00:08:51,590
+And the moment you get a
+shockwave form in there, that's
+
+248
+00:08:51,590 --> 00:08:54,710
+like a big brick
+wall to the wind
+
+249
+00:08:54,710 --> 00:08:56,690
+and that causes all
+types of drag downstream,
+
+250
+00:08:56,690 --> 00:08:58,800
+slows down the airplane,
+all types of things.
+
+251
+00:08:58,800 --> 00:09:00,920
+So what they found is
+I can sweep the wing.
+
+252
+00:09:00,920 --> 00:09:03,560
+When I sweep the
+wing, some of that air
+
+253
+00:09:03,560 --> 00:09:04,790
+is normal to the chord line.
+
+254
+00:09:04,790 --> 00:09:07,165
+So if this is the fuselage
+over here, and here's the wing
+
+255
+00:09:07,165 --> 00:09:09,420
+and it comes back over
+here, some of that air
+
+256
+00:09:09,420 --> 00:09:11,330
+is going to be that way,
+and some of that air
+
+257
+00:09:11,330 --> 00:09:15,020
+is going to actually go out
+and go span-wise, if you will,
+
+258
+00:09:15,020 --> 00:09:15,710
+like this.
+
+259
+00:09:15,710 --> 00:09:17,210
+So I'm trying to
+draw this correctly
+
+260
+00:09:17,210 --> 00:09:18,850
+to get the right angles.
+
+261
+00:09:18,850 --> 00:09:20,340
+But you get my point.
+
+262
+00:09:20,340 --> 00:09:22,688
+So some of that
+air goes span-wise.
+
+263
+00:09:22,688 --> 00:09:24,230
+Some of the reasons
+why you have wing
+
+264
+00:09:24,230 --> 00:09:26,410
+winglets, right, to prevent
+some of that drag that
+
+265
+00:09:26,410 --> 00:09:27,410
+happens at the winglets.
+
+266
+00:09:27,410 --> 00:09:28,610
+But then also what
+you're worried about
+
+267
+00:09:28,610 --> 00:09:30,680
+is rather than the full
+component of this wind,
+
+268
+00:09:30,680 --> 00:09:32,450
+you're only worried
+about the wind
+
+269
+00:09:32,450 --> 00:09:35,510
+that's normal to the flow of the
+way the chord line is set up.
+
+270
+00:09:35,510 --> 00:09:37,190
+So that's why they
+sweep the wings.
+
+271
+00:09:37,190 --> 00:09:37,690
+OK.
+
+272
+00:09:37,690 --> 00:09:38,420
+So what else?
+
+273
+00:09:38,420 --> 00:09:39,772
+Why does a Cessna look this way?
+
+274
+00:09:39,772 --> 00:09:40,980
+Why does this look like that?
+
+275
+00:09:40,980 --> 00:09:43,504
+Go ahead.
+
+276
+00:09:43,504 --> 00:09:44,532
+Yeah, go ahead, both.
+
+277
+00:09:44,532 --> 00:09:46,490
+AUDIENCE: Stealth and
+payload and [INAUDIBLE]..
+
+278
+00:09:46,490 --> 00:09:47,810
+RANDY GORDON: OK, so stealth.
+
+279
+00:09:47,810 --> 00:09:49,070
+Payload is an important thing.
+
+280
+00:09:49,070 --> 00:09:50,930
+Let's talk about the
+payload for a second.
+
+281
+00:09:50,930 --> 00:09:52,347
+Actually, we'll
+talk about stealth
+
+282
+00:09:52,347 --> 00:09:53,820
+since you brought it up.
+
+283
+00:09:53,820 --> 00:09:55,880
+So look at that
+plan form, and what
+
+284
+00:09:55,880 --> 00:09:59,642
+do you notice with
+regards to stealth?
+
+285
+00:09:59,642 --> 00:10:01,127
+AUDIENCE: It's all angles.
+
+286
+00:10:01,127 --> 00:10:02,460
+RANDY GORDON: All angles, right.
+
+287
+00:10:02,460 --> 00:10:05,207
+That angle, that
+angle, that angle.
+
+288
+00:10:05,207 --> 00:10:06,290
+AUDIENCE: No right angles.
+
+289
+00:10:06,290 --> 00:10:07,930
+RANDY GORDON: Yeah,
+no right angles.
+
+290
+00:10:07,930 --> 00:10:09,950
+So the reason is--
+
+291
+00:10:09,950 --> 00:10:14,880
+and I'll do my high
+tech pizza aid here.
+
+292
+00:10:14,880 --> 00:10:16,710
+So who's Double E in here?
+
+293
+00:10:16,710 --> 00:10:18,080
+Anyone Double E for MIT?
+
+294
+00:10:18,080 --> 00:10:18,930
+OK.
+
+295
+00:10:18,930 --> 00:10:22,920
+So if you're a beam of
+radar energy, you love this.
+
+296
+00:10:22,920 --> 00:10:26,160
+You love when you have a
+nice flat thing directly
+
+297
+00:10:26,160 --> 00:10:26,880
+that reflects.
+
+298
+00:10:26,880 --> 00:10:30,540
+All that radar energy you put
+at me goes right back at you.
+
+299
+00:10:30,540 --> 00:10:33,690
+Now what happens if
+I take that panel
+
+300
+00:10:33,690 --> 00:10:35,700
+and I go like this a little bit?
+
+301
+00:10:35,700 --> 00:10:37,253
+So yeah, there's not so much.
+
+302
+00:10:37,253 --> 00:10:38,670
+Now I'll really
+mess up your mind.
+
+303
+00:10:38,670 --> 00:10:40,770
+What happens if I do that?
+
+304
+00:10:40,770 --> 00:10:44,710
+And now you have to start
+dealing with angles and edges.
+
+305
+00:10:44,710 --> 00:10:49,920
+The Raptor is this constant
+fight between the Double E guys
+
+306
+00:10:49,920 --> 00:10:51,942
+and the aeronautical engineers.
+
+307
+00:10:51,942 --> 00:10:53,400
+When you make an
+airplane like this
+
+308
+00:10:53,400 --> 00:10:54,810
+and you make angles
+like this, and you
+
+309
+00:10:54,810 --> 00:10:56,820
+make it there's no right angles
+or whatever else like that,
+
+310
+00:10:56,820 --> 00:10:59,282
+you're exactly right, it
+greatly reduces the stealth.
+
+311
+00:10:59,282 --> 00:11:00,990
+Now, this is not Wonder
+Woman's airplane.
+
+312
+00:11:00,990 --> 00:11:02,615
+It's not like you
+just become invisible
+
+313
+00:11:02,615 --> 00:11:03,870
+and no one can see you.
+
+314
+00:11:03,870 --> 00:11:06,927
+But it's very, very
+hard to see on radar.
+
+315
+00:11:06,927 --> 00:11:08,760
+But there's a challenge
+in that because when
+
+316
+00:11:08,760 --> 00:11:11,730
+you make an airplane that looks
+like this, which the Double E
+
+317
+00:11:11,730 --> 00:11:14,730
+guys tend to like,
+the aeroengineer guys
+
+318
+00:11:14,730 --> 00:11:18,450
+tend to hate because it
+makes the airplane unstable.
+
+319
+00:11:18,450 --> 00:11:20,250
+So we'll talk about that.
+
+320
+00:11:20,250 --> 00:11:23,560
+This airplane, very, very
+stable, very, very stable.
+
+321
+00:11:23,560 --> 00:11:24,060
+OK.
+
+322
+00:11:24,060 --> 00:11:24,330
+What else?
+
+323
+00:11:24,330 --> 00:11:25,247
+A couple other things.
+
+324
+00:11:25,247 --> 00:11:27,820
+So why is the Raptor
+look this way?
+
+325
+00:11:27,820 --> 00:11:31,030
+Why does the Cessna
+look this way?
+
+326
+00:11:31,030 --> 00:11:32,010
+Go ahead.
+
+327
+00:11:32,010 --> 00:11:33,468
+AUDIENCE: I feel
+like the Cessna is
+
+328
+00:11:33,468 --> 00:11:36,650
+designed to be produced with
+cheap commodity materials.
+
+329
+00:11:36,650 --> 00:11:39,706
+The Raptor uses exotic metals.
+
+330
+00:11:39,706 --> 00:11:42,360
+RANDY GORDON: Yep, titanium,
+whole types of stuff, right.
+
+331
+00:11:42,360 --> 00:11:45,870
+So this is an airplane
+people buy commercially.
+
+332
+00:11:45,870 --> 00:11:48,090
+If you were Jeff
+Bezos, you would never
+
+333
+00:11:48,090 --> 00:11:52,050
+purchase this airplane
+because it is hyper expensive.
+
+334
+00:11:52,050 --> 00:11:54,840
+My jets were test
+jets, which means
+
+335
+00:11:54,840 --> 00:11:58,530
+they were very different, almost
+like hand-built custom F-22s.
+
+336
+00:11:58,530 --> 00:12:02,490
+Each one, $300 million
+to $400 million a piece.
+
+337
+00:12:02,490 --> 00:12:05,370
+Scary in terms of how
+much it actually costs.
+
+338
+00:12:05,370 --> 00:12:07,800
+The canopy on this thing,
+probably worth more than about
+
+339
+00:12:07,800 --> 00:12:10,672
+10 of these all put together.
+
+340
+00:12:10,672 --> 00:12:12,630
+The payload part-- you
+brought up payload, too.
+
+341
+00:12:12,630 --> 00:12:15,150
+So the other part about the
+stealth, if you can see here,
+
+342
+00:12:15,150 --> 00:12:16,470
+I've got doors.
+
+343
+00:12:16,470 --> 00:12:19,400
+So there's a big main weapon
+bay door, big 17-foot doors,
+
+344
+00:12:19,400 --> 00:12:19,900
+if you will.
+
+345
+00:12:19,900 --> 00:12:23,730
+And then there's doors on
+the side that come open here.
+
+346
+00:12:23,730 --> 00:12:25,550
+Unlike a Cessna,
+we talked about--
+
+347
+00:12:25,550 --> 00:12:26,300
+where did Tina go?
+
+348
+00:12:26,300 --> 00:12:27,240
+Oh, she disappeared.
+
+349
+00:12:27,240 --> 00:12:29,280
+The dropped object,
+dropping pumpkins.
+
+350
+00:12:29,280 --> 00:12:31,800
+My pumpkins are 1,000
+pounds, come off
+
+351
+00:12:31,800 --> 00:12:33,005
+the airplane just like that.
+
+352
+00:12:33,005 --> 00:12:35,130
+Different missiles and
+different bombs or whatever.
+
+353
+00:12:35,130 --> 00:12:36,672
+The center of gravity
+of the airplane
+
+354
+00:12:36,672 --> 00:12:38,730
+is right about
+where my finger is.
+
+355
+00:12:38,730 --> 00:12:41,490
+And so these weapons that are
+here, when I release them,
+
+356
+00:12:41,490 --> 00:12:44,220
+it's suddenly like dropping
+a car off the front end
+
+357
+00:12:44,220 --> 00:12:45,370
+of your airplane.
+
+358
+00:12:45,370 --> 00:12:47,730
+And so there's a huge
+center of gravity shift
+
+359
+00:12:47,730 --> 00:12:49,818
+that happens just like that.
+
+360
+00:12:49,818 --> 00:12:51,360
+And so the flight
+controls need to be
+
+361
+00:12:51,360 --> 00:12:53,283
+able to compensate for
+something like that.
+
+362
+00:12:53,283 --> 00:12:55,200
+Last piece I'll give you
+just for sake of time
+
+363
+00:12:55,200 --> 00:12:57,010
+is, what's the speed
+envelope, if you will,
+
+364
+00:12:57,010 --> 00:13:01,150
+that this airplane operates?
+
+365
+00:13:01,150 --> 00:13:02,114
+AUDIENCE: [INAUDIBLE]
+
+366
+00:13:02,114 --> 00:13:03,114
+RANDY GORDON: What's up?
+
+367
+00:13:03,114 --> 00:13:04,210
+AUDIENCE: [INAUDIBLE]
+
+368
+00:13:04,210 --> 00:13:05,540
+RANDY GORDON: Oh, I wish 200.
+
+369
+00:13:05,540 --> 00:13:06,590
+Man, I wish 200.
+
+370
+00:13:06,590 --> 00:13:10,960
+I would buy one right now if
+I could go 200 in this thing.
+
+371
+00:13:10,960 --> 00:13:12,170
+AUDIENCE: About 160.
+
+372
+00:13:12,170 --> 00:13:15,170
+RANDY GORDON: Yeah,
+on a good day.
+
+373
+00:13:15,170 --> 00:13:17,390
+You might get, if you get
+a really, really high end
+
+374
+00:13:17,390 --> 00:13:20,607
+general aviation
+airplane, 160 knots or so,
+
+375
+00:13:20,607 --> 00:13:21,440
+something like that.
+
+376
+00:13:21,440 --> 00:13:23,107
+You can get more than
+that, but then you
+
+377
+00:13:23,107 --> 00:13:25,310
+start getting into some
+real, like, Mercedes Benz
+
+378
+00:13:25,310 --> 00:13:27,590
+exotic class, general
+aviation planes that
+
+379
+00:13:27,590 --> 00:13:30,260
+are like the Cirrus
+that go beyond there.
+
+380
+00:13:30,260 --> 00:13:32,270
+In general, you're talking
+somewhere between 80
+
+381
+00:13:32,270 --> 00:13:37,340
+and about 140, 150 for most of
+them, or something like that.
+
+382
+00:13:37,340 --> 00:13:39,410
+Believe it or not, this
+airplane can actually
+
+383
+00:13:39,410 --> 00:13:42,950
+fly as slow as a
+Cessna, but it also
+
+384
+00:13:42,950 --> 00:13:46,040
+can fly two times
+the speed of sound.
+
+385
+00:13:46,040 --> 00:13:48,950
+And it does that pretty
+easily, believe it or not.
+
+386
+00:13:48,950 --> 00:13:51,585
+Also, this airplane,
+60 degrees of bank
+
+387
+00:13:51,585 --> 00:13:53,960
+starts to get really extreme,
+a little bit uncomfortable.
+
+388
+00:13:53,960 --> 00:13:56,690
+This airplane, fully
+aerobatic, doesn't care.
+
+389
+00:13:56,690 --> 00:13:57,545
+Pulls 9 g's.
+
+390
+00:13:57,545 --> 00:13:58,670
+You guys know what g's are?
+
+391
+00:13:58,670 --> 00:14:00,560
+The accelerations of gravity.
+
+392
+00:14:00,560 --> 00:14:04,610
+So my human head-- well, MIT
+heads weight about 20 pounds
+
+393
+00:14:04,610 --> 00:14:06,890
+or so, a little bit
+more than the norm.
+
+394
+00:14:06,890 --> 00:14:09,620
+So at 9 g's, everything on your
+body weighs nine times as much.
+
+395
+00:14:09,620 --> 00:14:11,930
+So that's 180 pounds.
+
+396
+00:14:11,930 --> 00:14:13,712
+Your neck has to be
+able to support that.
+
+397
+00:14:13,712 --> 00:14:15,170
+Imagine everything
+on this airplane
+
+398
+00:14:15,170 --> 00:14:16,760
+has to be stressed
+such that it can
+
+399
+00:14:16,760 --> 00:14:18,770
+tolerate that load and more.
+
+400
+00:14:18,770 --> 00:14:21,290
+Also, it can go
+negative g as well.
+
+401
+00:14:21,290 --> 00:14:22,850
+Altitude-wise, I
+think the highest
+
+402
+00:14:22,850 --> 00:14:26,930
+I've ever had a Cessna
+was about 14,000 feet.
+
+403
+00:14:26,930 --> 00:14:28,130
+And it was wheezing.
+
+404
+00:14:28,130 --> 00:14:30,800
+I mean, it was really, really
+hard for it to get up there.
+
+405
+00:14:30,800 --> 00:14:33,860
+This airplane goes 0 feet all
+the way up to about 60,000
+
+406
+00:14:33,860 --> 00:14:35,510
+to 65,000 feet.
+
+407
+00:14:35,510 --> 00:14:38,120
+So it flies twice as high
+of what you would see
+
+408
+00:14:38,120 --> 00:14:39,650
+on your commercial airliners.
+
+409
+00:14:39,650 --> 00:14:41,150
+What I'm trying
+to impress on you
+
+410
+00:14:41,150 --> 00:14:45,620
+is it's a huge flight envelope
+with a very different solution
+
+411
+00:14:45,620 --> 00:14:48,740
+set compared to what you
+might have on a Cessna.
+
+412
+00:14:48,740 --> 00:14:51,047
+The only other thing I
+would say with Raptor is--
+
+413
+00:14:51,047 --> 00:14:52,880
+and this was something
+that took me a while.
+
+414
+00:14:52,880 --> 00:14:55,760
+My first combat mission,
+I really understood this.
+
+415
+00:14:55,760 --> 00:14:58,730
+In a Cessna, if I have
+a problem, I can land
+
+416
+00:14:58,730 --> 00:15:00,260
+and most likely
+people will come out
+
+417
+00:15:00,260 --> 00:15:03,560
+to help me and call home and
+let everybody know I'm OK.
+
+418
+00:15:03,560 --> 00:15:06,740
+In bad guy land, if people
+are coming to get me,
+
+419
+00:15:06,740 --> 00:15:08,870
+they really are
+coming to get me.
+
+420
+00:15:08,870 --> 00:15:11,090
+So you're in very
+hostile territory
+
+421
+00:15:11,090 --> 00:15:13,640
+where you do not want to
+leave the airplane if you
+
+422
+00:15:13,640 --> 00:15:14,640
+can avoid it.
+
+423
+00:15:14,640 --> 00:15:17,660
+So there is a tremendous
+amount of redundancy that's
+
+424
+00:15:17,660 --> 00:15:19,340
+built into this airplane.
+
+425
+00:15:19,340 --> 00:15:21,120
+We'll talk more through
+that a little bit.
+
+426
+00:15:21,120 --> 00:15:24,770
+So anyway, you've essentially
+derived all of the challenges
+
+427
+00:15:24,770 --> 00:15:28,100
+that a flight control engineer
+would have to deal with.
+
+428
+00:15:28,100 --> 00:15:31,030
+Let's talk a little bit about--
+
+429
+00:15:31,030 --> 00:15:35,600
+I'll put this here just for
+sake of making it easy to rest.
+
+430
+00:15:35,600 --> 00:15:38,090
+This airplane has what's called
+reversible flight control
+
+431
+00:15:38,090 --> 00:15:38,590
+system.
+
+432
+00:15:38,590 --> 00:15:40,742
+What does that mean?
+
+433
+00:15:40,742 --> 00:15:41,950
+You guys talk about that yet?
+
+434
+00:15:41,950 --> 00:15:42,450
+Go ahead.
+
+435
+00:15:42,450 --> 00:15:45,240
+AUDIENCE: I think it's
+basically [INAUDIBLE] or when
+
+436
+00:15:45,240 --> 00:15:47,000
+you move [INAUDIBLE]
+
+437
+00:15:47,000 --> 00:15:47,750
+RANDY GORDON: Yep.
+
+438
+00:15:47,750 --> 00:15:49,000
+So not only when
+you move the stick.
+
+439
+00:15:49,000 --> 00:15:50,970
+What happens if you go outside
+the airplane, grab the aileron,
+
+440
+00:15:50,970 --> 00:15:51,600
+move that up and down?
+
+441
+00:15:51,600 --> 00:15:52,350
+What happens inside?
+
+442
+00:15:52,350 --> 00:15:52,650
+AUDIENCE: The stick--
+
+443
+00:15:52,650 --> 00:15:53,310
+RANDY GORDON: The
+stick moves, right.
+
+444
+00:15:53,310 --> 00:15:54,690
+So it's reversible.
+
+445
+00:15:54,690 --> 00:15:58,560
+I move the stick, and the flight
+control surfaces will deflect.
+
+446
+00:15:58,560 --> 00:16:00,143
+Or I move the flight
+control surfaces,
+
+447
+00:16:00,143 --> 00:16:01,268
+and the stick will deflect.
+
+448
+00:16:01,268 --> 00:16:03,600
+So they are directly connected
+with pulleys and cables
+
+449
+00:16:03,600 --> 00:16:05,935
+to one another.
+
+450
+00:16:05,935 --> 00:16:08,060
+For the guys who have flown,
+what does the airplane
+
+451
+00:16:08,060 --> 00:16:12,470
+feel like when you get to 100,
+120, 130, 140 miles an hour?
+
+452
+00:16:12,470 --> 00:16:15,703
+I mean, what does it feel
+like on the control surfaces?
+
+453
+00:16:15,703 --> 00:16:16,470
+AUDIENCE: Heavy.
+
+454
+00:16:16,470 --> 00:16:17,820
+RANDY GORDON: Yeah,
+so it gets heavy,
+
+455
+00:16:17,820 --> 00:16:18,860
+it gets real stick
+kind of heavy.
+
+456
+00:16:18,860 --> 00:16:21,350
+Same thing if you're slow,
+everything gets kind of sloppy,
+
+457
+00:16:21,350 --> 00:16:23,420
+if you will, because
+you are directly
+
+458
+00:16:23,420 --> 00:16:25,570
+feeling the air
+loads on the airplane
+
+459
+00:16:25,570 --> 00:16:27,800
+as transmitted to the stick.
+
+460
+00:16:27,800 --> 00:16:31,200
+In this airplane, these
+flight control surfaces,
+
+461
+00:16:31,200 --> 00:16:33,650
+this tail surface back
+here is about the size
+
+462
+00:16:33,650 --> 00:16:34,910
+of a lot of fighter wings.
+
+463
+00:16:34,910 --> 00:16:37,080
+It's huge.
+
+464
+00:16:37,080 --> 00:16:39,790
+And you can imagine at
+120, 130, the airplane
+
+465
+00:16:39,790 --> 00:16:41,450
+is really hard to really move.
+
+466
+00:16:41,450 --> 00:16:44,612
+Well, what happens if you're
+going 1,000 miles per hour?
+
+467
+00:16:44,612 --> 00:16:46,070
+You could be Arnold
+Schwarzenegger.
+
+468
+00:16:46,070 --> 00:16:49,860
+You do not have the strength to
+maneuver these controls around.
+
+469
+00:16:49,860 --> 00:16:53,780
+So this airplane has a very,
+very exotic hydraulic system
+
+470
+00:16:53,780 --> 00:16:56,060
+and a computer system and
+an electric system that
+
+471
+00:16:56,060 --> 00:16:57,758
+allows all that to operate.
+
+472
+00:16:57,758 --> 00:16:59,300
+From the hydraulics,
+I'm not kidding,
+
+473
+00:16:59,300 --> 00:17:04,220
+there's like 4,000 psi
+of hydraulic fluid that
+
+474
+00:17:04,220 --> 00:17:07,910
+moves this whole thing around,
+swings it back and forth.
+
+475
+00:17:07,910 --> 00:17:10,010
+From the electric
+standpoint, now, again, this
+
+476
+00:17:10,010 --> 00:17:13,069
+is a reversible flight
+control system, all manual.
+
+477
+00:17:13,069 --> 00:17:14,569
+The flight controls
+in this airplane
+
+478
+00:17:14,569 --> 00:17:18,440
+don't work unless the electrics
+are turned on to go do it.
+
+479
+00:17:18,440 --> 00:17:22,460
+So your flight controls
+are electrically
+
+480
+00:17:22,460 --> 00:17:24,530
+controlled--
+hydraulically powered
+
+481
+00:17:24,530 --> 00:17:25,790
+but electrically controlled.
+
+482
+00:17:25,790 --> 00:17:28,700
+Which is a little weird
+when you think about it
+
+483
+00:17:28,700 --> 00:17:31,160
+because now all of a
+sudden, electrical problems
+
+484
+00:17:31,160 --> 00:17:33,560
+in this airplane start
+impacting your ability
+
+485
+00:17:33,560 --> 00:17:37,280
+to fly the airplane, which
+gets a little bit strange.
+
+486
+00:17:37,280 --> 00:17:38,780
+You guys ever hear
+of a thing called
+
+487
+00:17:38,780 --> 00:17:40,310
+a permanent magnetic generator?
+
+488
+00:17:40,310 --> 00:17:41,740
+Do you know what that is?
+
+489
+00:17:41,740 --> 00:17:44,090
+A little bit of
+a technical term.
+
+490
+00:17:44,090 --> 00:17:44,735
+Who knows?
+
+491
+00:17:44,735 --> 00:17:45,360
+You know a lot.
+
+492
+00:17:45,360 --> 00:17:46,270
+Go ahead.
+
+493
+00:17:46,270 --> 00:17:48,295
+AUDIENCE: Is it a
+type of generator that
+
+494
+00:17:48,295 --> 00:17:49,597
+uses permanent magnetic energy?
+
+495
+00:17:49,597 --> 00:17:50,680
+RANDY GORDON: Outstanding!
+
+496
+00:17:50,680 --> 00:17:52,900
+Yes, you have correctly
+derived the definition
+
+497
+00:17:52,900 --> 00:17:54,640
+of a permanent
+magnetic generator.
+
+498
+00:17:54,640 --> 00:17:55,390
+No.
+
+499
+00:17:55,390 --> 00:17:58,630
+The way it works
+is this airplane
+
+500
+00:17:58,630 --> 00:18:00,610
+has six permanent
+magnetic generators.
+
+501
+00:18:00,610 --> 00:18:03,760
+They are the primary source
+of flight control power.
+
+502
+00:18:03,760 --> 00:18:06,740
+All that has to happen is
+the engines have to rotate.
+
+503
+00:18:06,740 --> 00:18:07,348
+That's it.
+
+504
+00:18:07,348 --> 00:18:08,890
+So even if the
+engines are shut down,
+
+505
+00:18:08,890 --> 00:18:10,810
+I can just keep wind
+going through the engines
+
+506
+00:18:10,810 --> 00:18:12,190
+and they rotate,
+they will rotate
+
+507
+00:18:12,190 --> 00:18:15,040
+sufficient to generate power
+from the permanent magnetic
+
+508
+00:18:15,040 --> 00:18:15,940
+generators.
+
+509
+00:18:15,940 --> 00:18:19,220
+If those fail, the airplane
+also has electrical generators
+
+510
+00:18:19,220 --> 00:18:19,720
+on board.
+
+511
+00:18:19,720 --> 00:18:20,710
+There's two of them--
+there's actually
+
+512
+00:18:20,710 --> 00:18:21,668
+three of them on board.
+
+513
+00:18:21,668 --> 00:18:24,050
+They can power the
+flight controls as well.
+
+514
+00:18:24,050 --> 00:18:27,520
+Worst case scenario for a Raptor
+pilot, the engines seize up,
+
+515
+00:18:27,520 --> 00:18:28,880
+I lose my electrical power.
+
+516
+00:18:28,880 --> 00:18:30,678
+The only thing I have
+left is a battery.
+
+517
+00:18:30,678 --> 00:18:32,470
+And just like anything
+else with a battery,
+
+518
+00:18:32,470 --> 00:18:34,220
+the more you use it,
+the more it depletes.
+
+519
+00:18:34,220 --> 00:18:36,910
+So at that point, any deflection
+of the flight control surfaces
+
+520
+00:18:36,910 --> 00:18:39,490
+depletes the electrical energy
+and you don't have that much
+
+521
+00:18:39,490 --> 00:18:41,470
+left to actually control it.
+
+522
+00:18:41,470 --> 00:18:42,040
+OK.
+
+523
+00:18:42,040 --> 00:18:44,373
+One last thing here and we'll
+move on to the next slide.
+
+524
+00:18:44,373 --> 00:18:47,048
+We'll talk a little bit--
+just some definitions.
+
+525
+00:18:47,048 --> 00:18:48,590
+The wing has this
+thing on the front.
+
+526
+00:18:48,590 --> 00:18:50,112
+Do you know what that's called?
+
+527
+00:18:50,112 --> 00:18:51,070
+AUDIENCE: Leading edge.
+
+528
+00:18:51,070 --> 00:18:52,150
+RANDY GORDON: Leading
+edge flaps, right.
+
+529
+00:18:52,150 --> 00:18:52,780
+OK, perfect.
+
+530
+00:18:52,780 --> 00:18:53,710
+All right.
+
+531
+00:18:53,710 --> 00:18:54,726
+What's that called?
+
+532
+00:18:54,726 --> 00:18:55,620
+AUDIENCE: Ailerons.
+
+533
+00:18:55,620 --> 00:18:57,993
+RANDY GORDON: Ailerons.
+
+534
+00:18:57,993 --> 00:18:58,660
+What did I hear?
+
+535
+00:18:58,660 --> 00:18:59,680
+I heard something else.
+
+536
+00:18:59,680 --> 00:19:00,580
+AUDIENCE: Flaperon.
+
+537
+00:19:00,580 --> 00:19:01,288
+RANDY GORDON: Ah.
+
+538
+00:19:01,288 --> 00:19:02,570
+Who said that?
+
+539
+00:19:02,570 --> 00:19:03,070
+OK.
+
+540
+00:19:03,070 --> 00:19:04,254
+Explain.
+
+541
+00:19:04,254 --> 00:19:07,896
+AUDIENCE: It's a combination
+of both flap and aileron.
+
+542
+00:19:07,896 --> 00:19:10,940
+Flaps are on the outside,
+ailerons are on the inside.
+
+543
+00:19:10,940 --> 00:19:12,098
+And-- no.
+
+544
+00:19:12,098 --> 00:19:13,140
+Did I get that backwards?
+
+545
+00:19:13,140 --> 00:19:14,230
+RANDY GORDON: Yep,
+other way around.
+
+546
+00:19:14,230 --> 00:19:15,355
+AUDIENCE: Other way around.
+
+547
+00:19:15,355 --> 00:19:18,130
+And depending on which
+[INAUDIBLE] of flight you're
+
+548
+00:19:18,130 --> 00:19:21,100
+in, you either have full use
+of those control surfaces
+
+549
+00:19:21,100 --> 00:19:23,470
+or part of it is dedicated
+to the flap and part of it
+
+550
+00:19:23,470 --> 00:19:25,450
+is dedicated to
+being the aileron.
+
+551
+00:19:25,450 --> 00:19:27,040
+RANDY GORDON: Yeah.
+
+552
+00:19:27,040 --> 00:19:27,540
+Outstanding.
+
+553
+00:19:27,540 --> 00:19:28,510
+That's good.
+
+554
+00:19:28,510 --> 00:19:30,700
+And this airplane--
+this airplane has what?
+
+555
+00:19:30,700 --> 00:19:32,020
+Ailerons, right.
+
+556
+00:19:32,020 --> 00:19:34,750
+So if I want to go right
+and I move the yoke right,
+
+557
+00:19:34,750 --> 00:19:37,693
+what happens to the ailerons
+here in this airplane?
+
+558
+00:19:37,693 --> 00:19:38,860
+Sorry, I'll put it that way.
+
+559
+00:19:38,860 --> 00:19:40,027
+That way, you're setting up.
+
+560
+00:19:40,027 --> 00:19:40,970
+So I'm going this way.
+
+561
+00:19:40,970 --> 00:19:42,610
+So this aileron is doing what?
+
+562
+00:19:42,610 --> 00:19:43,360
+AUDIENCE: It's going that way.
+
+563
+00:19:43,360 --> 00:19:44,140
+RANDY GORDON: Going
+that way, right.
+
+564
+00:19:44,140 --> 00:19:45,280
+This aileron is doing what?
+
+565
+00:19:45,280 --> 00:19:45,850
+AUDIENCE: Up.
+
+566
+00:19:45,850 --> 00:19:48,490
+RANDY GORDON: Up, right.
+
+567
+00:19:48,490 --> 00:19:50,170
+So I'll cut to the chase.
+
+568
+00:19:50,170 --> 00:19:52,270
+These are ailerons, these are--
+
+569
+00:19:52,270 --> 00:19:54,530
+so these are the flaperons
+here on the inside.
+
+570
+00:19:54,530 --> 00:19:56,830
+These are the ailerons.
+
+571
+00:19:56,830 --> 00:20:00,560
+In a Raptor, those aileron
+deflect differentially.
+
+572
+00:20:00,560 --> 00:20:02,140
+So just like you
+have in a Cessna,
+
+573
+00:20:02,140 --> 00:20:04,750
+they can also both
+deflect up, they
+
+574
+00:20:04,750 --> 00:20:07,300
+can also both deflect down.
+
+575
+00:20:07,300 --> 00:20:11,500
+The flaps on the inboard are
+flaps and ailerons-- flaperons.
+
+576
+00:20:11,500 --> 00:20:14,560
+So they can deflect up
+and they can deflect down.
+
+577
+00:20:14,560 --> 00:20:17,090
+We'll show why that
+brings up some neat stuff.
+
+578
+00:20:17,090 --> 00:20:17,860
+OK.
+
+579
+00:20:17,860 --> 00:20:20,680
+Rudder, obviously back here.
+
+580
+00:20:20,680 --> 00:20:23,170
+In this airplane, when
+I push the rudder left,
+
+581
+00:20:23,170 --> 00:20:25,690
+the rudder deflects
+left, I deflect right.
+
+582
+00:20:25,690 --> 00:20:27,430
+This has two rudders.
+
+583
+00:20:27,430 --> 00:20:29,050
+Both rudders can
+deflect one way,
+
+584
+00:20:29,050 --> 00:20:30,370
+they can deflect the other way.
+
+585
+00:20:30,370 --> 00:20:32,770
+They can both deflect in,
+and there's some reasons
+
+586
+00:20:32,770 --> 00:20:34,060
+why you'd want to do that.
+
+587
+00:20:34,060 --> 00:20:37,240
+And they can both deflect out.
+
+588
+00:20:37,240 --> 00:20:39,800
+The last piece I'll
+give you is back here,
+
+589
+00:20:39,800 --> 00:20:41,590
+normally this would
+be called an elevator,
+
+590
+00:20:41,590 --> 00:20:43,540
+but on a supersonic
+airplane we call
+
+591
+00:20:43,540 --> 00:20:46,170
+these horizontal stabilizers.
+
+592
+00:20:46,170 --> 00:20:48,880
+If you guys have read the
+story of the Bell X-1,
+
+593
+00:20:48,880 --> 00:20:51,313
+so Chuck Yeager when
+he went supersonic--
+
+594
+00:20:51,313 --> 00:20:53,730
+we talked a little bit earlier
+about supersonic shockwaves
+
+595
+00:20:53,730 --> 00:20:56,500
+forming on the airplane
+as you start going fast.
+
+596
+00:20:56,500 --> 00:20:59,200
+What Chuck Yeager discovered
+is that the elevator,
+
+597
+00:20:59,200 --> 00:21:03,280
+like in a traditional Cessna,
+that horizontal stabilizer
+
+598
+00:21:03,280 --> 00:21:04,480
+does not move.
+
+599
+00:21:04,480 --> 00:21:06,970
+So the elevator
+at the back moves,
+
+600
+00:21:06,970 --> 00:21:10,050
+but this part stays fixed.
+
+601
+00:21:10,050 --> 00:21:12,550
+That shockwave that
+would form right here
+
+602
+00:21:12,550 --> 00:21:15,940
+would actually blank the
+air back to the elevator,
+
+603
+00:21:15,940 --> 00:21:17,648
+and they wouldn't have
+any pitch control.
+
+604
+00:21:17,648 --> 00:21:19,815
+So when they talk about
+this thing called Mach tuck,
+
+605
+00:21:19,815 --> 00:21:21,340
+which was a scary,
+scary thing that
+
+606
+00:21:21,340 --> 00:21:23,980
+happened to a lot of World
+War II fighter pilots when
+
+607
+00:21:23,980 --> 00:21:25,503
+they got into a dive--
+
+608
+00:21:25,503 --> 00:21:27,670
+they would start forming
+shockwaves on the airplane.
+
+609
+00:21:27,670 --> 00:21:29,920
+They didn't have the elevator
+authority to pull up,
+
+610
+00:21:29,920 --> 00:21:31,810
+and so they would actually
+nose dive all the way in
+
+611
+00:21:31,810 --> 00:21:34,227
+because they go faster and
+faster and faster heading down.
+
+612
+00:21:34,227 --> 00:21:37,180
+The answer was rather
+than the back end
+
+613
+00:21:37,180 --> 00:21:41,170
+of this thing maneuvering,
+the entire surface moves.
+
+614
+00:21:41,170 --> 00:21:43,005
+So as a fighter
+pilot, especially
+
+615
+00:21:43,005 --> 00:21:45,130
+when you got people walking
+underneath the airplane
+
+616
+00:21:45,130 --> 00:21:47,500
+because they're maintainers,
+they're working on things,
+
+617
+00:21:47,500 --> 00:21:49,880
+you always, always, always,
+you show them your hands.
+
+618
+00:21:49,880 --> 00:21:51,993
+Because if you tap
+that stick, again,
+
+619
+00:21:51,993 --> 00:21:54,160
+the stick is not directly
+connected just like it is,
+
+620
+00:21:54,160 --> 00:21:55,797
+the stick's connected
+to a computer.
+
+621
+00:21:55,797 --> 00:21:57,880
+The computer votes and it
+allows things to happen.
+
+622
+00:21:57,880 --> 00:22:01,333
+It then commands a 4,000
+hydraulic psi system to deflect
+
+623
+00:22:01,333 --> 00:22:02,500
+basically this big old wing.
+
+624
+00:22:02,500 --> 00:22:04,495
+You can actually
+take a guy's head off
+
+625
+00:22:04,495 --> 00:22:05,870
+with the flight
+control surfaces.
+
+626
+00:22:05,870 --> 00:22:07,270
+So you always, always
+show your hands
+
+627
+00:22:07,270 --> 00:22:09,603
+whenever you have people
+walking underneath the airplane
+
+628
+00:22:09,603 --> 00:22:10,360
+for that.
+
+629
+00:22:10,360 --> 00:22:12,880
+So it's got a very, very
+advanced flight control
+
+630
+00:22:12,880 --> 00:22:13,690
+system on board.
+
+631
+00:22:13,690 --> 00:22:15,440
+We'll talk through a
+little bit about what
+
+632
+00:22:15,440 --> 00:22:17,336
+advantages that gives you.
+
+633
+00:22:17,336 --> 00:22:20,230
+The last piece I'll
+give you is the engines
+
+634
+00:22:20,230 --> 00:22:23,590
+at the back, which
+are a thing of beauty.
+
+635
+00:22:23,590 --> 00:22:25,270
+I was a propulsion
+guy, aeronautics
+
+636
+00:22:25,270 --> 00:22:27,590
+engineer kind of thing.
+
+637
+00:22:27,590 --> 00:22:30,250
+It's almost like modern
+art masterpiece to me.
+
+638
+00:22:30,250 --> 00:22:33,160
+Those engines have
+the ability to call
+
+639
+00:22:33,160 --> 00:22:34,690
+what's called thrust vectoring.
+
+640
+00:22:34,690 --> 00:22:37,690
+They'll swing up and
+they'll swing down.
+
+641
+00:22:37,690 --> 00:22:39,620
+Where would you
+want to use that?
+
+642
+00:22:39,620 --> 00:22:42,520
+Why do the engines
+have thrust vectoring?
+
+643
+00:22:42,520 --> 00:22:44,020
+You've answered a lot today.
+
+644
+00:22:44,020 --> 00:22:44,470
+You're smart, though.
+
+645
+00:22:44,470 --> 00:22:45,512
+You know what's going on.
+
+646
+00:22:45,512 --> 00:22:46,360
+Go ahead.
+
+647
+00:22:46,360 --> 00:22:47,560
+AUDIENCE: Very low speeds.
+
+648
+00:22:47,560 --> 00:22:48,200
+RANDY GORDON: Very low speeds.
+
+649
+00:22:48,200 --> 00:22:49,250
+Outstanding, yep.
+
+650
+00:22:49,250 --> 00:22:50,770
+Where's another regime?
+
+651
+00:22:50,770 --> 00:22:54,072
+Think of the flight
+envelope of the airplane.
+
+652
+00:22:54,072 --> 00:22:55,530
+AUDIENCE: Yeah,
+very high altitude.
+
+653
+00:22:55,530 --> 00:22:56,905
+RANDY GORDON: Very
+high altitude.
+
+654
+00:22:56,905 --> 00:22:59,285
+So why high altitudes?
+
+655
+00:22:59,285 --> 00:23:01,452
+AUDIENCE: A little lift
+from the wings, or the wings
+
+656
+00:23:01,452 --> 00:23:02,638
+could be small so--
+
+657
+00:23:02,638 --> 00:23:03,680
+RANDY GORDON: Yeah, yeah.
+
+658
+00:23:03,680 --> 00:23:06,530
+Density goes way down as
+you go up in altitude.
+
+659
+00:23:06,530 --> 00:23:07,460
+So if I deflect--
+
+660
+00:23:07,460 --> 00:23:09,110
+I mean, I have to
+get more deflection
+
+661
+00:23:09,110 --> 00:23:12,110
+to move that air to be able
+to move the airplane if I'm
+
+662
+00:23:12,110 --> 00:23:14,690
+relying just on the
+aerosurfaces alone.
+
+663
+00:23:14,690 --> 00:23:18,590
+The way I get around that is
+I put two 35,000 thrust pound
+
+664
+00:23:18,590 --> 00:23:20,900
+engines, if you will,
+on board the airplane.
+
+665
+00:23:20,900 --> 00:23:23,660
+And just like a fire hose, if I
+grab a fire hose and I move it,
+
+666
+00:23:23,660 --> 00:23:26,330
+you would feel that torque
+on your body, the same thing
+
+667
+00:23:26,330 --> 00:23:29,570
+here with the thrust
+vectoring on the back.
+
+668
+00:23:29,570 --> 00:23:31,490
+So with just the
+movement of my hand,
+
+669
+00:23:31,490 --> 00:23:34,537
+I can deflect 70,000
+pounds of thrust way
+
+670
+00:23:34,537 --> 00:23:35,870
+at the back end of the airplane.
+
+671
+00:23:35,870 --> 00:23:39,500
+So we talked about center of
+gravity being right about here.
+
+672
+00:23:39,500 --> 00:23:41,593
+So that moment arm
+of that thrust force
+
+673
+00:23:41,593 --> 00:23:43,760
+is all the way back here,
+and I can deflect that up.
+
+674
+00:23:43,760 --> 00:23:46,940
+And at very, very low speeds,
+where the flight control
+
+675
+00:23:46,940 --> 00:23:48,860
+surfaces might
+not be doing well,
+
+676
+00:23:48,860 --> 00:23:52,970
+I can still move the airplane
+just by using the thrust alone.
+
+677
+00:23:52,970 --> 00:23:54,500
+At high altitude,
+where I don't have
+
+678
+00:23:54,500 --> 00:23:57,200
+a lot of density, same thing,
+I can maneuver the airplane
+
+679
+00:23:57,200 --> 00:23:59,770
+just by using the thrust alone.
+
+680
+00:23:59,770 --> 00:24:01,010
+So where that helps you--
+
+681
+00:24:01,010 --> 00:24:03,262
+because, again, this
+is a dog fighter.
+
+682
+00:24:03,262 --> 00:24:05,720
+Here's what happens, and you'll
+see this from time to time.
+
+683
+00:24:05,720 --> 00:24:07,760
+So I'll do this
+with a side look.
+
+684
+00:24:07,760 --> 00:24:09,410
+When I get to high
+angle of attack,
+
+685
+00:24:09,410 --> 00:24:11,750
+so the wind is coming
+like this and it's
+
+686
+00:24:11,750 --> 00:24:14,788
+hitting the bottom
+surface of the airplane,
+
+687
+00:24:14,788 --> 00:24:16,580
+I don't have the ability
+to really maneuver
+
+688
+00:24:16,580 --> 00:24:19,880
+a lot because sometimes some
+aerosurfaces are blanked
+
+689
+00:24:19,880 --> 00:24:22,460
+by just the size of
+that fuselage coming
+
+690
+00:24:22,460 --> 00:24:23,630
+right out into the wing.
+
+691
+00:24:23,630 --> 00:24:26,540
+So I cheat, if you will,
+by using the engines to get
+
+692
+00:24:26,540 --> 00:24:28,220
+that final little pitch rate.
+
+693
+00:24:28,220 --> 00:24:30,350
+We'll see later on in
+the Raptor demo video
+
+694
+00:24:30,350 --> 00:24:31,700
+where the airplane will go--
+
+695
+00:24:31,700 --> 00:24:34,890
+it's called a high alpha loop,
+high angle of attack loop.
+
+696
+00:24:34,890 --> 00:24:38,090
+It'll go vertical-- rather
+than doing a loop where
+
+697
+00:24:38,090 --> 00:24:41,000
+you see it prescribed
+this whole path over here,
+
+698
+00:24:41,000 --> 00:24:42,290
+the airplane will go vertical.
+
+699
+00:24:42,290 --> 00:24:44,713
+I'll engage the thrust
+vectoring, and it'll pivot.
+
+700
+00:24:44,713 --> 00:24:46,880
+So the velocity vector is
+still heading straight up,
+
+701
+00:24:46,880 --> 00:24:48,530
+so the airplane is
+still moving up.
+
+702
+00:24:48,530 --> 00:24:51,170
+But it kind of does
+this gymnastics thing
+
+703
+00:24:51,170 --> 00:24:53,128
+where I've now turned
+the airplane using thrust
+
+704
+00:24:53,128 --> 00:24:54,962
+vectoring, even though
+the airplane is still
+
+705
+00:24:54,962 --> 00:24:55,870
+heading straight up.
+
+706
+00:24:55,870 --> 00:24:57,400
+It's wacky.
+
+707
+00:24:57,400 --> 00:24:58,280
+It's totally cool.
+
+708
+00:25:01,790 --> 00:25:02,290
+All right.
+
+709
+00:25:02,290 --> 00:25:04,260
+Let's talk through a
+couple other things.
+
+710
+00:25:04,260 --> 00:25:04,760
+OK.
+
+711
+00:25:04,760 --> 00:25:05,970
+So that's the flight controls.
+
+712
+00:25:05,970 --> 00:25:06,850
+How we do in timeline?
+
+713
+00:25:06,850 --> 00:25:07,030
+OK.
+
+714
+00:25:07,030 --> 00:25:08,113
+We're looking pretty good.
+
+715
+00:25:10,480 --> 00:25:15,465
+Anyone recognize the
+cockpit on your left?
+
+716
+00:25:15,465 --> 00:25:16,090
+AUDIENCE: F-15.
+
+717
+00:25:16,090 --> 00:25:17,200
+RANDY GORDON: F-15, yeah.
+
+718
+00:25:17,200 --> 00:25:17,890
+Outstanding.
+
+719
+00:25:17,890 --> 00:25:18,850
+Good.
+
+720
+00:25:18,850 --> 00:25:20,680
+This was my very first airplane.
+
+721
+00:25:20,680 --> 00:25:21,850
+I didn't know any better.
+
+722
+00:25:21,850 --> 00:25:23,923
+I sat down I said, wow,
+what a cool cockpit.
+
+723
+00:25:23,923 --> 00:25:25,090
+Look at all this cool stuff.
+
+724
+00:25:25,090 --> 00:25:28,640
+Buttons everywhere and
+switches all over the place.
+
+725
+00:25:28,640 --> 00:25:32,920
+This is an airplane of the '70s,
+designed when Richard Nixon,
+
+726
+00:25:32,920 --> 00:25:36,460
+Jimmy Carter, that kind
+of era, if you will--
+
+727
+00:25:36,460 --> 00:25:40,030
+very, very first intro to
+solid state electronics.
+
+728
+00:25:40,030 --> 00:25:42,700
+Really wasn't fully
+fleshed out at this stage.
+
+729
+00:25:42,700 --> 00:25:44,898
+This airplane had a
+hydro mechanical system,
+
+730
+00:25:44,898 --> 00:25:46,690
+which meant that just
+like in this airplane
+
+731
+00:25:46,690 --> 00:25:49,420
+where there were cables
+and pulleys, a similar kind
+
+732
+00:25:49,420 --> 00:25:52,260
+of flight control
+system in it there.
+
+733
+00:25:52,260 --> 00:25:55,720
+This picture is the Raptor's
+cockpit on the inside.
+
+734
+00:25:55,720 --> 00:25:57,952
+Some pretty dramatic
+differences between the two.
+
+735
+00:25:57,952 --> 00:25:59,160
+So again, just call them out.
+
+736
+00:25:59,160 --> 00:26:01,264
+What do you see?
+
+737
+00:26:01,264 --> 00:26:02,460
+AUDIENCE: Glass cockpit.
+
+738
+00:26:02,460 --> 00:26:03,180
+RANDY GORDON: Glass cockpit.
+
+739
+00:26:03,180 --> 00:26:04,222
+Where does that help you?
+
+740
+00:26:06,618 --> 00:26:09,242
+AUDIENCE: I say the
+glass is cooler.
+
+741
+00:26:09,242 --> 00:26:10,200
+RANDY GORDON: Go ahead.
+
+742
+00:26:10,200 --> 00:26:11,330
+AUDIENCE: It can be display.
+
+743
+00:26:11,330 --> 00:26:12,200
+RANDY GORDON: What's up?
+
+744
+00:26:12,200 --> 00:26:13,010
+AUDIENCE: It can
+be multi-display.
+
+745
+00:26:13,010 --> 00:26:14,002
+You can change it to--
+
+746
+00:26:14,002 --> 00:26:14,960
+RANDY GORDON: Oh, yeah.
+
+747
+00:26:14,960 --> 00:26:15,710
+It's great.
+
+748
+00:26:15,710 --> 00:26:18,380
+You can see these new
+digital cockpit Mercedes Benz
+
+749
+00:26:18,380 --> 00:26:20,690
+and BMWs or whatever,
+where in the old days
+
+750
+00:26:20,690 --> 00:26:22,790
+you just had speed
+and tack, if you will.
+
+751
+00:26:22,790 --> 00:26:25,610
+Now you can configure
+it however you want.
+
+752
+00:26:25,610 --> 00:26:29,530
+Now, the moment you start
+putting that in there--
+
+753
+00:26:29,530 --> 00:26:30,470
+no, got it.
+
+754
+00:26:30,470 --> 00:26:32,053
+Yeah, the moment you
+start doing stuff
+
+755
+00:26:32,053 --> 00:26:35,410
+like that, you start creating
+a software airplane, which
+
+756
+00:26:35,410 --> 00:26:37,600
+gives you a lot of
+flexibility and a danger.
+
+757
+00:26:37,600 --> 00:26:39,600
+We'll talk about that one
+a little bit later on.
+
+758
+00:26:39,600 --> 00:26:44,540
+What else do you see
+flight controls-wise
+
+759
+00:26:44,540 --> 00:26:46,965
+since we're talking mainly
+about flight controls today?
+
+760
+00:26:46,965 --> 00:26:47,840
+AUDIENCE: Side stick.
+
+761
+00:26:47,840 --> 00:26:49,570
+RANDY GORDON: Side stick, yeah.
+
+762
+00:26:49,570 --> 00:26:56,110
+So right there is the
+control stick in an F-15.
+
+763
+00:26:56,110 --> 00:26:58,330
+Sits directly
+between your knees.
+
+764
+00:26:58,330 --> 00:27:02,390
+In a Raptor, that is
+your control stick.
+
+765
+00:27:02,390 --> 00:27:04,000
+It's on the side.
+
+766
+00:27:04,000 --> 00:27:05,703
+Why would you ever
+want to put something
+
+767
+00:27:05,703 --> 00:27:06,620
+like that on the side?
+
+768
+00:27:06,620 --> 00:27:07,120
+Go ahead.
+
+769
+00:27:07,120 --> 00:27:08,607
+AUDIENCE: [INAUDIBLE]
+
+770
+00:27:08,607 --> 00:27:09,940
+RANDY GORDON: That's part of it.
+
+771
+00:27:09,940 --> 00:27:10,440
+That helps.
+
+772
+00:27:10,440 --> 00:27:12,107
+And there's actually--
+you can't see it.
+
+773
+00:27:12,107 --> 00:27:14,530
+Here it's partly there, but
+this little section here, it's
+
+774
+00:27:14,530 --> 00:27:16,150
+a foldout armrest.
+
+775
+00:27:16,150 --> 00:27:18,310
+So your wrist is on the stick.
+
+776
+00:27:18,310 --> 00:27:21,040
+Your elbow, if you will,
+it's resting on an arm rest.
+
+777
+00:27:21,040 --> 00:27:23,110
+So it gives you a lot
+of leverage from there.
+
+778
+00:27:23,110 --> 00:27:23,890
+That's one reason.
+
+779
+00:27:23,890 --> 00:27:25,390
+What's a couple
+other reasons why
+
+780
+00:27:25,390 --> 00:27:27,580
+you'd want to go side
+stick versus center stick?
+
+781
+00:27:27,580 --> 00:27:28,960
+AUDIENCE: Your legs get in
+the way on the center stick.
+
+782
+00:27:28,960 --> 00:27:30,377
+RANDY GORDON: Legs
+get in the way.
+
+783
+00:27:30,377 --> 00:27:33,700
+That's a big deal
+because in this airplane,
+
+784
+00:27:33,700 --> 00:27:35,950
+you actually got pretty good
+after while of flying it,
+
+785
+00:27:35,950 --> 00:27:37,500
+where if you really need
+to maneuver the stick,
+
+786
+00:27:37,500 --> 00:27:39,340
+you kind of do the leg
+up and kind of move
+
+787
+00:27:39,340 --> 00:27:41,470
+over that way to get
+everything out of the way.
+
+788
+00:27:41,470 --> 00:27:44,095
+The other side about it, too, it
+might not be quite so obvious,
+
+789
+00:27:44,095 --> 00:27:45,310
+but you see how that stick--
+
+790
+00:27:45,310 --> 00:27:47,332
+that's about where your
+eye height would be.
+
+791
+00:27:47,332 --> 00:27:48,790
+You see how that
+stick kind of gets
+
+792
+00:27:48,790 --> 00:27:51,730
+in the way of seeing
+some of the instruments?
+
+793
+00:27:51,730 --> 00:27:53,040
+It's just sitting right there.
+
+794
+00:27:53,040 --> 00:27:55,900
+In a side stick, that's
+completely off to the side
+
+795
+00:27:55,900 --> 00:27:59,590
+and all of this real
+estate is completely open.
+
+796
+00:27:59,590 --> 00:28:02,680
+The other thing I'll give you,
+again, just for sake of time,
+
+797
+00:28:02,680 --> 00:28:05,590
+it's a little bit
+of a thought change.
+
+798
+00:28:05,590 --> 00:28:10,160
+When you have a
+center stick, it's
+
+799
+00:28:10,160 --> 00:28:12,000
+like when you're driving a car.
+
+800
+00:28:12,000 --> 00:28:14,312
+And when you're parking--
+
+801
+00:28:14,312 --> 00:28:15,770
+you're trying to
+park your car, you
+
+802
+00:28:15,770 --> 00:28:19,363
+want to be able to maneuver
+that wheel around a lot.
+
+803
+00:28:19,363 --> 00:28:20,780
+But when you're
+at highway speeds,
+
+804
+00:28:20,780 --> 00:28:22,655
+if you were to take the
+wheel and maneuver it
+
+805
+00:28:22,655 --> 00:28:25,280
+that much again, you're
+going to roll the car.
+
+806
+00:28:25,280 --> 00:28:30,950
+So in a center stick,
+you move the stick around
+
+807
+00:28:30,950 --> 00:28:33,210
+to be able to deflect the
+flight control surfaces.
+
+808
+00:28:33,210 --> 00:28:35,210
+There's a physical
+displacement of the stick
+
+809
+00:28:35,210 --> 00:28:36,500
+to make that happen.
+
+810
+00:28:36,500 --> 00:28:39,830
+On a side stick, that stick,
+initially when they first
+
+811
+00:28:39,830 --> 00:28:43,220
+put it in, did not move at all.
+
+812
+00:28:43,220 --> 00:28:45,990
+So imagine if you were in your
+car and you wanted to steer,
+
+813
+00:28:45,990 --> 00:28:47,930
+and rather than the
+wheel actually moving,
+
+814
+00:28:47,930 --> 00:28:50,270
+you just put pressure
+on the wheel itself
+
+815
+00:28:50,270 --> 00:28:53,120
+and that was enough to transmit
+to the computer in the car
+
+816
+00:28:53,120 --> 00:28:54,860
+to turn the wheels.
+
+817
+00:28:54,860 --> 00:28:58,312
+That was a problem initially,
+which we can talk about
+
+818
+00:28:58,312 --> 00:28:59,270
+after the presentation.
+
+819
+00:28:59,270 --> 00:29:01,130
+That's a little bit of
+a sidebar discussion.
+
+820
+00:29:01,130 --> 00:29:03,020
+This is a human factors thing.
+
+821
+00:29:03,020 --> 00:29:04,190
+It's a side stick.
+
+822
+00:29:04,190 --> 00:29:05,510
+Initially it didn't move.
+
+823
+00:29:05,510 --> 00:29:08,070
+Eventually they decided,
+I'll put in some deflection.
+
+824
+00:29:08,070 --> 00:29:10,730
+So I can go a half inch
+left, a half inch right,
+
+825
+00:29:10,730 --> 00:29:15,347
+about a quarter inch forward,
+I go about a half inch back
+
+826
+00:29:15,347 --> 00:29:17,930
+because normally I really want
+to get the nose going this way.
+
+827
+00:29:17,930 --> 00:29:19,513
+If I had that much
+deflection forward,
+
+828
+00:29:19,513 --> 00:29:21,410
+I don't want to fly
+the airplane this way.
+
+829
+00:29:21,410 --> 00:29:23,175
+So you have the
+ability to do that.
+
+830
+00:29:23,175 --> 00:29:25,550
+But it gives you a little bit
+of the best of both worlds.
+
+831
+00:29:25,550 --> 00:29:27,140
+There's some
+deflection to give you
+
+832
+00:29:27,140 --> 00:29:29,810
+feedback that you've input
+something on the stick,
+
+833
+00:29:29,810 --> 00:29:31,238
+but not so much
+deflection that it
+
+834
+00:29:31,238 --> 00:29:33,530
+gets in the way of everything
+else you're trying to do.
+
+835
+00:29:33,530 --> 00:29:36,470
+So there's a little bit of real
+estate in the fighter cockpit.
+
+836
+00:29:36,470 --> 00:29:38,595
+The last piece I'll give
+you, and it's a little bit
+
+837
+00:29:38,595 --> 00:29:44,960
+hard to see here, is all those
+buttons there on the stick.
+
+838
+00:29:44,960 --> 00:29:46,670
+What you have the
+ability to do-- so
+
+839
+00:29:46,670 --> 00:29:50,540
+it's exactly like modern car
+steering wheels right now.
+
+840
+00:29:50,540 --> 00:29:53,270
+You can control volume, radio,
+everything else like that,
+
+841
+00:29:53,270 --> 00:29:55,010
+you can do it from
+the steering wheel.
+
+842
+00:29:55,010 --> 00:29:56,090
+Same thing in a fighter.
+
+843
+00:29:56,090 --> 00:29:58,455
+It's called hands-on
+throttle and stick, HOTAS.
+
+844
+00:29:58,455 --> 00:30:00,080
+And it allows you to
+control everything
+
+845
+00:30:00,080 --> 00:30:01,788
+that you would want
+to do on the airplane
+
+846
+00:30:01,788 --> 00:30:04,430
+with never having
+to leave your hands
+
+847
+00:30:04,430 --> 00:30:06,380
+from the throttle on the stick.
+
+848
+00:30:06,380 --> 00:30:08,540
+The other piece I'll give
+you is that in a Raptor--
+
+849
+00:30:08,540 --> 00:30:11,060
+so in a fighter like
+this, this is your stick,
+
+850
+00:30:11,060 --> 00:30:12,280
+this is your throttle.
+
+851
+00:30:12,280 --> 00:30:14,480
+In a Raptor, because
+the flight control modes
+
+852
+00:30:14,480 --> 00:30:17,540
+can change so much, this
+is your right inceptor
+
+853
+00:30:17,540 --> 00:30:20,180
+and this is your left inceptor.
+
+854
+00:30:20,180 --> 00:30:23,130
+It's all considered part of
+the flight control system.
+
+855
+00:30:23,130 --> 00:30:23,630
+All right.
+
+856
+00:30:23,630 --> 00:30:26,200
+Let's keep going.
+
+857
+00:30:26,200 --> 00:30:30,690
+So just like on your car where
+if you want to go to XM radio,
+
+858
+00:30:30,690 --> 00:30:33,630
+you go to media
+source or whatever
+
+859
+00:30:33,630 --> 00:30:36,720
+and go XM satellite
+radio, you have buttons
+
+860
+00:30:36,720 --> 00:30:39,990
+because it's a software-driven
+jet, just like we saw before,
+
+861
+00:30:39,990 --> 00:30:42,390
+and I can pull up a flight
+control display that
+
+862
+00:30:42,390 --> 00:30:45,130
+shows me the position of all
+my flight control surfaces.
+
+863
+00:30:45,130 --> 00:30:49,020
+Again, the pilot is way
+forward on the front end
+
+864
+00:30:49,020 --> 00:30:49,740
+of this airplane.
+
+865
+00:30:49,740 --> 00:30:53,160
+As I deflect things, sometimes
+I can't actually see them.
+
+866
+00:30:53,160 --> 00:30:55,313
+And so initially, this
+was a flight test display
+
+867
+00:30:55,313 --> 00:30:57,480
+so that I don't have to do
+the old poltergeist thing
+
+868
+00:30:57,480 --> 00:30:58,980
+and try to rotate
+all the way around
+
+869
+00:30:58,980 --> 00:31:01,140
+to be able to see to the
+back end of the airplane
+
+870
+00:31:01,140 --> 00:31:02,940
+to see if the elevators moving.
+
+871
+00:31:02,940 --> 00:31:04,860
+I basically instrument
+everything and I
+
+872
+00:31:04,860 --> 00:31:05,880
+can see it here.
+
+873
+00:31:05,880 --> 00:31:07,590
+Now, some of the
+human factor stuff
+
+874
+00:31:07,590 --> 00:31:09,510
+that's kind of cool
+with how they did this--
+
+875
+00:31:12,950 --> 00:31:15,730
+so again, this tells you, at
+the top, rudder deflection
+
+876
+00:31:15,730 --> 00:31:19,270
+surfaces, ailerons, where the
+horizontal stabilizers are at,
+
+877
+00:31:19,270 --> 00:31:20,680
+how the engines are doing.
+
+878
+00:31:20,680 --> 00:31:22,070
+This is a little weird.
+
+879
+00:31:22,070 --> 00:31:23,380
+I don't really like
+how they did this one,
+
+880
+00:31:23,380 --> 00:31:25,750
+but this is the leading edge
+flaps, LE flaps, the leading
+
+881
+00:31:25,750 --> 00:31:26,180
+edge flaps.
+
+882
+00:31:26,180 --> 00:31:28,472
+So it just shows you how far
+they're deflected, dug in,
+
+883
+00:31:28,472 --> 00:31:30,100
+dug down.
+
+884
+00:31:30,100 --> 00:31:33,680
+On the lower left-hand corner,
+it shows you center of gravity.
+
+885
+00:31:33,680 --> 00:31:35,380
+So there's limits.
+
+886
+00:31:35,380 --> 00:31:36,910
+Just like what
+you would normally
+
+887
+00:31:36,910 --> 00:31:38,670
+do on flight planning
+for your Cessna--
+
+888
+00:31:38,670 --> 00:31:41,020
+hey, I can only put this much
+fuel with this much passengers,
+
+889
+00:31:41,020 --> 00:31:42,760
+and I've got to be within
+this limit for takeoff,
+
+890
+00:31:42,760 --> 00:31:45,430
+for landing and everything else,
+the airplane tells you that.
+
+891
+00:31:45,430 --> 00:31:47,472
+Now, what's cool about
+some of the things they've
+
+892
+00:31:47,472 --> 00:31:49,510
+done in Raptor is that
+if it's out of limits,
+
+893
+00:31:49,510 --> 00:31:51,490
+again, it doesn't expect you
+to get out the piece of paper
+
+894
+00:31:51,490 --> 00:31:53,050
+with the whiz wheel and the E6B.
+
+895
+00:31:53,050 --> 00:31:54,550
+It just changes color.
+
+896
+00:31:54,550 --> 00:31:58,840
+It goes red and it gives you a
+warning that says, hey, idiot,
+
+897
+00:31:58,840 --> 00:32:01,952
+you are beyond the
+aft center of gravity.
+
+898
+00:32:01,952 --> 00:32:03,910
+No gauge tells you it's
+just having a hard time
+
+899
+00:32:03,910 --> 00:32:05,380
+seeing where all the fuel
+is and everything else.
+
+900
+00:32:05,380 --> 00:32:06,530
+That's a different story.
+
+901
+00:32:06,530 --> 00:32:10,270
+But it tells you what percentage
+of mean aerodynamic chord
+
+902
+00:32:10,270 --> 00:32:13,370
+that you're sitting at and it's
+able to adjust stuff around.
+
+903
+00:32:13,370 --> 00:32:16,570
+So I'll give that to you
+because what this allows is--
+
+904
+00:32:16,570 --> 00:32:18,820
+oh, by the way, the last
+part here is flight control--
+
+905
+00:32:18,820 --> 00:32:21,340
+so in other words, this tells
+you where you moved your stick
+
+906
+00:32:21,340 --> 00:32:22,473
+and it tells you trim.
+
+907
+00:32:22,473 --> 00:32:23,890
+So you know where
+the trim is set,
+
+908
+00:32:23,890 --> 00:32:25,765
+and it also tells you
+where the stick is set.
+
+909
+00:32:25,765 --> 00:32:27,910
+So you know your inputs
+that go through there.
+
+910
+00:32:27,910 --> 00:32:30,220
+When you have a
+software-driven machine,
+
+911
+00:32:30,220 --> 00:32:34,220
+you can customize things
+and make it very simple.
+
+912
+00:32:34,220 --> 00:32:36,760
+You guys have seen that
+terrible, terrible awful movie
+
+913
+00:32:36,760 --> 00:32:37,700
+Top Gun, right?
+
+914
+00:32:37,700 --> 00:32:39,190
+It's just awful, right?
+
+915
+00:32:39,190 --> 00:32:41,965
+So that scene where
+Maverick loses his engines
+
+916
+00:32:41,965 --> 00:32:44,590
+and they go through this, engine
+one is out, engine two is out,
+
+917
+00:32:44,590 --> 00:32:47,950
+and they go on this flat spin
+to sea, which is a bunch of BS.
+
+918
+00:32:47,950 --> 00:32:50,710
+When you're in a spin, you
+don't translate over the ground,
+
+919
+00:32:50,710 --> 00:32:51,820
+you fall straight down.
+
+920
+00:32:51,820 --> 00:32:54,205
+So this whole flying out
+to sea thing is ridiculous.
+
+921
+00:32:54,205 --> 00:32:55,330
+It doesn't happen that way.
+
+922
+00:32:57,985 --> 00:32:59,860
+If you don't have a
+software-driven airplane,
+
+923
+00:32:59,860 --> 00:33:01,750
+when you lose engines like that,
+then you've got to go through
+
+924
+00:33:01,750 --> 00:33:02,560
+this whole--
+
+925
+00:33:02,560 --> 00:33:06,413
+for instance, in the Cessna,
+if you lose the motor,
+
+926
+00:33:06,413 --> 00:33:07,330
+what do you got to do?
+
+927
+00:33:07,330 --> 00:33:09,710
+Establish your glide, get
+everything set up, check to see
+
+928
+00:33:09,710 --> 00:33:11,710
+am I my left, right, or
+both on the fuel source,
+
+929
+00:33:11,710 --> 00:33:14,410
+what's my whatever, blah, blah,
+blah, and everything else.
+
+930
+00:33:14,410 --> 00:33:16,660
+In the Raptor it's the most
+awesome thing possible,
+
+931
+00:33:16,660 --> 00:33:18,760
+you literally do nothing.
+
+932
+00:33:18,760 --> 00:33:21,530
+You sit there and the computer
+goes, oh, you've lost a motor.
+
+933
+00:33:21,530 --> 00:33:23,168
+I've noticed that
+you have a problem.
+
+934
+00:33:23,168 --> 00:33:25,210
+Let me see if I can help
+you, and it will restart
+
+935
+00:33:25,210 --> 00:33:26,750
+the motor for you if it can.
+
+936
+00:33:26,750 --> 00:33:28,608
+If it can't restart
+the motor, chances
+
+937
+00:33:28,608 --> 00:33:31,150
+are it ain't going to restart
+and you can leave it shut down,
+
+938
+00:33:31,150 --> 00:33:32,290
+if you will.
+
+939
+00:33:32,290 --> 00:33:34,900
+It allows some neat
+human factor designs
+
+940
+00:33:34,900 --> 00:33:37,708
+because in this airplane-- in
+the Raptor, believe it or not,
+
+941
+00:33:37,708 --> 00:33:39,250
+when you're flying
+the Raptor, you're
+
+942
+00:33:39,250 --> 00:33:41,950
+not thinking about
+flying the Raptor.
+
+943
+00:33:41,950 --> 00:33:43,822
+You're thinking about
+employing the Raptor.
+
+944
+00:33:43,822 --> 00:33:46,030
+So you're trying to find
+where all of your wing mates
+
+945
+00:33:46,030 --> 00:33:49,180
+are, where the bad guys
+are, et cetera, et cetera.
+
+946
+00:33:49,180 --> 00:33:51,730
+Flying is secondary.
+
+947
+00:33:51,730 --> 00:33:54,520
+Whereas in this plane,
+flying is everything.
+
+948
+00:33:54,520 --> 00:33:56,920
+So they tried to
+as much as possible
+
+949
+00:33:56,920 --> 00:33:59,740
+alleviate the pilot from as
+much burden of responsibility
+
+950
+00:33:59,740 --> 00:34:01,750
+of thinking about flying
+the airplane by doing
+
+951
+00:34:01,750 --> 00:34:03,650
+neat little tricks like that.
+
+952
+00:34:03,650 --> 00:34:06,108
+The other thing I'll give you
+too about the flight controls
+
+953
+00:34:06,108 --> 00:34:08,830
+is, again, we talked about
+how ailerons can go up,
+
+954
+00:34:08,830 --> 00:34:11,590
+ailerons can come down,
+flaperons go up, they go down,
+
+955
+00:34:11,590 --> 00:34:13,030
+rudders come out and go down.
+
+956
+00:34:13,030 --> 00:34:16,880
+On takeoff mode, I'll show
+you something kind of cool.
+
+957
+00:34:16,880 --> 00:34:19,780
+So here's the nose look on here.
+
+958
+00:34:19,780 --> 00:34:21,760
+On takeoff mode,
+without any input
+
+959
+00:34:21,760 --> 00:34:24,790
+from the pilot-- so there's
+no flap switch in the cockpit,
+
+960
+00:34:24,790 --> 00:34:27,877
+there's no leading edge,
+there's nothing like that.
+
+961
+00:34:27,877 --> 00:34:29,710
+It just knows, based
+on the fact that you've
+
+962
+00:34:29,710 --> 00:34:32,192
+got the gear handled down and
+that you're on the ground,
+
+963
+00:34:32,192 --> 00:34:34,150
+that it senses the weight
+on wheels, it thinks,
+
+964
+00:34:34,150 --> 00:34:35,770
+this guy wants to take off.
+
+965
+00:34:35,770 --> 00:34:39,219
+So the rudders will
+both deflect inward.
+
+966
+00:34:39,219 --> 00:34:41,070
+Why would you do that?
+
+967
+00:34:41,070 --> 00:34:41,570
+Go ahead.
+
+968
+00:34:41,570 --> 00:34:45,449
+AUDIENCE: [INAUDIBLE]
+
+969
+00:34:50,550 --> 00:34:53,284
+RANDY GORDON: So not quite.
+
+970
+00:34:53,284 --> 00:34:55,409
+There is a tie between the
+flight controls, though.
+
+971
+00:34:55,409 --> 00:34:57,076
+So in other words,
+if I take the rudders
+
+972
+00:34:57,076 --> 00:35:00,920
+and I tow them both in, so
+both rudders are deflected in,
+
+973
+00:35:00,920 --> 00:35:03,875
+what does that do from an
+aerodynamic standpoint?
+
+974
+00:35:03,875 --> 00:35:06,500
+Which way's the nose going to go
+if these rudders are deflected
+
+975
+00:35:06,500 --> 00:35:07,147
+in?
+
+976
+00:35:07,147 --> 00:35:07,689
+AUDIENCE: Up.
+
+977
+00:35:07,689 --> 00:35:09,230
+RANDY GORDON: Up, right.
+
+978
+00:35:09,230 --> 00:35:12,050
+So it makes it easier to
+rotate the airplane on takeoff
+
+979
+00:35:12,050 --> 00:35:14,210
+because the rudders
+are deflecting in.
+
+980
+00:35:14,210 --> 00:35:16,460
+Both of them go in.
+
+981
+00:35:16,460 --> 00:35:18,290
+The other part about it too is--
+
+982
+00:35:18,290 --> 00:35:19,400
+so we talked about this.
+
+983
+00:35:19,400 --> 00:35:21,710
+You guys ever see a
+competition aerobatic,
+
+984
+00:35:21,710 --> 00:35:24,190
+one of those extra
+300 kind of airplanes?
+
+985
+00:35:24,190 --> 00:35:26,450
+See how the aileron
+runs the entire length
+
+986
+00:35:26,450 --> 00:35:27,542
+of the whole wing?
+
+987
+00:35:27,542 --> 00:35:29,750
+So the pilot, all they got
+to do is just tap the wing
+
+988
+00:35:29,750 --> 00:35:32,270
+and the airplane is going to
+do corkscrews and spirals.
+
+989
+00:35:32,270 --> 00:35:34,190
+On a Raptor, that's
+part of the reason
+
+990
+00:35:34,190 --> 00:35:36,650
+why the aileron and the
+flaperon can move together
+
+991
+00:35:36,650 --> 00:35:38,250
+as one surface.
+
+992
+00:35:38,250 --> 00:35:40,760
+And so the leading
+edge flaps will dig in.
+
+993
+00:35:40,760 --> 00:35:43,640
+The trailing aileron and
+the trailing edge flap,
+
+994
+00:35:43,640 --> 00:35:45,420
+that will dig in as well.
+
+995
+00:35:45,420 --> 00:35:50,120
+So on takeoff, with no
+input from the pilot,
+
+996
+00:35:50,120 --> 00:35:53,090
+whereas the wing normally
+would look like this
+
+997
+00:35:53,090 --> 00:35:56,330
+with a little bit of
+camber on it, on takeoff
+
+998
+00:35:56,330 --> 00:35:59,250
+the wing looks like this.
+
+999
+00:35:59,250 --> 00:36:01,750
+It's kind of cool like when
+you look at from the side.
+
+1000
+00:36:01,750 --> 00:36:04,890
+So if you're looking at
+it from directly side on,
+
+1001
+00:36:04,890 --> 00:36:07,650
+that leading edge flap
+comes down, these come down.
+
+1002
+00:36:07,650 --> 00:36:11,040
+That puts in a whole bunch
+of camber on the wing,
+
+1003
+00:36:11,040 --> 00:36:12,720
+and it generates a lot of lift.
+
+1004
+00:36:12,720 --> 00:36:14,970
+And again, that's completely
+independent of the pilot.
+
+1005
+00:36:14,970 --> 00:36:17,640
+The pilot has done nothing
+other than just tell it,
+
+1006
+00:36:17,640 --> 00:36:21,370
+I'm on the ground because
+the gear handle is down.
+
+1007
+00:36:21,370 --> 00:36:24,528
+PROFESSOR: Laz, what would
+be a typical rotation speed?
+
+1008
+00:36:24,528 --> 00:36:25,320
+RANDY GORDON: Yeah.
+
+1009
+00:36:25,320 --> 00:36:26,650
+So that's a good question.
+
+1010
+00:36:26,650 --> 00:36:28,570
+What do you guys think?
+
+1011
+00:36:28,570 --> 00:36:29,630
+So I start on the runway.
+
+1012
+00:36:29,630 --> 00:36:31,297
+By the way, I need
+8,000 feet of runway.
+
+1013
+00:36:31,297 --> 00:36:35,000
+This whole 2,500 feet is not
+for a Raptor, unfortunately.
+
+1014
+00:36:35,000 --> 00:36:35,898
+8,000 feet of runway.
+
+1015
+00:36:35,898 --> 00:36:37,940
+But by the time I actually
+get ready to pull back
+
+1016
+00:36:37,940 --> 00:36:41,150
+on that stick to rotate, how
+fast do you think it's going?
+
+1017
+00:36:45,540 --> 00:36:47,575
+AUDIENCE: [INAUDIBLE]
+
+1018
+00:36:47,575 --> 00:36:48,700
+RANDY GORDON: Little close.
+
+1019
+00:36:48,700 --> 00:36:50,747
+150 is the usual--
+
+1020
+00:36:50,747 --> 00:36:52,330
+so about take off--
+which, by the way,
+
+1021
+00:36:52,330 --> 00:36:57,220
+this airplane is about
+34, 35 tons on takeoff,
+
+1022
+00:36:57,220 --> 00:37:01,600
+compared to 2,500
+pounds or whatever.
+
+1023
+00:37:01,600 --> 00:37:02,850
+So it's a very heavy airplane.
+
+1024
+00:37:02,850 --> 00:37:04,350
+It's got to get a
+lot of speed to be
+
+1025
+00:37:04,350 --> 00:37:05,470
+able to get that rotation.
+
+1026
+00:37:05,470 --> 00:37:08,990
+But it's about 150,
+160 knots on takeoff,
+
+1027
+00:37:08,990 --> 00:37:12,730
+which is faster than the never
+exceed speed of the Cessna,
+
+1028
+00:37:12,730 --> 00:37:13,960
+as it goes.
+
+1029
+00:37:13,960 --> 00:37:16,425
+But yeah, so the flight
+controls are there to help you.
+
+1030
+00:37:16,425 --> 00:37:17,800
+The other thing
+I'll show you too
+
+1031
+00:37:17,800 --> 00:37:20,380
+is there is-- so
+sailplane guys--
+
+1032
+00:37:20,380 --> 00:37:21,550
+where are my sailplane guys?
+
+1033
+00:37:21,550 --> 00:37:22,510
+Anyone fly sailplanes?
+
+1034
+00:37:22,510 --> 00:37:25,630
+So on the left in a
+sailplane cockpit,
+
+1035
+00:37:25,630 --> 00:37:29,050
+you typically have a lever for
+the speed brakes, spoilers,
+
+1036
+00:37:29,050 --> 00:37:31,450
+so these big surfaces
+that pop up on the wing
+
+1037
+00:37:31,450 --> 00:37:33,580
+to slow the airplane
+down to just glide slopes
+
+1038
+00:37:33,580 --> 00:37:34,720
+and those sorts of things.
+
+1039
+00:37:34,720 --> 00:37:36,220
+We talked a little
+bit earlier about
+
+1040
+00:37:36,220 --> 00:37:37,870
+how the electrical
+engineer guys want
+
+1041
+00:37:37,870 --> 00:37:40,240
+this thing to be completely
+stealthy and whatever else.
+
+1042
+00:37:40,240 --> 00:37:43,060
+The last thing you want to do,
+based on the discussion we just
+
+1043
+00:37:43,060 --> 00:37:45,520
+had, is I don't want to
+have a big board stick up
+
+1044
+00:37:45,520 --> 00:37:47,395
+in the middle of this
+airplane because that's
+
+1045
+00:37:47,395 --> 00:37:49,700
+going to make my radar
+reflection go very, very large.
+
+1046
+00:37:49,700 --> 00:37:51,408
+So they did something
+kind of remarkable.
+
+1047
+00:37:51,408 --> 00:37:54,970
+They used the flight
+control surfaces themselves
+
+1048
+00:37:54,970 --> 00:37:56,650
+as the speed brakes.
+
+1049
+00:37:56,650 --> 00:37:58,480
+So if I need to slow
+the airplane down,
+
+1050
+00:37:58,480 --> 00:38:00,250
+I hit a little switch
+on the throttle.
+
+1051
+00:38:00,250 --> 00:38:03,640
+And immediately what happens
+is the leading edge flaps will
+
+1052
+00:38:03,640 --> 00:38:08,200
+come down a bit, the
+ailerons will both go up,
+
+1053
+00:38:08,200 --> 00:38:12,190
+the rudders will go out,
+so they'll both tow out.
+
+1054
+00:38:12,190 --> 00:38:14,980
+And it's using that to help
+slow the airplane down.
+
+1055
+00:38:14,980 --> 00:38:19,090
+It's actually quite effective,
+which is pretty cool.
+
+1056
+00:38:19,090 --> 00:38:19,590
+All right.
+
+1057
+00:38:19,590 --> 00:38:22,110
+A couple other things
+we'll go through.
+
+1058
+00:38:22,110 --> 00:38:24,500
+Landing mode.
+
+1059
+00:38:24,500 --> 00:38:25,700
+Pilot's done nothing.
+
+1060
+00:38:25,700 --> 00:38:29,690
+Touchdown, throttles are
+back, gear handle's down,
+
+1061
+00:38:29,690 --> 00:38:31,460
+and all of this stuff happens.
+
+1062
+00:38:31,460 --> 00:38:34,030
+Here, let me get
+this zoomed in here.
+
+1063
+00:38:34,030 --> 00:38:35,770
+So that's the aileron.
+
+1064
+00:38:35,770 --> 00:38:36,730
+It's up.
+
+1065
+00:38:36,730 --> 00:38:37,600
+Holy crap.
+
+1066
+00:38:37,600 --> 00:38:39,460
+The other one's up, too.
+
+1067
+00:38:39,460 --> 00:38:41,500
+The flaperon goes
+up on either side.
+
+1068
+00:38:41,500 --> 00:38:43,000
+The rudders, you
+can see how they're
+
+1069
+00:38:43,000 --> 00:38:46,353
+both kind of towing
+in there a little bit.
+
+1070
+00:38:46,353 --> 00:38:47,770
+The reason it's
+doing that is it's
+
+1071
+00:38:47,770 --> 00:38:50,860
+trying to transfer all of
+that weight from the wings
+
+1072
+00:38:50,860 --> 00:38:51,920
+and put it into the gear.
+
+1073
+00:38:51,920 --> 00:38:54,418
+So it's trying to kill all
+of the lift on the wings
+
+1074
+00:38:54,418 --> 00:38:55,960
+and transfer that
+to the landing gear
+
+1075
+00:38:55,960 --> 00:38:58,780
+so that you have the maximum
+traction on the wheels
+
+1076
+00:38:58,780 --> 00:39:02,640
+as you hit the brakes
+as you slow down.
+
+1077
+00:39:02,640 --> 00:39:08,660
+Also, on refueling-- so
+when you go air refueling,
+
+1078
+00:39:08,660 --> 00:39:11,900
+there's a little switch
+that you open in the jet.
+
+1079
+00:39:11,900 --> 00:39:13,052
+That opens up this door.
+
+1080
+00:39:13,052 --> 00:39:14,510
+That tells the jet
+that I'm getting
+
+1081
+00:39:14,510 --> 00:39:16,480
+ready to refuel
+while I'm airborne.
+
+1082
+00:39:16,480 --> 00:39:17,980
+When it does that,
+it says, this guy
+
+1083
+00:39:17,980 --> 00:39:20,240
+isn't trying to dogfight
+the airplane anymore.
+
+1084
+00:39:20,240 --> 00:39:21,530
+They're trying to get gas.
+
+1085
+00:39:21,530 --> 00:39:24,023
+So therefore I don't need
+all the full roll capability
+
+1086
+00:39:24,023 --> 00:39:25,940
+and everything else, and
+really, what I really
+
+1087
+00:39:25,940 --> 00:39:27,470
+want is an airplane
+that's really
+
+1088
+00:39:27,470 --> 00:39:29,070
+responsive with its lift.
+
+1089
+00:39:29,070 --> 00:39:32,720
+And so, again, no input from
+the pilot, but the leading edge
+
+1090
+00:39:32,720 --> 00:39:35,630
+flaps will deploy down,
+the trailing edge flap
+
+1091
+00:39:35,630 --> 00:39:37,400
+and the ailerons will
+also deploy down.
+
+1092
+00:39:37,400 --> 00:39:39,820
+Again, they're trying to
+create camber on that wing.
+
+1093
+00:39:39,820 --> 00:39:41,320
+This is all digital
+flight controls.
+
+1094
+00:39:41,320 --> 00:39:43,170
+No input from the
+pilot whatsoever.
+
+1095
+00:39:43,170 --> 00:39:45,170
+PROFESSOR: Laz, what would
+a typical airspeed be
+
+1096
+00:39:45,170 --> 00:39:47,390
+when doing this air refueling?
+
+1097
+00:39:47,390 --> 00:39:49,400
+RANDY GORDON: This is
+about-- oops, sorry.
+
+1098
+00:39:49,400 --> 00:39:51,290
+Let me go back one here.
+
+1099
+00:39:51,290 --> 00:39:56,000
+This is about 300 knots or
+so, something like that.
+
+1100
+00:39:56,000 --> 00:39:58,250
+You've got to be able to
+fly-- so for a Raptor, that's
+
+1101
+00:39:58,250 --> 00:39:59,630
+kind of slow.
+
+1102
+00:39:59,630 --> 00:40:02,297
+For the tanker airplane,
+that's somewhat fast.
+
+1103
+00:40:02,297 --> 00:40:04,130
+So you're trying to
+find that marriage where
+
+1104
+00:40:04,130 --> 00:40:06,313
+both airplanes have
+good flying qualities
+
+1105
+00:40:06,313 --> 00:40:08,480
+so that one's not about to
+stall and the other one's
+
+1106
+00:40:08,480 --> 00:40:11,360
+in full power trying
+to catch up to him.
+
+1107
+00:40:11,360 --> 00:40:13,160
+By the way, the
+most unnatural act
+
+1108
+00:40:13,160 --> 00:40:14,870
+I've ever done as
+a fighter pilot
+
+1109
+00:40:14,870 --> 00:40:17,453
+is to connect up my airplane
+to another airplane.
+
+1110
+00:40:17,453 --> 00:40:18,620
+I just never got used to it.
+
+1111
+00:40:18,620 --> 00:40:20,600
+I can do it just fine,
+but the whole notion
+
+1112
+00:40:20,600 --> 00:40:23,720
+of this big boom connecting
+my airplane to a big airliner
+
+1113
+00:40:23,720 --> 00:40:25,820
+was just really strange
+and weird to me.
+
+1114
+00:40:25,820 --> 00:40:28,570
+Never got used to it.
+
+1115
+00:40:28,570 --> 00:40:29,070
+OK.
+
+1116
+00:40:29,070 --> 00:40:30,010
+Some of the limiters.
+
+1117
+00:40:30,010 --> 00:40:35,530
+So in an F-15, because we talked
+to that a little bit earlier,
+
+1118
+00:40:35,530 --> 00:40:37,678
+you can get up to 500,
+600 miles an hour.
+
+1119
+00:40:37,678 --> 00:40:39,220
+You can take both
+hands on the stick,
+
+1120
+00:40:39,220 --> 00:40:41,320
+you can pull that
+stick all the way back,
+
+1121
+00:40:41,320 --> 00:40:44,080
+and you will rip the wings off
+the airplane and you will turn
+
+1122
+00:40:44,080 --> 00:40:46,960
+it into a big ball of metal
+cascading down to the ground
+
+1123
+00:40:46,960 --> 00:40:50,230
+because you have
+over-g'ed the airplane.
+
+1124
+00:40:50,230 --> 00:40:52,660
+Again, that awful, terrible
+movie Top Gun in which
+
+1125
+00:40:52,660 --> 00:40:56,120
+Tom Cruise departs the
+airplane and gets into a spin,
+
+1126
+00:40:56,120 --> 00:40:58,900
+again, you've exceeded some
+capability of the airplane
+
+1127
+00:40:58,900 --> 00:41:00,700
+and the airplane departs
+controlled flight
+
+1128
+00:41:00,700 --> 00:41:03,310
+and gets into some type
+of uncontrolled situation.
+
+1129
+00:41:03,310 --> 00:41:06,670
+On a Raptor, there used to be
+in the pilot operating manual
+
+1130
+00:41:06,670 --> 00:41:09,610
+a little blurb that said
+quote you can maneuver
+
+1131
+00:41:09,610 --> 00:41:13,330
+this airplane with
+quote reckless abandon,
+
+1132
+00:41:13,330 --> 00:41:15,250
+and you will not
+over g the airplane,
+
+1133
+00:41:15,250 --> 00:41:17,710
+you will not depart the
+airplane from controlled flight.
+
+1134
+00:41:17,710 --> 00:41:22,385
+They did a spectacular
+job allowing this airplane
+
+1135
+00:41:22,385 --> 00:41:24,010
+to get right to the
+edge of performance
+
+1136
+00:41:24,010 --> 00:41:26,530
+but not going over the top.
+
+1137
+00:41:26,530 --> 00:41:30,160
+So one of the neat
+things that they did--
+
+1138
+00:41:30,160 --> 00:41:31,840
+airplane is in a left-hand turn.
+
+1139
+00:41:31,840 --> 00:41:32,830
+Look at that aileron.
+
+1140
+00:41:32,830 --> 00:41:34,350
+It's up.
+
+1141
+00:41:34,350 --> 00:41:35,640
+Look at that aileron.
+
+1142
+00:41:35,640 --> 00:41:37,150
+It's up.
+
+1143
+00:41:37,150 --> 00:41:40,460
+What the crap is going on there?
+
+1144
+00:41:40,460 --> 00:41:41,960
+And if you know
+this one, you really
+
+1145
+00:41:41,960 --> 00:41:45,370
+do get the model
+because I didn't
+
+1146
+00:41:45,370 --> 00:41:47,862
+know this for a long time.
+
+1147
+00:41:47,862 --> 00:41:49,570
+So again, just for
+sake of time because I
+
+1148
+00:41:49,570 --> 00:41:51,590
+know we've got guys
+coming in afterwards,
+
+1149
+00:41:51,590 --> 00:41:55,507
+center of gravity of the
+airplane sits right here.
+
+1150
+00:41:55,507 --> 00:41:57,090
+In your engineering
+classes you always
+
+1151
+00:41:57,090 --> 00:41:59,820
+talk about forces acting
+on the center of gravity.
+
+1152
+00:41:59,820 --> 00:42:02,070
+And you take this whole
+airplane and you model it down
+
+1153
+00:42:02,070 --> 00:42:05,430
+to a point mass and
+you say that's--
+
+1154
+00:42:05,430 --> 00:42:08,400
+for sake of all the
+sum of forces analysis.
+
+1155
+00:42:08,400 --> 00:42:13,260
+Well, in real life this
+airplane's about 43 feet wide.
+
+1156
+00:42:13,260 --> 00:42:15,340
+Yeah, you can sum the
+forces through there,
+
+1157
+00:42:15,340 --> 00:42:17,670
+but there's forces acting
+all over this airplane
+
+1158
+00:42:17,670 --> 00:42:19,020
+at different spots.
+
+1159
+00:42:19,020 --> 00:42:21,180
+Think about here on the wingtip.
+
+1160
+00:42:21,180 --> 00:42:23,100
+I put g on the airplane.
+
+1161
+00:42:23,100 --> 00:42:25,320
+And this wing tip, it's
+almost like the wings want
+
+1162
+00:42:25,320 --> 00:42:27,900
+to bend up as I'm coming down.
+
+1163
+00:42:27,900 --> 00:42:30,420
+So you put a lot of stress
+out on the wing tips.
+
+1164
+00:42:30,420 --> 00:42:32,940
+So their answer,
+quite ingeniously,
+
+1165
+00:42:32,940 --> 00:42:35,040
+was to deflect the
+ailerons down when
+
+1166
+00:42:35,040 --> 00:42:36,360
+you're at high maneuvering.
+
+1167
+00:42:36,360 --> 00:42:37,590
+The way you know you're
+at high maneuvering
+
+1168
+00:42:37,590 --> 00:42:39,882
+is you can kind of see these
+little wispies forming off
+
+1169
+00:42:39,882 --> 00:42:40,560
+the wingtips.
+
+1170
+00:42:40,560 --> 00:42:42,510
+So you are creating
+low pressure.
+
+1171
+00:42:42,510 --> 00:42:43,510
+That's another one, too.
+
+1172
+00:42:43,510 --> 00:42:46,052
+You can see the clouds forming
+on the front edge of the wing.
+
+1173
+00:42:46,052 --> 00:42:48,510
+Low pressure causes
+that air to condense,
+
+1174
+00:42:48,510 --> 00:42:49,710
+and so you make clouds.
+
+1175
+00:42:49,710 --> 00:42:52,050
+So you know the airplane's
+really maneuvering up.
+
+1176
+00:42:52,050 --> 00:42:55,020
+And an answer to reduce
+stress at the wingtips
+
+1177
+00:42:55,020 --> 00:42:56,950
+was to deflect the ailerons up.
+
+1178
+00:42:56,950 --> 00:42:59,560
+What happens to the lift out at
+the wingtips with the ailerons
+
+1179
+00:42:59,560 --> 00:43:01,962
+up?
+
+1180
+00:43:01,962 --> 00:43:02,670
+Goes down, right?
+
+1181
+00:43:02,670 --> 00:43:04,740
+So it helps to push
+those wings back
+
+1182
+00:43:04,740 --> 00:43:07,920
+down again so you're not trying
+to overstress the airplane.
+
+1183
+00:43:07,920 --> 00:43:10,560
+There are limiters like
+this all over the airplane,
+
+1184
+00:43:10,560 --> 00:43:13,135
+such that you won't
+over g the airplane.
+
+1185
+00:43:13,135 --> 00:43:15,510
+Literally, you can do anything
+you want to this airplane.
+
+1186
+00:43:15,510 --> 00:43:18,420
+That's what I'm telling you,
+it's easier to fly a Raptor
+
+1187
+00:43:18,420 --> 00:43:20,790
+than it is to fly a
+Cessna because you really
+
+1188
+00:43:20,790 --> 00:43:22,380
+have to pay attention to what
+you're doing in a Cessna.
+
+1189
+00:43:22,380 --> 00:43:24,068
+In a Raptor, I could
+put my kid in there
+
+1190
+00:43:24,068 --> 00:43:26,610
+and he can do this all day at
+whatever speed, and nothing bad
+
+1191
+00:43:26,610 --> 00:43:27,777
+will happen to the airplane.
+
+1192
+00:43:27,777 --> 00:43:31,485
+It's really quite spectacular
+how they did that.
+
+1193
+00:43:31,485 --> 00:43:32,860
+The other part
+I'll give you here
+
+1194
+00:43:32,860 --> 00:43:34,470
+is some of the command systems.
+
+1195
+00:43:34,470 --> 00:43:37,970
+So if I'm in a dogfight and I'm
+trying to shoot the other guy,
+
+1196
+00:43:37,970 --> 00:43:41,160
+I'm going against a
+maneuvering target.
+
+1197
+00:43:41,160 --> 00:43:43,310
+And so the flight
+controls transfer over
+
+1198
+00:43:43,310 --> 00:43:45,950
+to what's called a
+g command system.
+
+1199
+00:43:45,950 --> 00:43:48,560
+So if I'm maneuvering at 4
+g's and I let go of the stick,
+
+1200
+00:43:48,560 --> 00:43:49,893
+the airplane will stay at 4 g's.
+
+1201
+00:43:49,893 --> 00:43:52,102
+And if I see that the target's
+maneuvering and I need
+
+1202
+00:43:52,102 --> 00:43:53,967
+to go to 6 g's or 7
+g's, I'll put that in
+
+1203
+00:43:53,967 --> 00:43:55,300
+and the airplane will keep that.
+
+1204
+00:43:55,300 --> 00:43:57,860
+So in other words,
+again, it's a vote.
+
+1205
+00:43:57,860 --> 00:43:59,760
+I'm not physically
+connected to anything.
+
+1206
+00:43:59,760 --> 00:44:02,240
+I talk to the computer
+and I say, I want 6 g's.
+
+1207
+00:44:02,240 --> 00:44:04,850
+And the airplane does all types
+of black magic and sorcery
+
+1208
+00:44:04,850 --> 00:44:08,210
+behind me, and Lo and behold,
+the airplane gets to 6 to 7
+
+1209
+00:44:08,210 --> 00:44:08,822
+g's.
+
+1210
+00:44:08,822 --> 00:44:11,030
+That really matters when
+you're in a high maneuvering
+
+1211
+00:44:11,030 --> 00:44:13,910
+kind of situation,
+so it goes g command.
+
+1212
+00:44:13,910 --> 00:44:16,920
+When you're slower,
+i.e. on landing,
+
+1213
+00:44:16,920 --> 00:44:20,217
+and I want to put that flight
+path marker right on that edge
+
+1214
+00:44:20,217 --> 00:44:22,550
+of the runway because that's
+where I want to touch down,
+
+1215
+00:44:22,550 --> 00:44:26,700
+right at the 1,000-foot
+markers, then in that scenario,
+
+1216
+00:44:26,700 --> 00:44:28,850
+I'm not really caring
+so much about g command,
+
+1217
+00:44:28,850 --> 00:44:30,360
+I care about pitch rate.
+
+1218
+00:44:30,360 --> 00:44:32,870
+And so it transitions over
+to a pitch rate command.
+
+1219
+00:44:32,870 --> 00:44:34,880
+And if I put no
+input on the stick,
+
+1220
+00:44:34,880 --> 00:44:38,240
+it says zero pitch rate,
+again, black magic and sorcery
+
+1221
+00:44:38,240 --> 00:44:39,170
+will happen behind me.
+
+1222
+00:44:39,170 --> 00:44:40,280
+The flight controls
+will do whatever
+
+1223
+00:44:40,280 --> 00:44:42,800
+they need to do to make sure
+that my pitch rate stays
+
+1224
+00:44:42,800 --> 00:44:43,760
+at zero.
+
+1225
+00:44:43,760 --> 00:44:46,100
+So it transitions from one
+type of light control system
+
+1226
+00:44:46,100 --> 00:44:46,642
+to the other.
+
+1227
+00:44:46,642 --> 00:44:48,150
+No pilot input whatsoever.
+
+1228
+00:44:48,150 --> 00:44:52,310
+It's just based off of
+flight command system.
+
+1229
+00:44:52,310 --> 00:44:52,810
+All right.
+
+1230
+00:44:52,810 --> 00:44:55,268
+So let's talk through a couple
+of the implications of that,
+
+1231
+00:44:55,268 --> 00:44:58,320
+and then we'll go to
+questions at the end.
+
+1232
+00:44:58,320 --> 00:45:00,670
+Can you do the flight control
+video Raptor at the top?
+
+1233
+00:45:00,670 --> 00:45:02,210
+It's about a minute.
+
+1234
+00:45:02,210 --> 00:45:07,014
+And then bring it up to
+full screen and hit pause.
+
+1235
+00:45:07,014 --> 00:45:07,986
+[VIDEO PLAYBACK]
+
+1236
+00:45:07,986 --> 00:45:11,388
+[MUSIC PLAYING]
+
+1237
+00:45:19,650 --> 00:45:21,094
+Got to love that music.
+
+1238
+00:45:21,094 --> 00:45:21,594
+Stop.
+
+1239
+00:45:21,594 --> 00:45:22,600
+[END PLAYBACK]
+
+1240
+00:45:22,600 --> 00:45:23,647
+Thank you.
+
+1241
+00:45:23,647 --> 00:45:24,230
+PROFESSOR: OK.
+
+1242
+00:45:24,230 --> 00:45:26,652
+This one is full
+speed and pause.
+
+1243
+00:45:26,652 --> 00:45:27,360
+RANDY GORDON: OK.
+
+1244
+00:45:27,360 --> 00:45:29,610
+And can you go back to the
+beginning on it real quick?
+
+1245
+00:45:31,412 --> 00:45:32,850
+OK.
+
+1246
+00:45:32,850 --> 00:45:36,150
+So video in cockpit facing
+out to the display screens
+
+1247
+00:45:36,150 --> 00:45:38,490
+is a big no-no because
+you could see stuff.
+
+1248
+00:45:38,490 --> 00:45:40,123
+So we won't even
+bother with that.
+
+1249
+00:45:40,123 --> 00:45:42,540
+But what they did, this is the
+Raptor Flight Demonstration
+
+1250
+00:45:42,540 --> 00:45:42,750
+Team.
+
+1251
+00:45:42,750 --> 00:45:44,790
+This is out of Langley
+Air Force Base Virginia.
+
+1252
+00:45:44,790 --> 00:45:47,370
+They mounted a camera in
+the cockpit facing aft.
+
+1253
+00:45:47,370 --> 00:45:49,460
+What I love about
+this is, again, you
+
+1254
+00:45:49,460 --> 00:45:52,980
+can see real quick what's
+going on with the airplane.
+
+1255
+00:45:52,980 --> 00:45:55,150
+So again, the
+leading edge slats,
+
+1256
+00:45:55,150 --> 00:45:57,660
+there's no input from the pilot
+other than just maneuvering.
+
+1257
+00:45:57,660 --> 00:45:59,670
+They'll deploy
+wherever they need to.
+
+1258
+00:45:59,670 --> 00:46:01,260
+You'll see the
+horizontal stabilators
+
+1259
+00:46:01,260 --> 00:46:02,340
+And if you're close,
+you can actually
+
+1260
+00:46:02,340 --> 00:46:04,007
+see what the ailerons
+are doing and what
+
+1261
+00:46:04,007 --> 00:46:05,670
+the flaperons are doing.
+
+1262
+00:46:05,670 --> 00:46:07,470
+A neat trick, and
+we'll see this as they
+
+1263
+00:46:07,470 --> 00:46:11,010
+go into this high g demo.
+
+1264
+00:46:11,010 --> 00:46:12,390
+Do you guys know about--
+
+1265
+00:46:12,390 --> 00:46:14,223
+this gets a little bit
+advanced, but a thing
+
+1266
+00:46:14,223 --> 00:46:16,947
+called static margin,
+which is a stability
+
+1267
+00:46:16,947 --> 00:46:18,030
+thing about this airplane.
+
+1268
+00:46:18,030 --> 00:46:21,300
+Again, this airplane, in its
+bare airframe configuration,
+
+1269
+00:46:21,300 --> 00:46:24,630
+no hydraulics, no computers,
+nothing on board the airplane,
+
+1270
+00:46:24,630 --> 00:46:26,400
+totally unstable.
+
+1271
+00:46:26,400 --> 00:46:28,948
+What keeps it stable
+is the computer itself.
+
+1272
+00:46:28,948 --> 00:46:30,990
+What you'll see is you'll
+see this maneuver where
+
+1273
+00:46:30,990 --> 00:46:32,280
+he'll go into a
+g turn and you'll
+
+1274
+00:46:32,280 --> 00:46:34,860
+see all those clouds forming on
+the back end of the airplane.
+
+1275
+00:46:34,860 --> 00:46:37,440
+Pay attention to what the
+leading edge flaps are doing.
+
+1276
+00:46:37,440 --> 00:46:38,880
+They're digging in.
+
+1277
+00:46:38,880 --> 00:46:41,010
+The horizontal
+stabilators, you'll
+
+1278
+00:46:41,010 --> 00:46:43,590
+see them initially move
+to get the turn going,
+
+1279
+00:46:43,590 --> 00:46:45,953
+but then once
+established in the turn,
+
+1280
+00:46:45,953 --> 00:46:47,370
+the way it's
+controlling things is
+
+1281
+00:46:47,370 --> 00:46:50,640
+it's moving around
+the aerodynamic center
+
+1282
+00:46:50,640 --> 00:46:52,230
+and the center of gravity.
+
+1283
+00:46:52,230 --> 00:46:53,762
+It's doing that
+by dorking around
+
+1284
+00:46:53,762 --> 00:46:55,470
+a bit with the lift
+on the wing, and it's
+
+1285
+00:46:55,470 --> 00:46:57,500
+doing that by deflecting
+the leading edge flaps.
+
+1286
+00:46:57,500 --> 00:47:00,000
+So that flight control surface
+display I showed you earlier,
+
+1287
+00:47:00,000 --> 00:47:02,520
+the horizontal stabilators
+would be completely streamlined.
+
+1288
+00:47:02,520 --> 00:47:05,790
+And all of the maneuvering is
+coming from the wing itself,
+
+1289
+00:47:05,790 --> 00:47:07,573
+which is pretty amazing.
+
+1290
+00:47:07,573 --> 00:47:08,490
+PROFESSOR: Next video?
+
+1291
+00:47:08,490 --> 00:47:08,910
+RANDY GORDON: No, no.
+
+1292
+00:47:08,910 --> 00:47:09,827
+Go to flight controls.
+
+1293
+00:47:09,827 --> 00:47:10,605
+We'll watch that.
+
+1294
+00:47:10,605 --> 00:47:11,100
+PROFESSOR: Go back, then?
+
+1295
+00:47:11,100 --> 00:47:12,683
+RANDY GORDON: Yep,
+and then we'll just
+
+1296
+00:47:12,683 --> 00:47:15,270
+watch as it goes through, this
+time without the funky club
+
+1297
+00:47:15,270 --> 00:47:17,816
+music, I guess, hopefully.
+
+1298
+00:47:17,816 --> 00:47:18,814
+[VIDEO PLAYBACK]
+
+1299
+00:47:18,814 --> 00:47:22,307
+[MUSIC PLAYING]
+
+1300
+00:47:26,798 --> 00:47:29,090
+[INAUDIBLE]
+
+1301
+00:47:29,090 --> 00:47:31,219
+The horizontal stabilators
+are streamlined.
+
+1302
+00:47:36,209 --> 00:47:42,200
+[INAUDIBLE] Incidentally,
+watch the flight controllers
+
+1303
+00:47:42,200 --> 00:47:43,844
+in the back.
+
+1304
+00:47:43,844 --> 00:47:44,828
+AUDIENCE: Oh, man.
+
+1305
+00:47:44,828 --> 00:47:46,200
+We need somebody better here.
+
+1306
+00:47:46,200 --> 00:47:47,467
+RANDY GORDON: I know, totally.
+
+1307
+00:47:47,467 --> 00:47:50,389
+[LAUGHTER]
+
+1308
+00:47:53,320 --> 00:47:56,090
+So at that speed, again,
+it's the g command system.
+
+1309
+00:47:56,090 --> 00:47:57,950
+The pilot is commanding
+a certain g rate.
+
+1310
+00:47:57,950 --> 00:48:00,600
+And miner deflections are
+happening all the way here back
+
+1311
+00:48:00,600 --> 00:48:02,100
+along the back edge
+of the airplane.
+
+1312
+00:48:02,100 --> 00:48:04,040
+The pilot has no input on that.
+
+1313
+00:48:04,040 --> 00:48:06,702
+The system is doing everything
+possible to command that g
+
+1314
+00:48:06,702 --> 00:48:07,910
+that the pilot has asked for.
+
+1315
+00:48:10,372 --> 00:48:11,830
+You'll see one
+other maneuver here.
+
+1316
+00:48:11,830 --> 00:48:14,640
+Pause for a second.
+
+1317
+00:48:14,640 --> 00:48:16,700
+So what this maneuver is is--
+
+1318
+00:48:16,700 --> 00:48:19,610
+and again, slow speed.
+
+1319
+00:48:19,610 --> 00:48:22,400
+Airplane's going straight up,
+and what they're trying to do
+
+1320
+00:48:22,400 --> 00:48:25,070
+is basically pitch
+forward completely and get
+
+1321
+00:48:25,070 --> 00:48:27,320
+the airplane-- so it's almost
+like you're flying an L,
+
+1322
+00:48:27,320 --> 00:48:29,040
+like you're going
+straight up and then you
+
+1323
+00:48:29,040 --> 00:48:30,915
+want to pitch forward
+and then accelerate out
+
+1324
+00:48:30,915 --> 00:48:32,318
+horizontally that way.
+
+1325
+00:48:32,318 --> 00:48:34,610
+The way gets that is through
+that thrust vectoring that
+
+1326
+00:48:34,610 --> 00:48:35,167
+happens.
+
+1327
+00:48:35,167 --> 00:48:37,250
+But as that maneuver
+happens, again, all the pilot
+
+1328
+00:48:37,250 --> 00:48:40,010
+is doing is just doing a direct
+push forward on the stick.
+
+1329
+00:48:40,010 --> 00:48:41,660
+Watch what happens
+to all the flight
+
+1330
+00:48:41,660 --> 00:48:43,455
+controls in the
+back of the airplane
+
+1331
+00:48:43,455 --> 00:48:45,830
+to keep that airplane going
+exactly where the pilot wants
+
+1332
+00:48:45,830 --> 00:48:46,160
+it to.
+
+1333
+00:48:46,160 --> 00:48:46,660
+Play.
+
+1334
+00:48:49,850 --> 00:48:51,470
+So you'll see huge
+deflections out
+
+1335
+00:48:51,470 --> 00:48:53,120
+of that horizontal stabilizer.
+
+1336
+00:48:53,120 --> 00:48:53,870
+It's kind of neat.
+
+1337
+00:48:53,870 --> 00:48:54,745
+You can keep playing.
+
+1338
+00:49:09,110 --> 00:49:11,400
+So what you're seeing
+there is, from the outside
+
+1339
+00:49:11,400 --> 00:49:13,560
+of the airplane-- we'll
+see this more on the demo--
+
+1340
+00:49:13,560 --> 00:49:16,933
+is the airplane is essentially
+pirouetting in the sky.
+
+1341
+00:49:16,933 --> 00:49:19,350
+So it's falling straight down,
+but it's very controllable.
+
+1342
+00:49:19,350 --> 00:49:23,073
+It's flying at speeds about
+60 to 65 miles an hour,
+
+1343
+00:49:23,073 --> 00:49:24,240
+but very, very controllable.
+
+1344
+00:49:24,240 --> 00:49:26,498
+And you'll see every bit
+of flight control surface
+
+1345
+00:49:26,498 --> 00:49:28,290
+on the back end of this
+airplane deflecting
+
+1346
+00:49:28,290 --> 00:49:29,620
+to do what it needs to do.
+
+1347
+00:49:29,620 --> 00:49:32,910
+So don't think of it in
+terms of aileron, elevator.
+
+1348
+00:49:32,910 --> 00:49:36,270
+It's a little bit fluid when
+it comes to a Raptor's stuff.
+
+1349
+00:49:36,270 --> 00:49:37,320
+Stuff happens back there.
+
+1350
+00:49:37,320 --> 00:49:38,280
+PROFESSOR: Touch and go video?
+
+1351
+00:49:38,280 --> 00:49:40,490
+RANDY GORDON: OK, so this
+shows a little bit of-- yeah,
+
+1352
+00:49:40,490 --> 00:49:41,782
+you can go ahead and play that.
+
+1353
+00:49:46,500 --> 00:49:47,740
+And hit pause for a second.
+
+1354
+00:49:47,740 --> 00:49:50,310
+We'll just do the setup.
+
+1355
+00:49:50,310 --> 00:49:51,090
+OK.
+
+1356
+00:49:51,090 --> 00:49:53,640
+So very quick, the setup
+for this video, this
+
+1357
+00:49:53,640 --> 00:49:56,850
+is the downside of a digital
+flight control system.
+
+1358
+00:49:56,850 --> 00:49:59,700
+Because on this
+airplane, again, it's
+
+1359
+00:49:59,700 --> 00:50:02,640
+pure cables, pulleys,
+it's ratios and gears
+
+1360
+00:50:02,640 --> 00:50:04,520
+and stuff like that.
+
+1361
+00:50:04,520 --> 00:50:07,050
+On this airplane,
+it's software code.
+
+1362
+00:50:07,050 --> 00:50:10,050
+It's zeros and ones, and
+you better get it right.
+
+1363
+00:50:10,050 --> 00:50:11,880
+And everything is
+interconnected.
+
+1364
+00:50:11,880 --> 00:50:13,973
+We talked about how
+moving the gear handle
+
+1365
+00:50:13,973 --> 00:50:16,140
+tells the flight control
+system something different.
+
+1366
+00:50:16,140 --> 00:50:17,940
+If I open the air
+refueling door,
+
+1367
+00:50:17,940 --> 00:50:20,430
+it tells the flight control
+something different.
+
+1368
+00:50:20,430 --> 00:50:24,000
+In this case, the power
+setting of the airplane
+
+1369
+00:50:24,000 --> 00:50:27,750
+tells the airplane
+something different.
+
+1370
+00:50:27,750 --> 00:50:30,420
+One of my good friends,
+test pilot, outstanding guy.
+
+1371
+00:50:30,420 --> 00:50:32,230
+So don't think of this
+as he's a bad pilot.
+
+1372
+00:50:32,230 --> 00:50:34,300
+He's not, he's awesome.
+
+1373
+00:50:34,300 --> 00:50:36,990
+But the jet believes
+something that
+
+1374
+00:50:36,990 --> 00:50:39,390
+wasn't really true because
+there was an error in how
+
+1375
+00:50:39,390 --> 00:50:41,130
+the software was coded.
+
+1376
+00:50:41,130 --> 00:50:43,950
+And you'll see the
+first approach--
+
+1377
+00:50:43,950 --> 00:50:46,210
+he'll take off again on
+what's called military power,
+
+1378
+00:50:46,210 --> 00:50:48,030
+so they're not
+using afterburner,
+
+1379
+00:50:48,030 --> 00:50:50,610
+and the airplane
+behaves just fine.
+
+1380
+00:50:50,610 --> 00:50:53,630
+The next time around, he goes
+around using afterburner power,
+
+1381
+00:50:53,630 --> 00:50:56,130
+so you'll see fire come out of
+the back end of the airplane.
+
+1382
+00:50:56,130 --> 00:50:58,860
+And that changes something
+in the flight system
+
+1383
+00:50:58,860 --> 00:51:01,410
+for the engines, which
+tells the flight control
+
+1384
+00:51:01,410 --> 00:51:03,570
+computer a different condition.
+
+1385
+00:51:03,570 --> 00:51:06,580
+And what ended up happening is
+that the gains, if you will,
+
+1386
+00:51:06,580 --> 00:51:09,422
+of the stick were
+completely off.
+
+1387
+00:51:09,422 --> 00:51:11,880
+So again, this would be like
+if you were on a highway speed
+
+1388
+00:51:11,880 --> 00:51:13,547
+and that same wheel
+deflection you would
+
+1389
+00:51:13,547 --> 00:51:15,480
+use to park your car
+in your garage, now
+
+1390
+00:51:15,480 --> 00:51:17,280
+that little deflection
+of your wheel
+
+1391
+00:51:17,280 --> 00:51:19,710
+makes that same turn
+of the tires up front.
+
+1392
+00:51:19,710 --> 00:51:24,062
+So you get into what's called a
+pilot-induced oscillation, PIO,
+
+1393
+00:51:24,062 --> 00:51:26,520
+which basically says you're
+out of phase with the airplane.
+
+1394
+00:51:26,520 --> 00:51:28,937
+If I'm driving my car and I
+turn the steering wheel right,
+
+1395
+00:51:28,937 --> 00:51:30,090
+the car is going left.
+
+1396
+00:51:30,090 --> 00:51:32,010
+As it's going left, I'm
+trying to correct, I go right,
+
+1397
+00:51:32,010 --> 00:51:33,240
+and now the thing goes right.
+
+1398
+00:51:33,240 --> 00:51:35,280
+And so you get out of
+phase with the airplane,
+
+1399
+00:51:35,280 --> 00:51:36,447
+and you'll see what happens.
+
+1400
+00:51:36,447 --> 00:51:37,440
+Go ahead and play.
+
+1401
+00:51:37,440 --> 00:51:38,970
+By the way, you see all
+the flight control surfaces
+
+1402
+00:51:38,970 --> 00:51:40,200
+deflecting in the back?
+
+1403
+00:51:40,200 --> 00:51:41,860
+This is now in a
+pitch rate system.
+
+1404
+00:51:41,860 --> 00:51:43,568
+So he's just trying
+to land the airplane.
+
+1405
+00:51:43,568 --> 00:51:45,152
+The back of the
+airplane does whatever
+
+1406
+00:51:45,152 --> 00:51:47,550
+it needs to do to keep that
+flight path marker exactly
+
+1407
+00:51:47,550 --> 00:51:48,425
+where it needs to go.
+
+1408
+00:51:52,658 --> 00:51:54,950
+And again, all the flight
+control surface is deflected.
+
+1409
+00:51:54,950 --> 00:51:57,650
+Military power because the
+engines are black, if you will,
+
+1410
+00:51:57,650 --> 00:51:58,322
+on this one.
+
+1411
+00:51:58,322 --> 00:51:59,780
+On the next time
+around, you'll see
+
+1412
+00:51:59,780 --> 00:52:02,630
+him maneuver with
+afterburner, and you'll
+
+1413
+00:52:02,630 --> 00:52:05,026
+see him get into this
+pitch-induced oscillation.
+
+1414
+00:52:13,217 --> 00:52:14,800
+That's the chase
+airplane, by the way.
+
+1415
+00:52:14,800 --> 00:52:16,470
+It's an F-16 that
+follows them around.
+
+1416
+00:52:24,300 --> 00:52:26,030
+So same thing, getting
+set up to land.
+
+1417
+00:52:26,030 --> 00:52:28,100
+The camera goes out of
+focus here for a second,
+
+1418
+00:52:28,100 --> 00:52:29,240
+comes back in.
+
+1419
+00:52:29,240 --> 00:52:30,740
+Again, just notice
+everything that's
+
+1420
+00:52:30,740 --> 00:52:32,620
+happening on the back
+end of this airplane
+
+1421
+00:52:32,620 --> 00:52:35,120
+to keep that pitch rate where
+the pilot has commanded it to.
+
+1422
+00:52:39,953 --> 00:52:41,120
+Two things will happen here.
+
+1423
+00:52:41,120 --> 00:52:43,037
+He selects afterburner
+and he raises the gear.
+
+1424
+00:52:43,037 --> 00:52:45,050
+That changes the
+flight control laws.
+
+1425
+00:52:45,050 --> 00:52:48,290
+And the gains were
+not set correctly.
+
+1426
+00:52:48,290 --> 00:52:49,290
+There's the afterburner.
+
+1427
+00:52:49,290 --> 00:52:52,902
+And now you see where he's out
+of phase with the airplane.
+
+1428
+00:52:52,902 --> 00:52:55,360
+And he's doing everything to
+keep the airplane from hitting
+
+1429
+00:52:55,360 --> 00:52:57,130
+the ground, and can't avoid it.
+
+1430
+00:52:59,670 --> 00:53:04,500
+He's OK, but the airplane
+was fairly well scraped,
+
+1431
+00:53:04,500 --> 00:53:05,920
+as you can imagine.
+
+1432
+00:53:05,920 --> 00:53:07,350
+So it's just a danger.
+
+1433
+00:53:07,350 --> 00:53:09,270
+The digital flight
+controls allow a lot
+
+1434
+00:53:09,270 --> 00:53:11,370
+of flexibility and creativity.
+
+1435
+00:53:11,370 --> 00:53:13,950
+There used to be a term,
+eh, it's only software,
+
+1436
+00:53:13,950 --> 00:53:15,045
+we can figure it out.
+
+1437
+00:53:15,045 --> 00:53:19,860
+Not true when you're dealing
+with vehicles like this,
+
+1438
+00:53:19,860 --> 00:53:21,507
+where small changes
+in software code
+
+1439
+00:53:21,507 --> 00:53:24,090
+can have dramatic implications
+on the ability of the airplane.
+
+1440
+00:53:24,090 --> 00:53:27,143
+So it takes an
+amazing amount of--
+
+1441
+00:53:27,143 --> 00:53:27,810
+PROFESSOR: Demo?
+
+1442
+00:53:27,810 --> 00:53:29,070
+RANDY GORDON: Yeah, you can
+go ahead and do Raptor demo.
+
+1443
+00:53:29,070 --> 00:53:30,487
+And with that, we
+can go questions
+
+1444
+00:53:30,487 --> 00:53:32,348
+because I'm a little bit over.
+
+1445
+00:53:32,348 --> 00:53:33,390
+PROFESSOR: No, it's fine.
+
+1446
+00:53:33,390 --> 00:53:35,190
+RANDY GORDON: OK.
+
+1447
+00:53:35,190 --> 00:53:37,920
+So we can play this full
+screen, if you will.
+
+1448
+00:53:41,325 --> 00:53:43,700
+PROFESSOR: You want to take
+questions while it's running?
+
+1449
+00:53:43,700 --> 00:53:43,940
+RANDY GORDON: Yeah.
+
+1450
+00:53:43,940 --> 00:53:45,357
+So this is from
+another good buddy
+
+1451
+00:53:45,357 --> 00:53:47,190
+of mine, a guy
+name Zeke Skalicky,
+
+1452
+00:53:47,190 --> 00:53:48,550
+who was the Raptor demo pilot.
+
+1453
+00:53:48,550 --> 00:53:49,893
+Outstanding guy.
+
+1454
+00:53:49,893 --> 00:53:52,060
+But this is the Raptor demo
+if you've never seen it.
+
+1455
+00:53:52,060 --> 00:53:54,102
+So we'll take some questions
+while this is going.
+
+1456
+00:53:54,102 --> 00:53:55,060
+Go ahead.
+
+1457
+00:53:55,060 --> 00:53:57,580
+AUDIENCE: Is there a thrust
+to weight ratio on an F-22?
+
+1458
+00:53:57,580 --> 00:53:59,413
+RANDY GORDON: Yeah,
+greater than one to one.
+
+1459
+00:53:59,413 --> 00:54:02,860
+So the airplane, about
+63,000, 64,000 pounds.
+
+1460
+00:54:02,860 --> 00:54:04,630
+Normally a strong takeoff.
+
+1461
+00:54:04,630 --> 00:54:08,060
+The thrust coming out the
+back is 70,000 pounds.
+
+1462
+00:54:08,060 --> 00:54:09,700
+So on a nice cold
+day, like if you're
+
+1463
+00:54:09,700 --> 00:54:12,670
+close enough to sea level,
+you will actually go faster
+
+1464
+00:54:12,670 --> 00:54:16,000
+than the speed of sound
+while you're climbing up,
+
+1465
+00:54:16,000 --> 00:54:18,360
+which is cool.
+
+1466
+00:54:18,360 --> 00:54:18,860
+Yeah?
+
+1467
+00:54:18,860 --> 00:54:22,350
+AUDIENCE: What is the thrust
+vectoring while taking off?
+
+1468
+00:54:22,350 --> 00:54:24,090
+PROFESSOR: Laz, try to--
+
+1469
+00:54:24,090 --> 00:54:24,590
+oh, yeah.
+
+1470
+00:54:24,590 --> 00:54:26,090
+Try to repeat the
+question if you can.
+
+1471
+00:54:26,090 --> 00:54:27,090
+RANDY GORDON: Oh, sorry.
+
+1472
+00:54:27,090 --> 00:54:28,640
+PROFESSOR: Because
+he's not mic'ed.
+
+1473
+00:54:28,640 --> 00:54:29,990
+RANDY GORDON: So
+the question was--
+
+1474
+00:54:29,990 --> 00:54:32,150
+well, one, the question was
+the thrust to weight ratio.
+
+1475
+00:54:32,150 --> 00:54:34,275
+It's greater than one to
+one-- a little bit greater
+
+1476
+00:54:34,275 --> 00:54:35,900
+than one to one on takeoff.
+
+1477
+00:54:35,900 --> 00:54:38,070
+By the way, watch this
+maneuver here real quick.
+
+1478
+00:54:38,070 --> 00:54:40,757
+So that's the thrust
+vectoring kicking
+
+1479
+00:54:40,757 --> 00:54:43,340
+in to really get the airplane--
+so initially it has the flight
+
+1480
+00:54:43,340 --> 00:54:44,167
+control surfaces.
+
+1481
+00:54:44,167 --> 00:54:46,250
+And then as things slow
+down, the thrust vectoring
+
+1482
+00:54:46,250 --> 00:54:50,990
+kicks in to basically turn the
+airplane into a flat plate.
+
+1483
+00:54:50,990 --> 00:54:53,835
+Second question was about the
+thrust vectoring on takeoff.
+
+1484
+00:54:53,835 --> 00:54:56,460
+So it'll put it a little bit up,
+not much, just a little bit up
+
+1485
+00:54:56,460 --> 00:55:00,540
+to help the nose
+rotate just a tad.
+
+1486
+00:55:00,540 --> 00:55:03,220
+This is that high angle of
+attack maneuver, if you will.
+
+1487
+00:55:07,580 --> 00:55:08,080
+Keep going.
+
+1488
+00:55:08,080 --> 00:55:10,090
+It's all good questions.
+
+1489
+00:55:10,090 --> 00:55:10,590
+Yeah?
+
+1490
+00:55:10,590 --> 00:55:12,923
+AUDIENCE: You said all the
+software is written basically
+
+1491
+00:55:12,923 --> 00:55:14,750
+so the plane can't
+damage itself.
+
+1492
+00:55:14,750 --> 00:55:16,110
+Does the pilot become a limiter?
+
+1493
+00:55:16,110 --> 00:55:18,555
+Can it put you in situations
+where it can hurt you?
+
+1494
+00:55:18,555 --> 00:55:19,930
+RANDY GORDON:
+Yeah, very much so.
+
+1495
+00:55:19,930 --> 00:55:22,050
+In fact, we've kind of
+achieved that spot now,
+
+1496
+00:55:22,050 --> 00:55:23,852
+where the pilot very
+much is limiting
+
+1497
+00:55:23,852 --> 00:55:26,310
+the performance of the airplane
+itself because the airplane
+
+1498
+00:55:26,310 --> 00:55:28,540
+could do so much more.
+
+1499
+00:55:28,540 --> 00:55:31,110
+So this is what's called a
+fifth generation fighter.
+
+1500
+00:55:31,110 --> 00:55:35,182
+The first generation was like
+an old Korean War, like F-86
+
+1501
+00:55:35,182 --> 00:55:35,890
+kind of airplane.
+
+1502
+00:55:35,890 --> 00:55:38,130
+And then successively
+through the generations,
+
+1503
+00:55:38,130 --> 00:55:39,720
+you arrive at this
+fifth generation,
+
+1504
+00:55:39,720 --> 00:55:41,760
+which to me is the
+pinnacle of what
+
+1505
+00:55:41,760 --> 00:55:45,480
+you could get with a human
+and an airplane together.
+
+1506
+00:55:45,480 --> 00:55:48,840
+Sixth generation is going to
+involve teaming this airplane
+
+1507
+00:55:48,840 --> 00:55:51,913
+with unmanned airplanes,
+and the unmanned airplanes
+
+1508
+00:55:51,913 --> 00:55:54,330
+are going to have a lot more
+capability from a maneuvering
+
+1509
+00:55:54,330 --> 00:55:55,747
+standpoint because
+they don't have
+
+1510
+00:55:55,747 --> 00:55:57,580
+the limitation of the
+pilot and all the life
+
+1511
+00:55:57,580 --> 00:55:59,831
+support systems that come
+with it and everything else.
+
+1512
+00:55:59,831 --> 00:56:02,130
+So all that weight you would
+normally devote to that,
+
+1513
+00:56:02,130 --> 00:56:04,308
+you can get away with
+putting other stuff in there.
+
+1514
+00:56:04,308 --> 00:56:06,600
+When I was telling you it
+flies at about the same speed
+
+1515
+00:56:06,600 --> 00:56:08,203
+as a Cessna--
+
+1516
+00:56:08,203 --> 00:56:09,870
+I mean, this is those
+types of maneuvers
+
+1517
+00:56:09,870 --> 00:56:10,890
+there where you can
+get away with that.
+
+1518
+00:56:10,890 --> 00:56:13,057
+Again, watch the flight
+control surfaces in the back
+
+1519
+00:56:13,057 --> 00:56:15,950
+and what's going on.
+
+1520
+00:56:15,950 --> 00:56:18,350
+Later on they'll do a pass
+where he'll open up the doors
+
+1521
+00:56:18,350 --> 00:56:19,940
+and you can see the main
+weapon bay, which is
+
+1522
+00:56:19,940 --> 00:56:21,230
+underneath the airplane belly.
+
+1523
+00:56:21,230 --> 00:56:23,390
+And then you'll see the
+side weapon bay doors,
+
+1524
+00:56:23,390 --> 00:56:25,390
+so you can kind of see
+where all the weapons are
+
+1525
+00:56:25,390 --> 00:56:26,660
+carried inside the airplane.
+
+1526
+00:56:26,660 --> 00:56:29,070
+Again, a huge center
+of gravity challenge.
+
+1527
+00:56:29,070 --> 00:56:30,320
+So here's that maneuver there.
+
+1528
+00:56:30,320 --> 00:56:31,445
+You can see the doors open.
+
+1529
+00:56:34,223 --> 00:56:35,890
+One thing I didn't
+really tell you about
+
+1530
+00:56:35,890 --> 00:56:38,257
+is, so in that such
+situation, because missiles
+
+1531
+00:56:38,257 --> 00:56:40,840
+weigh a couple hundred pounds a
+piece or so, some of the bombs
+
+1532
+00:56:40,840 --> 00:56:43,120
+are about 1,000 pounds apiece,
+when you lose all that weight
+
+1533
+00:56:43,120 --> 00:56:44,828
+immediately, it's
+literally like dropping
+
+1534
+00:56:44,828 --> 00:56:46,990
+a car off the front
+end of your airplane.
+
+1535
+00:56:46,990 --> 00:56:49,210
+The way that it fixes that
+center of gravity issue
+
+1536
+00:56:49,210 --> 00:56:51,380
+is by changing fuel
+inside the airplane.
+
+1537
+00:56:51,380 --> 00:56:53,470
+So it sloshes fuel
+forward or back
+
+1538
+00:56:53,470 --> 00:56:54,910
+to keep the center of gravity.
+
+1539
+00:56:54,910 --> 00:56:57,317
+Again, there's no
+fuel control panel
+
+1540
+00:56:57,317 --> 00:56:59,650
+where I go, well, move this
+and click this and whatever.
+
+1541
+00:56:59,650 --> 00:57:01,317
+It does it all
+completely automatically.
+
+1542
+00:57:01,317 --> 00:57:02,024
+Go ahead.
+
+1543
+00:57:02,024 --> 00:57:03,607
+AUDIENCE: What kind
+of sensors can you
+
+1544
+00:57:03,607 --> 00:57:05,838
+use to detect the
+center of gravity?
+
+1545
+00:57:05,838 --> 00:57:07,630
+RANDY GORDON: The
+sensors that you can use?
+
+1546
+00:57:07,630 --> 00:57:10,810
+So all of the fuel
+tanks are instrumented,
+
+1547
+00:57:10,810 --> 00:57:12,820
+so you know the status
+of fuel in terms
+
+1548
+00:57:12,820 --> 00:57:15,070
+of where things are set up.
+
+1549
+00:57:15,070 --> 00:57:17,228
+You tell it-- well,
+actually, it has the ability
+
+1550
+00:57:17,228 --> 00:57:18,520
+to know what's on the airplane.
+
+1551
+00:57:18,520 --> 00:57:20,020
+So when you load a
+missile, it goes,
+
+1552
+00:57:20,020 --> 00:57:22,487
+oh, it's this type of missile
+and it weighs this much,
+
+1553
+00:57:22,487 --> 00:57:24,070
+and it knows the
+mass properties of it
+
+1554
+00:57:24,070 --> 00:57:26,948
+and so it sets it up from there.
+
+1555
+00:57:26,948 --> 00:57:28,350
+AUDIENCE: [INAUDIBLE]
+
+1556
+00:57:28,350 --> 00:57:32,220
+RANDY GORDON: So it actually
+identifies that all by itself.
+
+1557
+00:57:32,220 --> 00:57:35,210
+So like in a Cirrus, you
+have to actually pull up
+
+1558
+00:57:35,210 --> 00:57:37,610
+a screen in the Cirrus and
+go, my passenger weighs this
+
+1559
+00:57:37,610 --> 00:57:39,340
+and I've got this
+baggage on board,
+
+1560
+00:57:39,340 --> 00:57:41,090
+and then it gives you
+the picture of where
+
+1561
+00:57:41,090 --> 00:57:42,308
+the center of gravity is.
+
+1562
+00:57:42,308 --> 00:57:43,850
+This thing, because
+it's all digital,
+
+1563
+00:57:43,850 --> 00:57:46,142
+the missile has a little
+connector rod that connects it
+
+1564
+00:57:46,142 --> 00:57:48,040
+and it says, behold,
+I'm a missile.
+
+1565
+00:57:48,040 --> 00:57:49,180
+AUDIENCE: What about
+the pilot weight?
+
+1566
+00:57:49,180 --> 00:57:50,638
+RANDY GORDON: Oh,
+the pilot weight?
+
+1567
+00:57:50,638 --> 00:57:53,900
+Doesn't matter because
+they spec'ed it--
+
+1568
+00:57:53,900 --> 00:57:56,900
+well, it matters but
+for a different reason.
+
+1569
+00:57:56,900 --> 00:57:59,330
+It matters for the ejection
+seat, predominantly.
+
+1570
+00:57:59,330 --> 00:58:01,520
+Because the ejection seat--
+
+1571
+00:58:01,520 --> 00:58:04,190
+I think it's like 135
+pounds is the lightest,
+
+1572
+00:58:04,190 --> 00:58:08,420
+something like that, 115 to
+135 to, like, 220 or something.
+
+1573
+00:58:08,420 --> 00:58:10,120
+It's something around that spot.
+
+1574
+00:58:10,120 --> 00:58:12,620
+So to be able to be within the
+safe envelope of the ejection
+
+1575
+00:58:12,620 --> 00:58:16,430
+seat, that's where the
+weight of the pilot matters.
+
+1576
+00:58:16,430 --> 00:58:18,800
+But they spec the center
+of gravity such that
+
+1577
+00:58:18,800 --> 00:58:21,325
+so long as really
+anyone can sit up front
+
+1578
+00:58:21,325 --> 00:58:23,700
+and you're not going to throw
+off the CG of the airplane,
+
+1579
+00:58:23,700 --> 00:58:26,300
+even though you're way
+far forward of the CG
+
+1580
+00:58:26,300 --> 00:58:28,018
+and there's a moment arm there.
+
+1581
+00:58:28,018 --> 00:58:29,810
+But between everything
+else in the cockpit,
+
+1582
+00:58:29,810 --> 00:58:32,240
+that ejection seat is
+ridiculously heavy.
+
+1583
+00:58:32,240 --> 00:58:34,903
+And all the avionics that sit
+up front, the radars up front,
+
+1584
+00:58:34,903 --> 00:58:36,320
+all these things
+that sit up there
+
+1585
+00:58:36,320 --> 00:58:38,653
+have far more of a contribution
+to the center of gravity
+
+1586
+00:58:38,653 --> 00:58:42,380
+than you do, unless you're,
+like, Shaq or something
+
+1587
+00:58:42,380 --> 00:58:42,880
+like that.
+
+1588
+00:58:42,880 --> 00:58:43,910
+But go ahead.
+
+1589
+00:58:43,910 --> 00:58:49,790
+AUDIENCE: [INAUDIBLE]
+on the helmet screen?
+
+1590
+00:58:49,790 --> 00:58:51,918
+RANDY GORDON: So in
+this airplane, not yet.
+
+1591
+00:58:51,918 --> 00:58:52,960
+That's coming along soon.
+
+1592
+00:58:52,960 --> 00:58:55,377
+Some of the older airplanes,
+believe it or not, have that.
+
+1593
+00:58:55,377 --> 00:58:58,330
+Like the F-15 that I flew,
+you had a special helmet
+
+1594
+00:58:58,330 --> 00:59:02,418
+that had all of the information
+displayed on the visor itself.
+
+1595
+00:59:02,418 --> 00:59:04,960
+So in addition to that hands-on
+throttle and stick so I don't
+
+1596
+00:59:04,960 --> 00:59:06,502
+have to take my
+hands off of anything
+
+1597
+00:59:06,502 --> 00:59:08,170
+to touch anything
+in the cockpit,
+
+1598
+00:59:08,170 --> 00:59:10,090
+I also don't have to
+look in the cockpit
+
+1599
+00:59:10,090 --> 00:59:13,470
+to see altitude,
+air speed, heading.
+
+1600
+00:59:13,470 --> 00:59:16,600
+It's all displayed
+to me upfront.
+
+1601
+00:59:16,600 --> 00:59:19,700
+This airplane eventually
+will get that.
+
+1602
+00:59:19,700 --> 00:59:22,120
+This is a programmatic
+discussion now.
+
+1603
+00:59:22,120 --> 00:59:24,370
+They only had so many dollars
+to spend, and they said,
+
+1604
+00:59:24,370 --> 00:59:26,830
+this airplane is so
+awesome that it shouldn't
+
+1605
+00:59:26,830 --> 00:59:29,080
+need a helmet-mounted display
+system because it should
+
+1606
+00:59:29,080 --> 00:59:31,930
+be able to see all the bad
+guys from far enough away
+
+1607
+00:59:31,930 --> 00:59:33,460
+and not be a problem.
+
+1608
+00:59:33,460 --> 00:59:36,172
+We fielded the
+airplane that way.
+
+1609
+00:59:36,172 --> 00:59:37,630
+The first batch of
+pilots, they all
+
+1610
+00:59:37,630 --> 00:59:41,210
+transitioned from airplanes that
+had that helmet-mounted system.
+
+1611
+00:59:41,210 --> 00:59:43,510
+And they came to this airplane
+where it didn't have it,
+
+1612
+00:59:43,510 --> 00:59:44,540
+and they were pissed.
+
+1613
+00:59:44,540 --> 00:59:46,600
+They were like, we've
+got to have that back.
+
+1614
+00:59:46,600 --> 00:59:48,433
+So that's kind of where
+a lot of the efforts
+
+1615
+00:59:48,433 --> 00:59:50,910
+now are going to modernize
+the airplane a bit.
+
+1616
+00:59:50,910 --> 00:59:51,420
+What else?
+
+1617
+00:59:51,420 --> 00:59:52,045
+Good questions.
+
+1618
+00:59:52,045 --> 00:59:52,630
+Go ahead.
+
+1619
+00:59:52,630 --> 00:59:53,207
+Yeah?
+
+1620
+00:59:53,207 --> 00:59:55,540
+AUDIENCE: Why is there a need
+for humans in the cockpit?
+
+1621
+00:59:55,540 --> 00:59:57,810
+Why not just go for
+unmanned systems?
+
+1622
+00:59:57,810 --> 01:00:01,760
+RANDY GORDON: Yeah, it is the
+great debate of the fighter
+
+1623
+01:00:01,760 --> 01:00:02,787
+community right now.
+
+1624
+01:00:02,787 --> 01:00:05,120
+You're really touching on
+something really, really deep.
+
+1625
+01:00:07,800 --> 01:00:10,933
+The best answer so far
+is that the greatest--
+
+1626
+01:00:10,933 --> 01:00:13,350
+I mean, we talked a lot about
+the hardware and the systems
+
+1627
+01:00:13,350 --> 01:00:14,310
+on board the airplane.
+
+1628
+01:00:14,310 --> 01:00:16,710
+Really, the greatest piece
+of capability on the airplane
+
+1629
+01:00:16,710 --> 01:00:20,990
+is the mind of the
+person flying up front.
+
+1630
+01:00:20,990 --> 01:00:24,120
+If it's a very dynamic
+and changing environment,
+
+1631
+01:00:24,120 --> 01:00:26,820
+to be able to tell a machine
+to be able to incorporate all
+
+1632
+01:00:26,820 --> 01:00:30,090
+those inputs and make the
+right decisions based on that,
+
+1633
+01:00:30,090 --> 01:00:31,350
+kind of hard to do right now.
+
+1634
+01:00:31,350 --> 01:00:33,850
+I'm not saying we're not going
+to get there, just right now,
+
+1635
+01:00:33,850 --> 01:00:34,790
+it's difficult.
+
+1636
+01:00:34,790 --> 01:00:36,510
+Where we use unmanned
+systems a lot
+
+1637
+01:00:36,510 --> 01:00:39,080
+now is in surveillance
+missions, where
+
+1638
+01:00:39,080 --> 01:00:40,330
+you can just launch the thing.
+
+1639
+01:00:40,330 --> 01:00:42,090
+And it's got a
+pre-programmed navigation,
+
+1640
+01:00:42,090 --> 01:00:44,940
+and it knows what it needs to
+do and it can set things up.
+
+1641
+01:00:44,940 --> 01:00:47,340
+Those are somewhat
+bounded problems,
+
+1642
+01:00:47,340 --> 01:00:49,200
+is probably the best
+way to describe it,
+
+1643
+01:00:49,200 --> 01:00:51,450
+where you could use an
+unmanned system for that.
+
+1644
+01:00:51,450 --> 01:00:53,790
+Where it gets difficulties
+is in combat situation,
+
+1645
+01:00:53,790 --> 01:00:55,230
+it's extremely dynamic.
+
+1646
+01:00:55,230 --> 01:00:59,100
+It's battle royale,
+WWF, mosh pit,
+
+1647
+01:00:59,100 --> 01:01:01,110
+any possible chaotic
+situation you can put,
+
+1648
+01:01:01,110 --> 01:01:03,130
+that's kind of
+what it looks like.
+
+1649
+01:01:03,130 --> 01:01:05,700
+And so having a human mind
+attached in that environment,
+
+1650
+01:01:05,700 --> 01:01:07,993
+to be able to adapt and do
+what the mind does better
+
+1651
+01:01:07,993 --> 01:01:09,660
+than a machine does,
+at least right now,
+
+1652
+01:01:09,660 --> 01:01:15,600
+that's the main argument to keep
+humans in the system for now.
+
+1653
+01:01:15,600 --> 01:01:16,830
+Yeah?
+
+1654
+01:01:16,830 --> 01:01:19,540
+AUDIENCE: [INAUDIBLE] operate
+these planes [INAUDIBLE]
+
+1655
+01:01:19,540 --> 01:01:23,630
+to remotely operate
+them, is the [INAUDIBLE]??
+
+1656
+01:01:23,630 --> 01:01:25,176
+RANDY GORDON: It is.
+
+1657
+01:01:25,176 --> 01:01:26,930
+PROFESSOR: Can you
+repeat the question?
+
+1658
+01:01:26,930 --> 01:01:29,472
+RANDY GORDON: Yeah, the question
+is that if you operate these
+
+1659
+01:01:29,472 --> 01:01:32,180
+things remotely--
+so even if you had--
+
+1660
+01:01:32,180 --> 01:01:35,170
+classic example, we'll
+use Sully Sullenberger
+
+1661
+01:01:35,170 --> 01:01:37,760
+because we talked about
+Sully in the previous one.
+
+1662
+01:01:37,760 --> 01:01:40,280
+You take off out of LaGuardia,
+you lose both engines.
+
+1663
+01:01:40,280 --> 01:01:43,550
+If you could have a remote pilot
+sitting somewhere else that
+
+1664
+01:01:43,550 --> 01:01:45,590
+could take over and
+decide land on the Hudson,
+
+1665
+01:01:45,590 --> 01:01:48,850
+because a machine most likely
+wouldn't have made that choice,
+
+1666
+01:01:48,850 --> 01:01:50,390
+is there a time lag issue?
+
+1667
+01:01:50,390 --> 01:01:52,430
+The answer is 100% yes.
+
+1668
+01:01:52,430 --> 01:01:54,450
+There is a time lag
+issue between getting
+
+1669
+01:01:54,450 --> 01:01:56,450
+that information displayed
+down, make the input,
+
+1670
+01:01:56,450 --> 01:01:59,450
+that input goes back
+up and comes back over.
+
+1671
+01:01:59,450 --> 01:02:02,930
+A thing we've done at
+test pilot school is--
+
+1672
+01:02:02,930 --> 01:02:05,870
+remember we showed earlier
+that flight path marker,
+
+1673
+01:02:05,870 --> 01:02:07,862
+where as a pilot you put
+the flight path marker
+
+1674
+01:02:07,862 --> 01:02:10,070
+and that's exactly where
+your airplane's going to go?
+
+1675
+01:02:10,070 --> 01:02:12,560
+If there's a time lag, that
+will actually mess you up
+
+1676
+01:02:12,560 --> 01:02:14,930
+because there's some second
+or two delay between what
+
+1677
+01:02:14,930 --> 01:02:16,920
+you're seeing and what the
+airplane's actually going.
+
+1678
+01:02:16,920 --> 01:02:18,378
+At test pilot
+school, they actually
+
+1679
+01:02:18,378 --> 01:02:22,822
+built a flight path marker that
+accounts for that time delay.
+
+1680
+01:02:22,822 --> 01:02:25,280
+If it knows that time delay,
+it will actually count for it.
+
+1681
+01:02:25,280 --> 01:02:29,330
+So you could fly the airplane
+remotely even with the time lag
+
+1682
+01:02:29,330 --> 01:02:31,683
+and still be able to do very
+high gain tasks, like land
+
+1683
+01:02:31,683 --> 01:02:33,350
+the airplane, for
+instance, where things
+
+1684
+01:02:33,350 --> 01:02:34,460
+are changing very rapidly.
+
+1685
+01:02:34,460 --> 01:02:37,140
+So it's a new science, not
+fully fleshed out here.
+
+1686
+01:02:37,140 --> 01:02:38,720
+But the proof of
+concept has been
+
+1687
+01:02:38,720 --> 01:02:42,920
+demonstrated, to control
+an airplane remotely even
+
+1688
+01:02:42,920 --> 01:02:44,390
+with the time lag.
+
+1689
+01:02:44,390 --> 01:02:46,040
+Who really cares
+about that right now
+
+1690
+01:02:46,040 --> 01:02:49,178
+are the airlines because,
+to be very frank,
+
+1691
+01:02:49,178 --> 01:02:51,470
+the pilots tend to be a pain
+in the butt for an airline
+
+1692
+01:02:51,470 --> 01:02:52,462
+company.
+
+1693
+01:02:52,462 --> 01:02:54,170
+And if you can remove
+the pilots and just
+
+1694
+01:02:54,170 --> 01:02:57,860
+have a remote operated system
+or even an autonomous system,
+
+1695
+01:02:57,860 --> 01:02:59,990
+from a business
+standpoint, the company
+
+1696
+01:02:59,990 --> 01:03:01,960
+really likes that from
+an aviation standpoint.
+
+1697
+01:03:01,960 --> 01:03:03,860
+It triggers all
+types of discussions
+
+1698
+01:03:03,860 --> 01:03:06,480
+in a lot of other issues,
+but that's one question.
+
+1699
+01:03:06,480 --> 01:03:06,980
+Go ahead.
+
+1700
+01:03:06,980 --> 01:03:09,290
+PROFESSOR: Let me jump in
+for a minute with that.
+
+1701
+01:03:09,290 --> 01:03:13,310
+I think actually to me, one of
+the holy grails of GA safety
+
+1702
+01:03:13,310 --> 01:03:19,430
+would be to have a
+human co-pilot, perhaps,
+
+1703
+01:03:19,430 --> 01:03:20,570
+on the ground.
+
+1704
+01:03:20,570 --> 01:03:22,070
+So if you had that
+kind of telemetry
+
+1705
+01:03:22,070 --> 01:03:26,858
+that you have in a drone, a
+human somewhere else could say,
+
+1706
+01:03:26,858 --> 01:03:28,400
+you're running a
+little short on fuel
+
+1707
+01:03:28,400 --> 01:03:30,275
+or you forgot to change
+tanks, all the things
+
+1708
+01:03:30,275 --> 01:03:33,530
+that a human co-pilot could
+do right in the cockpit.
+
+1709
+01:03:33,530 --> 01:03:35,270
+Most of that safety
+running checklist
+
+1710
+01:03:35,270 --> 01:03:38,270
+could be probably
+enhanced remotely.
+
+1711
+01:03:38,270 --> 01:03:41,247
+So that would be a great add
+to a Cessna, or a Piper, even.
+
+1712
+01:03:41,247 --> 01:03:42,830
+RANDY GORDON: And
+you see a little bit
+
+1713
+01:03:42,830 --> 01:03:44,240
+now in some of the more
+advanced airplanes,
+
+1714
+01:03:44,240 --> 01:03:45,230
+like we talked a
+little bit about if I
+
+1715
+01:03:45,230 --> 01:03:47,720
+have an engine problem in the
+Raptor, I literally do nothing.
+
+1716
+01:03:47,720 --> 01:03:48,980
+I just sit there and
+stare at the clouds
+
+1717
+01:03:48,980 --> 01:03:51,080
+and go, wow, what a lovely
+day, and the computer
+
+1718
+01:03:51,080 --> 01:03:53,120
+fixes it for me.
+
+1719
+01:03:53,120 --> 01:03:55,502
+There are other scenarios
+where the jet will tell me,
+
+1720
+01:03:55,502 --> 01:03:56,960
+hey, you've got a
+generator problem
+
+1721
+01:03:56,960 --> 01:04:00,260
+and then immediately pull up
+the checklist for the generator
+
+1722
+01:04:00,260 --> 01:04:02,070
+failure to allow me to fix it.
+
+1723
+01:04:02,070 --> 01:04:05,548
+So you see some basic automation
+right now already in play.
+
+1724
+01:04:05,548 --> 01:04:06,590
+A couple other questions.
+
+1725
+01:04:06,590 --> 01:04:07,715
+I know we're running short.
+
+1726
+01:04:07,715 --> 01:04:09,393
+Go ahead.
+
+1727
+01:04:09,393 --> 01:04:11,810
+AUDIENCE: How much of flying
+a Raptor is seat of the pants
+
+1728
+01:04:11,810 --> 01:04:14,545
+that you would miss by
+not being in the cockpit?
+
+1729
+01:04:14,545 --> 01:04:15,920
+RANDY GORDON: By
+not being there?
+
+1730
+01:04:15,920 --> 01:04:17,310
+AUDIENCE: Or is it so automated
+at this point that it's
+
+1731
+01:04:17,310 --> 01:04:20,070
+the same whether you're sitting
+there or at a computer screen?
+
+1732
+01:04:20,070 --> 01:04:21,770
+RANDY GORDON: Yeah, if it's a--
+
+1733
+01:04:21,770 --> 01:04:23,090
+so we have two terms.
+
+1734
+01:04:23,090 --> 01:04:24,890
+One is called beyond
+visual range, which
+
+1735
+01:04:24,890 --> 01:04:27,530
+means I can't see the
+other guy with my eyes,
+
+1736
+01:04:27,530 --> 01:04:29,930
+but my sensors can see him.
+
+1737
+01:04:29,930 --> 01:04:32,540
+And if I'm shooting missiles
+long distance like that,
+
+1738
+01:04:32,540 --> 01:04:35,332
+I don't lose any seat of
+the pants by being remotely.
+
+1739
+01:04:35,332 --> 01:04:36,290
+It's like a video game.
+
+1740
+01:04:36,290 --> 01:04:38,462
+Literally, it's exactly
+like a video game.
+
+1741
+01:04:38,462 --> 01:04:40,670
+If it's a maneuvering
+environment where I see the guy
+
+1742
+01:04:40,670 --> 01:04:42,128
+and we're in a
+dogfight, then yeah,
+
+1743
+01:04:42,128 --> 01:04:44,540
+you lose a lot in terms
+of seat of the pants,
+
+1744
+01:04:44,540 --> 01:04:47,120
+eyeball, just things that
+are hard to automate.
+
+1745
+01:04:47,120 --> 01:04:49,250
+So it's half and half.
+
+1746
+01:04:49,250 --> 01:04:52,558
+In a drone scenario,
+would a drone dogfight?
+
+1747
+01:04:52,558 --> 01:04:53,100
+I don't know.
+
+1748
+01:04:53,100 --> 01:04:53,975
+It's a good question.
+
+1749
+01:04:53,975 --> 01:04:55,280
+I'm not really sure.
+
+1750
+01:04:55,280 --> 01:04:58,195
+Go ahead.
+
+1751
+01:04:58,195 --> 01:05:01,988
+AUDIENCE: [INAUDIBLE]
+
+1752
+01:05:01,988 --> 01:05:03,530
+RANDY GORDON: You
+could, but then I'd
+
+1753
+01:05:03,530 --> 01:05:05,300
+have to have some
+way to represent
+
+1754
+01:05:05,300 --> 01:05:07,470
+the physical environment
+that the drone is seeing.
+
+1755
+01:05:07,470 --> 01:05:09,012
+I've got to be able
+to represent that
+
+1756
+01:05:09,012 --> 01:05:11,620
+to the guy in the
+simulator on the ground.
+
+1757
+01:05:11,620 --> 01:05:14,310
+I have to be able to
+relay that real time.
+
+1758
+01:05:14,310 --> 01:05:14,810
+It matters.
+
+1759
+01:05:14,810 --> 01:05:18,450
+So who play sports?
+
+1760
+01:05:18,450 --> 01:05:19,980
+Guys, any of you?
+
+1761
+01:05:19,980 --> 01:05:22,783
+Whenever you're playing
+sports, you've got an opponent.
+
+1762
+01:05:22,783 --> 01:05:25,200
+If you play it a lot, like if
+it's racquetball or football
+
+1763
+01:05:25,200 --> 01:05:26,220
+or something like
+that, you get very
+
+1764
+01:05:26,220 --> 01:05:27,970
+good at looking at
+your opponent and being
+
+1765
+01:05:27,970 --> 01:05:31,200
+able to see micro movements
+before the actual big movement
+
+1766
+01:05:31,200 --> 01:05:34,090
+happens, so that you know, oh,
+they're about to swing this way
+
+1767
+01:05:34,090 --> 01:05:35,548
+or they're going
+to throw this way.
+
+1768
+01:05:35,548 --> 01:05:38,010
+So you can read your
+opponent and make a decision
+
+1769
+01:05:38,010 --> 01:05:40,730
+about what's about to happen
+a second or two from now.
+
+1770
+01:05:40,730 --> 01:05:42,720
+In a fighter jet,
+the exact same thing.
+
+1771
+01:05:42,720 --> 01:05:46,830
+If I'm fighting a guy and I see
+a control surface deflection,
+
+1772
+01:05:46,830 --> 01:05:48,420
+even before the
+airplane is gone,
+
+1773
+01:05:48,420 --> 01:05:51,310
+I know the person
+is going this way,
+
+1774
+01:05:51,310 --> 01:05:54,420
+I can position myself to be
+there before they arrive.
+
+1775
+01:05:54,420 --> 01:05:56,520
+I would need some way
+to represent that if I'm
+
+1776
+01:05:56,520 --> 01:05:58,260
+in a simulator on
+the ground, and it
+
+1777
+01:05:58,260 --> 01:06:02,250
+would have to be transparent to
+the guy in the simulator what
+
+1778
+01:06:02,250 --> 01:06:03,716
+that feels like.
+
+1779
+01:06:03,716 --> 01:06:05,172
+Go ahead.
+
+1780
+01:06:05,172 --> 01:06:06,130
+Lots of good questions.
+
+1781
+01:06:06,130 --> 01:06:07,330
+This is a good class.
+
+1782
+01:06:07,330 --> 01:06:09,040
+PROFESSOR: Let me
+ask, actually, who's
+
+1783
+01:06:09,040 --> 01:06:11,590
+here from the Flying Club?
+
+1784
+01:06:11,590 --> 01:06:12,160
+Sebastian.
+
+1785
+01:06:12,160 --> 01:06:12,940
+AUDIENCE: Yeah.
+
+1786
+01:06:12,940 --> 01:06:14,860
+PROFESSOR: Yeah, actually,
+I wonder if, Laz,
+
+1787
+01:06:14,860 --> 01:06:16,840
+can you stay another
+10, 15 minutes?
+
+1788
+01:06:16,840 --> 01:06:17,320
+RANDY GORDON: Sure, absolutely.
+
+1789
+01:06:17,320 --> 01:06:19,300
+PROFESSOR: Why don't we
+have Sebastian jump in,
+
+1790
+01:06:19,300 --> 01:06:22,420
+give his Flying Club spiel,
+and then both of them
+
+1791
+01:06:22,420 --> 01:06:26,420
+will be up front for
+questions right afterwards.
+
+1792
+01:06:26,420 --> 01:06:27,078
+Thank you, Laz.
+
+1793
+01:06:27,078 --> 01:06:28,120
+RANDY GORDON: No worries.
+
+1794
+01:06:28,120 --> 01:06:31,770
+[APPLAUSE]

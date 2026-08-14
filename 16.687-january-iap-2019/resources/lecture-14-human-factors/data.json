@@ -1,0 +1,41 @@
+{
+  "content": "<h2 id=\"description\">Description</h2>\n<p>This lecture discussed aeromedical factors and aeronautical decision-making.</p>\n<p><strong>Instructor:</strong> Philip Greenspun, Tina Srisvastava</p>\n",
+  "content_type": "resource",
+  "description": "",
+  "draft": false,
+  "end_time": "",
+  "file": null,
+  "file_size": "108514776",
+  "file_type": "",
+  "image_metadata": {
+    "caption": "",
+    "credit": "",
+    "image-alt": ""
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "",
+  "optional_tab_title": "",
+  "optional_text": "",
+  "parent_title": "Class Videos",
+  "parent_type": "CourseSection",
+  "related_resources_text": "",
+  "resource_index_text": "",
+  "resourcetype": "Video",
+  "start_time": "",
+  "title": "Lecture 14: Human Factors",
+  "uid": "15b664cc-5098-440a-50c3-bd4fdea10500",
+  "video_files": {
+    "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec14_300k.mp4",
+    "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/2a9688c10c9d55789ff11d7ee8f5451f_RSuztJUlgOM.vtt",
+    "video_thumbnail_file": "https://img.youtube.com/vi/RSuztJUlgOM/default.jpg",
+    "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/1af32351731f751dbdb9a01c4a58da8d_RSuztJUlgOM.pdf"
+  },
+  "video_metadata": {
+    "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, g-loc, hyperventilation, hypoxia, spatial disorientation, visual illusions",
+    "youtube_id": "RSuztJUlgOM"
+  }
+}

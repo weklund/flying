@@ -1,0 +1,21 @@
+{
+  "content": "",
+  "content_type": "resource",
+  "description": "",
+  "draft": false,
+  "file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/70fd7d668e266f789ea21b9ce1e365cb_MIT16_687IAP19_Lec21.pdf",
+  "file_size": 1789676,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "24cd8438-c1d2-e3d6-7d52-602af43cbf1c",
+  "resourcetype": "Document",
+  "title": "MIT16_687IAP19_Lec21, Weather Minimums and Final Tips",
+  "uid": "70fd7d66-8e26-6f78-9ea2-1b9ce1e365cb"
+}

@@ -1,0 +1,971 @@
+
+{
+  "content": "<p> All recorded lectures, except Special Lecture: Aerobatics, are listed below.</p>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-1-introduction/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/jeI3wpulyPw/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 1: Introduction to Private Pilot Ground School</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-2-airplane-aerodynamics/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/edLnZgF9mUg/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 2: Airplane Aerodynamics</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-3-learning-to-fly/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/PHtPau1c5sU/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 3: Learning to Fly</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-4-aircraft-systems/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/AYF3spOVbBk/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 4: Aircraft Systems</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/special-lecture-oshkosh-2018/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/s67DO7fFM14/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Special Lecture: Oshkosh 2018</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-5-charts-and-airspace/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/Nts_8ZLIxwo/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 5: Charts and Airspace</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-6-the-flight-environment/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/shHvE6yV4IM/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 6: The Flight Environment</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-7-navigation/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/Th2N_rDfkDw/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 7: Navigation</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-8-helicopter-aerodynamics/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/OlQie93CwLY/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 8: Helicopter Aerodynamics</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/special-lecture-f-22-flight-controls/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/n068fel-W9I/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Special Lecture: F-22 Flight Controls</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lec-9-meteorology/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/xPEqTH-c9Cc/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 9: Meteorology</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-10-communication-and-flight-information/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/alLh1Jdqwvg/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 10: Communication and Flight Information</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-11-aircraft-ownership-and-maintenance/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/MNIYBTHc6mg/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 11: Aircraft Ownership and Maintenance</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/special-lecture-the-how-and-the-why-of-ifr/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/6oZL2c3tgps/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Special Lecture: The How and the Why of IFR</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-12-aircraft-performance/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/3sB64Au76h0/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 12: Aircraft Performance</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-13-interpreting-weather-data/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/-dOX_4lI6HY/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 13:  Interpreting Weather Data</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-14-human-factors/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/RSuztJUlgOM/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 14: Human Factors</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-15-flight-planning/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/EvcoYJtoQVw/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 15: Flight Planning</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-16-seaplanes/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/xsO2Ip6eiaY/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 16: Seaplanes</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-17-small-uas-operations/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/geJHchWUYQk/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 17: Small UAS Operations</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-18-weight-and-balance/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/802a1jvk5Ck/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 18: Weight and Balance</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-19-multi-engine-and-jets/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/ksyY5wa5_50/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 19: Multi-Engine and Jets</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-20-flying-at-night/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/EuNXVy5-KgA/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 20: Flying at Night</h5>\n      </div>\n    </div>\n  </a>\n</div>\n<div class=\"mb-2 border-gray rounded video-gallery-card\">\n  <a class=\"video-link\" href=\"../../resources/lecture-21-weather-minimums-and-final-tips/index.html\">\n    <div class=\"inner-container\">\n      <div class=\"left-col\"><img class=\"thumbnail\" src=\"https://img.youtube.com/vi/kiCNa95DnnE/default.jpg\" alt=\"\" /></div>\n      <div class=\"right-col\">\n        <h5 class=\"video-title\">Lecture 21: Weather Minimums and Final Tips</h5>\n      </div>\n    </div>\n  </a>\n</div>\n\n\n",
+  "content_type": "video_gallery",
+  "description": "This section includes all video lectures in the MIT course 16.687 Private Pilot Ground School of January IAP, 2019.",
+  "draft": false,
+  "is_media_gallery": true,
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "ocw_type": "CourseSection",
+  "title": "Class Videos",
+  "uid": "2e836fac-1173-eb90-83c9-5e7d58ba5432",
+  "videos": [
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "81456099",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 1: Introduction to Private Pilot Ground School",
+      "uid": "06536eb1-b22e-3ebc-28a7-3b12b772c85a",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec01_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/72892e94de745280b6d4a4f9dc61d58c_jeI3wpulyPw.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/jeI3wpulyPw/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/f04bae170455dfb1dec02b8bd1629b5b_jeI3wpulyPw.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, faa private pilot knowledge test, faa remote pilots uas test, faa written exam, flight training",
+        "youtube_id": "jeI3wpulyPw"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "168617969",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 2: Airplane Aerodynamics",
+      "uid": "6cebedf1-50f3-cdad-0a33-cb97fa9f5cf5",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec02_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/c5331b91523754a7a0346bec1e090cf6_edLnZgF9mUg.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/edLnZgF9mUg/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/a9cc650442f54aead8d49509f9925366_edLnZgF9mUg.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, angle of attack, bernoulli's principle, drag, ground effect, lift, static stability, thrust, weight",
+        "youtube_id": "edLnZgF9mUg"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "83595240",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 3: Learning to Fly",
+      "uid": "a8a152ba-e69a-301b-d274-4aa5a278a87d",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec03_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/897f14ed102c56379668566dbf2e6f3f_PHtPau1c5sU.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/PHtPau1c5sU/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/c88f64eea1f7e00bd252b5b5d3d1ae7d_PHtPau1c5sU.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, faa pilot certificate, glider, private pilots, student pilots, trainer helicopter, trainer plane",
+        "youtube_id": "PHtPau1c5sU"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "117894473",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 4: Aircraft Systems",
+      "uid": "d42871ba-f1c5-3e72-6839-9f1f4ad4bc55",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec04_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/c12c25eb9c165b1580ac3e5bb6e5270f_AYF3spOVbBk.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/AYF3spOVbBk/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/a69398b515ec95bdc468f830e40a7455_AYF3spOVbBk.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, carburator, fuel/air mixture, radial engines, reciprocating engine, turboprop engines",
+        "youtube_id": "AYF3spOVbBk"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "50166947",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Special Lecture: Oshkosh 2018",
+      "uid": "6337e482-e7f7-ef4f-5a9d-66d8707516a9",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_special-oshkosh_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/6fed2a1a65355ff19c860897b66a7942_s67DO7fFM14.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/s67DO7fFM14/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/e1a4ad1055dc42053f49eae42a51b425_s67DO7fFM14.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, airshow, aviation city, eaa airventure, light aircraft enthusiasts, oshkosh 2018",
+        "youtube_id": "s67DO7fFM14"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "70845759",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 5: Charts and Airspace",
+      "uid": "39e8a7db-b438-6693-5b97-a942b80638c8",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec05_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/9bc45936e8765881be8b2a1d6bd021b6_Nts_8ZLIxwo.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/Nts_8ZLIxwo/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/1fda1e27d2aaf21b509fcc4b638656e0_Nts_8ZLIxwo.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, airspace, airways, u.s. sectional charts",
+        "youtube_id": "Nts_8ZLIxwo"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "80692314",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 6: The Flight Environment",
+      "uid": "13482f38-83bc-10d8-0e0a-2ed08836191f",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec06_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/88a11d021a645aaaa5e924d82a469ee6_shHvE6yV4IM.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/shHvE6yV4IM/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/1ebe9893cd0a84d509ca001354335706_shHvE6yV4IM.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, cirrus sr20, lahso, minimum safe altitudes, papi, right-of-way rules, taxiing, vasi",
+        "youtube_id": "shHvE6yV4IM"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "99442554",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 7: Navigation",
+      "uid": "e08a5335-8d87-eef0-2df3-4992bc0def57",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec07_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/df7ed0116d97515ab3f7dcb2229117f8_Th2N_rDfkDw.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/Th2N_rDfkDw/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/28d91c270372962f691a75b17a2e8dc5_Th2N_rDfkDw.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, adf navigation, dead reckoning, e6b, gps navigation, magnetic deviation, pilotage, vor navigation",
+        "youtube_id": "Th2N_rDfkDw"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "87099655",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 8: Helicopter Aerodynamics",
+      "uid": "e5185a4a-9cea-75da-6f48-7ef6146eb00e",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec08_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/24176275ff0c5a36a0b6e6fb8216908d_OlQie93CwLY.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/OlQie93CwLY/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/931a0b17bfb75fb70067e853c813fb0f_OlQie93CwLY.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, autorotation, piston helicopter drivetrain, turbine helicopter drivetrain",
+        "youtube_id": "OlQie93CwLY"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "157129285",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Special Lecture: F-22 Flight Controls",
+      "uid": "409a8d23-21c1-ed83-80cd-f3d3f6965f91",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_special-f22_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/aac6b63e2e3157d9a91ef61e0799563c_n068fel-W9I.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/n068fel-W9I/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/2c01f1d7ebc075333ac1ee9bedbee2f0_n068fel-W9I.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, air refueling mode, cockpit, f-22, fighter jet, pilot command system, thrust vectoring",
+        "youtube_id": "n068fel-W9I"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "136331897",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 9: Meteorology",
+      "uid": "0dde071b-0470-3e79-5578-de939681ca4a",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec09_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/9db938a5a80b5e8d9c8982cdef8ca99f_xPEqTH-c9Cc.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/xPEqTH-c9Cc/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/c8704ca695b1d6a45a25e67b8095f6e2_xPEqTH-c9Cc.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, atmospheric circulation, atmospheric pressure, coriolis effect, vfr weather minimums",
+        "youtube_id": "xPEqTH-c9Cc"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "86983502",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 10: Communication and Flight Information",
+      "uid": "4dcb45a1-41aa-ee12-bd90-122160a97404",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec10_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/e6a025149cf354d3bbf55fff26b14a93_alLh1Jdqwvg.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/alLh1Jdqwvg/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/247672a4af8522b03a278a0daaa9998e_alLh1Jdqwvg.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, atis, common traffic advisory frequency, ctaf, flight service stations, radar services, transponder",
+        "youtube_id": "alLh1Jdqwvg"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "57211233",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 11: Aircraft Ownership and Maintenance",
+      "uid": "5eaab0cf-ef4e-aa51-d9eb-75e530877519",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec11_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/e5231576909656df980fcacc922629b0_MNIYBTHc6mg.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/MNIYBTHc6mg/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/4e3cc906995f86f584f35b39d8979b22_MNIYBTHc6mg.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, aircraft inspections, airwothiness, emergency locator transmitters, maintenance records",
+        "youtube_id": "MNIYBTHc6mg"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "93311672",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Special Lecture: The How and the Why of IFR",
+      "uid": "b681bcd7-451d-15e0-e997-39e3442102eb",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_special-ifr_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/b020dce76784583faa9af74802780f78_6oZL2c3tgps.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/6oZL2c3tgps/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/31a7890829cb2e8ad4c6174f038d8674_6oZL2c3tgps.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, flight instruction, ifr, imc, pre-flight planning, radio cross-check, safety pilot",
+        "youtube_id": "6oZL2c3tgps"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "155177690",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 12: Aircraft Performance",
+      "uid": "27803423-7efd-e4af-fcc4-0cd3560943c9",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec12_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/c4b35321585c5258ad8d6f3f73615846_3sB64Au76h0.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/3sB64Au76h0/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/998479edd14f2905d131a2d5127deb5a_3sB64Au76h0.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, best glide ratio, climb performance, density altitude, humidity, pressure altitude",
+        "youtube_id": "3sB64Au76h0"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "123297321",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 13:  Interpreting Weather Data",
+      "uid": "97205520-32cd-1eda-fba7-b2ff26e4d24c",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec13_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/3263a75507495e2d92b795587eff6155_-dOX_4lI6HY.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/-dOX_4lI6HY/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/a8e25a2476dc05a329622c9996b776b2_-dOX_4lI6HY.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, aviation routine weather report, metar, pilot weather reports, pireps, terminal aerodrome forecast",
+        "youtube_id": "-dOX_4lI6HY"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "108514776",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 14: Human Factors",
+      "uid": "15b664cc-5098-440a-50c3-bd4fdea10500",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec14_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/2a9688c10c9d55789ff11d7ee8f5451f_RSuztJUlgOM.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/RSuztJUlgOM/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/1af32351731f751dbdb9a01c4a58da8d_RSuztJUlgOM.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, g-loc, hyperventilation, hypoxia, spatial disorientation, visual illusions",
+        "youtube_id": "RSuztJUlgOM"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "125053714",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 15: Flight Planning",
+      "uid": "0428c3d8-d990-6613-6c07-b678daeb14d2",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec15_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/7beac599a8225a5e9fead24ec6a099d6_EvcoYJtoQVw.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/EvcoYJtoQVw/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/7e2328294f7cd75f3a29ed5fc291bd8e_EvcoYJtoQVw.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, e6b calculator, flight planning sheet, landing performance, navigation log, takeoff performance",
+        "youtube_id": "EvcoYJtoQVw"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "59842706",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 16: Seaplanes",
+      "uid": "cae8751e-47f0-182e-e729-2db3a233a82a",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec16_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/f9f6014a191e5c8db1c95d15d734fc7c_xsO2Ip6eiaY.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/xsO2Ip6eiaY/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/a01d065631be015e983d32684c290681_xsO2Ip6eiaY.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, beaching, crosswind landing, docking, glassy water landing, seaplane pilot skills",
+        "youtube_id": "xsO2Ip6eiaY"
+      }
+    },
+    {
+      "audience": [],
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "116663390",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "level": [],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 17: Small UAS Operations",
+      "uid": "1606767d-99fb-ea36-72ab-72a861f2c636",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec17_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/66ae72f207885ee8b95ba958d1ba8225_geJHchWUYQk.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/geJHchWUYQk/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/e70eece2e594d5d60d5aa91e8e3285c0_geJHchWUYQk.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, drones, federal aviation administration part 107, small unmanned aircraft systems, uas",
+        "youtube_id": "geJHchWUYQk"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "81093928",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 18: Weight and Balance",
+      "uid": "129e2480-ed6b-cc96-fd52-478abbdeb2cd",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec18_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/cf21a0b959b15237bebda5a9d4ee2743_802a1jvk5Ck.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/802a1jvk5Ck/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/56efdd3d54614b08ac5102a27462c780_802a1jvk5Ck.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, aircraft overloading, center of gravity, cessna p210, chart method, piper warrior, table method",
+        "youtube_id": "802a1jvk5Ck"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "68665567",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 19: Multi-Engine and Jets",
+      "uid": "8e6eeee5-780d-5ae8-0917-f8b330b67cd1",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec19_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/ebeb4cff9e905c7d9382d72109b79b0b_ksyY5wa5_50.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/ksyY5wa5_50/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/cf047d8b68dc1c7050afff6f57ac59de_ksyY5wa5_50.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, phenom 300, piper seminole, piston multi-engine, piston twin, turbofan, twin turboprops",
+        "youtube_id": "ksyY5wa5_50"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "78229335",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 20: Flying at Night",
+      "uid": "b6b0e016-5f39-819a-9797-89c917cd440e",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec20_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/570e8f69afde59cfa1ab8e2975cf10aa_EuNXVy5-KgA.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/EuNXVy5-KgA/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/98194fa3955c22367e5b3aba63f60774_EuNXVy5-KgA.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, airport lighting, night illusions, night vision, pilot-controlled lighting, vfr day reminder",
+        "youtube_id": "EuNXVy5-KgA"
+      }
+    },
+    {
+      "content_type": "resource",
+      "description": "",
+      "draft": false,
+      "end_time": "",
+      "file": null,
+      "file_size": "52449855",
+      "file_type": "",
+      "image_metadata": {
+        "caption": "",
+        "credit": "",
+        "image-alt": ""
+      },
+      "iscjklanguage": false,
+      "learning_resource_types": [
+        "Lecture Videos"
+      ],
+      "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+      "ocw_type": "",
+      "optional_tab_title": "",
+      "optional_text": "",
+      "parent_title": "Class Videos",
+      "parent_type": "CourseSection",
+      "related_resources_text": "",
+      "resource_index_text": "",
+      "resourcetype": "Video",
+      "start_time": "",
+      "title": "Lecture 21: Weather Minimums and Final Tips",
+      "uid": "ea709383-d01d-96fd-b8b4-d9c6be018bed",
+      "video_files": {
+        "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_lec21_300k.mp4",
+        "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/38e697c7b09659849e2478ee86f1fd3c_kiCNa95DnnE.vtt",
+        "video_thumbnail_file": "https://img.youtube.com/vi/kiCNa95DnnE/default.jpg",
+        "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/5349fc9adc74f0a50dcc4d838440cf6f_kiCNa95DnnE.pdf"
+      },
+      "video_metadata": {
+        "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, basic vfr weather minimums, cirrus personal minimum matrix, vfr review",
+        "youtube_id": "kiCNa95DnnE"
+      }
+    }
+  ]
+}
+

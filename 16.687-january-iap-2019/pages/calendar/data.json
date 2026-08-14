@@ -1,0 +1,14 @@
+
+{
+  "content": "<p>\n\n<a name=\"UnityCalendar\"></a><table>\n\n<thead>\n\n<tr>\n\n<th>\n\nDay 1\n</th>\n</p>\n</tr>\n\n<p></thead>\n\n<tr>\n\n<td>\n\nLecture 1: Introduction\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 2: Airplane Aerodynamics\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 3: Learning to Fly\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 4: Aircraft Systems\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nSpecial Lecture: Oshkosh 2018—Safe Space for Light Aircraft Pilots\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 5: Charts and Airspace\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 6: The Flight Environment\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 7: Navigation\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 8: Helicopter Aerodynamics\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nSpecial Lecture: F-22 Flight Controls\n</td>\n</p>\n<p></tr>\n\n<thead>\n\n<tr>\n\n<th>\n\nDay 2\n</th>\n</p>\n</tr>\n\n<p></thead>\n\n<tr>\n\n<td>\n\nLecture 9: Meteorology\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 10: Communication and Flight Information\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 11: Aircraft Ownership and Maintenance\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nSpecial Lecture: The How and the Why of IFR\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 12: Aircraft Performance\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 13: Interpreting Weather Data\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 14: Human Factors\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nSpecial Lecture: Aerobatics\n</td>\n</p>\n<p></tr>\n\n<thead>\n\n<tr>\n\n<th>\n\nDay 3\n</th>\n</p>\n</tr>\n\n<p></thead>\n\n<tr>\n\n<td>\n\nLecture 15: Flight Planning\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 16: Seaplanes\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 17: Small UAS Operations\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 18: Weight and Balance\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 19: Multi-Engine and Jets\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 20: Flying at Night\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\nLecture 21: Weather Minimums and Final Tips\n</td>\n</p>\n</tr>\n\n</table>\n\n",
+  "content_type": "page",
+  "description": "This section provides the class schedule of this three-day workshop.",
+  "draft": false,
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "CourseSection",
+  "title": "Calendar",
+  "uid": "88b807ca-0473-40dd-dd31-f87dd74285d0"
+}
+

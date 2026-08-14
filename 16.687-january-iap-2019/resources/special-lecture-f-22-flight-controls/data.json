@@ -1,0 +1,41 @@
+{
+  "content": "<p>This is a special lecture with Randy Gordon.</p>\n<h2 id=\"description\">Description</h2>\n<p>This lecture featured Lieutenant Colonel Randy Gordon to share experience in flying fighter jet.</p>\n<p><strong>Instructor:</strong> Randy Gordon</p>\n",
+  "content_type": "resource",
+  "description": "",
+  "draft": false,
+  "end_time": "",
+  "file": null,
+  "file_size": "157129285",
+  "file_type": "",
+  "image_metadata": {
+    "caption": "",
+    "credit": "",
+    "image-alt": ""
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "",
+  "optional_tab_title": "",
+  "optional_text": "",
+  "parent_title": "Class Videos",
+  "parent_type": "CourseSection",
+  "related_resources_text": "",
+  "resource_index_text": "",
+  "resourcetype": "Video",
+  "start_time": "",
+  "title": "Special Lecture: F-22 Flight Controls",
+  "uid": "409a8d23-21c1-ed83-80cd-f3d3f6965f91",
+  "video_files": {
+    "archive_url": "https://archive.org/download/MIT16.687IAP19/MIT16_687IAP19_special-f22_300k.mp4",
+    "video_captions_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/aac6b63e2e3157d9a91ef61e0799563c_n068fel-W9I.vtt",
+    "video_thumbnail_file": "https://img.youtube.com/vi/n068fel-W9I/default.jpg",
+    "video_transcript_file": "/courses/16-687-private-pilot-ground-school-january-iap-2019/2c01f1d7ebc075333ac1ee9bedbee2f0_n068fel-W9I.pdf"
+  },
+  "video_metadata": {
+    "video_tags": "16-687-private-pilot-ground-school-january-iap-2019, air refueling mode, cockpit, f-22, fighter jet, pilot command system, thrust vectoring",
+    "youtube_id": "n068fel-W9I"
+  }
+}
