@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Bernoulli’s principle · Flying study notes</title>
+  <meta name="description" content="Bernoulli’s principle of differential pressure for private pilot study—venturi, airfoils, and PHAK framing with Newton." />
+  <link rel="stylesheet" href="../site.css" />
+</head>
+<body>
+  <div class="wrap note">
+    <nav class="note-nav">
+      <a href="../">← Home</a>
+      <a href="./">Notes</a>
+      <a href="../learn/lift-theory/">Lift Theory Lab</a>
+      <a href="../learn/aircraft-performance/">Performance Lab</a>
+      <a href="../quiz/">Quiz</a>
+    </nav>
+
+    <p class="eyebrow">PHAK Ch. 4 · study note</p>
+    <h1>Bernoulli’s principle of differential pressure</h1>
+    <p>
+      In the Pilot’s Handbook of Aeronautical Knowledge, lift is introduced with
+      <strong>Newton’s laws of motion</strong> and
+      <strong>Bernoulli’s principle of differential pressure</strong>.
+      This note is the PHAK pilot-level story—what you need for the knowledge test and clear mental models.
+      For circulation, Kutta–Joukowski, and a fuller theory of lift, use the
+      <a href="../learn/lift-theory/">Lift Theory Lab</a>.
+    </p>
+
+    <h2>The principle (one sentence)</h2>
+    <p>
+      <strong>As the velocity of a moving fluid (liquid or gas) increases, the pressure within the fluid decreases.</strong>
+      (PHAK Ch. 4)
+    </p>
+    <p>
+      “Pressure” here means static pressure—the pressure you would feel if moving with the fluid.
+      Speed up the flow, static pressure drops; slow it down, static pressure rises (along a streamline, under the idealizations Bernoulli assumes).
+    </p>
+
+    <h2>The venturi: Bernoulli in a tube</h2>
+    <p>
+      PHAK’s practical demonstration is the <strong>venturi tube</strong>: inlet → narrow throat → outlet (same diameter as the inlet).
+    </p>
+    <ul>
+      <li>Mass of air entering must equal mass leaving (continuity).</li>
+      <li>At the constriction, speed <strong>increases</strong> so the same mass can pass in the same time.</li>
+      <li>When speed increases, <strong>static pressure decreases</strong>.</li>
+      <li>Downstream of the throat, flow slows and pressure recovers.</li>
+    </ul>
+    <p>
+      Same physics shows up in a <strong>float carburetor venturi</strong>: low pressure at the throat helps meter fuel into the airstream
+      (and contributes to carburetor icing when moist air cools in that low-pressure region).
+    </p>
+
+    <h2>Application to a wing</h2>
+    <p>
+      An airfoil is shaped so that, at a positive angle of attack (and/or with camber), air moving over the
+      <strong>upper surface</strong> is forced to move <strong>faster</strong> than air along the lower surface.
+      By Bernoulli, higher speed above → <strong>lower static pressure above</strong> the wing.
+    </p>
+    <p>
+      That reduced pressure on top is a component of total lift. Under the wing, flow is often slower in places
+      (especially as angle of attack rises), so pressure can be <strong>higher</strong> than free stream—another contribution to lift.
+    </p>
+    <p>
+      PHAK is careful: it is <strong>neither accurate nor useful</strong> to assign fixed percentages like “70% from the top, 30% from the bottom.”
+      Those shares change with design and flight condition.
+    </p>
+
+    <h2>Airfoil vocabulary (from the same chapter)</h2>
+    <table>
+      <thead>
+        <tr><th>Term</th><th>Meaning</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>Camber</strong></td><td>Curvature of upper and lower surfaces (upper often more pronounced)</td></tr>
+        <tr><td><strong>Chord line</strong></td><td>Straight line from leading edge to trailing edge</td></tr>
+        <tr><td><strong>Mean camber line</strong></td><td>Line equidistant from upper and lower surfaces</td></tr>
+        <tr><td><strong>Leading / trailing edge</strong></td><td>Rounded front; tapered rear</td></tr>
+        <tr><td><strong>Angle of attack (AOA)</strong></td><td>Angle between chord line and relative wind</td></tr>
+        <tr><td><strong>Center of pressure (CP)</strong></td><td>Average location of the pressure distribution; moves with AOA</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Bernoulli is not the whole story (PHAK says so)</h2>
+    <ul>
+      <li>Lift is <strong>more complex</strong> than a simple pressure difference alone.</li>
+      <li><strong>Symmetrical</strong> airfoils (same upper and lower shape) still produce lift when flown at AOA—so “longer path on top” is not a complete explanation.</li>
+      <li><strong>Newton’s third law</strong> also operates: the wing imparts downward momentum to the air (downwash); the reaction is an upward force on the wing.</li>
+      <li>PHAK: <strong>both Bernoulli’s principle and Newton’s laws are in operation</strong> whenever lift is generated.</li>
+    </ul>
+
+    <h2>Newton side-by-side (same PHAK section family)</h2>
+    <table>
+      <thead>
+        <tr><th>Law</th><th>Pilot-relevant picture</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>1st</strong></td><td>Body at rest stays at rest / uniform motion until forces act</td></tr>
+        <tr><td><strong>2nd</strong></td><td>Force relates to mass and acceleration of the air (and airplane)</td></tr>
+        <tr><td><strong>3rd</strong></td><td>Action–reaction: prop pushes air back → air pushes airplane forward; wing pushes air down → air pushes wing up</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Knowledge-test style takeaway</h2>
+    <p>
+      Faster flow over the curved upper surface → <strong>lower pressure on top</strong> of the wing
+      (MIT 16.687 / PHAK-aligned practice framing). Keep the caveats above so you don’t oversell a cartoon.
+    </p>
+
+    <h2>Practice deeper</h2>
+    <p>
+      <a class="cta" href="../learn/lift-theory/">Open Lift Theory Lab →</a>
+      (Bernoulli + Newton + circulation / Kutta–Joukowski + myths)
+    </p>
+
+    <h2>Primary sources</h2>
+    <ul>
+      <li>FAA PHAK FAA-H-8083-25C Ch. 4 — Bernoulli’s Principle of Differential Pressure; airfoil design; low/high pressure; Newton’s laws</li>
+      <li>PHAK systems chapters — carburetor venturi (same principle)</li>
+      <li>MIT OCW 16.687 — lift / four forces practice emphasis</li>
+    </ul>
+
+    <p class="muted" style="margin-top: 2rem">
+      <a href="./">← All notes</a> · <a href="density-altitude.html">Density altitude</a> · <a href="../">Home</a>
+    </p>
+  </div>
+</body>
+</html>

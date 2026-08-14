@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Lift Theory Lab · Bernoulli, Newton, Circulation</title>
+  <meta name="description" content="Interactive theory of lift: Bernoulli, Newton/momentum, Kutta–Joukowski circulation, pressure distributions, and common myths." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <p class="eyebrow">PHAK Ch. 4 · graduate stack · learning aid</p>
+      <h1>Lift Theory Lab</h1>
+      <p class="disclaimer">
+        From pilot Bernoulli notes to circulation &amp; Kutta–Joukowski.
+        <a href="../../">Study home</a> ·
+        <a href="../../notes/bernoulli-differential-pressure.html">Bernoulli note</a> ·
+        <a href="../aircraft-performance/">Performance Lab</a> ·
+        <a href="../../quiz/">Quiz</a>
+      </p>
+      <p class="banner">
+        Educational models — <strong>not CFD</strong> and not for flight planning.
+        Surface speeds and \(C_p\) shapes are schematic; equations shown are the standard theory.
+      </p>
+    </header>
+
+    <section class="primer" id="primer">
+      <div class="primer-head">
+        <h2>Before you play: layers of the same lift</h2>
+        <button type="button" class="primer-toggle" id="primerToggle" aria-expanded="true">Collapse</button>
+      </div>
+      <div id="primerBody">
+        <p class="primer-lead">
+          Lift is the aerodynamic force perpendicular to the freestream. It comes from
+          <strong>pressure and shear on the wing surface</strong>. Different “theories” are usually
+          <strong>different descriptions of one flow</strong>—not competing religions.
+        </p>
+        <div class="primer-grid">
+          <div class="primer-card">
+            <h3>Pilot (PHAK)</h3>
+            <p>
+              Faster upper flow → lower static pressure (Bernoulli). Wing also imparts
+              downwash (Newton). PHAK: <strong>both operate</strong>. Symmetrical airfoils still lift at AOA.
+            </p>
+          </div>
+          <div class="primer-card">
+            <h3>Engineering</h3>
+            <p>
+              \(C_p = 1 - (V/V_\infty)^2\). Section \(C_L \approx 2\pi\alpha\) (thin airfoil, rad).
+              2-D: \(L' = \rho V_\infty\Gamma\) (Kutta–Joukowski). Finite wing: induced drag &amp; downwash.
+            </p>
+          </div>
+          <div class="primer-card">
+            <h3>Why viscosity matters</h3>
+            <p>
+              Ideal inviscid flow doesn’t pick a unique circulation. A sharp trailing edge + viscosity
+              enforces the <strong>Kutta condition</strong>, selecting \(\Gamma\) so flow leaves the TE smoothly.
+            </p>
+          </div>
+        </div>
+        <ol class="primer-steps">
+          <li><strong>Bernoulli</strong> — venturi &amp; static vs dynamic pressure</li>
+          <li><strong>Airfoil</strong> — AOA, camber, schematic \(C_p\) and surface speed</li>
+          <li><strong>Newton</strong> — momentum / downwash picture</li>
+          <li><strong>Circulation</strong> — \(\Gamma\), Kutta–Joukowski, thin-airfoil \(C_L\)</li>
+          <li><strong>Synthesis</strong> — myths vs complete stack</li>
+          <li><strong>Guide</strong> — story + quiz</li>
+        </ol>
+        <p class="primer-tip">
+          <strong>Suggested path:</strong> read the
+          <a href="../../notes/bernoulli-differential-pressure.html">Bernoulli note</a>,
+          then walk tabs 1→5, finish with Guide.
+        </p>
+        <p class="primer-jump"><a href="#lab-tabs">Skip to interactive lab ↓</a></p>
+      </div>
+    </section>
+
+    <nav class="tabs" id="lab-tabs" role="tablist">
+      <button type="button" class="tab active" data-mode="bernoulli">1 · Bernoulli</button>
+      <button type="button" class="tab" data-mode="airfoil">2 · Airfoil</button>
+      <button type="button" class="tab" data-mode="newton">3 · Newton</button>
+      <button type="button" class="tab" data-mode="circulation">4 · Circulation</button>
+      <button type="button" class="tab" data-mode="synthesis">5 · Synthesis</button>
+      <button type="button" class="tab" data-mode="guide">6 · Guide</button>
+    </nav>
+
+    <!-- Bernoulli -->
+    <section class="mode active" id="mode-bernoulli">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Venturi &amp; Bernoulli</h2>
+          <p class="sub">Continuity: mass flow conserved. Speed up at the throat → static pressure falls.</p>
+          <div class="eq">p + ½ρV² = H &nbsp; (steady, inviscid, incompressible, along streamline)</div>
+          <label class="ctrl">Inlet speed V<sub>∞</sub> <strong id="vinVal">30 m/s</strong>
+            <input type="range" id="vin" min="10" max="80" step="1" value="30" />
+          </label>
+          <label class="ctrl">Area ratio A<sub>in</sub>/A<sub>throat</sub> <strong id="arVal">2.0</strong>
+            <input type="range" id="areaRatio" min="1.2" max="4" step="0.1" value="2" />
+          </label>
+          <label class="ctrl">Density ρ <strong id="rhoBVal">1.225 kg/m³</strong>
+            <input type="range" id="rhoB" min="0.7" max="1.4" step="0.01" value="1.225" />
+          </label>
+          <div class="stat-row">
+            <div class="stat"><div class="k">V throat</div><div class="v cool" id="vtOut">—</div></div>
+            <div class="stat"><div class="k">Δp (in − throat)</div><div class="v hot" id="dpOut">—</div></div>
+            <div class="stat"><div class="k">C<sub>p</sub> at throat</div><div class="v" id="cpTOut">—</div></div>
+            <div class="stat"><div class="k">Dynamic ½ρV² (in)</div><div class="v" id="qOut">—</div></div>
+          </div>
+          <div class="callout">
+            <strong>PHAK link:</strong> “As the velocity of a moving fluid increases, the pressure within the fluid decreases.”
+            Same idea on the upper surface of a wing.
+          </div>
+        </div>
+        <div class="panel">
+          <h2>Schematic venturi</h2>
+          <p class="sub">Arrow length ∝ speed; color cool = lower static pressure.</p>
+          <div class="viz">
+            <span class="viz-badge">Schematic</span>
+            <canvas id="venturiCanvas" width="520" height="280"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Airfoil -->
+    <section class="mode" id="mode-airfoil">
+      <div class="presets" id="airfoilPresets"></div>
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Airfoil pressure field</h2>
+          <p class="sub">AOA and camber set a schematic surface-speed / C<sub>p</sub> distribution (not a panel code).</p>
+          <label class="ctrl">Angle of attack <strong id="alphaVal">4°</strong>
+            <input type="range" id="alpha" min="-4" max="18" step="0.5" value="4" />
+          </label>
+          <label class="ctrl">Camber (toy) <strong id="camberVal">0.35</strong>
+            <input type="range" id="camber" min="0" max="1" step="0.05" value="0.35" />
+          </label>
+          <label class="ctrl">True airspeed V<sub>∞</sub> <strong id="vinfVal">50 m/s</strong>
+            <input type="range" id="vinf" min="20" max="100" step="1" value="50" />
+          </label>
+          <label class="ctrl">Density ρ <strong id="rhoAVal">1.225</strong>
+            <input type="range" id="rhoA" min="0.7" max="1.4" step="0.01" value="1.225" />
+          </label>
+          <div class="stat-row">
+            <div class="stat"><div class="k">Thin-airfoil C<sub>L</sub></div><div class="v good" id="clOut">—</div></div>
+            <div class="stat"><div class="k">Dist. ΔC<sub>p</sub> proxy</div><div class="v" id="clDistOut">—</div></div>
+            <div class="stat"><div class="k">Lift (S=15 m² toy)</div><div class="v hot" id="liftOut">—</div></div>
+            <div class="stat"><div class="k">C<sub>p</sub> = 1 − (V/V<sub>∞</sub>)²</div><div class="v" id="cpNote">local</div></div>
+          </div>
+          <div class="callout">
+            <strong>Try:</strong> camber = 0, AOA = 0 → CL ≈ 0 (symmetrical zero-lift).
+            Raise AOA with camber still 0 — lift without a “longer path.”
+          </div>
+        </div>
+        <div class="panel">
+          <h2>Section + C<sub>p</sub> sketch</h2>
+          <p class="sub">Cyan = upper suction tendency; orange = lower. TE speeds converge (Kutta-ish).</p>
+          <div class="viz">
+            <span class="viz-badge">Schematic C<sub>p</sub></span>
+            <canvas id="airfoilCanvas" width="520" height="280"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Newton -->
+    <section class="mode" id="mode-newton">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Momentum / downwash</h2>
+          <p class="sub">Control-volume view: the wing gives the air downward momentum; reaction is lift.</p>
+          <div class="eq">F = ṁ Δv &nbsp; → &nbsp; L ≈ ṁ · v<sub>down</sub> &nbsp; (order-of-magnitude picture)</div>
+          <label class="ctrl">Mass flow through streamtube (toy) <strong id="mdotVal">200 kg/s</strong>
+            <input type="range" id="mdot" min="50" max="600" step="10" value="200" />
+          </label>
+          <label class="ctrl">Mean downwash speed <strong id="vdwVal">5 m/s</strong>
+            <input type="range" id="vdw" min="0" max="20" step="0.5" value="5" />
+          </label>
+          <div class="stat-row">
+            <div class="stat"><div class="k">Lift ≈ ṁ v<sub>d</sub></div><div class="v good" id="liftNOut">—</div></div>
+            <div class="stat"><div class="k">Power into wake (toy)</div><div class="v" id="powerNOut">—</div></div>
+            <div class="stat"><div class="k">ε downwash (from CL, AR)</div><div class="v" id="epsOut">—</div></div>
+            <div class="stat"><div class="k">C<sub>D,i</sub> ≈ CL²/(πeAR)</div><div class="v hot" id="cdiOut">—</div></div>
+          </div>
+          <div class="callout">
+            <strong>PHAK:</strong> downwash meets flow from below at the TE; Newton’s third law → upward force on the airfoil.
+            Finite span: tip vortices sustain the downwash field → <em>induced drag</em>.
+          </div>
+        </div>
+        <div class="panel">
+          <h2>Streamtube deflection</h2>
+          <p class="sub">Streamlines bend downward aft of the wing (schematic).</p>
+          <div class="viz">
+            <span class="viz-badge">Schematic</span>
+            <canvas id="newtonCanvas" width="520" height="280"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Circulation -->
+    <section class="mode" id="mode-circulation">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Circulation &amp; Kutta–Joukowski</h2>
+          <p class="sub">2-D inviscid airfoil: lift per unit span is fixed by freestream and circulation.</p>
+          <div class="eq">L′ = ρ<sub>∞</sub> V<sub>∞</sub> Γ &nbsp;&nbsp;·&nbsp;&nbsp; Γ = ½ c V<sub>∞</sub> C<sub>L</sub> &nbsp;&nbsp;·&nbsp;&nbsp; C<sub>L</sub> ≈ 2π α</div>
+          <label class="ctrl">AOA (for thin-airfoil CL) <strong id="alphaCVal">4°</strong>
+            <input type="range" id="alphaC" min="0" max="14" step="0.5" value="4" />
+          </label>
+          <label class="ctrl">Chord c <strong id="chordVal">1.5 m</strong>
+            <input type="range" id="chord" min="0.8" max="3" step="0.1" value="1.5" />
+          </label>
+          <label class="ctrl">V<sub>∞</sub> <strong id="vinfCVal">50 m/s</strong>
+            <input type="range" id="vinfC" min="20" max="100" step="1" value="50" />
+          </label>
+          <label class="ctrl">Aspect ratio AR (3-D tip) <strong id="arWingVal">7</strong>
+            <input type="range" id="arWing" min="4" max="14" step="0.5" value="7" />
+          </label>
+          <div class="stat-row">
+            <div class="stat"><div class="k">C<sub>L</sub> ≈ 2πα</div><div class="v good" id="clCOut">—</div></div>
+            <div class="stat"><div class="k">Γ circulation</div><div class="v cool" id="gammaOut">—</div></div>
+            <div class="stat"><div class="k">L′ = ρVΓ</div><div class="v hot" id="lpOut">—</div></div>
+            <div class="stat"><div class="k">L′ via ½ρV²cCL</div><div class="v" id="lp2Out">—</div></div>
+          </div>
+          <div class="callout">
+            <strong>Kutta condition:</strong> real flow leaves a sharp trailing edge smoothly; that selects \(\Gamma\).
+            Ideal potential flow without Kutta cannot decide how much lift the airfoil carries.
+          </div>
+        </div>
+        <div class="panel">
+          <h2>Bound vortex sketch</h2>
+          <p class="sub">Circulation around the section; freestream + vortex → net streamline pattern (cartoon).</p>
+          <div class="viz">
+            <span class="viz-badge">2-D idealization</span>
+            <canvas id="circCanvas" width="520" height="280"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Synthesis -->
+    <section class="mode" id="mode-synthesis">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Complete stack (one flow, many views)</h2>
+          <p class="sub">Use this as the “graduate” summary card.</p>
+          <ol class="primer-steps">
+            <li><strong>Definition:</strong> Lift from integrated surface pressure &amp; shear.</li>
+            <li><strong>Bernoulli / C<sub>p</sub>:</strong> maps surface speed to pressure.</li>
+            <li><strong>Newton / momentum:</strong> far-field downwash &amp; force balance on a control volume.</li>
+            <li><strong>Circulation:</strong> L′ = ρVΓ with Γ fixed by Kutta (2-D).</li>
+            <li><strong>3-D:</strong> tip vortices, induced drag, span efficiency.</li>
+            <li><strong>Reality:</strong> viscosity, separation, compressibility, unsteady flow limit every simple model.</li>
+          </ol>
+          <div class="myth"><strong>Myth:</strong> Equal transit time — air above and below must rejoin after equal times.</div>
+          <div class="truth"><strong>Truth:</strong> Upper flow is typically faster; parcels do not take equal time. Lift does not require that myth.</div>
+          <div class="myth"><strong>Myth:</strong> Bernoulli <em>or</em> Newton — pick one.</div>
+          <div class="truth"><strong>Truth:</strong> Complementary. PHAK: both operate when lift is produced.</div>
+          <div class="myth"><strong>Myth:</strong> Only the bottom “pushes up.”</div>
+          <div class="truth"><strong>Truth:</strong> Full pressure field; upper-surface suction is often large.</div>
+        </div>
+        <div class="panel">
+          <h2>Live consistency check</h2>
+          <p class="sub">Thin-airfoil CL from current airfoil sliders; KJ lift matches ½ρV²cCL form.</p>
+          <div class="stat-row">
+            <div class="stat"><div class="k">α / camber</div><div class="v" id="synAlpha">—</div></div>
+            <div class="stat"><div class="k">C<sub>L</sub></div><div class="v good" id="synCL">—</div></div>
+            <div class="stat"><div class="k">Γ</div><div class="v cool" id="synG">—</div></div>
+            <div class="stat"><div class="k">L′ match?</div><div class="v" id="synMatch">—</div></div>
+          </div>
+          <div class="viz" style="height: 200px; margin-top: 0.75rem">
+            <span class="viz-badge">Linked to Airfoil tab</span>
+            <canvas id="synCanvas" width="520" height="200"></canvas>
+          </div>
+          <div class="callout">
+            Change AOA on the <strong>Airfoil</strong> tab, then return here — synthesis numbers follow the same state.
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Guide -->
+    <section class="mode" id="mode-guide">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Guided story</h2>
+          <div class="story-nav">
+            <button type="button" class="primary" id="storyPrev">Previous</button>
+            <button type="button" class="primary" id="storyNext">Next</button>
+            <button type="button" class="ghost" id="storyJump">Open that tab</button>
+            <span class="step-ind" id="storyInd">1 / 5</span>
+          </div>
+          <div class="story-card">
+            <h3 id="storyTitle">—</h3>
+            <p id="storyText">—</p>
+          </div>
+        </div>
+        <div class="panel">
+          <h2>Check yourself</h2>
+          <div id="quizBox"></div>
+          <div style="margin-top: 0.85rem; display: flex; gap: 0.5rem">
+            <button type="button" id="quizPrev">Previous</button>
+            <button type="button" id="quizNext">Next</button>
+          </div>
+        </div>
+      </div>
+      <div class="panel" style="margin-top: 1rem">
+        <h2>About / equations / limits</h2>
+        <ul class="about-list">
+          <li>Bernoulli form shown is incompressible, steady, inviscid, along a streamline.</li>
+          <li>Thin-airfoil \(C_L \approx 2\pi\alpha\) (α in radians) is small-AOA theory for thin sections; stalls are cartooned.</li>
+          <li>Kutta–Joukowski is 2-D; real wings need finite-span corrections.</li>
+          <li>Canvas drawings are pedagogical—not wind-tunnel data.</li>
+          <li>Sources: FAA PHAK Ch. 4; standard undergrad aero (Anderson / Kuethe-style curriculum topics).</li>
+        </ul>
+      </div>
+    </section>
+
+    <footer class="note">
+      <a href="../../notes/bernoulli-differential-pressure.html">Bernoulli note</a> ·
+      <a href="../../notes/density-altitude.html">Density altitude</a> ·
+      <a href="../aircraft-performance/">Performance Lab</a> ·
+      <a href="../../">Home</a>
+    </footer>
+  </div>
+  <script src="model.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

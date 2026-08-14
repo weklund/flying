@@ -14,9 +14,11 @@ Personal study notes and interactive tools for private pilot ground school, buil
 |------|------|
 | Home | `/` |
 | **Aircraft Performance Lab** | `/learn/aircraft-performance/` |
+| **Lift Theory Lab** | `/learn/lift-theory/` |
 | Practice quiz | `/quiz/` |
 | Study notes | `/notes/` |
 | Density altitude note | `/notes/density-altitude.html` |
+| Bernoulli note | `/notes/bernoulli-differential-pressure.html` |
 
 ## What’s in the repo
 
@@ -24,8 +26,9 @@ Personal study notes and interactive tools for private pilot ground school, buil
 |------|-------------|
 | [`index.html`](index.html) | Study hub (GitHub Pages home) |
 | [`learn/aircraft-performance/`](learn/aircraft-performance/) | Interactive density altitude & performance lab |
+| [`learn/lift-theory/`](learn/lift-theory/) | Interactive lift theory (Bernoulli → circulation) |
 | [`quiz/`](quiz/) | Browser practice quiz |
-| [`notes/`](notes/) | Short HTML study notes |
+| [`notes/`](notes/) | Short HTML study notes (DA, Bernoulli, …) |
 | [`STUDY_INDEX.md`](STUDY_INDEX.md) | Session-by-session MIT 16.687 index |
 | [`16.687-january-iap-2019/`](16.687-january-iap-2019/) | Offline OCW HTML dump (optional local) |
 | [`study/faa-handbooks/`](study/faa-handbooks/) | Download script + sources (PDFs gitignored — too large) |
