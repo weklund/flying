@@ -17,6 +17,7 @@ Personal study notes and interactive tools for private pilot ground school, buil
 | **Lift Theory Lab** | `/learn/lift-theory/` |
 | **AOA & Load Factor Lab** | `/learn/aoa-load-factor/` |
 | **Drag Polar Lab** | `/learn/drag-polar/` |
+| **Weight & Balance Lab** | `/learn/weight-balance/` |
 | Practice quiz | `/quiz/` |
 | Study notes | `/notes/` |
 | Density altitude | `/notes/density-altitude.html` |
@@ -28,6 +29,7 @@ Personal study notes and interactive tools for private pilot ground school, buil
 | Left-turning tendencies | `/notes/left-turning-tendencies.html` |
 | Forces in maneuvers | `/notes/forces-in-maneuvers.html` |
 | Stability | `/notes/stability.html` |
+| Weight and balance | `/notes/weight-and-balance.html` |
 
 ## What’s in the repo
 
@@ -38,6 +40,7 @@ Personal study notes and interactive tools for private pilot ground school, buil
 | [`learn/lift-theory/`](learn/lift-theory/) | Interactive lift theory (Bernoulli → circulation) |
 | [`learn/aoa-load-factor/`](learn/aoa-load-factor/) | Interactive AOA, stall, load factor (PHAK Ch. 5) |
 | [`learn/drag-polar/`](learn/drag-polar/) | Interactive parasite/induced drag & L/D |
+| [`learn/weight-balance/`](learn/weight-balance/) | Interactive W&B loading (toy airplane) |
 | [`quiz/`](quiz/) | Browser practice quiz |
 | [`notes/`](notes/) | Short HTML study notes (DA, Bernoulli, …) |
 | [`STUDY_INDEX.md`](STUDY_INDEX.md) | Session-by-session MIT 16.687 index |

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Weight and balance · Flying study notes</title>
+  <meta name="description" content="Weight and balance mental models: moment, arm, CG, envelope, forward vs aft CG for private pilots." />
+  <link rel="stylesheet" href="../site.css" />
+</head>
+<body>
+  <div class="wrap note">
+    <nav class="note-nav">
+      <a href="../">← Home</a>
+      <a href="./">Notes</a>
+      <a href="../learn/weight-balance/">W&amp;B Lab</a>
+      <a href="stability.html">Stability</a>
+      <a href="../quiz/">Quiz</a>
+    </nav>
+
+    <p class="eyebrow">PHAK Ch. 10 · Ch. 5 CG link · study note</p>
+    <h1>Weight and balance</h1>
+    <p>
+      Loading is not just “don’t exceed gross weight.”
+      You must keep <strong>total weight</strong> and the <strong>center of gravity (CG)</strong> inside the approved envelope.
+      Math is simple; judgment is not. Practice:
+      <a href="../learn/weight-balance/">Weight &amp; Balance Lab</a> (toy airplane, not your AFM).
+    </p>
+
+    <h2>Why it matters</h2>
+    <ul>
+      <li><strong>Controllability / stability:</strong> CG position drives longitudinal stability (see <a href="stability.html">stability</a>). Outside limits, elevator authority or recovery can fail.</li>
+      <li><strong>Structure:</strong> overweight raises loads in turbulence and on landing gear.</li>
+      <li><strong>Performance:</strong> higher weight → higher stall speed, longer takeoff/landing, worse climb (stacks with <a href="density-altitude.html">density altitude</a>).</li>
+    </ul>
+
+    <h2>Core math</h2>
+    <figure class="fig">
+      <img src="images/wb-moment-seesaw.svg" width="720" height="260" alt="Datum, arm, weight, and formula moment equals weight times arm" />
+      <figcaption>
+        <strong>Figure 1.</strong> Everything is measured from the manufacturer’s <strong>datum</strong>.
+      </figcaption>
+    </figure>
+
+    <p><code>Moment = Weight × Arm</code></p>
+    <p><code>CG = Total Moment ÷ Total Weight</code></p>
+    <p>
+      Units: weight in lb (or kg), arm in inches (or mm) from datum, moment in lb·in (or equivalent).
+      Aft of the datum is usually positive.
+    </p>
+
+    <table>
+      <thead>
+        <tr><th>Term</th><th>Meaning</th></tr>
+      </thead>
+      <tbody>
+        <tr><td><strong>Datum</strong></td><td>Imaginary reference plane; all arms measured from it</td></tr>
+        <tr><td><strong>Arm / station</strong></td><td>Distance from datum to an item’s CG</td></tr>
+        <tr><td><strong>Moment</strong></td><td>Weight × arm (rotational “leverage” about the reference)</td></tr>
+        <tr><td><strong>Basic empty weight</strong></td><td>Common starting point (empty + optional equipment; check aircraft records)</td></tr>
+        <tr><td><strong>Useful load</strong></td><td>Max weight − empty (people, bags, usable fuel…)</td></tr>
+        <tr><td><strong>Payload</strong></td><td>Occupants + cargo (fuel separate in many definitions)</td></tr>
+        <tr><td><strong>Usable fuel</strong></td><td>Fuel that can be used in flight (~6 lb/gal avgas rule of thumb)</td></tr>
+      </tbody>
+    </table>
+
+    <h2>The two checks</h2>
+    <figure class="fig">
+      <img src="images/wb-envelope.svg" width="720" height="300" alt="Weight versus CG envelope with approved region" />
+      <figcaption>
+        <strong>Figure 2.</strong> You need both: under max weight <em>and</em> CG inside forward/aft limits (limits can change with weight on real envelopes).
+      </figcaption>
+    </figure>
+
+    <ol>
+      <li>Start with empty weight and empty moment from the aircraft’s W&amp;B data.</li>
+      <li>Add each item: fuel, seats, baggage—with the <strong>correct arm</strong> from the AFM/POH.</li>
+      <li>Sum weights and moments → compute CG.</li>
+      <li>Compare to max weight and CG envelope (graph or table method in the AFM).</li>
+    </ol>
+
+    <h2>Forward vs aft CG</h2>
+    <figure class="fig">
+      <img src="images/wb-forward-aft.svg" width="720" height="280" alt="Forward CG versus aft CG effects on stability and handling" />
+      <figcaption>
+        <strong>Figure 3.</strong> Same physics as longitudinal stability in Ch. 5—loading is how you move the CG day to day.
+      </figcaption>
+    </figure>
+
+    <h2>Fuel burn and shifts</h2>
+    <ul>
+      <li>Burning fuel changes weight and often CG (depends where the tanks are).</li>
+      <li>Moving bags between compartments changes moment without changing total weight much if only shifting.</li>
+      <li>When in doubt, recompute for takeoff <em>and</em> for landing (fuel remaining).</li>
+    </ul>
+
+    <h2>Pilot habits</h2>
+    <ul>
+      <li>Use <strong>this airplane’s</strong> current empty weight/moment (equipment changes matter).</li>
+      <li>Don’t trust passenger “guess weights”—pad for safety.</li>
+      <li>Heavy + high DA + aft/forward extreme CG is a common accident recipe.</li>
+    </ul>
+
+    <h2>Practice</h2>
+    <p>
+      <a class="cta" href="../learn/weight-balance/">Open Weight &amp; Balance Lab →</a>
+    </p>
+
+    <h2>Sources</h2>
+    <ul>
+      <li>FAA PHAK Ch. 10 — Weight and Balance</li>
+      <li>PHAK Ch. 5 — longitudinal stability / CG</li>
+      <li>MIT 16.687 Lecture 18 — terms, moment, forward/aft effects</li>
+    </ul>
+    <p class="muted">Figures are educational schematics. Real limits come only from the AFM/POH.</p>
+
+    <p class="muted" style="margin-top: 2rem">
+      <a href="./">← Notes</a> · <a href="stability.html">Stability</a> · <a href="density-altitude.html">Density altitude</a>
+    </p>
+  </div>
+</body>
+</html>

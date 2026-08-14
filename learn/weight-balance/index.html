@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Weight &amp; Balance Lab</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <p class="eyebrow">PHAK Ch. 10 · learning aid</p>
+      <h1>Weight &amp; Balance Lab</h1>
+      <p class="disclaimer">
+        Toy loading calculator — <strong>not your AFM/POH</strong>.
+        <a href="../../">Home</a> ·
+        <a href="../../notes/weight-and-balance.html">Note</a> ·
+        <a href="../../notes/stability.html">Stability</a>
+      </p>
+      <p class="banner">
+        Educational envelope only. Real airplanes use the empty weight/moment and envelope from aircraft documents.
+      </p>
+    </header>
+
+    <section class="primer" id="primer">
+      <div class="primer-head">
+        <h2>Before you play</h2>
+        <button type="button" class="primer-toggle" id="primerToggle">Collapse</button>
+      </div>
+      <div id="primerBody">
+        <p class="primer-lead">
+          <strong>Moment = weight × arm</strong>. Sum everything, then
+          <strong>CG = total moment ÷ total weight</strong>.
+          Pass only if weight ≤ max <em>and</em> CG is inside the envelope.
+        </p>
+        <p class="primer-tip">
+          Read the <a href="../../notes/weight-and-balance.html">W&amp;B note</a> first. This lab uses a fictional trainer.
+        </p>
+        <p class="primer-jump"><a href="#lab-tabs">Skip to lab ↓</a></p>
+      </div>
+    </section>
+
+    <nav class="tabs" id="lab-tabs">
+      <button type="button" class="tab active" data-mode="load">1 · Load</button>
+      <button type="button" class="tab" data-mode="envelope">2 · Envelope</button>
+      <button type="button" class="tab" data-mode="guide">3 · Guide</button>
+    </nav>
+
+    <section class="mode active" id="mode-load">
+      <div class="presets" id="presets"></div>
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Loading (toy trainer)</h2>
+          <p class="sub" id="acLabel">—</p>
+          <label class="ctrl">Front seats (lb) <strong id="frontVal">340</strong>
+            <input type="range" id="front" min="0" max="400" step="5" value="340" />
+          </label>
+          <label class="ctrl">Rear seats (lb) <strong id="rearVal">0</strong>
+            <input type="range" id="rear" min="0" max="400" step="5" value="0" />
+          </label>
+          <label class="ctrl">Fuel (gal × 6 lb) <strong id="fuelVal">30 gal</strong>
+            <input type="range" id="fuel" min="0" max="50" step="1" value="30" />
+          </label>
+          <label class="ctrl">Baggage (lb) <strong id="bagVal">20</strong>
+            <input type="range" id="bag" min="0" max="120" step="5" value="20" />
+          </label>
+          <label class="ctrl">Fuel burned after takeoff (gal) <strong id="burnVal">0</strong>
+            <input type="range" id="burn" min="0" max="40" step="1" value="0" />
+          </label>
+          <div class="stat-row">
+            <div class="stat"><div class="k">Total weight</div><div class="v" id="wOut">—</div></div>
+            <div class="stat"><div class="k">CG</div><div class="v cool" id="cgOut">—</div></div>
+            <div class="stat"><div class="k">Total moment</div><div class="v" id="mOut">—</div></div>
+            <div class="stat"><div class="k">Useful load used</div><div class="v" id="uOut">—</div></div>
+          </div>
+          <div class="verdict ok" id="verdict">OK</div>
+          <p class="tape-caption" id="verdictDetail"></p>
+        </div>
+        <div class="panel">
+          <h2>Station table</h2>
+          <div id="tableHost" style="overflow-x:auto;font-size:0.85rem"></div>
+          <div class="callout" style="margin-top:0.75rem">
+            Arms (in): front 37 · fuel 48 · rear 73 · baggage 95 · empty CG 38.5
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mode" id="mode-envelope">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Weight–CG envelope</h2>
+          <p class="sub">Green polygon = approved (toy). Dot = current loading; open circle = after fuel burn.</p>
+          <div class="stat-row">
+            <div class="stat"><div class="k">Takeoff</div><div class="v" id="toStatus">—</div></div>
+            <div class="stat"><div class="k">After burn</div><div class="v" id="ldStatus">—</div></div>
+          </div>
+          <div class="callout">
+            Try <strong>Aft-heavy bags</strong> or <strong>Four souls + bags</strong> presets to leave the envelope.
+          </div>
+        </div>
+        <div class="panel">
+          <div class="viz" style="height:320px">
+            <span class="viz-badge">Toy envelope</span>
+            <canvas id="envCanvas" width="520" height="320"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mode" id="mode-guide">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Story</h2>
+          <div class="story-nav">
+            <button type="button" class="primary" id="storyPrev">Previous</button>
+            <button type="button" class="primary" id="storyNext">Next</button>
+            <span class="step-ind" id="storyInd">1 / 4</span>
+          </div>
+          <div class="story-card">
+            <h3 id="storyTitle">—</h3>
+            <p id="storyText">—</p>
+          </div>
+        </div>
+        <div class="panel">
+          <h2>Quiz</h2>
+          <div id="quizBox"></div>
+          <div style="margin-top:0.85rem;display:flex;gap:0.5rem">
+            <button type="button" id="quizPrev">Previous</button>
+            <button type="button" id="quizNext">Next</button>
+          </div>
+        </div>
+      </div>
+      <div class="panel" style="margin-top:1rem">
+        <h2>About this toy airplane</h2>
+        <ul class="about-list">
+          <li>Empty 1600 lb @ 38.5″ · Max takeoff 2400 lb · Fuel 6 lb/gal</li>
+          <li>Envelope is simplified for teaching—not a real type certificate.</li>
+          <li>Always use the POH loading graph/table for the airplane you fly.</li>
+        </ul>
+      </div>
+    </section>
+
+    <footer class="note">
+      <a href="../../notes/weight-and-balance.html">Note</a> ·
+      <a href="../../notes/stability.html">Stability</a> ·
+      <a href="../aircraft-performance/">Performance Lab</a> ·
+      <a href="../../">Home</a>
+    </footer>
+  </div>
+  <script src="model.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

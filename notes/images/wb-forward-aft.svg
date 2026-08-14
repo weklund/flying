@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" role="img" aria-labelledby="t3 d3">
+  <title id="t3">Effects of forward versus aft center of gravity</title>
+  <desc id="d3">Two panels summarizing forward CG more stable harder flare and aft CG less stable harder stall recovery.</desc>
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="280" rx="12" fill="url(#bg3)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">FORWARD vs AFT CG</text>
+  <text x="24" y="50" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">Same link as Ch. 5 stability — loading moves the CG</text>
+
+  <rect x="30" y="75" width="320" height="175" rx="10" fill="#182338" stroke="rgba(91,157,255,0.35)"/>
+  <text x="190" y="105" text-anchor="middle" fill="#5b9dff" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Forward CG</text>
+  <text x="50" y="135" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">• More longitudinal stability</text>
+  <text x="50" y="158" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">• Harder to rotate / flare</text>
+  <text x="50" y="181" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">• Higher stall speed (typical)</text>
+  <text x="50" y="204" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">• Longer takeoff; more tail download</text>
+  <text x="50" y="230" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Too far forward → may not rotate</text>
+
+  <rect x="370" y="75" width="320" height="175" rx="10" fill="#182338" stroke="rgba(255,107,122,0.35)"/>
+  <text x="530" y="105" text-anchor="middle" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Aft CG</text>
+  <text x="390" y="135" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">• Less longitudinal stability</text>
+  <text x="390" y="158" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">• Lighter stick; easy to over-rotate</text>
+  <text x="390" y="181" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">• Stall recovery can be harder</text>
+  <text x="390" y="204" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">• Often better cruise (less trim drag)</text>
+  <text x="390" y="230" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Too far aft → dangerous controllability</text>
+</svg>

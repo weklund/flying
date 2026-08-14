@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="t2 d2">
+  <title id="t2">Weight and CG must both stay inside the envelope</title>
+  <desc id="d2">Graph of weight versus CG with approved envelope region and out-of-limits zones.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="300" rx="12" fill="url(#bg2)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">CG ENVELOPE (CONCEPT)</text>
+  <text x="24" y="50" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">Both total weight AND CG location must be inside approved limits</text>
+
+  <line x1="80" y1="250" x2="420" y2="250" stroke="rgba(255,255,255,0.25)" stroke-width="2"/>
+  <line x1="80" y1="250" x2="80" y2="80" stroke="rgba(255,255,255,0.25)" stroke-width="2"/>
+  <text x="230" y="275" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">CG position (forward → aft)</text>
+  <text x="30" y="170" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12" transform="rotate(-90 30,170)">Weight</text>
+
+  <!-- envelope polygon -->
+  <polygon points="140,230 160,110 340,110 360,230" fill="rgba(62,207,142,0.2)" stroke="#3ecf8e" stroke-width="2.5"/>
+  <text x="230" y="175" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Approved</text>
+
+  <text x="100" y="100" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="11">Too heavy</text>
+  <line x1="80" y1="100" x2="400" y2="100" stroke="rgba(255,107,122,0.4)" stroke-dasharray="4 3"/>
+  <text x="370" y="200" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="11">Aft of limit</text>
+  <text x="90" y="200" fill="#7ecbff" font-family="system-ui,sans-serif" font-size="11">Forward</text>
+  <text x="90" y="215" fill="#7ecbff" font-family="system-ui,sans-serif" font-size="11">of limit</text>
+
+  <rect x="460" y="90" width="230" height="160" rx="10" fill="#182338" stroke="rgba(255,255,255,0.08)"/>
+  <text x="475" y="120" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Two checks</text>
+  <text x="475" y="150" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">1. Weight ≤ max takeoff</text>
+  <text x="475" y="175" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">2. CG between fwd &amp; aft</text>
+  <text x="475" y="200" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">   limits at that weight</text>
+  <text x="475" y="230" fill="#f0c14b" font-family="system-ui,sans-serif" font-size="11">Use your AFM/POH envelope</text>
+</svg>
