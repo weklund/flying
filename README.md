@@ -8,9 +8,7 @@ Personal study notes and interactive tools for private pilot ground school, buil
 
 ## Live site (GitHub Pages)
 
-After you push this repo and enable Pages (workflow included):
-
-`https://<your-username>.github.io/<repo-name>/`
+**https://weklund.github.io/flying/**
 
 | Page | Path |
 |------|------|
