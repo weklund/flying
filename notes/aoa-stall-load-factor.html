@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AOA, stall &amp; load factor · Flying study notes</title>
+  <meta name="description" content="Angle of attack, critical AOA, stalls at any speed, load factor in turns, and stall speed vs load factor for private pilots." />
+  <link rel="stylesheet" href="../site.css" />
+</head>
+<body>
+  <div class="wrap note">
+    <nav class="note-nav">
+      <a href="../">← Home</a>
+      <a href="./">Notes</a>
+      <a href="../learn/aoa-load-factor/">AOA Lab</a>
+      <a href="../learn/lift-theory/">Lift Theory</a>
+      <a href="../quiz/">Quiz</a>
+    </nav>
+
+    <p class="eyebrow">PHAK Ch. 5 · study note</p>
+    <h1>Angle of attack, stall &amp; load factor</h1>
+    <p>
+      Chapter 5 moves from “what is lift?” to <strong>how the wing is operated</strong>:
+      angle of attack, stalls, and how banked turns and pull-ups raise load factor and stall speed.
+      Interactive practice:
+      <a href="../learn/aoa-load-factor/">AOA &amp; Load Factor Lab</a>.
+    </p>
+
+    <h2>Angle of attack</h2>
+    <p>
+      <strong>Angle of attack (AOA)</strong> is the angle between the wing’s
+      <strong>chord line</strong> and the <strong>relative wind</strong>.
+      It is <em>not</em> pitch attitude relative to the horizon.
+    </p>
+
+    <figure class="fig">
+      <img src="images/aoa-geometry.svg" width="720" height="280" alt="Airfoil with chord line, relative wind, and angle of attack labeled separately from the horizon" />
+      <figcaption>
+        <strong>Figure 1.</strong> AOA is a wing–flow angle. Nose-high or nose-low relative to the horizon is a different idea (pitch attitude).
+      </figcaption>
+    </figure>
+
+    <h2>Stall = critical AOA</h2>
+    <p>
+      As AOA increases, lift coefficient rises—until the airflow can no longer stay attached over the upper surface.
+      That AOA is the <strong>critical angle of attack</strong>. Beyond it: separation, large loss of lift, a stall.
+    </p>
+    <p>
+      PHAK emphasis (knowledge-test and safety critical):
+    </p>
+    <ul>
+      <li>An airplane can stall <strong>at any airspeed</strong>.</li>
+      <li>For a given configuration, the wing stalls at the <strong>same critical AOA</strong>.</li>
+      <li>Critical AOA does <strong>not</strong> change just because you bank or change weight—what changes is the <strong>speed</strong> needed to support the airplane at that AOA under the current load factor.</li>
+      <li>Airspeed alone is not a complete stall-avoidance parameter (published 1 G stall speeds assume unaccelerated flight).</li>
+    </ul>
+
+    <figure class="fig">
+      <img src="images/stall-critical-aoa.svg" width="720" height="300" alt="CL versus AOA curve with critical AOA at the peak, myth that stalls only happen at low airspeed" />
+      <figcaption>
+        <strong>Figure 2.</strong> Stall is an AOA event. High speed + high load factor can reach critical AOA just as low speed + 1 G can.
+      </figcaption>
+    </figure>
+
+    <h2>Spins (short)</h2>
+    <p>
+      An <strong>uncoordinated</strong> stall can develop into a spin: both wings stalled, one more deeply, with autorotation.
+      Recovery knowledge matters even though spin training is not required for the private pilot certificate.
+    </p>
+
+    <h2>Load factor</h2>
+    <p>
+      <strong>Load factor</strong> \(n\) is the ratio of the aerodynamic load on the airplane to its weight (often spoken in “Gs”).
+      In straight-and-level unaccelerated flight, \(n = 1\).
+      In a coordinated <strong>level turn</strong>, lift must both support weight and provide the horizontal force that turns the airplane path:
+    </p>
+    <p><code>n = 1 / cos(φ)</code> &nbsp; (φ = bank angle)</p>
+
+    <figure class="fig">
+      <img src="images/load-factor-bank.svg" width="720" height="300" alt="Banked airplane with lift and weight vectors; table of load factor versus bank angle" />
+      <figcaption>
+        <strong>Figure 3.</strong> Load factor rises slowly at first, then steeply past about 45–50° of bank. A 60° level turn is 2 G.
+      </figcaption>
+    </figure>
+
+    <h2>Stall speed and load factor</h2>
+    <p>
+      To fly at the same critical AOA under a higher load factor, you need more dynamic pressure—so indicated stall speed rises:
+    </p>
+    <p><code>V_s = V_s1 × √n</code></p>
+    <p>
+      \(V_{s1}\) is the 1 G stall speed in that configuration. At 60° bank (\(n = 2\)): stall speed ≈ \(1.414 × V_{s1}\).
+    </p>
+
+    <figure class="fig">
+      <img src="images/stall-speed-load-factor.svg" width="720" height="280" alt="Formula stall speed equals one-G stall times square root of load factor with sixty degree bank example" />
+      <figcaption>
+        <strong>Figure 4.</strong> Steep turns and abrupt pull-ups raise the speed at which you can stall—critical AOA is unchanged.
+      </figcaption>
+    </figure>
+
+    <h2>Maneuvering speed (awareness)</h2>
+    <p>
+      Design limit load factors and <strong>maneuvering speed (V<sub>A</sub>)</strong> protect the structure when you make full control inputs.
+      Below V<sub>A</sub>, the wing should stall before limit load is exceeded (in the design model).
+      Above V<sub>A</sub>, abrupt full deflection can overstress before stall. Weight changes V<sub>A</sub> (higher weight → higher V<sub>A</sub> in the usual published family of speeds—check your AFM).
+    </p>
+
+    <h2>Configuration notes</h2>
+    <ul>
+      <li><strong>Flaps</strong> change camber and the lift/drag curves; published stall speeds and critical AOA depend on configuration.</li>
+      <li><strong>Ice, frost, damage</strong> can reduce max CL and make stalls nastier at lower AOA—keep wings clean.</li>
+      <li><strong>AOA indicators</strong> (if installed) display proximity to critical AOA and help when airspeed is a poor cue.</li>
+    </ul>
+
+    <h2>Practice</h2>
+    <p>
+      <a class="cta" href="../learn/aoa-load-factor/">Open AOA &amp; Load Factor Lab →</a>
+    </p>
+
+    <h2>Primary sources</h2>
+    <ul>
+      <li>FAA PHAK FAA-H-8083-25C Ch. 5 — stalls, AOA, load factors, turns</li>
+      <li>MIT OCW 16.687 — AOA definition, stall at any speed, critical AOA</li>
+    </ul>
+    <p class="muted">Figures are original educational SVGs, not FAA handbook scans.</p>
+
+    <p class="muted" style="margin-top: 2rem">
+      <a href="./">← All notes</a> ·
+      <a href="bernoulli-differential-pressure.html">Bernoulli</a> ·
+      <a href="density-altitude.html">Density altitude</a> ·
+      <a href="../">Home</a>
+    </p>
+  </div>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" role="img" aria-labelledby="t4 d4">
+  <title id="t4">Stall speed rises with square root of load factor</title>
+  <desc id="d4">Formula Vs equals Vs1 times square root of n, with example at 60 degree bank.</desc>
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="280" rx="12" fill="url(#bg4)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">STALL SPEED AND LOAD FACTOR</text>
+  <text x="24" y="50" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">Higher load factor → higher stall speed (same critical AOA needs more dynamic pressure)</text>
+
+  <rect x="40" y="80" width="640" height="55" rx="10" fill="#0a101c" stroke="rgba(91,157,255,0.4)"/>
+  <text x="360" y="115" text-anchor="middle" fill="#7ecbff" font-family="ui-monospace,Menlo,monospace" font-size="20">V_s = V_s1 × √n</text>
+
+  <rect x="40" y="155" width="300" height="95" rx="10" fill="#182338" stroke="rgba(255,255,255,0.08)"/>
+  <text x="55" y="185" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Example</text>
+  <text x="55" y="210" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">V_s1 = 50 KIAS (1 G clean)</text>
+  <text x="55" y="230" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">60° bank → n = 2</text>
+  <text x="55" y="250" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">V_s ≈ 50 × √2 ≈ 71 KIAS</text>
+
+  <rect x="360" y="155" width="320" height="95" rx="10" fill="#182338" stroke="rgba(255,107,122,0.3)"/>
+  <text x="375" y="185" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Why it matters</text>
+  <text x="375" y="210" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">Steep turns and abrupt pull-ups raise n.</text>
+  <text x="375" y="230" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">You can stall well above “book” 1 G stall speed.</text>
+  <text x="375" y="250" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">Critical AOA is still what trips the stall.</text>
+</svg>

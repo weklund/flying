@@ -15,11 +15,13 @@ Personal study notes and interactive tools for private pilot ground school, buil
 | Home | `/` |
 | **Aircraft Performance Lab** | `/learn/aircraft-performance/` |
 | **Lift Theory Lab** | `/learn/lift-theory/` |
+| **AOA & Load Factor Lab** | `/learn/aoa-load-factor/` |
 | Practice quiz | `/quiz/` |
 | Study notes | `/notes/` |
 | Density altitude note | `/notes/density-altitude.html` |
 | Altitude math mental models | `/notes/altitude-math-mental-models.html` |
 | Bernoulli note | `/notes/bernoulli-differential-pressure.html` |
+| AOA / stall / load factor | `/notes/aoa-stall-load-factor.html` |
 
 ## What’s in the repo
 
@@ -28,6 +30,7 @@ Personal study notes and interactive tools for private pilot ground school, buil
 | [`index.html`](index.html) | Study hub (GitHub Pages home) |
 | [`learn/aircraft-performance/`](learn/aircraft-performance/) | Interactive density altitude & performance lab |
 | [`learn/lift-theory/`](learn/lift-theory/) | Interactive lift theory (Bernoulli → circulation) |
+| [`learn/aoa-load-factor/`](learn/aoa-load-factor/) | Interactive AOA, stall, load factor (PHAK Ch. 5) |
 | [`quiz/`](quiz/) | Browser practice quiz |
 | [`notes/`](notes/) | Short HTML study notes (DA, Bernoulli, …) |
 | [`STUDY_INDEX.md`](STUDY_INDEX.md) | Session-by-session MIT 16.687 index |

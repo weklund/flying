@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="t2 d2">
+  <title id="t2">Stall occurs at critical angle of attack at any airspeed</title>
+  <desc id="d2">CL versus AOA curve with critical AOA marked; three scenarios all stalling at same critical AOA.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="300" rx="12" fill="url(#bg2)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">STALL = CRITICAL AOA</text>
+  <text x="24" y="50" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">For a given configuration, the wing always stalls at the same critical AOA</text>
+
+  <!-- Axes -->
+  <line x1="60" y1="250" x2="340" y2="250" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  <line x1="60" y1="250" x2="60" y2="80" stroke="rgba(255,255,255,0.3)" stroke-width="2"/>
+  <text x="200" y="275" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">AOA →</text>
+  <text x="30" y="160" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12" transform="rotate(-90 30,160)">CL</text>
+
+  <!-- CL curve path -->
+  <path d="M70,230 C100,220 140,180 180,140 C210,115 240,100 270,95 C280,94 290,100 300,130"
+        fill="none" stroke="#5b9dff" stroke-width="3"/>
+  <!-- critical marker -->
+  <line x1="270" y1="250" x2="270" y2="90" stroke="#ff6b7a" stroke-width="2" stroke-dasharray="5 3"/>
+  <circle cx="270" cy="95" r="6" fill="#ff6b7a"/>
+  <text x="278" y="88" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="12" font-weight="700">Critical AOA</text>
+  <text x="278" y="160" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="11">stall / separation</text>
+
+  <!-- Myth vs truth cards -->
+  <rect x="380" y="80" width="310" height="70" rx="10" fill="#182338" stroke="rgba(255,107,122,0.35)"/>
+  <text x="395" y="105" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Myth</text>
+  <text x="395" y="128" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">“Stalls only happen at low airspeed”</text>
+
+  <rect x="380" y="165" width="310" height="100" rx="10" fill="#182338" stroke="rgba(62,207,142,0.35)"/>
+  <text x="395" y="190" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Truth (PHAK)</text>
+  <text x="395" y="215" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">An airplane can stall at any speed.</text>
+  <text x="395" y="235" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">Critical AOA does not change with</text>
+  <text x="395" y="252" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="12">bank angle or weight by itself.</text>
+</svg>

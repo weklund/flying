@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>AOA &amp; Load Factor Lab</title>
+  <meta name="description" content="Interactive angle of attack, stall, and load factor lab for private pilot study." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <p class="eyebrow">PHAK Ch. 5 · learning aid</p>
+      <h1>AOA &amp; Load Factor Lab</h1>
+      <p class="disclaimer">
+        Stall is an AOA event; load factor raises stall speed.
+        <a href="../../">Study home</a> ·
+        <a href="../../notes/aoa-stall-load-factor.html">Note</a> ·
+        <a href="../lift-theory/">Lift Theory</a> ·
+        <a href="../../quiz/">Quiz</a>
+      </p>
+      <p class="banner">
+        Educational models — <strong>not for flight planning</strong>.
+        CL curves and stall numbers are schematic toys, not your AFM.
+      </p>
+    </header>
+
+    <section class="primer" id="primer">
+      <div class="primer-head">
+        <h2>Before you play</h2>
+        <button type="button" class="primer-toggle" id="primerToggle" aria-expanded="true">Collapse</button>
+      </div>
+      <div id="primerBody">
+        <p class="primer-lead">
+          <strong>Angle of attack</strong> is chord line vs relative wind.
+          A <strong>stall</strong> happens when you exceed the <strong>critical AOA</strong>—at any airspeed.
+          In turns and pull-ups, <strong>load factor</strong> rises, so the airspeed at which you hit that same critical AOA goes up:
+          \(V_s = V_{s1}\sqrt{n}\).
+        </p>
+        <ol class="primer-steps">
+          <li><strong>Geometry</strong> — see AOA, not pitch to the horizon</li>
+          <li><strong>CL curve</strong> — raise AOA to the critical angle and stall</li>
+          <li><strong>Load factor</strong> — bank angle → Gs → higher stall speed</li>
+          <li><strong>Scenarios</strong> — level, steep turn, accelerated stall</li>
+          <li><strong>Guide</strong> — story + quiz</li>
+        </ol>
+        <p class="primer-tip">
+          Read the <a href="../../notes/aoa-stall-load-factor.html">AOA / stall / load factor note</a>, then walk the tabs.
+        </p>
+        <p class="primer-jump"><a href="#lab-tabs">Skip to lab ↓</a></p>
+      </div>
+    </section>
+
+    <nav class="tabs" id="lab-tabs">
+      <button type="button" class="tab active" data-mode="geometry">1 · Geometry</button>
+      <button type="button" class="tab" data-mode="clcurve">2 · CL &amp; stall</button>
+      <button type="button" class="tab" data-mode="load">3 · Load factor</button>
+      <button type="button" class="tab" data-mode="scenario">4 · Scenarios</button>
+      <button type="button" class="tab" data-mode="guide">5 · Guide</button>
+    </nav>
+
+    <section class="mode active" id="mode-geometry">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Wing vs relative wind</h2>
+          <p class="sub">Drag the AOA. Pitch attitude (vs horizon) is drawn separately on purpose.</p>
+          <label class="ctrl">Angle of attack <strong id="aoaGVal">6°</strong>
+            <input type="range" id="aoaG" min="-5" max="20" step="0.5" value="6" />
+          </label>
+          <label class="ctrl">Pitch attitude (horizon) <strong id="pitchVal">4°</strong>
+            <input type="range" id="pitch" min="-10" max="20" step="0.5" value="4" />
+          </label>
+          <div class="callout">
+            <strong>Try:</strong> set pitch attitude nose-low but AOA high (e.g. pitch −2°, AOA 16°)—still a stall picture.
+            Attitude ≠ AOA.
+          </div>
+          <div class="stat-row">
+            <div class="stat"><div class="k">AOA</div><div class="v cool" id="aoaGOut">6°</div></div>
+            <div class="stat"><div class="k">Pitch vs horizon</div><div class="v" id="pitchOut">4°</div></div>
+          </div>
+        </div>
+        <div class="panel">
+          <h2>Schematic</h2>
+          <div class="viz">
+            <span class="viz-badge">Schematic</span>
+            <canvas id="geoCanvas" width="520" height="280"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mode" id="mode-clcurve">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>CL vs AOA</h2>
+          <p class="sub">Schematic lift curve. Stall when AOA reaches critical for the flap setting.</p>
+          <label class="ctrl">AOA <strong id="aoaCVal">8°</strong>
+            <input type="range" id="aoaC" min="-4" max="22" step="0.5" value="8" />
+          </label>
+          <label class="ctrl">Flaps
+            <select id="flaps">
+              <option value="up">Up (clean)</option>
+              <option value="partial">Partial</option>
+              <option value="full">Full</option>
+            </select>
+          </label>
+          <div class="stat-row">
+            <div class="stat"><div class="k">CL (schematic)</div><div class="v good" id="clOut">—</div></div>
+            <div class="stat"><div class="k">Critical AOA</div><div class="v hot" id="critOut">—</div></div>
+            <div class="stat" style="grid-column:1/-1"><div class="k">State</div><div class="v" id="stallState">—</div></div>
+          </div>
+          <div class="callout">
+            Flaps change the curve and critical AOA (toy model). Ice/damage (not modeled) can reduce max CL in real life.
+          </div>
+        </div>
+        <div class="panel">
+          <h2>Lift curve</h2>
+          <div class="viz">
+            <span class="viz-badge">Toy CL(α)</span>
+            <canvas id="clCanvas" width="520" height="280"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mode" id="mode-load">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Bank → load factor → stall speed</h2>
+          <p class="sub">Level coordinated turn: n = 1/cos(φ), V<sub>s</sub> = V<sub>s1</sub>√n</p>
+          <label class="ctrl">Bank angle <strong id="bankVal">30°</strong>
+            <input type="range" id="bank" min="0" max="75" step="1" value="30" />
+          </label>
+          <label class="ctrl">1 G stall speed V<sub>s1</sub> <strong id="vs1Val">50 KIAS</strong>
+            <input type="range" id="vs1" min="35" max="70" step="1" value="50" />
+          </label>
+          <div class="eq">n = 1 / cos(φ) &nbsp;&nbsp;·&nbsp;&nbsp; V_s = V_s1 × √n</div>
+          <div class="stat-row">
+            <div class="stat"><div class="k">Load factor n</div><div class="v hot" id="nOut">—</div></div>
+            <div class="stat"><div class="k">Stall speed</div><div class="v cool" id="vsOut">—</div></div>
+            <div class="stat"><div class="k">% above V<sub>s1</sub></div><div class="v" id="pctOut">—</div></div>
+            <div class="stat"><div class="k">At 60° reference</div><div class="v" id="ref60">2.0 G · +41%</div></div>
+          </div>
+          <div class="callout">
+            Critical AOA is unchanged. You simply reach it at a higher indicated airspeed when n &gt; 1.
+          </div>
+        </div>
+        <div class="panel">
+          <h2>Bank diagram</h2>
+          <div class="viz">
+            <span class="viz-badge">Level turn</span>
+            <canvas id="bankCanvas" width="520" height="280"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mode" id="mode-scenario">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Scenario builder</h2>
+          <p class="sub">Same wing critical AOA; different speed and load factor.</p>
+          <label class="ctrl">Preset
+            <select id="scenario">
+              <option value="cruise">Level cruise (1 G)</option>
+              <option value="approach">Slow approach (1 G)</option>
+              <option value="steep">Steep turn 60° (2 G)</option>
+              <option value="accel">Accelerated (pull-up ~2.5 G)</option>
+            </select>
+          </label>
+          <label class="ctrl">Airspeed (KIAS) <strong id="iasVal">90</strong>
+            <input type="range" id="ias" min="40" max="140" step="1" value="90" />
+          </label>
+          <label class="ctrl">Load factor n <strong id="nSVal">1.0</strong>
+            <input type="range" id="nS" min="1" max="3.5" step="0.05" value="1" />
+          </label>
+          <label class="ctrl">V<sub>s1</sub> clean <strong id="vs1SVal">50</strong>
+            <input type="range" id="vs1S" min="40" max="65" step="1" value="50" />
+          </label>
+          <div class="stat-row">
+            <div class="stat"><div class="k">Stall speed now</div><div class="v hot" id="vsNow">—</div></div>
+            <div class="stat"><div class="k">Margin (IAS − Vs)</div><div class="v" id="marginOut">—</div></div>
+            <div class="stat" style="grid-column:1/-1"><div class="k">Assessment</div><div class="v" id="assessOut">—</div></div>
+          </div>
+          <div class="callout" id="scenarioNote">—</div>
+        </div>
+        <div class="panel">
+          <h2>Margin picture</h2>
+          <div class="viz">
+            <span class="viz-badge">Speed tape</span>
+            <canvas id="scenCanvas" width="520" height="280"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mode" id="mode-guide">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Guided story</h2>
+          <div class="story-nav">
+            <button type="button" class="primary" id="storyPrev">Previous</button>
+            <button type="button" class="primary" id="storyNext">Next</button>
+            <button type="button" class="ghost" id="storyJump">Open that tab</button>
+            <span class="step-ind" id="storyInd">1 / 5</span>
+          </div>
+          <div class="story-card">
+            <h3 id="storyTitle">—</h3>
+            <p id="storyText">—</p>
+          </div>
+        </div>
+        <div class="panel">
+          <h2>Check yourself</h2>
+          <div id="quizBox"></div>
+          <div style="margin-top:0.85rem;display:flex;gap:0.5rem">
+            <button type="button" id="quizPrev">Previous</button>
+            <button type="button" id="quizNext">Next</button>
+          </div>
+        </div>
+      </div>
+      <div class="panel" style="margin-top:1rem">
+        <h2>About</h2>
+        <ul class="about-list">
+          <li>CL(α) is a cartoon peak-and-drop curve, not a wind-tunnel polar.</li>
+          <li>n = 1/cos(φ) assumes coordinated level turn; climbing/descending turns differ.</li>
+          <li>Vs = Vs1√n is the standard training relationship for accelerated stall speed.</li>
+          <li>Sources: PHAK Ch. 5; MIT 16.687 AOA/stall framing.</li>
+        </ul>
+      </div>
+    </section>
+
+    <footer class="note">
+      <a href="../../notes/aoa-stall-load-factor.html">AOA note</a> ·
+      <a href="../lift-theory/">Lift Theory Lab</a> ·
+      <a href="../aircraft-performance/">Performance Lab</a> ·
+      <a href="../../">Home</a>
+    </footer>
+  </div>
+  <script src="model.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
