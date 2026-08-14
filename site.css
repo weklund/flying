@@ -251,3 +251,37 @@ body {
   font-weight: 700;
   text-decoration: none;
 }
+
+/* Study-note figures */
+.note figure.fig {
+  margin: 1rem 0 1.25rem;
+  padding: 0;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  overflow: hidden;
+  background: rgba(0, 0, 0, 0.2);
+  box-shadow: var(--shadow);
+}
+
+.note figure.fig img,
+.note figure.fig svg,
+.note figure.fig object {
+  display: block;
+  width: 100%;
+  height: auto;
+  vertical-align: middle;
+}
+
+.note figure.fig figcaption {
+  margin: 0;
+  padding: 0.65rem 0.9rem 0.75rem;
+  font-size: 0.82rem;
+  line-height: 1.45;
+  color: var(--muted);
+  border-top: 1px solid var(--border);
+  background: rgba(0, 0, 0, 0.18);
+}
+
+.note figure.fig figcaption strong {
+  color: var(--text);
+}

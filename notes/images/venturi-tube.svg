@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" role="img" aria-labelledby="t2 d2">
+  <title id="t2">Venturi tube: speed up and pressure drop at the throat</title>
+  <desc id="d2">Cross section of a venturi with labels for velocity and pressure at inlet, throat, and outlet.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <marker id="arr" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#7ecbff"/>
+    </marker>
+  </defs>
+  <rect width="720" height="280" rx="12" fill="url(#bg2)"/>
+  <text x="24" y="30" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">VENTURI (PHAK DEMO)</text>
+  <text x="24" y="52" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">Same mass flow · smaller area · higher speed · lower static pressure</text>
+
+  <!-- Tube outline -->
+  <path d="M40,90 L200,90 L300,120 L420,120 L520,90 L680,90
+           M40,210 L200,210 L300,180 L420,180 L520,210 L680,210"
+        fill="none" stroke="rgba(232,238,252,0.45)" stroke-width="3" stroke-linejoin="round"/>
+  <!-- Fill interior hint -->
+  <path d="M40,90 L200,90 L300,120 L420,120 L520,90 L680,90
+           L680,210 L520,210 L420,180 L300,180 L200,210 L40,210 Z"
+        fill="rgba(91,157,255,0.06)"/>
+
+  <!-- Flow arrows inlet -->
+  <line x1="70" y1="130" x2="160" y2="130" stroke="#7ecbff" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="70" y1="150" x2="150" y2="150" stroke="#7ecbff" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="70" y1="170" x2="160" y2="170" stroke="#7ecbff" stroke-width="2.5" marker-end="url(#arr)"/>
+
+  <!-- Flow arrows throat (faster = longer) -->
+  <line x1="310" y1="140" x2="410" y2="140" stroke="#ff9f6b" stroke-width="3" marker-end="url(#arr)"/>
+  <line x1="310" y1="155" x2="410" y2="155" stroke="#ff9f6b" stroke-width="3" marker-end="url(#arr)"/>
+  <line x1="310" y1="170" x2="400" y2="170" stroke="#ff9f6b" stroke-width="3" marker-end="url(#arr)"/>
+
+  <!-- Flow arrows outlet -->
+  <line x1="540" y1="130" x2="640" y2="130" stroke="#7ecbff" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="540" y1="150" x2="630" y2="150" stroke="#7ecbff" stroke-width="2.5" marker-end="url(#arr)"/>
+  <line x1="540" y1="170" x2="640" y2="170" stroke="#7ecbff" stroke-width="2.5" marker-end="url(#arr)"/>
+
+  <!-- Labels -->
+  <text x="120" y="78" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Inlet</text>
+  <text x="120" y="240" text-anchor="middle" fill="#f0c14b" font-family="system-ui,sans-serif" font-size="12">V moderate · p higher</text>
+
+  <text x="360" y="108" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Throat</text>
+  <text x="360" y="240" text-anchor="middle" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="12">V highest · p lowest</text>
+
+  <text x="600" y="78" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Outlet</text>
+  <text x="600" y="240" text-anchor="middle" fill="#f0c14b" font-family="system-ui,sans-serif" font-size="12">V slows · p recovers</text>
+
+  <text x="360" y="268" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Schematic · educational (inspired by PHAK venturi discussion)</text>
+</svg>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" role="img" aria-labelledby="t4 d4">
+  <title id="t4">Both Bernoulli and Newton describe lift</title>
+  <desc id="d4">Two panels: pressure difference on an airfoil, and downwash momentum change with reaction lift.</desc>
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <marker id="gArr" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#3ecf8e"/>
+    </marker>
+    <marker id="oArr" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#ff9f6b"/>
+    </marker>
+  </defs>
+  <rect width="720" height="260" rx="12" fill="url(#bg4)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">PHAK: BOTH OPERATE</text>
+  <text x="24" y="50" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">Same lift · two consistent descriptions — not “pick one”</text>
+
+  <!-- Left panel Bernoulli -->
+  <rect x="24" y="70" width="320" height="160" rx="10" fill="#182338" stroke="rgba(255,255,255,0.08)"/>
+  <text x="184" y="95" text-anchor="middle" fill="#7ecbff" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Bernoulli view</text>
+  <path d="M70,150 C110,120 180,115 250,140 C220,155 150,158 70,150 Z" fill="rgba(91,157,255,0.35)" stroke="#e8eefc" stroke-width="1.5"/>
+  <text x="184" y="125" text-anchor="middle" fill="#7ecbff" font-family="system-ui,sans-serif" font-size="12">low p above</text>
+  <text x="184" y="185" text-anchor="middle" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="12">higher p below</text>
+  <text x="184" y="210" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">→ pressure field / Cₚ</text>
+
+  <!-- Right panel Newton -->
+  <rect x="376" y="70" width="320" height="160" rx="10" fill="#182338" stroke="rgba(255,255,255,0.08)"/>
+  <text x="536" y="95" text-anchor="middle" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Newton view</text>
+  <ellipse cx="500" cy="145" rx="45" ry="10" fill="rgba(91,157,255,0.4)" stroke="#e8eefc" stroke-width="1.5"/>
+  <line x1="500" y1="145" x2="500" y2="110" stroke="#3ecf8e" stroke-width="2.5" marker-end="url(#gArr)"/>
+  <text x="510" y="120" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="12">lift (reaction)</text>
+  <line x1="480" y1="160" x2="560" y2="200" stroke="#ff9f6b" stroke-width="2.5" marker-end="url(#oArr)"/>
+  <text x="520" y="215" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="12">downwash (action on air)</text>
+
+  <text x="360" y="155" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="20">+</text>
+</svg>

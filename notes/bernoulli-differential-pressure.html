@@ -38,10 +38,27 @@
       Speed up the flow, static pressure drops; slow it down, static pressure rises (along a streamline, under the idealizations Bernoulli assumes).
     </p>
 
+    <figure class="fig">
+      <img src="images/bernoulli-principle.svg" width="640" height="220" alt="Diagram: slower flow has higher static pressure; faster flow has lower static pressure" />
+      <figcaption>
+        <strong>Figure 1.</strong> Core idea: along a streamline, higher speed pairs with lower static pressure
+        (idealized Bernoulli picture).
+      </figcaption>
+    </figure>
+
     <h2>The venturi: Bernoulli in a tube</h2>
     <p>
       PHAK’s practical demonstration is the <strong>venturi tube</strong>: inlet → narrow throat → outlet (same diameter as the inlet).
     </p>
+
+    <figure class="fig">
+      <img src="images/venturi-tube.svg" width="720" height="280" alt="Venturi tube diagram showing higher speed and lower pressure at the throat" />
+      <figcaption>
+        <strong>Figure 2.</strong> Venturi: mass flow is conserved, so air speeds up in the constriction and static pressure falls—then recovers as the tube widens again.
+        (Educational schematic inspired by the PHAK venturi discussion.)
+      </figcaption>
+    </figure>
+
     <ul>
       <li>Mass of air entering must equal mass leaving (continuity).</li>
       <li>At the constriction, speed <strong>increases</strong> so the same mass can pass in the same time.</li>
@@ -59,6 +76,15 @@
       <strong>upper surface</strong> is forced to move <strong>faster</strong> than air along the lower surface.
       By Bernoulli, higher speed above → <strong>lower static pressure above</strong> the wing.
     </p>
+
+    <figure class="fig">
+      <img src="images/airfoil-bernoulli.svg" width="720" height="320" alt="Cambered airfoil with faster upper streamlines, low pressure above, higher pressure below, and net lift" />
+      <figcaption>
+        <strong>Figure 3.</strong> Wing section (schematic): faster upper flow (cyan) → suction on top; lower surface often at higher pressure (orange).
+        Net force includes <strong>lift</strong>. PHAK: do not freeze a fixed “% from top vs bottom.”
+      </figcaption>
+    </figure>
+
     <p>
       That reduced pressure on top is a component of total lift. Under the wing, flow is often slower in places
       (especially as angle of attack rises), so pressure can be <strong>higher</strong> than free stream—another contribution to lift.
@@ -91,6 +117,14 @@
       <li>PHAK: <strong>both Bernoulli’s principle and Newton’s laws are in operation</strong> whenever lift is generated.</li>
     </ul>
 
+    <figure class="fig">
+      <img src="images/bernoulli-and-newton.svg" width="720" height="260" alt="Two panels: Bernoulli pressure picture and Newton downwash reaction picture of the same lift" />
+      <figcaption>
+        <strong>Figure 4.</strong> Same physics, two bookkeeping systems: pressure field (Bernoulli) and momentum change / downwash (Newton).
+        PHAK treats them as working together—not as rivals.
+      </figcaption>
+    </figure>
+
     <h2>Newton side-by-side (same PHAK section family)</h2>
     <table>
       <thead>
@@ -112,7 +146,7 @@
     <h2>Practice deeper</h2>
     <p>
       <a class="cta" href="../learn/lift-theory/">Open Lift Theory Lab →</a>
-      (Bernoulli + Newton + circulation / Kutta–Joukowski + myths)
+      (interactive venturi, airfoil C<sub>p</sub>, Newton, circulation / Kutta–Joukowski + myths)
     </p>
 
     <h2>Primary sources</h2>
@@ -121,6 +155,9 @@
       <li>PHAK systems chapters — carburetor venturi (same principle)</li>
       <li>MIT OCW 16.687 — lift / four forces practice emphasis</li>
     </ul>
+    <p class="muted">
+      Figures on this page are original educational schematics (SVG), not scans of FAA handbook art.
+    </p>
 
     <p class="muted" style="margin-top: 2rem">
       <a href="./">← All notes</a> · <a href="density-altitude.html">Density altitude</a> · <a href="../">Home</a>
