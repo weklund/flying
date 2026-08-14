@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Drag polar · Flying study notes</title>
+  <meta name="description" content="Parasite vs induced drag, total drag curve, and L/D max for private pilot study." />
+  <link rel="stylesheet" href="../site.css" />
+</head>
+<body>
+  <div class="wrap note">
+    <nav class="note-nav">
+      <a href="../">← Home</a>
+      <a href="./">Notes</a>
+      <a href="../learn/drag-polar/">Drag Lab</a>
+      <a href="../learn/aoa-load-factor/">AOA Lab</a>
+      <a href="../quiz/">Quiz</a>
+    </nav>
+
+    <p class="eyebrow">PHAK Ch. 5 · study note</p>
+    <h1>Parasite drag, induced drag &amp; L/D</h1>
+    <p>
+      Total drag is usefully split into two families with <strong>opposite airspeed trends</strong>.
+      That split explains why the drag curve is U-shaped and why there is a best-glide / max L/D region.
+      Interactive:
+      <a href="../learn/drag-polar/">Drag Polar Lab</a>.
+    </p>
+
+    <h2>Two kinds of drag</h2>
+    <table>
+      <thead>
+        <tr><th>Type</th><th>What it is</th><th>With airspeed</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Parasite</strong></td>
+          <td>Form, skin friction, interference — “pushing the airframe through the air”</td>
+          <td>Increases roughly with <strong>V²</strong> (dynamic pressure)</td>
+        </tr>
+        <tr>
+          <td><strong>Induced</strong></td>
+          <td>Byproduct of producing lift (wingtip vortices / downwash)</td>
+          <td>Highest when slow / high CL; falls as speed rises</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <figure class="fig">
+      <img src="images/drag-polar.svg" width="720" height="300" alt="Graph of parasite drag rising, induced falling, total U-shaped with min drag marked" />
+      <figcaption>
+        <strong>Figure 1.</strong> Training picture of drag vs airspeed. The valley is the max L/D region (best glide for a given weight/config, in the usual idealization).
+      </figcaption>
+    </figure>
+
+    <h2>Mental models</h2>
+    <ul>
+      <li><strong>Slow flight / approach:</strong> induced drag is a big deal; dirty configuration adds parasite too.</li>
+      <li><strong>Cruise / high speed:</strong> parasite dominates; clean up the airplane.</li>
+      <li><strong>L/D max:</strong> where total drag is minimum for the lift you need — best still-air glide ratio in the simple model.</li>
+      <li><strong>Vx vs Vy (link):</strong> climb speeds relate to excess thrust/power, which sit on related drag/power curves (details in performance materials).</li>
+    </ul>
+
+    <h2>Configuration</h2>
+    <p>
+      Gear and flaps increase parasite drag (and change lift capability). “Dirty” shifts you toward higher total drag
+      and usually a different speed for min drag. Always use AFM speeds for the configuration you are in.
+    </p>
+
+    <h2>Ground effect connection</h2>
+    <p>
+      Near the ground, <strong>induced drag decreases</strong> (see
+      <a href="ground-effect.html">ground effect note</a>).
+      That is one reason the airplane can float or lift off early in ground effect.
+    </p>
+
+    <h2>Practice</h2>
+    <p>
+      <a class="cta" href="../learn/drag-polar/">Open Drag Polar Lab →</a>
+    </p>
+
+    <h2>Sources</h2>
+    <ul>
+      <li>FAA PHAK Ch. 5 — forces, induced vs parasite framing</li>
+      <li>MIT 16.687 — parasitic vs induced drag airspeed trends</li>
+    </ul>
+    <p class="muted">Figures are original educational SVGs.</p>
+
+    <p class="muted" style="margin-top: 2rem">
+      <a href="./">← Notes</a> · <a href="aoa-stall-load-factor.html">AOA</a> · <a href="ground-effect.html">Ground effect</a>
+    </p>
+  </div>
+</body>
+</html>

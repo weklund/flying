@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Left-turning tendencies · Flying study notes</title>
+  <meta name="description" content="Torque, P-factor, spiraling slipstream, and gyroscopic precession for single-engine trainers." />
+  <link rel="stylesheet" href="../site.css" />
+</head>
+<body>
+  <div class="wrap note">
+    <nav class="note-nav">
+      <a href="../">← Home</a>
+      <a href="./">Notes</a>
+      <a href="aoa-stall-load-factor.html">AOA</a>
+      <a href="../learn/aoa-load-factor/">AOA Lab</a>
+      <a href="../quiz/">Quiz</a>
+    </nav>
+
+    <p class="eyebrow">PHAK Ch. 5 · MIT 16.687 · study note</p>
+    <h1>Left-turning tendencies</h1>
+    <p>
+      On most U.S. single-engine trainers the propeller turns
+      <strong>clockwise as viewed from the pilot’s seat</strong>.
+      At high power and high AOA (takeoff / climb), several effects produce
+      <strong>left roll and/or left yaw</strong>. Right rudder is the usual antidote—not a mystery, a checklist of mechanisms.
+    </p>
+
+    <figure class="fig">
+      <img src="images/left-turning-four.svg" width="720" height="340" alt="Four panels explaining torque, P-factor, spiraling slipstream, and gyroscopic precession" />
+      <figcaption>
+        <strong>Figure 1.</strong> Four classic mechanisms. P-factor and slipstream are especially important in the climb; gyroscopic effect depends on pitch change (e.g. tailwheel liftoff).
+      </figcaption>
+    </figure>
+
+    <h2>1. Torque</h2>
+    <p>
+      Newton’s third law: propeller applies a twisting force to the air → air applies equal-and-opposite twist to the airplane.
+      Clockwise prop (from pilot) → airplane tends to <strong>roll left</strong>.
+      Strongest at high power; felt more at low airspeed when ailerons are less effective.
+    </p>
+
+    <h2>2. P-factor (asymmetric thrust)</h2>
+    <p>
+      At high AOA, the <strong>descending (right) blade</strong> has a higher angle of attack / produces more thrust than the ascending (left) blade.
+      Center of thrust moves right → <strong>left yaw</strong>.
+      Classic knowledge-test: left-turning from P-factor is due to the descending right blade producing more thrust—not torque, not “the prop wash only.”
+    </p>
+
+    <h2>3. Spiraling slipstream</h2>
+    <p>
+      The prop imparts a corkscrew of air that wraps around the fuselage and often strikes the
+      <strong>left side of the vertical stabilizer</strong> → <strong>left yaw</strong>.
+      Strong at high power / low speed (takeoff roll and initial climb).
+    </p>
+
+    <h2>4. Gyroscopic precession</h2>
+    <p>
+      A spinning prop acts like a gyroscope. A force that tries to tilt the disk shows up as a reaction
+      <strong>90° ahead in the direction of rotation</strong>.
+      Whether that makes left yaw depends on the maneuver (classic: tailwheel raising the tail on takeoff).
+      Course/PHAK note: this is <strong>not always</strong> a left-turning tendency—don’t force every yaw into this box.
+    </p>
+
+    <h2>When it bites hardest</h2>
+    <table>
+      <thead>
+        <tr><th>Phase</th><th>Main players</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Takeoff roll / rotation</td><td>Torque, slipstream; gyro if pitch rate high (tailwheel)</td></tr>
+        <tr><td>Climb (high power, high AOA)</td><td>P-factor + slipstream + torque</td></tr>
+        <tr><td>Cruise</td><td>Much reduced (lower AOA, less power)</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Pilot actions</h2>
+    <ul>
+      <li>Anticipate <strong>right rudder</strong> on takeoff and climb (and as needed in slow flight).</li>
+      <li>Keep the ball centered—uncoordinated + stall is how spins start.</li>
+      <li>Know your airplane: multi-engine and opposite-rotating props tell a different story.</li>
+    </ul>
+
+    <h2>Sources</h2>
+    <ul>
+      <li>FAA PHAK Ch. 5 — propeller effects / left-turning tendencies</li>
+      <li>MIT 16.687 Lec 2 — four mechanisms list</li>
+    </ul>
+
+    <p class="muted" style="margin-top: 2rem">
+      <a href="./">← Notes</a> · <a href="aoa-stall-load-factor.html">AOA</a> · <a href="ground-effect.html">Ground effect</a>
+    </p>
+  </div>
+</body>
+</html>

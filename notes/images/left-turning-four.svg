@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 340" role="img" aria-labelledby="t3 d3">
+  <title id="t3">Four left-turning tendencies of a single-engine propeller airplane</title>
+  <desc id="d3">Four panels: torque, P-factor, spiraling slipstream, gyroscopic precession.</desc>
+  <defs>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="340" rx="12" fill="url(#bg3)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">LEFT-TURNING TENDENCIES (U.S. TRAINERS)</text>
+  <text x="24" y="50" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">Prop turns clockwise as viewed from the pilot · high power + high AOA = worst case</text>
+
+  <!-- 1 Torque -->
+  <rect x="24" y="70" width="160" height="240" rx="10" fill="#182338" stroke="rgba(91,157,255,0.3)"/>
+  <text x="104" y="95" text-anchor="middle" fill="#5b9dff" font-family="system-ui,sans-serif" font-size="13" font-weight="700">1 · Torque</text>
+  <circle cx="104" cy="150" r="35" fill="none" stroke="#5b9dff" stroke-width="2"/>
+  <path d="M104,115 A35,35 0 0,1 139,150" fill="none" stroke="#ff9f6b" stroke-width="3"/>
+  <polygon points="139,150 132,142 146,142" fill="#ff9f6b"/>
+  <text x="104" y="210" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="11">Prop spins right</text>
+  <text x="104" y="228" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="11">(from pilot)</text>
+  <text x="104" y="255" text-anchor="middle" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="12" font-weight="700">→ roll left</text>
+  <text x="104" y="280" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="10">Newton 3rd law</text>
+
+  <!-- 2 P-factor -->
+  <rect x="200" y="70" width="160" height="240" rx="10" fill="#182338" stroke="rgba(255,159,107,0.35)"/>
+  <text x="280" y="95" text-anchor="middle" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">2 · P-factor</text>
+  <ellipse cx="280" cy="145" rx="40" ry="28" fill="none" stroke="#9aa8c7" stroke-width="2" transform="rotate(-25 280 145)"/>
+  <text x="300" y="130" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="11" font-weight="700">↓ more thrust</text>
+  <text x="230" y="175" fill="#7ecbff" font-family="system-ui,sans-serif" font-size="11">↑ less</text>
+  <text x="280" y="210" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="11">High AOA climb:</text>
+  <text x="280" y="228" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="11">descending (right)</text>
+  <text x="280" y="246" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="11">blade bites more</text>
+  <text x="280" y="275" text-anchor="middle" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="12" font-weight="700">→ yaw left</text>
+
+  <!-- 3 Slipstream -->
+  <rect x="376" y="70" width="160" height="240" rx="10" fill="#182338" stroke="rgba(126,203,255,0.35)"/>
+  <text x="456" y="95" text-anchor="middle" fill="#7ecbff" font-family="system-ui,sans-serif" font-size="13" font-weight="700">3 · Slipstream</text>
+  <path d="M420,130 Q440,150 420,170 Q440,190 420,210" fill="none" stroke="#7ecbff" stroke-width="2"/>
+  <path d="M440,125 Q460,150 440,175 Q460,200 440,220" fill="none" stroke="#7ecbff" stroke-width="2"/>
+  <rect x="470" y="140" width="14" height="50" rx="2" fill="rgba(232,238,252,0.3)" stroke="#e8eefc"/>
+  <text x="456" y="250" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="11">Corkscrew hits</text>
+  <text x="456" y="268" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="11">left side of fin</text>
+  <text x="456" y="292" text-anchor="middle" fill="#7ecbff" font-family="system-ui,sans-serif" font-size="12" font-weight="700">→ yaw left</text>
+
+  <!-- 4 Gyro -->
+  <rect x="552" y="70" width="144" height="240" rx="10" fill="#182338" stroke="rgba(240,193,75,0.35)"/>
+  <text x="624" y="95" text-anchor="middle" fill="#f0c14b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">4 · Gyro</text>
+  <circle cx="624" cy="150" r="30" fill="none" stroke="#f0c14b" stroke-width="2"/>
+  <text x="624" y="155" text-anchor="middle" fill="#f0c14b" font-family="system-ui,sans-serif" font-size="10">prop disk</text>
+  <text x="624" y="210" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="11">Precession 90°</text>
+  <text x="624" y="228" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="11">ahead in rotation</text>
+  <text x="624" y="255" text-anchor="middle" fill="#f0c14b" font-family="system-ui,sans-serif" font-size="11">Not always left</text>
+  <text x="624" y="275" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="10">depends on pitch</text>
+  <text x="624" y="290" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="10">input / tailwheel</text>
+</svg>

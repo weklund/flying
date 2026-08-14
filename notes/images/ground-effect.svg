@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="t2 d2">
+  <title id="t2">Ground effect within about one wingspan of the surface</title>
+  <desc id="d2">Airplane near ground with reduced wingtip vortex and lower induced drag; free air comparison.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="300" rx="12" fill="url(#bg2)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">GROUND EFFECT</text>
+  <text x="24" y="50" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">Within ~1 wingspan of the surface · induced drag decreases</text>
+
+  <!-- ground -->
+  <rect x="0" y="240" width="720" height="60" fill="#1a2438"/>
+  <line x1="0" y1="240" x2="720" y2="240" stroke="rgba(154,168,199,0.4)" stroke-width="2"/>
+  <text x="24" y="270" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">Ground</text>
+
+  <!-- free air plane high -->
+  <g transform="translate(120,90)">
+    <ellipse cx="40" cy="0" rx="45" ry="8" fill="rgba(91,157,255,0.35)" stroke="#9aa8c7"/>
+    <path d="M0,0 Q-15,25 -10,50" fill="none" stroke="#ff6b7a" stroke-width="2"/>
+    <path d="M80,0 Q95,25 90,50" fill="none" stroke="#ff6b7a" stroke-width="2"/>
+    <text x="40" y="-18" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Free air</text>
+    <text x="40" y="70" text-anchor="middle" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="11">Stronger tip vortices</text>
+    <text x="40" y="86" text-anchor="middle" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="11">Higher induced drag</text>
+  </g>
+
+  <!-- in ground effect -->
+  <g transform="translate(420,195)">
+    <ellipse cx="40" cy="0" rx="45" ry="8" fill="rgba(62,207,142,0.35)" stroke="#3ecf8e"/>
+    <path d="M5,5 Q0,20 10,28" fill="none" stroke="#3ecf8e" stroke-width="2"/>
+    <path d="M75,5 Q80,20 70,28" fill="none" stroke="#3ecf8e" stroke-width="2"/>
+    <text x="40" y="-18" text-anchor="middle" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="11" font-weight="700">In ground effect</text>
+    <text x="140" y="5" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="12">Weaker vortices · less induced drag</text>
+  </g>
+
+  <!-- height bracket -->
+  <line x1="380" y1="100" x2="380" y2="235" stroke="#f0c14b" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <text x="390" y="170" fill="#f0c14b" font-family="system-ui,sans-serif" font-size="12">~1 wingspan</text>
+  <text x="390" y="188" fill="#f0c14b" font-family="system-ui,sans-serif" font-size="12">region of interest</text>
+</svg>

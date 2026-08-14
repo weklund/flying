@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Drag Polar Lab</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <header class="header">
+      <p class="eyebrow">PHAK Ch. 5 · learning aid</p>
+      <h1>Drag Polar Lab</h1>
+      <p class="disclaimer">
+        Parasite vs induced drag, total drag, L/D max.
+        <a href="../../">Home</a> ·
+        <a href="../../notes/drag-polar.html">Note</a> ·
+        <a href="../../notes/ground-effect.html">Ground effect</a>
+      </p>
+      <p class="banner">Educational toy polar — <strong>not AFM data</strong>.</p>
+    </header>
+
+    <section class="primer" id="primer">
+      <div class="primer-head">
+        <h2>Before you play</h2>
+        <button type="button" class="primer-toggle" id="primerToggle">Collapse</button>
+      </div>
+      <div id="primerBody">
+        <p class="primer-lead">
+          <strong>Parasite</strong> drag grows with speed. <strong>Induced</strong> drag falls as speed rises (lower CL).
+          Together they make a U-shaped total drag curve. The valley is the max L/D region.
+        </p>
+        <p class="primer-tip">
+          Companion notes:
+          <a href="../../notes/drag-polar.html">drag polar</a> ·
+          <a href="../../notes/ground-effect.html">ground effect</a> (induced drag drops near the runway).
+        </p>
+        <p class="primer-jump"><a href="#lab-tabs">Skip to lab ↓</a></p>
+      </div>
+    </section>
+
+    <nav class="tabs" id="lab-tabs">
+      <button type="button" class="tab active" data-mode="curves">1 · Curves</button>
+      <button type="button" class="tab" data-mode="point">2 · At speed</button>
+      <button type="button" class="tab" data-mode="guide">3 · Guide</button>
+    </nav>
+
+    <section class="mode active" id="mode-curves">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Configuration</h2>
+          <p class="sub">Toy CD = CD₀ + k CL² in level flight.</p>
+          <label class="ctrl">Config
+            <select id="config">
+              <option value="clean">Clean</option>
+              <option value="gear">Gear down</option>
+              <option value="dirty">Dirty (gear + flaps)</option>
+            </select>
+          </label>
+          <label class="ctrl">Aspect ratio <strong id="arVal">7</strong>
+            <input type="range" id="ar" min="5" max="12" step="0.5" value="7" />
+          </label>
+          <label class="ctrl">Weight <strong id="wVal">11000 N</strong>
+            <input type="range" id="weight" min="9000" max="13000" step="100" value="11000" />
+          </label>
+          <div class="stat-row">
+            <div class="stat"><div class="k">Best L/D</div><div class="v good" id="ldBest">—</div></div>
+            <div class="stat"><div class="k">Speed @ max L/D</div><div class="v cool" id="vBest">—</div></div>
+            <div class="stat"><div class="k">Min drag</div><div class="v" id="dMin">—</div></div>
+            <div class="stat"><div class="k">CD₀ (toy)</div><div class="v hot" id="cd0Out">—</div></div>
+          </div>
+        </div>
+        <div class="panel">
+          <h2>Drag vs airspeed</h2>
+          <div class="viz" style="height:300px">
+            <span class="viz-badge">Schematic</span>
+            <canvas id="dragCanvas" width="520" height="300"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mode" id="mode-point">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Pick a speed</h2>
+          <label class="ctrl">TAS <strong id="vVal">50 m/s</strong>
+            <input type="range" id="v" min="28" max="85" step="0.5" value="50" />
+          </label>
+          <div class="stat-row">
+            <div class="stat"><div class="k">≈ KIAS (SL)</div><div class="v" id="ktOut">—</div></div>
+            <div class="stat"><div class="k">CL required</div><div class="v" id="clOut">—</div></div>
+            <div class="stat"><div class="k">Parasite drag</div><div class="v hot" id="dpOut">—</div></div>
+            <div class="stat"><div class="k">Induced drag</div><div class="v cool" id="diOut">—</div></div>
+            <div class="stat"><div class="k">Total drag</div><div class="v" id="dtOut">—</div></div>
+            <div class="stat"><div class="k">L/D</div><div class="v good" id="ldOut">—</div></div>
+          </div>
+          <div class="callout" id="pointNote">—</div>
+        </div>
+        <div class="panel">
+          <h2>Share of total drag</h2>
+          <div class="viz">
+            <span class="viz-badge">Bars</span>
+            <canvas id="barCanvas" width="520" height="280"></canvas>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="mode" id="mode-guide">
+      <div class="grid-2">
+        <div class="panel">
+          <h2>Story</h2>
+          <div class="story-nav">
+            <button type="button" class="primary" id="storyPrev">Previous</button>
+            <button type="button" class="primary" id="storyNext">Next</button>
+            <span class="step-ind" id="storyInd">1 / 4</span>
+          </div>
+          <div class="story-card">
+            <h3 id="storyTitle">—</h3>
+            <p id="storyText">—</p>
+          </div>
+        </div>
+        <div class="panel">
+          <h2>Quiz</h2>
+          <div id="quizBox"></div>
+          <div style="margin-top:0.85rem;display:flex;gap:0.5rem">
+            <button type="button" id="quizPrev">Previous</button>
+            <button type="button" id="quizNext">Next</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <footer class="note">
+      <a href="../../notes/drag-polar.html">Note</a> ·
+      <a href="../../notes/ground-effect.html">Ground effect</a> ·
+      <a href="../aoa-load-factor/">AOA Lab</a> ·
+      <a href="../../">Home</a>
+    </footer>
+  </div>
+  <script src="model.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
