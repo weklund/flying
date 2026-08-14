@@ -26,6 +26,8 @@ Personal study notes and interactive tools for private pilot ground school, buil
 | Drag polar | `/notes/drag-polar.html` |
 | Ground effect | `/notes/ground-effect.html` |
 | Left-turning tendencies | `/notes/left-turning-tendencies.html` |
+| Forces in maneuvers | `/notes/forces-in-maneuvers.html` |
+| Stability | `/notes/stability.html` |
 
 ## What’s in the repo
 

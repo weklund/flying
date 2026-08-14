@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Stability · Flying study notes</title>
+  <meta name="description" content="Static and dynamic stability; longitudinal, lateral, directional stability for private pilots." />
+  <link rel="stylesheet" href="../site.css" />
+</head>
+<body>
+  <div class="wrap note">
+    <nav class="note-nav">
+      <a href="../">← Home</a>
+      <a href="./">Notes</a>
+      <a href="forces-in-maneuvers.html">Forces in maneuvers</a>
+      <a href="../quiz/">Quiz</a>
+    </nav>
+
+    <p class="eyebrow">PHAK Ch. 5 · study note</p>
+    <h1>Stability</h1>
+    <p>
+      <strong>Stability</strong> is the airplane’s inherent tendency to return toward a flight condition after a disturbance
+      (gust, brief control input). It is related to—but not the same as—controllability and maneuverability.
+      Design trades stability against how “snappy” the airplane feels.
+    </p>
+
+    <h2>Axes</h2>
+    <figure class="fig">
+      <img src="images/aircraft-axes.svg" width="720" height="280" alt="Aircraft with longitudinal lateral and vertical axes through CG labeled roll pitch yaw" />
+      <figcaption>
+        <strong>Figure 1.</strong> Moments are about the CG. Stability is discussed for pitch, roll, and yaw separately.
+      </figcaption>
+    </figure>
+
+    <table>
+      <thead>
+        <tr><th>Axis (through CG)</th><th>Motion</th><th>Stability name</th><th>Primary control</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Lateral</td><td>Pitch</td><td>Longitudinal stability</td><td>Elevator / stabilator</td></tr>
+        <tr><td>Longitudinal</td><td>Roll</td><td>Lateral stability</td><td>Ailerons</td></tr>
+        <tr><td>Vertical</td><td>Yaw</td><td>Directional stability</td><td>Rudder</td></tr>
+      </tbody>
+    </table>
+
+    <h2>Static vs dynamic</h2>
+    <figure class="fig">
+      <img src="images/static-dynamic-stability.svg" width="720" height="300" alt="Ball in bowl positive static, flat neutral, hill negative static stability" />
+      <figcaption>
+        <strong>Figure 2.</strong> Classic ball analogy for static stability. Dynamic stability asks whether the return is damped over time.
+      </figcaption>
+    </figure>
+
+    <table>
+      <thead>
+        <tr><th></th><th>Positive</th><th>Neutral</th><th>Negative</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Static</strong> (initial tendency)</td>
+          <td>Returns toward original attitude/path</td>
+          <td>Stays in new position</td>
+          <td>Diverges further</td>
+        </tr>
+        <tr>
+          <td><strong>Dynamic</strong> (over time)</td>
+          <td>Oscillations damp out</td>
+          <td>Oscillations continue undamped</td>
+          <td>Oscillations grow</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      Designers want <strong>positive static</strong> and <strong>positive dynamic</strong> stability for training airplanes.
+      Too much stability can make an airplane sluggish; too little is dangerous.
+    </p>
+
+    <h2>Longitudinal stability (pitch)</h2>
+    <p>
+      About the <strong>lateral axis</strong>. Strongly affected by
+      <strong>CG location</strong> relative to the wing’s center of lift and by the horizontal stabilizer.
+    </p>
+    <figure class="fig">
+      <img src="images/longitudinal-stability-cg.svg" width="720" height="260" alt="Forward CG more stable versus aft CG less stable side views" />
+      <figcaption>
+        <strong>Figure 3.</strong> Forward CG: more nose-down tendency, more stable, but can need more elevator for flare / raise stall speed slightly.
+        Aft CG: less stable, can reduce stick force and hurt stall recovery—stay inside AFM CG limits.
+      </figcaption>
+    </figure>
+
+    <h2>Lateral stability (roll)</h2>
+    <p>About the <strong>longitudinal axis</strong>. Contributors include:</p>
+    <ul>
+      <li><strong>Dihedral</strong> — upward wing angle; sideslip raises the low wing.</li>
+      <li><strong>Keel effect / high wing</strong> — side area and wing position act like a weathercock in roll/sideslip coupling.</li>
+      <li><strong>Sweepback</strong> — more advanced designs; less critical for basic trainers.</li>
+    </ul>
+
+    <h2>Directional stability (yaw)</h2>
+    <p>
+      About the <strong>vertical axis</strong>. Usually the easiest stability to provide:
+      more side area <strong>aft of the CG</strong> (fuselage + vertical stabilizer) weathervanes the nose into the relative wind.
+      A larger vertical fin → stronger directional stability.
+    </p>
+
+    <h2>Stability vs controllability (pilot view)</h2>
+    <ul>
+      <li><strong>Stable</strong> airplanes tend to hold attitude; good for IFR/cruise, easier to trim.</li>
+      <li><strong>Less stable / aft CG</strong> can feel lighter on the stick—easy to overcontrol; respect loading.</li>
+      <li>Weight &amp; balance is not paperwork only—it is a stability and control limit.</li>
+    </ul>
+
+    <h2>Sources</h2>
+    <ul>
+      <li>FAA PHAK Ch. 5 — Stability; longitudinal / lateral / directional; axes; CG effects</li>
+    </ul>
+    <p class="muted">Figures are original educational SVGs.</p>
+
+    <p class="muted" style="margin-top: 2rem">
+      <a href="./">← Notes</a> ·
+      <a href="forces-in-maneuvers.html">Forces in maneuvers</a> ·
+      <a href="left-turning-tendencies.html">Left-turning</a>
+    </p>
+  </div>
+</body>
+</html>

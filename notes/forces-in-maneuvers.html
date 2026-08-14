@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Forces in maneuvers · Flying study notes</title>
+  <meta name="description" content="Aerodynamic forces in turns, climbs, and descents for private pilot study." />
+  <link rel="stylesheet" href="../site.css" />
+</head>
+<body>
+  <div class="wrap note">
+    <nav class="note-nav">
+      <a href="../">← Home</a>
+      <a href="./">Notes</a>
+      <a href="aoa-stall-load-factor.html">AOA &amp; load factor</a>
+      <a href="../learn/aoa-load-factor/">AOA Lab</a>
+      <a href="../quiz/">Quiz</a>
+    </nav>
+
+    <p class="eyebrow">PHAK Ch. 5 · study note</p>
+    <h1>Forces in turns, climbs &amp; descents</h1>
+    <p>
+      In straight-and-level unaccelerated flight the four forces balance:
+      <strong>lift = weight</strong>, <strong>thrust = drag</strong>.
+      In maneuvers those equalities change—but in a <em>steady</em> climb, descent, or turn, forces still form a closed balance; the pieces just rearrange.
+    </p>
+
+    <h2>Level coordinated turn</h2>
+    <p>
+      You bank so total lift tilts. The <strong>vertical component</strong> of lift must still equal weight (to hold altitude).
+      The <strong>horizontal component</strong> provides the centripetal force that curves the flight path.
+      That means <strong>total lift must be greater than weight</strong> → load factor \(n = 1/\cos\phi\).
+    </p>
+
+    <figure class="fig">
+      <img src="images/forces-level-turn.svg" width="720" height="300" alt="Banked airplane with total lift, weight, and horizontal component labeled" />
+      <figcaption>
+        <strong>Figure 1.</strong> Level turn force picture. Back pressure increases AOA/lift; stall speed rises with √n
+        (see <a href="aoa-stall-load-factor.html">AOA &amp; load factor</a>).
+      </figcaption>
+    </figure>
+
+    <ul>
+      <li>60° bank → <strong>2 G</strong>; stall speed ≈ 1.41 × 1 G stall speed.</li>
+      <li>A constant-altitude 90° bank is not sustainable (n → ∞ mathematically).</li>
+      <li>Uncoordinated flight (ball not centered) changes the force picture and raises spin risk if you stall.</li>
+    </ul>
+
+    <h2>Steady climb and descent</h2>
+    <figure class="fig">
+      <img src="images/forces-climb-descent.svg" width="720" height="280" alt="Force sketches for steady climb and steady descent" />
+      <figcaption>
+        <strong>Figure 2.</strong> Climb needs excess thrust (or power) to overcome the weight component along the path.
+        In a steady power-off glide, a component of weight balances drag.
+      </figcaption>
+    </figure>
+
+    <table>
+      <thead>
+        <tr><th>Maneuver</th><th>Key idea</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Steady climb</strong></td>
+          <td>Thrust &gt; drag along the flight path; excess overcomes weight’s rearward component. Climb angle/rate limited by excess thrust/power and drag.</td>
+        </tr>
+        <tr>
+          <td><strong>Steady descent / glide</strong></td>
+          <td>Weight helps pull you down the path; thrust may be low or zero. Best glide relates to max L/D (see <a href="drag-polar.html">drag polar</a>).</td>
+        </tr>
+        <tr>
+          <td><strong>Level turn</strong></td>
+          <td>Lift &gt; weight; horizontal lift turns you; n and stall speed rise with bank.</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <h2>Pilot takeaways</h2>
+    <ul>
+      <li>Add power and/or reduce bank if you lose altitude in a turn (or lower the nose carefully—know your goal).</li>
+      <li>Steep turns: energy, stall margin, and coordination matter together.</li>
+      <li>Climb performance is a density-altitude story as much as a “pull” story—see <a href="density-altitude.html">density altitude</a>.</li>
+    </ul>
+
+    <h2>Practice</h2>
+    <p>
+      <a class="cta" href="../learn/aoa-load-factor/">AOA &amp; Load Factor Lab →</a>
+      &nbsp;
+      <a class="cta" href="../learn/drag-polar/" style="background:transparent;border:1px solid rgba(91,157,255,0.4);color:#5b9dff">Drag Polar Lab</a>
+    </p>
+
+    <h2>Sources</h2>
+    <ul>
+      <li>FAA PHAK Ch. 5 — Forces in Turns, Climbs, Descents; load factor</li>
+    </ul>
+
+    <p class="muted" style="margin-top: 2rem">
+      <a href="./">← Notes</a> · <a href="stability.html">Stability</a> · <a href="aoa-stall-load-factor.html">AOA</a>
+    </p>
+  </div>
+</body>
+</html>

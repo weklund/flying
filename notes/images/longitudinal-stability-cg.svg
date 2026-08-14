@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" role="img" aria-labelledby="t5 d5">
+  <title id="t5">CG position and longitudinal stability</title>
+  <desc id="d5">Side view with CG forward of CL for nose-heavy stable case versus aft CG less stable.</desc>
+  <defs>
+    <linearGradient id="bg5" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="260" rx="12" fill="url(#bg5)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">LONGITUDINAL STABILITY &amp; CG</text>
+  <text x="24" y="50" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">Forward CG tends to be more stable (nose-heavy) · aft CG reduces stability / can hurt recovery</text>
+
+  <!-- Forward CG -->
+  <rect x="30" y="75" width="320" height="155" rx="10" fill="#182338" stroke="rgba(62,207,142,0.3)"/>
+  <text x="190" y="100" text-anchor="middle" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Forward CG (more stable)</text>
+  <ellipse cx="160" cy="150" rx="80" ry="14" fill="rgba(91,157,255,0.3)" stroke="#e8eefc"/>
+  <circle cx="130" cy="150" r="7" fill="#f0c14b"/>
+  <text x="122" y="175" fill="#f0c14b" font-family="system-ui,sans-serif" font-size="11">CG</text>
+  <circle cx="175" cy="150" r="5" fill="#7ecbff"/>
+  <text x="165" y="175" fill="#7ecbff" font-family="system-ui,sans-serif" font-size="11">CL</text>
+  <text x="50" y="210" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">CG ahead of wing lift → nose-down moment</text>
+  <text x="50" y="228" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">tail provides balancing download</text>
+
+  <!-- Aft CG -->
+  <rect x="370" y="75" width="320" height="155" rx="10" fill="#182338" stroke="rgba(255,107,122,0.3)"/>
+  <text x="530" y="100" text-anchor="middle" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Aft CG (less stable)</text>
+  <ellipse cx="500" cy="150" rx="80" ry="14" fill="rgba(91,157,255,0.3)" stroke="#e8eefc"/>
+  <circle cx="520" cy="150" r="7" fill="#f0c14b"/>
+  <text x="512" y="175" fill="#f0c14b" font-family="system-ui,sans-serif" font-size="11">CG</text>
+  <circle cx="480" cy="150" r="5" fill="#7ecbff"/>
+  <text x="470" y="175" fill="#7ecbff" font-family="system-ui,sans-serif" font-size="11">CL</text>
+  <text x="390" y="210" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">CG moves aft → smaller restoring moment</text>
+  <text x="390" y="228" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Respect AFM CG limits</text>
+</svg>

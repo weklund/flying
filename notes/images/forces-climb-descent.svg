@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 280" role="img" aria-labelledby="t2 d2">
+  <title id="t2">Force balance in steady climb and descent</title>
+  <desc id="d2">Two panels: climb with excess thrust, descent with component of weight along flight path.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <marker id="g2" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#3ecf8e"/></marker>
+    <marker id="o2" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#ff9f6b"/></marker>
+    <marker id="b2" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#5b9dff"/></marker>
+    <marker id="r2" markerWidth="7" markerHeight="7" refX="6" refY="3" orient="auto"><path d="M0,0 L6,3 L0,6 Z" fill="#ff6b7a"/></marker>
+  </defs>
+  <rect width="720" height="280" rx="12" fill="url(#bg2)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">STEADY CLIMB &amp; DESCENT</text>
+  <text x="24" y="48" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">In a steady climb or descent, forces balance again — climb needs excess thrust (or power)</text>
+
+  <!-- Climb panel -->
+  <rect x="24" y="70" width="330" height="185" rx="10" fill="#182338" stroke="rgba(62,207,142,0.3)"/>
+  <text x="189" y="95" text-anchor="middle" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Steady climb</text>
+  <line x1="80" y1="200" x2="260" y2="120" stroke="rgba(255,255,255,0.15)" stroke-width="2" stroke-dasharray="4 3"/>
+  <ellipse cx="160" cy="155" rx="40" ry="8" fill="rgba(91,157,255,0.4)" stroke="#e8eefc" transform="rotate(-25 160 155)"/>
+  <line x1="160" y1="155" x2="200" y2="130" stroke="#5b9dff" stroke-width="2.5" marker-end="url(#b2)"/>
+  <text x="205" y="125" fill="#5b9dff" font-family="system-ui,sans-serif" font-size="11">Thrust</text>
+  <line x1="160" y1="155" x2="120" y2="180" stroke="#ff6b7a" stroke-width="2.5" marker-end="url(#r2)"/>
+  <text x="85" y="195" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="11">Drag</text>
+  <line x1="160" y1="155" x2="160" y2="210" stroke="#ff9f6b" stroke-width="2.5" marker-end="url(#o2)"/>
+  <text x="168" y="210" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="11">Weight</text>
+  <text x="50" y="240" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Excess thrust climbs the weight component</text>
+
+  <!-- Descent panel -->
+  <rect x="370" y="70" width="330" height="185" rx="10" fill="#182338" stroke="rgba(255,159,107,0.3)"/>
+  <text x="535" y="95" text-anchor="middle" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="14" font-weight="700">Steady descent</text>
+  <line x1="420" y1="120" x2="620" y2="200" stroke="rgba(255,255,255,0.15)" stroke-width="2" stroke-dasharray="4 3"/>
+  <ellipse cx="520" cy="155" rx="40" ry="8" fill="rgba(91,157,255,0.4)" stroke="#e8eefc" transform="rotate(25 520 155)"/>
+  <line x1="520" y1="155" x2="520" y2="210" stroke="#ff9f6b" stroke-width="2.5" marker-end="url(#o2)"/>
+  <text x="530" y="205" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="11">Weight helps</text>
+  <line x1="520" y1="155" x2="560" y2="180" stroke="#ff6b7a" stroke-width="2.5" marker-end="url(#r2)"/>
+  <text x="565" y="185" fill="#ff6b7a" font-family="system-ui,sans-serif" font-size="11">Drag</text>
+  <text x="400" y="240" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Weight component along path ≈ drag (idle)</text>
+</svg>
