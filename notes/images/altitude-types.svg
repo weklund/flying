@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" role="img" aria-labelledby="t1 d1">
+  <title id="t1">Three altitudes: field elevation, pressure altitude, density altitude</title>
+  <desc id="d1">Vertical tape comparing field elevation, pressure altitude, and density altitude on a nonstandard day.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="300" rx="12" fill="url(#bg)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">THREE DIFFERENT “ALTITUDES”</text>
+  <text x="24" y="50" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">Same airport · same moment · three different numbers</text>
+
+  <!-- Tape -->
+  <rect x="80" y="70" width="28" height="200" rx="4" fill="#0a101c" stroke="rgba(255,255,255,0.12)"/>
+  <line x1="80" y1="240" x2="400" y2="240" stroke="#9aa8c7" stroke-width="2"/>
+  <circle cx="94" cy="240" r="5" fill="#9aa8c7"/>
+  <text x="120" y="245" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Field elevation</text>
+  <text x="120" y="262" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">Geography (MSL survey)</text>
+
+  <line x1="80" y1="200" x2="400" y2="200" stroke="#5b9dff" stroke-width="2"/>
+  <circle cx="94" cy="200" r="5" fill="#5b9dff"/>
+  <text x="120" y="195" fill="#5b9dff" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Pressure altitude</text>
+  <text x="120" y="212" fill="#5b9dff" font-family="system-ui,sans-serif" font-size="11">Pressure remapped to feet (29.92 world)</text>
+
+  <line x1="80" y1="120" x2="400" y2="120" stroke="#ff9f6b" stroke-width="2.5"/>
+  <circle cx="94" cy="120" r="6" fill="#ff9f6b"/>
+  <text x="120" y="115" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Density altitude</text>
+  <text x="120" y="132" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="11">Density remapped to feet (how thin the air is)</text>
+
+  <!-- Right cards -->
+  <rect x="430" y="80" width="260" height="60" rx="8" fill="#182338" stroke="rgba(154,168,199,0.3)"/>
+  <text x="445" y="105" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">Where is the airport?</text>
+  <text x="445" y="125" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="13" font-weight="700">→ Field elevation</text>
+
+  <rect x="430" y="155" width="260" height="60" rx="8" fill="#182338" stroke="rgba(91,157,255,0.35)"/>
+  <text x="445" y="180" fill="#5b9dff" font-family="system-ui,sans-serif" font-size="12">What is the pressure?</text>
+  <text x="445" y="200" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="13" font-weight="700">→ Pressure altitude</text>
+
+  <rect x="430" y="230" width="260" height="50" rx="8" fill="#182338" stroke="rgba(255,159,107,0.4)"/>
+  <text x="445" y="252" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="12">How dense is the air?</text>
+  <text x="445" y="270" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="13" font-weight="700">→ Density altitude</text>
+</svg>

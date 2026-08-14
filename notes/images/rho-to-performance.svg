@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 240" role="img" aria-labelledby="t4 d4">
+  <title id="t4">From density to performance charts</title>
+  <desc id="d4">Flow from pressure and temperature to density to DA language to AFM charts.</desc>
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+    <marker id="a" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L6,3 L0,6 Z" fill="#5b9dff"/>
+    </marker>
+  </defs>
+  <rect width="720" height="240" rx="12" fill="url(#bg4)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">WHY CHARTS USE PA + OAT</text>
+  <text x="24" y="48" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">Physics cares about density ρ · pilots speak in altitude language</text>
+
+  <rect x="20" y="80" width="120" height="70" rx="8" fill="#182338" stroke="rgba(91,157,255,0.35)"/>
+  <text x="80" y="110" text-anchor="middle" fill="#5b9dff" font-family="system-ui,sans-serif" font-size="12" font-weight="700">p , T</text>
+  <text x="80" y="130" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">(+ humidity)</text>
+
+  <line x1="145" y1="115" x2="175" y2="115" stroke="#5b9dff" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="180" y="80" width="120" height="70" rx="8" fill="#182338" stroke="rgba(126,203,255,0.4)"/>
+  <text x="240" y="110" text-anchor="middle" fill="#7ecbff" font-family="system-ui,sans-serif" font-size="12" font-weight="700">ρ = p / (R T)</text>
+  <text x="240" y="130" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">air density</text>
+
+  <line x1="305" y1="115" x2="335" y2="115" stroke="#5b9dff" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="340" y="80" width="130" height="70" rx="8" fill="#182338" stroke="rgba(255,159,107,0.4)"/>
+  <text x="405" y="110" text-anchor="middle" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="12" font-weight="700">DA language</text>
+  <text x="405" y="130" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">“ISA height of ρ”</text>
+
+  <line x1="475" y1="115" x2="505" y2="115" stroke="#5b9dff" stroke-width="2" marker-end="url(#a)"/>
+
+  <rect x="510" y="80" width="190" height="70" rx="8" fill="#182338" stroke="rgba(62,207,142,0.4)"/>
+  <text x="605" y="110" text-anchor="middle" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="12" font-weight="700">AFM / POH charts</text>
+  <text x="605" y="130" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="11">enter PA + OAT (or DA)</text>
+
+  <text x="360" y="185" text-anchor="middle" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="13">L = ½ ρ V² S C_L  ·  less ρ → less lift / thrust / power at a given IAS</text>
+  <text x="360" y="210" text-anchor="middle" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">Humidity usually omitted from chart axes · add margin when hot and moist</text>
+</svg>

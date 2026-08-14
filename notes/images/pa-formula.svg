@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 260" role="img" aria-labelledby="t2 d2">
+  <title id="t2">Pressure altitude formula mental model</title>
+  <desc id="d2">Formula PA equals 29.92 minus altimeter times 1000 plus elevation, with high and low pressure examples.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#121a2b"/>
+      <stop offset="100%" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="260" rx="12" fill="url(#bg2)"/>
+  <text x="24" y="28" fill="#3dd6c6" font-family="system-ui,sans-serif" font-size="13" font-weight="700" letter-spacing="0.06em">PRESSURE ALTITUDE MATH</text>
+  <text x="24" y="50" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="13">“How high if sea-level pressure were 29.92?” · ~1000 ft per inHg</text>
+
+  <rect x="40" y="75" width="640" height="50" rx="10" fill="#0a101c" stroke="rgba(91,157,255,0.35)"/>
+  <text x="360" y="107" text-anchor="middle" fill="#7ecbff" font-family="ui-monospace,Menlo,monospace" font-size="18">PA ≈ (29.92 − altimeter) × 1000 + field elev</text>
+
+  <!-- Low pressure example -->
+  <rect x="40" y="145" width="300" height="90" rx="10" fill="#182338" stroke="rgba(255,159,107,0.3)"/>
+  <text x="55" y="170" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">Low pressure day</text>
+  <text x="55" y="192" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">Altimeter 29.42 · elev 1000 ft</text>
+  <text x="55" y="214" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="13">(29.92−29.42)×1000 = +500</text>
+  <text x="55" y="232" fill="#ff9f6b" font-family="system-ui,sans-serif" font-size="13" font-weight="700">PA = 1500 ft</text>
+
+  <!-- High pressure example -->
+  <rect x="380" y="145" width="300" height="90" rx="10" fill="#182338" stroke="rgba(62,207,142,0.3)"/>
+  <text x="395" y="170" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="13" font-weight="700">High pressure day</text>
+  <text x="395" y="192" fill="#9aa8c7" font-family="system-ui,sans-serif" font-size="12">Altimeter 30.12 · elev 1000 ft</text>
+  <text x="395" y="214" fill="#e8eefc" font-family="system-ui,sans-serif" font-size="13">(29.92−30.12)×1000 = −200</text>
+  <text x="395" y="232" fill="#3ecf8e" font-family="system-ui,sans-serif" font-size="13" font-weight="700">PA = 800 ft</text>
+</svg>

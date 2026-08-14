@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Altitude math mental models · Flying study notes</title>
+  <meta name="description" content="Mental models for pressure altitude, density altitude, ISA, and the pilot formulas that connect them." />
+  <link rel="stylesheet" href="../site.css" />
+</head>
+<body>
+  <div class="wrap note">
+    <nav class="note-nav">
+      <a href="../">← Home</a>
+      <a href="./">Notes</a>
+      <a href="density-altitude.html">Density altitude</a>
+      <a href="../learn/aircraft-performance/">Performance Lab</a>
+      <a href="../quiz/">Quiz</a>
+    </nav>
+
+    <p class="eyebrow">PHAK · E6B · study note</p>
+    <h1>Altitude math mental models</h1>
+    <p>
+      This page is about <strong>how to think</strong> about the numbers—not a substitute for the AFM/POH.
+      Pair it with the conceptual note on
+      <a href="density-altitude.html">density altitude &amp; performance</a>
+      and the interactive
+      <a href="../learn/aircraft-performance/">Performance Lab</a>.
+    </p>
+
+    <h2>1. Three different “altitudes”</h2>
+    <p>Do not treat these as interchangeable labels for “how high I am.”</p>
+
+    <figure class="fig">
+      <img src="images/altitude-types.svg" width="720" height="300" alt="Vertical comparison of field elevation, pressure altitude, and density altitude" />
+      <figcaption>
+        <strong>Figure 1.</strong> Geography vs pressure-as-feet vs density-as-feet.
+      </figcaption>
+    </figure>
+
+    <table>
+      <thead>
+        <tr><th>Name</th><th>Question it answers</th><th>Main inputs</th></tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><strong>Field elevation</strong></td>
+          <td>How high is the airport above MSL?</td>
+          <td>Survey / chart</td>
+        </tr>
+        <tr>
+          <td><strong>Pressure altitude (PA)</strong></td>
+          <td>How high am I <em>if</em> sea-level pressure were 29.92?</td>
+          <td>Altimeter + elevation (or 29.92 window)</td>
+        </tr>
+        <tr>
+          <td><strong>Density altitude (DA)</strong></td>
+          <td>How high does air density make the airplane <em>feel</em>?</td>
+          <td>PA + temperature (+ humidity in full physics)</td>
+        </tr>
+      </tbody>
+    </table>
+    <p>
+      <strong>Sticky phrases:</strong>
+      elevation = geography · PA = pressure remapped to feet · DA = density remapped to feet.
+      Performance cares about <strong>density</strong>. Charts often speak <strong>PA + OAT</strong> because that encodes density under a dry ISA assumption.
+    </p>
+
+    <h2>2. Pressure altitude math</h2>
+    <p>Cockpit formula (altimeter in inHg, result in feet):</p>
+    <p><code>PA ≈ (29.92 − altimeter setting) × 1000 + field elevation</code></p>
+
+    <figure class="fig">
+      <img src="images/pa-formula.svg" width="720" height="260" alt="Pressure altitude formula with low and high pressure examples" />
+      <figcaption>
+        <strong>Figure 2.</strong> Mental model: about <strong>1000 ft per inHg</strong> between local setting and 29.92.
+      </figcaption>
+    </figure>
+
+    <ul>
+      <li><strong>Low altimeter</strong> (e.g. 29.42) → PA <em>above</em> field elevation (thinner pressure column).</li>
+      <li><strong>High altimeter</strong> (e.g. 30.12) → PA <em>below</em> field elevation.</li>
+      <li><strong>Cockpit method:</strong> set Kollsman to <strong>29.92</strong>, read altitude → that is PA.</li>
+    </ul>
+    <p>
+      What you are really doing: mapping “local static pressure at the field” onto the
+      <strong>standard atmosphere pressure profile</strong>. By definition, ambient pressure equals ISA pressure at that PA.
+    </p>
+
+    <h2>3. The ISA ladder (the ruler)</h2>
+    <p>
+      The International Standard Atmosphere is the reference ruler for both PA and DA.
+    </p>
+    <table>
+      <thead>
+        <tr><th>Quantity</th><th>Sea level</th><th>Lower troposphere lapse (approx.)</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Pressure</td><td>29.92 inHg</td><td>decreases with height</td></tr>
+        <tr><td>Temperature</td><td><strong>15 °C / 59 °F</strong></td><td><strong>≈ −2 °C / 1000 ft</strong></td></tr>
+        <tr><td>Density</td><td>standard ρ₀</td><td>decreases with height</td></tr>
+      </tbody>
+    </table>
+    <p>
+      Standard temp at a given PA (°C):
+    </p>
+    <p><code>T_ISA ≈ 15 − 2 × (PA_ft / 1000)</code></p>
+    <p>
+      Example: PA = 5000 ft → T_ISA ≈ 5 °C.
+      On a <strong>standard</strong> day at that PA, <strong>DA ≈ PA</strong>.
+      Hotter than ISA → DA &gt; PA; colder → DA &lt; PA.
+    </p>
+
+    <h2>4. Density altitude math (dry / chart style)</h2>
+    <p>Common training approximation (OAT and T_ISA in °C):</p>
+    <p><code>DA ≈ PA + 120 × (OAT − T_ISA)</code></p>
+
+    <figure class="fig">
+      <img src="images/da-formula-isa.svg" width="720" height="320" alt="ISA temperature ladder and density altitude formula with worked example" />
+      <figcaption>
+        <strong>Figure 3.</strong> “About <strong>120 feet of DA per °C</strong> off standard.” Linear cockpit model of a nonlinear atmosphere.
+      </figcaption>
+    </figure>
+
+    <p><strong>Worked example</strong></p>
+    <ol>
+      <li>Field elev 5000 ft, altimeter 29.92 → PA = 5000 ft</li>
+      <li>T_ISA = 15 − 2×5 = 5 °C</li>
+      <li>OAT = 25 °C → ΔT = +20 °C</li>
+      <li>DA ≈ 5000 + 120×20 = <strong>7400 ft</strong></li>
+    </ol>
+    <p>
+      E6Bs and many apps implement this dry path (or a close ISA density inversion).
+      It is <strong>approximate</strong>—good for intuition and planning order-of-magnitude, not a law of nature.
+    </p>
+
+    <h2>5. Physics under the hood (ideal gas)</h2>
+    <p>Dry air density:</p>
+    <p><code>ρ = p / (R × T)</code></p>
+    <ul>
+      <li>Higher pressure → denser</li>
+      <li>Higher temperature → less dense</li>
+      <li>DA = “ISA height whose density matches today’s ρ”</li>
+    </ul>
+    <p>
+      <strong>Humidity:</strong> water vapor is lighter than dry air, so for the same p and T,
+      moist air is less dense → slightly higher DA. Full models use vapor pressure and virtual temperature.
+      Pilot charts usually ignore humidity on the axes; treat it as a <strong>small add-on or margin</strong>
+      (see <a href="density-altitude.html">density altitude note</a>).
+    </p>
+
+    <h2>6. Why performance charts use PA + OAT</h2>
+    <figure class="fig">
+      <img src="images/rho-to-performance.svg" width="720" height="240" alt="Flow from pressure and temperature to density to DA language to AFM charts" />
+      <figcaption>
+        <strong>Figure 4.</strong> Physics tracks ρ; the POH speaks altitude language that implies ρ under dry ISA assumptions.
+      </figcaption>
+    </figure>
+    <p>
+      Lift (and related forces) scale with dynamic pressure:
+    </p>
+    <p><code>L = ½ ρ V² S C_L</code></p>
+    <p>
+      Lower ρ → less lift / thrust / power for a given indicated speed and configuration.
+      Publishing charts vs raw ρ would be awkward; <strong>PA and OAT</strong> are the pilot-friendly encoding.
+    </p>
+
+    <h2>7. Altimeter vs performance (don’t mix them)</h2>
+    <table>
+      <thead>
+        <tr><th>Number / instrument</th><th>Driven mainly by</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Altimeter (local setting)</td><td><strong>Pressure</strong></td></tr>
+        <tr><td>True airspeed for a given IAS</td><td><strong>Density</strong> (and compressibility at high M)</td></tr>
+        <tr><td>Takeoff / climb performance</td><td><strong>Density</strong> (+ weight, wind, runway…)</td></tr>
+      </tbody>
+    </table>
+    <p>
+      Hot day, same field and altimeter setting: indicated altitude still “looks right” for traffic,
+      but <strong>DA is high</strong> and the airplane is weak.
+    </p>
+
+    <h2>8. Humidity “math” (secondary)</h2>
+    <table>
+      <thead>
+        <tr><th>Model</th><th>Idea</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>PHAK</td><td>Humidity contributes; usually not essential for the calc; no simple cockpit chart</td></tr>
+        <tr><td>FAASTeam-style</td><td>High humidity → consider ~+10% takeoff distance, expect weaker climb (margin)</td></tr>
+        <tr><td>Dew-point ROT (study)</td><td>~20 × dew point (°C) feet added to dry DA — rough, often conservative-ish</td></tr>
+        <tr><td>Full calculator</td><td>Station pressure + T + dew point → humidity-aware DA</td></tr>
+      </tbody>
+    </table>
+
+    <h2>9. End-to-end checklist</h2>
+    <ol>
+      <li>Field elevation</li>
+      <li>Altimeter setting → <strong>pressure altitude</strong></li>
+      <li>T_ISA at that PA → compare to OAT</li>
+      <li><strong>DA ≈ PA + 120×(OAT − T_ISA)</strong> (°C)</li>
+      <li>Optional humidity margin / calculator</li>
+      <li>Enter <strong>AFM/POH</strong> (PA+temp or DA as the chart requires)</li>
+      <li>Weight, wind, surface, slope — then go / no-go</li>
+    </ol>
+
+    <h2>10. Sticky one-liners</h2>
+    <table>
+      <thead>
+        <tr><th>Idea</th><th>Phrase</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>PA</td><td>“Altitude as if sea-level pressure were 29.92.”</td></tr>
+        <tr><td>inHg rule</td><td>“About 1000 feet per inch of mercury.”</td></tr>
+        <tr><td>ISA lapse</td><td>“Two degrees colder per thousand feet.”</td></tr>
+        <tr><td>DA dry</td><td>“PA plus 120 feet for every °C hotter than standard.”</td></tr>
+        <tr><td>DA meaning</td><td>“The ISA height with today’s density.”</td></tr>
+        <tr><td>Humidity</td><td>“Moist air is lighter; usually hundreds of feet; often margin, not a chart axis.”</td></tr>
+        <tr><td>Charts</td><td>“PA and OAT are how the POH speaks density.”</td></tr>
+      </tbody>
+    </table>
+
+    <h2>What not to over-trust</h2>
+    <ul>
+      <li>The 120 ft/°C rule is an approximation.</li>
+      <li>Dew-point rules of thumb are rougher still.</li>
+      <li>Study-lab numbers are for intuition, not dispatch.</li>
+      <li>Real decisions use the <strong>AFM/POH for that airplane</strong>.</li>
+    </ul>
+
+    <h2>Practice</h2>
+    <p>
+      <a class="cta" href="../learn/aircraft-performance/">Open Aircraft Performance Lab →</a>
+      &nbsp; <a class="cta" href="density-altitude.html" style="background:transparent;border:1px solid rgba(91,157,255,0.4);color:#5b9dff">Density altitude note</a>
+    </p>
+
+    <h2>Sources</h2>
+    <ul>
+      <li>FAA PHAK FAA-H-8083-25C Ch. 4 &amp; 11 (definitions, humidity, performance framing)</li>
+      <li>Standard training PA / DA approximations used with E6B-class computers</li>
+      <li>ISA temperature lapse as used in private pilot ground school</li>
+    </ul>
+    <p class="muted">Figures are original educational SVGs, not FAA handbook scans.</p>
+
+    <p class="muted" style="margin-top: 2rem">
+      <a href="./">← All notes</a> ·
+      <a href="density-altitude.html">Density altitude</a> ·
+      <a href="bernoulli-differential-pressure.html">Bernoulli</a> ·
+      <a href="../">Home</a>
+    </p>
+  </div>
+</body>
+</html>

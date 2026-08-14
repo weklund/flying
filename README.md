@@ -18,6 +18,7 @@ Personal study notes and interactive tools for private pilot ground school, buil
 | Practice quiz | `/quiz/` |
 | Study notes | `/notes/` |
 | Density altitude note | `/notes/density-altitude.html` |
+| Altitude math mental models | `/notes/altitude-math-mental-models.html` |
 | Bernoulli note | `/notes/bernoulli-differential-pressure.html` |
 
 ## What’s in the repo
