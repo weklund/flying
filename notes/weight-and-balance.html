@@ -34,15 +34,23 @@
     </ul>
 
     <h2>Core math</h2>
+    <p>
+      Pick a fixed reference (the <strong>datum</strong>). Each loaded item has a weight and an
+      <strong>arm</strong> (distance from the datum). Their product is a <strong>moment</strong>.
+      The airplane’s balance point is the total moment divided by total weight.
+    </p>
     <figure class="fig">
-      <img src="images/wb-moment-seesaw.svg" width="720" height="260" alt="Datum, arm, weight, and formula moment equals weight times arm" />
+      <img
+        src="images/wb-moment-seesaw.svg"
+        width="720"
+        height="320"
+        alt="Side view: yellow datum line at the reference plane, blue dimension labeled arm to a weight block W, with formulas Moment equals Weight times Arm and CG equals sum of moments over sum of weights"
+      />
       <figcaption>
-        <strong>Figure 1.</strong> Everything is measured from the manufacturer’s <strong>datum</strong>.
+        <strong>Figure 1.</strong> Arms are measured from the manufacturer’s <strong>datum</strong> (usually near the nose or firewall).
+        <code>Moment = Weight × Arm</code> · <code>CG = Σ Moments ÷ Σ Weights</code>
       </figcaption>
     </figure>
-
-    <p><code>Moment = Weight × Arm</code></p>
-    <p><code>CG = Total Moment ÷ Total Weight</code></p>
     <p>
       Units: weight in lb (or kg), arm in inches (or mm) from datum, moment in lb·in (or equivalent).
       Aft of the datum is usually positive.
